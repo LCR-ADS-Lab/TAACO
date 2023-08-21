@@ -1,0 +1,276 @@
+word	lemma	POS	CW\FW	other categories
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+all	all	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+working	work	VBG	CW	VERB
+for	for	IN	FW
+save	save	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+finish	finish	VB	CW	VERB
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+working	work	VBG	CW	VERB
+one	one	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+same	same	JJ	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+collage	collage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+third	third	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+all	all	PDT	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+follow	follow	VBP	CW	VERB
+this	this	DT	FW
+programs	program	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+opcion	opcion	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+college	college	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+live	live	JJ	CW	ADJ
+close	close	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+this	this	DT	FW
+programs	program	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+opcion	opcion	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+want	want	VBP	CW	VERB
+going	go	VBG	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	FW	FW
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+finish	finish	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW
+all	all	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+do	do	VBP	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+why	why	WRB	FW
+i	i	FW	FW
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+finish	finish	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+drive	drive	NN	CW	NOUN	ARGUMENT
+licenses	licens	NNS	CW	NOUN	ARGUMENT
+insurance	insurance	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW
+programas	programa	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+three	three	CD	FW
+opcion	opcion	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+gradute	gradute	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+opcion	opcion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+summer	summer	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+scond	scond	NN	CW	NOUN	ARGUMENT
+opcion	opcion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+evenings	evenings	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+opcion	opcion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+do	do	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+take	take	VB	CW	VERB
+any	any	DT	FW
+elective	elective	JJ	CW	ADJ
+courses	course	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+high	high	NNP	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+regular	regular	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+4	4	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+9,10,11,12	9,10,11,12	CD	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+graduate	graduate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+graduate	graduate	VB	CW	VERB
+and	and	CC	FW
+3	3	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+programs	program	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+allow	allow	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+in	in	IN	FW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

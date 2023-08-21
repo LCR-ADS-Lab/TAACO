@@ -1,0 +1,381 @@
+word	lemma	POS	CW\FW	other categories
+"	"	``	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+success	success	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+done	do	VBD	CW	VERB
+"	"	''	FW
+this	this	DT	FW
+sentence	sentence	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+prompt	prompt	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+read	read	VBN	CW	VERB
+the	the	DT	FW
+prompt	prompt	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+mean	mean	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+prompt	prompt	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+prompt	prompt	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+success	success	VB	CW	VERB
+without	without	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+longtime	longtime	NNP	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+5	5	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+remember	remember	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+nice	nice	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thailand	thailand	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+walk	walk	VBP	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+around	around	RB	ADV	CW
+and	and	CC	FW
+see	see	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+bike	bike	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+glad	glad	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+the	the	DT	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ride	ride	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+drive	drive	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+bike	bike	NN	CW	NOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+practice	practice	VB	CW	VERB
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parent	parent	NN	CW	NOUN	ARGUMENT
+teach	teach	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+drive	drive	VB	CW	VERB
+the	the	DT	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+practice	practice	VBP	CW	VERB
+almost	almost	RB	ADV	FW
+2	2	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+still	still	RB	ADV	CW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+drive	drive	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+try	try	VB	CW	VERB
+again	again	RB	ADV	CW
+tomorrow	tomorrow	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+tomorrow	tomorrow	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+practice	practice	VB	CW	VERB
+again	again	RB	ADV	CW
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+drive	drive	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+wonder	wonder	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+say	say	VB	CW	VERB
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+"	"	``	FW
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+drive	drive	VB	CW	VERB
+the	the	DT	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+then	then	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandmother	grandmother	NN	CW	NOUN	ARGUMENT
+sit	sit	VB	CW	VERB
+down	down	RP	FW
+on	on	IN	FW
+the	the	DT	FW
+chair	chair	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+look	look	VB	CW	VERB
+at	at	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+why	why	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+balance	balance	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+both	both	DT	FW
+side	side	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+answer	answer	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+question	question	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+try	try	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+balance	balance	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+finally	finally	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+drive	drive	VB	CW	VERB
+the	the	DT	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+rule	rule	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+input	input	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+same	same	JJ	CW	ADJ
+output	output	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+come	come	VBN	CW	VERB
+from	from	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+pay	pay	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+any	any	DT	FW
+
+sentence break
+
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+know	know	VBP	CW	VERB
+why	why	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+failure	failure	VBP	CW	VERB
+and	and	CC	FW
+fix	fix	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+and	and	CC	FW
+much	much	RB	ADV	CW
+better	well	RBR	ADV	CW
+until	until	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+finish	finish	VBP	CW	VERB
+and	and	CC	FW
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

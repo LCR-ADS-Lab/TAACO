@@ -1,0 +1,328 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+elementary	elementary	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+subject	subject	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+each	each	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+into	into	IN	FW
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+manys	many	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+subjects	subject	NNS	CW	NOUN	ARGUMENT
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+science	science	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+math	math	NN	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VB	CW	VERB
+to	to	TO	FW
+share	share	VB	CW	VERB
+to	to	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+new	new	JJ	CW	ADJ
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+commutity	commutity	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+using	use	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+hands	hand	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+manys	many	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+alright	alright	RB	ADV	FW
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+to	to	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+met	meet	VBD	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+know	know	VBP	CW	VERB
+only	only	RB	ADV	CW
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+/	/	VBD	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+commutity	commutity	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+teaching	teach	VBG	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+sign	sign	VB	CW	VERB
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+to	to	IN	FW
+commutity	commutity	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+real	real	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+still	still	RB	ADV	CW
+use	use	VB	CW	VERB
+til	til	RB	ADV	FW
+this	this	DT	FW	PRONOUN
+day	day	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+globe	globe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+why	why	WRB	FW
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+made	make	VBN	CW	VERB
+for	for	IN	FW
+
+sentence break
+
+there	there	EX	FW
+not	not	RB	ADV	CW
+manys	many	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+hear	hear	VB	CW	VERB
+or	or	CC	FW
+talk	talk	VB	CW	VERB
+so	so	IN	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+/	/	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+commitity	commitity	VB	CW	VERB
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+around	around	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+things	thing	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+in	in	IN	FW
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+talking	talk	VBG	CW	VERB
+to	to	IN	FW
+commutity	commutity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+even	even	RB	ADV	CW
+words	word	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+commutity	commutity	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+person	person	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+in	in	IN	FW
+
+sentence break
+
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+remember	remember	VB	CW	VERB
+every	every	DT	FW
+hands	hand	NNS	CW	NOUN	ARGUMENT
+sign	sign	VB	CW	VERB
+to	to	IN	FW
+commutity	commutity	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+choice	choice	VBP	CW	VERB
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+in	in	IN	FW
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+see	see	VB	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+morise	morise	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+code	code	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+almost	almost	RB	ADV	FW
+like	like	IN	FW
+reading	reading	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+in	in	IN	FW
+real	real	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ever	ever	RB	ADV	CW
+letters	letter	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+numbers	number	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+code	code	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+sign	sign	NNP	CW	NOUN	ARGUMENT
+laungue	laungue	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+both	both	DT	FW
+different	different	JJ	CW	ADJ
+but	but	CC	FW
+unquie	unquie	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

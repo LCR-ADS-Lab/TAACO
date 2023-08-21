@@ -1,0 +1,800 @@
+word	lemma	POS	CW\FW	other categories
+often	often	RB	ADV	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+or	or	CC	FW
+complete	complete	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+though	though	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+force	force	VBP	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+however	however	RB	ADV	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+do	do	VB	CW	VERB
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+house	house	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+much	much	RB	ADV	CW
+easier	easy	JJR	CW	ADJ
+for	for	IN	FW
+those	those	DT	FW	PRONOUN
+who	who	WP	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+always	always	RB	ADV	CW
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+lazy	lazy	JJ	CW	ADJ
+or	or	CC	FW
+idle	idle	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+of	of	IN	FW
+all	all	DT	FW
+imagine	imagine	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+has	have	VBZ	CW	VERB
+the	the	DT	FW
+capacity	capacity	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+doing	do	VBG	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+inactive	inactive	JJ	CW	ADJ
+and	and	CC	FW
+irresponsible	irresponsible	JJ	CW	ADJ
+
+sentence break
+
+second	second	JJ	CW	ADJ
+of	of	IN	FW
+all	all	DT	FW
+imagine	imagine	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+clever	clever	JJ	CW	ADJ
+as	as	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+hardworking	hardworking	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+militant	militant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+possible	possible	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+the	the	DT	FW
+avarage	avarage	NN	CW	NOUN	ARGUMENT
+minded	mind	VBD	CW	VERB
+and	and	CC	FW
+hardworking	hardworking	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+and	and	CC	FW
+more	more	RBR	ADV	CW
+successful	successful	JJ	CW	ADJ
+than	than	IN	FW
+the	the	DT	FW
+genious	genious	JJ	CW	ADJ
+and	and	CC	FW
+lazy	lazy	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+genious	genious	JJ	CW	ADJ
+or	or	CC	FW
+smart	smart	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+how	how	WRB	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+handle	handle	VB	CW	VERB
+the	the	DT	FW
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+not	not	RB	ADV	CW
+even	even	RB	ADV	CW
+hardworking	hardworke	VBG	CW	VERB
+but	but	CC	FW
+working	work	VBG	CW	VERB
+daily	daily	RB	ADV	CW
+and	and	CC	FW
+smartly	smartly	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+more	more	JJR	CW	ADJ
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+actual	actual	JJ	CW	ADJ
+key	key	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+depressed	depressed	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+from	from	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+graet	graet	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+this	this	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+some	some	DT	FW
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+depression	depression	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+serious	serious	JJ	CW	ADJ
+disorder	disorder	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+might	might	MD	FW	aux_or_cop
+effect	effect	VB	CW	VERB
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+daily	daily	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+symptoms	symptom	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+depression	depression	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+feeling	feel	VBG	CW	VERB
+fatigue	fatigue	NN	CW	NOUN	ARGUMENT
+exhausted	exhausted	JJ	CW	ADJ
+hopeless	hopeless	JJ	CW	ADJ
+numb	numb	JJ	CW	ADJ
+worthless	worthless	JJ	CW	ADJ
+or	or	CC	FW
+not	not	RB	ADV	CW
+wanting	want	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+getting	get	VBG	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+bed	bed	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+normally	normally	RB	ADV	CW
+like	like	VBP	CW	VERB
+
+sentence break
+
+moreover	moreover	RB	ADV	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+issues	issue	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+sleeping	sleep	VBG	CW	VERB
+and	and	CC	FW
+eating	eat	VBG	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW
+symptoms	symptom	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+generally	generally	RB	ADV	CW
+leads	lead	VBZ	CW	VERB
+to	to	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+failing	fail	VBG	CW	VERB
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+more	more	RBR	ADV	CW
+stressul	stressul	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+depressed	depressed	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+look	look	VB	CW	VERB
+lazy	lazy	JJ	CW	ADJ
+for	for	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+depressed	depressed	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+control	control	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+fatigue	fatigue	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+inactive	inactive	JJ	CW	ADJ
+mostly	mostly	RB	ADV	CW
+comes	come	VBZ	CW	VERB
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+disorder	disorder	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+becomes	become	VBZ	CW	VERB
+a	a	DT	FW
+loop	loop	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+depressed	depressed	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+usually	usually	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+inactive	inactive	JJ	CW	ADJ
+and	and	CC	FW
+refuse	refuse	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+this	this	DT	FW
+cycle	cycle	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+realize	realize	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+failing	fail	VBG	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+how	how	WRB	FW
+this	this	DT	FW
+loop	loop	NN	CW	NOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+experiening	experiene	VBG	CW	VERB
+depression	depression	NN	CW	NOUN	ARGUMENT
+disorder	disorder	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+could	could	MD	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+accomplish	accomplish	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+doing	do	VBG	CW	VERB
+everyday	everyday	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+most	most	JJS	CW	ADJ
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yes	yes	UH	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+however	however	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+classwork	classwork	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+let	let	VB	CW	VERB
+'s	us	PRP	FW	PRONOUN	ARGUMENT
+assume	assume	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+study	study	VB	CW	VERB
+and	and	CC	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+homeworks	homework	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+would	would	MD	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+productive	productive	JJ	CW	ADJ
+as	as	IN	FW
+studying	study	VBG	CW	VERB
+everyday	everyday	RB	ADV	CW
+
+sentence break
+
+of	of	RB	ADV	CW
+course	course	RB	ADV	CW
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+imagine	imagine	VB	CW	VERB
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+extra	extra	JJ	CW	ADJ
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+he	he	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+graduate	graduate	VB	CW	VERB
+in	in	IN	FW
+both	both	DT	FW
+ways	way	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+difference	difference	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+dissapointing	dissapointe	VBG	CW	VERB
+
+sentence break
+
+who	who	WP	FW
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+collage	collage	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+whatever	whatever	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+first	first	RB	ADV	CW
+
+sentence break
+
+after	after	IN	FW
+doing	do	VBG	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+okay	okay	JJ	CW	ADJ
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+and	and	CC	FW
+feel	feel	VB	CW	VERB
+relief	relief	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+step	step	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+step	step	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+explains	explain	VBZ	CW	VERB
+how	how	WRB	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+examle	examle	NNS	CW	NOUN	ARGUMENT
+saving	save	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+how	how	WRB	FW
+could	could	MD	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+accomplish	accomplish	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+step	step	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+step	step	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+care	care	VB	CW	VERB
+about	about	IN	FW
+coins	coin	NNS	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+saves	save	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+then	then	RB	ADV	CW
+the	the	DT	FW
+coins	coin	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+turn	turn	VB	CW	VERB
+into	into	IN	FW
+giant	giant	JJ	CW	ADJ
+numbers	number	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+step	step	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+step	step	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+a	a	DT	FW
+whole	whole	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+trying	try	VBG	CW	VERB
+everyday	everyday	RB	ADV	CW
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+this	this	DT	FW	PRONOUN
+but	but	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+important	important	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+everyday	everyday	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+even	even	RB	ADV	CW
+do	do	VB	CW	VERB
+those	those	DT	FW	PRONOUN
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+or	or	CC	FW
+done	do	VBN	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+being	be	VBG	FW	aux_or_cop
+inactive	inactive	JJ	CW	ADJ
+however	however	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+doens't	doens't	CD	FW
+mean	mean	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+ignore	ignore	VB	CW	VERB
+the	the	DT	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+how	how	WRB	FW
+much	much	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+by	by	IN	FW
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

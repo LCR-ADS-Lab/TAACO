@@ -1,0 +1,355 @@
+word	lemma	POS	CW\FW	other categories
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+great	great	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+sky	sky	NN	CW	NOUN	ARGUMENT
+buildings	building	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+sky	sky	NN	CW	NOUN	ARGUMENT
+buildings	building	NNS	CW	NOUN	ARGUMENT
+touch	touch	VBP	CW	VERB
+the	the	DT	FW
+the	the	DT	FW
+clouds	cloud	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+call	call	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+sky	sky	NN	CW	NOUN	ARGUMENT
+buildings	building	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+wooden	wooden	JJ	CW	ADJ
+bridges	bridge	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW
+wooden	wooden	JJ	CW	ADJ
+bridges	bridge	NNS	CW	NOUN	ARGUMENT
+can	can	MD	CW	VERB
+across	across	IN	FW
+forests	forest	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+final	final	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+gardens	garden	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+gardens	garden	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+plants	plant	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+earth	earth	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+greats	great	NNS	CW	NOUN	ARGUMENT
+place	place	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+imagine	imagine	VB	CW	VERB
+going	go	VBG	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+of	of	IN	FW
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+
+sentence break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+new	new	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+look	look	VB	CW	VERB
+at	at	IN	FW
+or	or	CC	FW
+to	to	TO	FW
+observe	observe	VB	CW	VERB
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+the	the	DT	FW
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+new	new	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+technologies	technology	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+robots	robot	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+robots	robot	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+bits	bit	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+pieces	piece	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+put	put	VB	CW	VERB
+together	together	RB	ADV	CW
+
+sentence break
+
+another	another	DT	FW
+best	best	JJS	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+are	be	VBP	FW	aux_or_cop
+air	air	NN	CW	NOUN	ARGUMENT
+bots	bot	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+airbots	airbots	NNP	CW	NOUN	ARGUMENT
+deliver	deliver	VB	CW	VERB
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+items	item	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+final	final	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+trains	train	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+trains	train	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+touch	touch	VB	CW	VERB
+the	the	DT	FW
+ground	ground	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+hover	hover	NN	CW	NOUN	ARGUMENT
+over	over	IN	FW
+the	the	DT	FW
+ground	ground	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+technologies	technology	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+have	have	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+close	close	RB	ADV	CW
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+new	new	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+new	new	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

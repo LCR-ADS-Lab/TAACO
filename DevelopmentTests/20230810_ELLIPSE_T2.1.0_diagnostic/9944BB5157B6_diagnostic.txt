@@ -1,0 +1,453 @@
+word	lemma	POS	CW\FW	other categories
+dear	dear	JJ	CW	ADJ
+teacher	teacher	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+benefits	benefit	VBZ	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+better	well	RBR	ADV	CW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+student	student	NN	CW	NOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+better	well	RBR	ADV	CW
+with	with	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+let	let	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+combine	combine	VB	CW	VERB
+there	there	RB	ADV	CW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+better	well	RBR	ADV	CW
+
+sentence break
+
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+experience	experience	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+in	in	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+better	well	RBR	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+mates	mate	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+beneficial	beneficial	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+from	from	IN	FW
+there	there	EX	FW
+group	group	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+team	team	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+beneficial	beneficial	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+there	there	EX	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+working	work	VBG	CW	VERB
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+about	about	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+from	from	IN	FW
+there	there	RB	ADV	CW
+groups	group	NNS	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+helping	help	VBG	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+with	with	IN	FW
+some	some	DT	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+for	for	IN	FW	SUBORDINATOR
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+knows	know	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+the	the	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+helpers	helper	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+other	other	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+needed	need	VBN	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+working	work	VBG	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+more	more	RBR	ADV	CW
+responsible	responsible	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+most	most	JJS	CW	ADJ
+cases	case	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+willing	willing	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+
+sentence break
+
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+by	by	IN	FW
+working	work	VBG	CW	VERB
+and	and	CC	FW
+helping	help	VBG	CW	VERB
+each	each	DT	FW
+and	and	CC	FW
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+responsible	responsible	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+chances	chance	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+and	and	CC	FW
+do	do	VB	CW	VERB
+better	well	RBR	ADV	CW
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+selves	self	NNS	CW	NOUN	ARGUMENT
+responsible	responsible	JJ	CW	ADJ
+and	and	CC	FW
+to	to	TO	FW
+show	show	VB	CW	VERB
+other	other	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+with	with	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+working	work	VBG	CW	VERB
+alone	alone	RB	ADV	CW
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+show	show	VBP	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+and	and	CC	FW
+make	make	VB	CW	VERB
+better	well	JJR	CW	ADJ
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+working	work	VBG	CW	VERB
+in	in	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+twice	twice	RB	ADV	CW
+from	from	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+mates	mate	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+learning	learn	VBG	CW	VERB
+in	in	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+working	work	VBG	CW	VERB
+in	in	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+benefits	benefit	VBZ	CW	VERB
+mi	mi	NNP	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+better	well	RBR	ADV	CW
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+and	and	CC	FW
+to	to	TO	FW
+know	know	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+working	work	VBG	CW	VERB
+in	in	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+there	there	EX	FW
+team	team	NN	CW	NOUN	ARGUMENT
+mates	mate	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+
+sentence break
+
+both	both	DT	FW
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+but	but	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+on	on	IN	FW
+working	work	VBG	CW	VERB
+on	on	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

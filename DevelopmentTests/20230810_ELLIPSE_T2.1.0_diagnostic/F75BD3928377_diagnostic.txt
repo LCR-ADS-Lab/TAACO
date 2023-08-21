@@ -1,0 +1,367 @@
+word	lemma	POS	CW\FW	other categories
+most	most	JJS	CW	ADJ
+employers	employer	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+specific	specific	JJ	CW	ADJ
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+potential	potential	JJ	CW	ADJ
+employee	employee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+volunteer	volunteer	VBP	CW	VERB
+untakes	untake	VBZ	CW	VERB
+a	a	DT	FW
+service	service	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+duty	duty	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+some	some	DT	FW
+boss	boss	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+emty	emty	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+worker	worker	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+up	up	RP	FW
+boss	boss	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+for	for	IN	FW
+specific	specific	JJ	CW	ADJ
+an	an	DT	FW
+adult	adult	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+says	say	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+seek	seek	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+are	be	VBP	FW	aux_or_cop
+benifit	benifit	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+hard	hard	RB	ADV	CW
+working	working	JJ	CW	ADJ
+motive	motive	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+employment	employment	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+hard	hard	RB	ADV	CW
+working	work	VBG	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+businessperson	businessperson	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+in	in	IN	FW
+public	public	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+teaching	teach	VBG	CW	VERB
+more	more	RBR	ADV	CW
+deep	deep	JJ	CW	ADJ
+about	about	IN	FW
+science	science	NN	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+english	english	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+more	more	JJR	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+adults	adult	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+willing	willing	JJ	CW	ADJ
+to	to	TO	FW
+help	help	VB	CW	VERB
+employer	employer	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+business	business	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+an	an	DT	FW
+adult	adult	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+motive	motive	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+applicant	applicant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+buider	buider	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+motivating	motivate	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+house	house	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+long	long	JJ	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+proves	prove	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+patient	patient	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+to	to	TO	FW
+still	still	RB	ADV	CW
+work	work	VB	CW	VERB
+so	so	RB	ADV	CW
+hard	hard	RB	ADV	CW
+
+sentence break
+
+however	however	RB	ADV	FW
+anybody	anybody	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+enjoyable	enjoyable	JJ	CW	ADJ
+employment	employment	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+positive	positive	JJ	CW	ADJ
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+improving	improve	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+energy	energy	NN	CW	NOUN	ARGUMENT
+vigrous	vigrous	JJ	CW	ADJ
+action	action	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hard	hard	RB	ADV	CW
+working	work	VBG	CW	VERB
+what	what	WP	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+skill	skill	NN	CW	NOUN	ARGUMENT
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+use	use	VB	CW	VERB
+one	one	PRP	FW	PRONOUN	ARGUMENT
+'s	's	POS	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+effectively	effectively	RB	ADV	CW
+in	in	IN	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+skillful	skillful	JJ	CW	ADJ
+sciencetist	sciencetist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+that	that	DT	FW	PRONOUN
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+medicines	medicine	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+solving	solve	VBG	CW	VERB
+sickness	sickness	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+becomes	become	VBZ	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+sciencetist	sciencetist	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+proficiency	proficiency	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+well	well	RB	ADV	CW
+advanced	advanced	JJ	CW	ADJ
+of	of	IN	FW
+major	major	JJ	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+who	who	WP	FW
+volunteer	volunteer	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+jobs	job	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+employer	employer	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+invite	invite	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+might	might	MD	FW	aux_or_cop
+agrees	agree	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+have	have	VBP	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+major	major	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+resposible	resposible	JJ	CW	ADJ
+are	be	VBP	FW	aux_or_cop
+profit	profit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+hard	hard	RB	ADV	CW
+working	work	VBG	CW	VERB
+and	and	CC	FW
+well	well	RB	ADV	CW
+advenced	advence	VBN	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+energy	energy	NN	CW	NOUN	ARGUMENT
+vigorous	vigorous	JJ	CW	ADJ
+action	action	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+skills	skill	VBZ	CW	VERB
+major	major	JJ	CW	ADJ
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+motive	motive	JJ	CW	ADJ
+to	to	IN	FW
+hard	hard	RB	ADV	CW
+working	work	VBG	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+the	the	DT	FW
+major	major	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

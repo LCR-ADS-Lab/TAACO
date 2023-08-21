@@ -1,0 +1,579 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+one	one	CD	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+educational	educational	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+science	science	NN	CW	NOUN	ARGUMENT
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+cool	cool	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+like	like	UH	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+room	room	NN	CW	NOUN	ARGUMENT
+smell	smell	VB	CW	VERB
+like	like	IN	FW
+poop	poop	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+fire	fire	NN	CW	NOUN	ARGUMENT
+blow	blow	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+up	up	RP	FW
+or	or	CC	FW
+even	even	RB	ADV	CW
+measure	measure	VB	CW	VERB
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+heaver	heav	JJR	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+compared	compare	VBN	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+mars	mar	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+make	make	VB	CW	VERB
+light	light	NN	CW	NOUN	ARGUMENT
+out	out	RP	FW
+the	the	DT	FW
+sun	sun	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+laser	laser	NN	CW	NOUN	ARGUMENT
+pointer	pointer	NN	CW	NOUN	ARGUMENT
+out	out	RP	FW
+metal	metal	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+a	a	DT	FW
+volcano	volcano	NN	CW	NOUN	ARGUMENT
+explode	explode	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+science	science	NN	CW	NOUN	ARGUMENT
+experiments	experiment	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+to	to	IN	FW
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+points	point	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+books	book	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+paper	paper	NN	CW	NOUN	ARGUMENT
+airplane	airplane	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+in	in	IN	FW
+station	station	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+one	one	CD	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+in	in	IN	FW
+some	some	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+one	one	CD	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+on	on	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+did	do	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+right	right	RB	ADV	CW
+
+sentence break
+
+or	or	CC	FW
+not	not	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+was	be	VBD	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+notes	note	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+balance	balance	NN	CW	NOUN	ARGUMENT
+beam	beam	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+how	how	WRB	FW
+heave	heave	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+all	all	DT	FW
+was	be	VBD	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+and	and	CC	FW
+to	to	TO	FW
+miss	miss	VB	CW	VERB
+some	some	DT	FW
+more	more	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+studying	study	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+great	great	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+the	the	DT	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+lights	light	VBZ	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+fire	fire	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+cool	cool	JJ	CW	ADJ
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+light	light	VBP	CW	VERB
+a	a	DT	FW
+water	water	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+fire	fire	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+cool	cool	JJ	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+tho	tho	VBZ	CW	VERB
+
+sentence break
+
+there	there	EX	FW
+was	be	VBD	CW	VERB
+this	this	DT	FW	PRONOUN
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+science	science	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+lighted	light	VBD	CW	VERB
+up	up	RP	FW
+this	this	DT	FW	PRONOUN
+metal	metal	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+really	really	RB	ADV	CW
+bright	bright	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+helpful	helpful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+science	science	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+line	line	NN	CW	NOUN	ARGUMENT
+graph	graph	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+how	how	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+equipment	equipment	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+around	around	RP	FW
+and	and	CC	FW
+make	make	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+dangerous	dangerous	JJ	CW	ADJ
+but	but	CC	FW
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+danger	danger	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+soul	soul	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+fun	fun	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+give	give	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+some	some	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+with	with	IN	FW
+paper	paper	NN	CW	NOUN	ARGUMENT
+airplanes	airplane	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+what	what	WDT	FW
+design	design	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+longest	long	JJS	CW	ADJ
+paper	paper	NN	CW	NOUN	ARGUMENT
+airplane	airplane	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+volcanoes	volcano	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+made	make	VBD	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+explode	explode	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+experiments	experiment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

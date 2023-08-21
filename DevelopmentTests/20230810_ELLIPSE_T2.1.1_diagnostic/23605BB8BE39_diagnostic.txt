@@ -1,0 +1,365 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+"	"	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+first	first	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+succeed	succeed	VB	CW	VERB
+there	there	EX	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+obstacles	obstacle	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+second	second	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+after	after	IN	FW
+every	every	DT	FW
+obstacle	obstacle	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+reward	reward	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+last	last	JJ	CW	ADJ
+but	but	CC	FW
+not	not	RB	ADV	CW
+least	least	JJS	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+staying	stay	VBG	CW	VERB
+calm	calm	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+every	every	DT	FW
+difficult	difficult	JJ	CW	ADJ
+situation	situation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+3	3	CD	FW
+proofs	proof	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+succeed	succeed	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+encounter	encounter	VB	CW	VERB
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+always	always	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+every	every	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+for	for	IN	FW
+every	every	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+solution	solution	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+calm	calm	JJ	CW	ADJ
+think	think	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+a	a	DT	FW
+solution	solution	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+after	after	IN	FW
+that	that	DT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+succeed	succeed	VB	CW	VERB
+
+sentence break
+
+through	through	IN	FW
+out	out	RP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+too	too	RB	ADV	CW
+difficult	difficult	JJ	CW	ADJ
+but	but	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+really	really	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+reward	reward	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+after	after	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+obedient	obedient	JJ	CW	ADJ
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+with	with	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+through	through	IN	FW
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+reward	reward	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+bigger	big	JJR	CW	ADJ
+than	than	IN	FW
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+so	so	RB	ADV	CW
+just	just	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+patient	patient	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+a	a	DT	FW
+process	process	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+very	very	RB	ADV	CW
+soon	soon	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+every	every	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+gather	gather	VB	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+prepared	prepare	VBN	CW	VERB
+to	to	IN	FW
+other	other	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+encounter	encounter	VB	CW	VERB
+later	later	RB	ADV	CW
+on	on	RB	ADV	CW
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+calm	calm	JJ	CW	ADJ
+and	and	CC	FW
+focus	focus	VB	CW	VERB
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+christian	christian	JJ	CW	ADJ
+praying	pray	VBG	CW	VERB
+will	will	MD	FW	aux_or_cop
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+option	option	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+maybe	maybe	RB	ADV	FW
+god	god	NNP	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+practice	practice	VB	CW	VERB
+this	this	DT	FW
+3	3	CD	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+succeed	succeed	VB	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+remember	remember	VB	CW	VERB
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+in	in	IN	FW
+every	every	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+remember	remember	VB	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+calm	calm	JJ	CW	ADJ
+focus	focus	VBP	CW	VERB
+pray	pray	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+christian	christian	JJ	CW	ADJ
+and	and	CC	FW
+just	just	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+patient	patient	JJ	CW	ADJ
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+receive	receive	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+reward	reward	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+reward	reward	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

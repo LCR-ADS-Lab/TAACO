@@ -1,0 +1,365 @@
+word	lemma	POS	CW\FW	other categories
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+imortant	imortant	JJ	CW	ADJ
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+still	still	RB	ADV	CW
+change	change	VB	CW	VERB
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+talking	talk	VBG	CW	VERB
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+and	and	CC	FW
+about	about	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+oponions	oponion	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+met	meet	VBN	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+completly	completly	RB	ADV	FW
+hated	hate	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+what	what	WP	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+about	about	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+when	when	WRB	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+guy	guy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+whole	whole	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+football	football	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+hi	hi	UH	FW
+to	to	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+casually	casually	RB	ADV	CW
+but	but	CC	FW
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+relized	relize	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW	PRONOUN
+one	one	CD	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+any	any	DT	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+invited	invite	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+come	come	VB	CW	VERB
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+later	later	RB	ADV	CW
+found	find	VBD	CW	VERB
+out	out	RP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+stealing	steal	VBG	CW	VERB
+a	a	DT	FW
+$	$	$	FW
+20	20	CD	FW
+bill	bill	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+wallet	wallet	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+caught	catch	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+red	red	JJ	CW	ADJ
+handed	handed	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+'	'	``	FW
+why	why	WRB	FW
+are	be	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+stealing	steal	VBG	CW	VERB
+from	from	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+"	"	''	FW
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+"	"	``	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+sorry	sorry	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+really	really	RB	ADV	CW
+need	need	VBP	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+brothers	brother	NNS	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+poor	poor	JJ	CW	ADJ
+'	'	''	FW
+
+sentence break
+
+and	and	CC	FW
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+apolgized	apolgize	VBD	CW	VERB
+and	and	CC	FW
+gave	give	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+$	$	$	FW
+40	40	CD	FW
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+the	the	DT	FW
+look	look	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+eyes	eye	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+lying	lie	VBG	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+three	three	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+payed	pay	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+back	back	RB	ADV	CW
+saying	say	VBG	CW	VERB
+'	'	``	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+appreciated	appreciate	VBD	CW	VERB
+that	that	IN	FW	PRONOUN
+extra	extra	JJ	CW	ADJ
+$	$	$	FW
+20	20	CD	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helped	help	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+a	a	DT	FW
+haircut	haircut	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+look	look	VB	CW	VERB
+more	more	RBR	ADV	CW
+presentable	presentable	JJ	CW	ADJ
+and	and	CC	FW
+overall	overall	RB	ADV	CW
+helped	help	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+pick	pick	VB	CW	VERB
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+back	back	RB	ADV	CW
+up	up	RP	FW
+"	"	''	FW
+
+sentence break
+
+after	after	IN	FW
+that	that	DT	FW	PRONOUN
+day	day	NN	CW	NOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+became	become	VBD	CW	VERB
+best	good	JJS	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+after	after	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+attempted	attempt	VBD	CW	VERB
+to	to	TO	FW
+steal	steal	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+motive	motive	NN	CW	NOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+story	story	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+perfect	perfect	JJ	CW	ADJ
+situation	situation	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+true	true	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+as	as	IN	FW
+a	a	DT	FW
+theif	theif	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBD	CW	VERB
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+done	do	VBN	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+
+sentence break
+
+so	so	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+judge	judge	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+as	as	RB	ADV	CW
+much	much	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

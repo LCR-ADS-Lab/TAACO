@@ -1,0 +1,343 @@
+word	lemma	POS	CW\FW	other categories
+an	an	DT	FW
+great	great	JJ	CW	ADJ
+author	author	NN	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+wrote	write	VBD	CW	VERB
+"	"	``	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+"	"	''	FW
+
+sentence break
+
+based	base	VBN	CW	VERB
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+mr.	mr.	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+an	an	DT	FW
+certen	certen	VBN	CW	VERB
+task	task	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+that	that	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+difference	difference	NN	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+in	in	IN	FW
+like	like	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hobbies	hobby	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+skills	skill	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+further	further	JJ	CW	ADJ
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+wrighting	wrighting	NN	CW	NOUN	ARGUMENT
+reading	reading	NN	CW	NOUN	ARGUMENT
+vocabulary	vocabulary	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+math	math	NN	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+
+sentence break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+act	act	VB	CW	VERB
+by	by	IN	FW
+making	make	VBG	CW	VERB
+friend	friend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+like	like	UH	FW
+community	community	NN	CW	NOUN	ARGUMENT
+collage	collage	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+developing	develop	VBG	CW	VERB
+jobs	job	NNS	CW	NOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+further	further	JJ	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+in	in	RP	FW
+is	be	VBZ	FW	aux_or_cop
+careers	career	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+going	go	VBG	CW	VERB
+up	up	RP	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+working	work	VBG	CW	VERB
+rank	rank	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+currently	currently	RB	ADV	CW
+working	work	VBG	CW	VERB
+at	at	IN	FW
+searchs	searchs	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+supervisor	supervisor	NN	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+first	first	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	got	VBD	FW	aux_or_cop
+hired	hire	VBN	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+cashier	cashier	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+while	while	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+up	up	RB	ADV	CW
+there	there	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+hobbies	hobby	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+another	another	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+in	in	RP	FW
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+and	and	CC	FW
+practicing	practice	VBG	CW	VERB
+skills	skill	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+up	up	RP	FW
+prove	prove	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+'s	's	POS	FW
+hobbies	hobby	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+hobbies	hobby	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+drawing	draw	VBG	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+six	six	CD	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+draw	draw	VB	CW	VERB
+sticks	stick	NNS	CW	NOUN	ARGUMENT
+finger	finger	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+taken	take	VBN	CW	VERB
+many	many	JJ	CW	ADJ
+art	art	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+drawing	drawing	NN	CW	NOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+draw	draw	VB	CW	VERB
+a	a	DT	FW
+human	human	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+details	detail	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+going	go	VBG	CW	VERB
+above	above	RB	ADV	CW
+in	in	IN	FW
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+mastered	master	VBN	CW	VERB
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+learning	learn	VBG	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+skill	skill	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+rank	rank	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+developing	develop	VBG	CW	VERB
+a	a	DT	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+hobbies	hobby	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,411 @@
+word	lemma	POS	CW\FW	other categories
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+love	love	NN	CW	NOUN	ARGUMENT
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+languages	language	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+67	67	CD	FW
+languages	language	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+spoken	speak	VBN	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+8.9	8.9	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+vietnamese	vietnamese	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+on	on	IN	FW
+top	top	JJ	CW	ADJ
+10	10	CD	FW
+hardest	hard	JJS	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+spoken	speak	VBN	CW	VERB
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+can	can	MD	FW	aux_or_cop
+speak	speak	VB	CW	VERB
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+fluently	fluently	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+translate	translate	VB	CW	VERB
+english	english	NNP	CW	NOUN	ARGUMENT
+to	to	IN	FW
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+teach	teach	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+speak	speak	VB	CW	VERB
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+vietnamese	vietnamese	NNPS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+speak	speak	VB	CW	VERB
+both	both	DT	FW
+vietnamese	vietnamese	JJ	CW	ADJ
+and	and	CC	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+so	so	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+mean	mean	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+translate	translate	VB	CW	VERB
+from	from	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+to	to	IN	FW
+vietnamese	vietnamese	JJ	CW	ADJ
+or	or	CC	FW
+even	even	RB	ADV	CW
+vietnamese	vietnamese	JJ	CW	ADJ
+to	to	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+helpful	helpful	JJ	CW	ADJ
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+on	on	IN	FW
+a	a	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+main	main	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+whenever	whenever	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+speak	speak	VB	CW	VERB
+english	english	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+love	love	NN	CW	NOUN	ARGUMENT
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+convince	convince	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+amazing	amazing	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+start	start	VBP	CW	VERB
+saying	say	VBG	CW	VERB
+"	"	``	FW
+xin	xin	NNP	CW	NOUN	ARGUMENT
+chao	chao	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+"	"	``	FW
+hello	hello	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+in	in	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+glad	glad	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+and	and	CC	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+american	american	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+taught	teach	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+speak	speak	VB	CW	VERB
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+now	now	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+speak	speak	VB	CW	VERB
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+like	like	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+language	language	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+however	however	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+helpful	helpful	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+vietnam	vietnam	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+vietnamese	vietnamese	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+bet	bet	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+from	from	IN	FW
+a	a	DT	FW
+foreign	foreign	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+speak	speak	VB	CW	VERB
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+super	super	RB	ADV	CW
+cool	cool	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+one	one	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+reunion	reunion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	IN	FW
+vietnam	vietnam	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+lost	lose	VBN	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+yell	yell	UH	FW
+"	"	``	FW
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+lost	lose	VBD	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+find	find	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parent	parent	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+understand	understand	VB	CW	VERB
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+said	say	VBN	CW	VERB
+luckily	luckily	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+speak	speak	VB	CW	VERB
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+where	where	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+police	police	NN	CW	NOUN	ARGUMENT
+station	station	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+overall	overall	RB	ADV	CW
+vietnamese	vietnamese	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+perfect	perfect	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+challenge	challenge	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+vietnam	vietnam	NNP	CW	NOUN	ARGUMENT
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

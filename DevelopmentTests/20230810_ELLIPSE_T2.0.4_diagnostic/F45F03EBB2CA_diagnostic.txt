@@ -1,0 +1,234 @@
+word	lemma	POS	CW\FW	other categories
+student_name	student_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+_	_	NN	CW	NOUN	ARGUMENT
+x000d	x000d	NN	CW	NOUN	ARGUMENT
+_	_	CD	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+perform	perform	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+support	support	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+out	out	RP	FW
+clean	clean	JJ	CW	ADJ
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+streets	street	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+help	help	VB	CW	VERB
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+starving	starve	VBG	CW	VERB
+for	for	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+require	require	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+the	the	DT	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+starvation	starvation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+take	take	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+off	off	IN	FW
+of	of	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+out	out	RP	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+whole	whole	JJ	CW	ADJ
+lot	lot	NN	CW	NOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+than	than	IN	FW
+a	a	DT	FW
+mess	mess	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+help	help	VB	CW	VERB
+out	out	RP	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+live	live	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+live	live	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+need	need	VBP	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+donate	donate	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+starving	starve	VBG	CW	VERB
+out	out	IN	FW
+there	there	RB	ADV	CW
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+
+sentence break
+
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+donate	donate	VB	CW	VERB
+to	to	TO	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+charity	charity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+out	out	RP	FW
+the	the	DT	FW
+homeless	homeless	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+starving	starve	VBG	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+and	and	CC	FW
+donate	donate	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+winter	winter	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+cold	cold	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+cold	cold	JJ	CW	ADJ
+and	and	CC	FW
+with	with	IN	FW
+no	no	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+dying	die	VBG	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+clean	clean	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+the	the	DT	FW
+littering	litter	VBG	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+right	right	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+plastic	plastic	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+kill	kill	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+start	start	VB	CW	VERB
+to	to	TO	FW
+clean	clean	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+streets	street	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+_	_	NN	CW	NOUN	ARGUMENT
+x000d	x000d	NN	CW	NOUN	ARGUMENT
+_	_	CD	FW
+
+sentence break
+
+
+paragraph break
+
+dear	dear	NNP	CW	NOUN	ARGUMENT
+principal_x000d	principal_x000d	NNP	CW	NOUN	ARGUMENT
+_	_	IN	FW
+
+sentence break
+
+
+paragraph break
+
+_	_	NN	CW	NOUN	ARGUMENT
+x000d	x000d	NN	CW	NOUN	ARGUMENT
+_	_	CD	FW
+
+sentence break
+
+
+paragraph break
+

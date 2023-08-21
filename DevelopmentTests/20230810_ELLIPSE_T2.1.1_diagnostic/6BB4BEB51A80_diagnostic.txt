@@ -1,0 +1,669 @@
+word	lemma	POS	CW\FW	other categories
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+without	without	IN	FW
+making	make	VBG	CW	VERB
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+seek	seek	VB	CW	VERB
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+experts	expert	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+authorities	authority	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+advise	advise	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+destroy	destroy	VB	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+now	now	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+in	in	IN	FW
+better	well	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+seek	seek	VBP	CW	VERB
+the	the	DT	FW
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+experts	expert	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+seek	seek	VBP	CW	VERB
+the	the	DT	FW
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+experts	expert	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+likewise	likewise	RB	ADV	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+understand	understand	VB	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+expert	expert	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+explain	explain	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+provably	provably	RB	ADV	FW
+would	would	MD	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+get	get	VBP	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+need	need	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+explain	explain	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+while	while	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+explain	explain	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+employee	employee	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+many	many	JJ	CW	ADJ
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+take	take	VBP	CW	VERB
+the	the	DT	FW
+advise	advise	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+experts	expert	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+better	well	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+advise	advise	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+not	not	RB	ADV	CW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+advise	advise	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+the	the	DT	FW
+rules	rule	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+in	in	IN	FW
+big	big	JJ	CW	ADJ
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+explain	explain	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+would't	would't	CC	FW
+get	get	VB	CW	VERB
+any	any	DT	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+many	many	JJ	CW	ADJ
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+do	do	VB	CW	VERB
+whatever	whatever	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+guide	guide	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+result	result	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+those	those	DT	FW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+troubles	trouble	NNS	CW	NOUN	ARGUMENT
+each	each	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+while	while	IN	FW	SUBORDINATOR
+the	the	DT	FW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+guide	guide	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+any	any	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+well	well	RB	ADV	CW
+in	in	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+guide	guide	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+destroy	destroy	VB	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+advice	advice	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+would'n	would'n	NNP	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+danger	danger	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+countries	country	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+danger	danger	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+governors	governor	NNS	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+guide	guide	VB	CW	VERB
+a	a	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+took	take	VBD	CW	VERB
+the	the	DT	FW
+control	control	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+government	government	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+danger	danger	NN	CW	NOUN	ARGUMENT
+anymore	anymore	RB	ADV	FW
+
+sentence break
+
+likewise	likewise	RB	ADV	FW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+live	live	VBP	CW	VERB
+by	by	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+-	-	HYPH	FW
+self	self	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+even	even	RB	ADV	CW
+know	know	VB	CW	VERB
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+repeat	repeat	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+guide	guide	VB	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+destroy	destroy	VB	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+today	today	NN	CW	NOUN	ARGUMENT
+everything	everything	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+peace	peace	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	FW	aux_or_cop
+an	an	DT	FW
+expert	expert	JJ	CW	ADJ
+guide	guide	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+entire	entire	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+
+sentence break
+
+likewise	likewise	RB	ADV	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+better	well	JJR	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+with	with	IN	FW
+a	a	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+guide	guide	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+danger	danger	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+peace	peace	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+/	/	VBD	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+with	with	IN	FW
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+guide	guide	VB	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+life	life	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+and	and	CC	FW
+easier	easy	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+to	to	IN	FW
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+on	on	RP	FW
+so	so	RB	ADV	CW
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

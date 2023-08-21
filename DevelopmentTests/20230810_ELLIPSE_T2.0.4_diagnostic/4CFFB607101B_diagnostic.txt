@@ -1,0 +1,481 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+body	body	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+not	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+attend	attend	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+on	on	IN	FW
+this	this	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+online	online	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+conferencing	conferencing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+working	work	VBG	CW	VERB
+and	and	CC	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+focus	focus	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+on	on	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+own	own	VBP	CW	VERB
+speed	speed	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+learning	learning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	better	RBR	ADV	CW
+for	for	IN	FW	SUBORDINATOR
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+chose	choose	VBD	CW	VERB
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+comfortable	comfortable	JJ	CW	ADJ
+to	to	TO	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+own	own	VBP	CW	VERB
+education	education	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+online	online	JJ	CW	ADJ
+or	or	CC	FW
+by	by	IN	FW
+a	a	DT	FW
+video	video	NN	CW	NOUN	ARGUMENT
+conferencing	conferencing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+theres	theres	RB	ADV	FW
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+attend	attend	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+many	many	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+this	this	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+a	a	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+online	online	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+for	for	IN	FW
+those	those	DT	FW	PRONOUN
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+attend	attend	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+focus	focus	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+sufficient	sufficient	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+and	and	CC	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+focus	focus	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+many	many	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+miss	miss	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+from	from	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+focus	focus	VB	CW	VERB
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+better	better	RB	ADV	CW
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+focus	focus	VB	CW	VERB
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+'	'	''	FW
+t	t	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+taking	take	VBG	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+out	out	JJ	CW	ADJ
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+explain	explain	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+questions	question	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+however	however	RB	ADV	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+ve	ve	FW	FW
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+on	on	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+speed	speed	VBP	CW	VERB
+of	of	IN	FW
+learning	learning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+those	those	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+faster	faster	RBR	ADV	CW
+or	or	CC	FW
+slower	slower	JJR	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	better	RB	ADV	CW
+for	for	IN	FW	SUBORDINATOR
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+on	on	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+own	own	VBP	CW	VERB
+speed	speed	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+learning	learning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+sufficient	sufficient	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+and	and	CC	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+live	live	VBP	CW	VERB
+by	by	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+of	of	IN	FW
+those	those	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+a	a	DT	FW
+regular	regular	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+online	online	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+benefit	benefit	VBP	CW	VERB
+those	those	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+and	and	CC	FW
+attend	attend	VB	CW	VERB
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+to	to	TO	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

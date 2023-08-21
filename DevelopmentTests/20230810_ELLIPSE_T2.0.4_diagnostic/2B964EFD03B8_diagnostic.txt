@@ -1,0 +1,611 @@
+word	lemma	POS	CW\FW	other categories
+history	history	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+about	about	IN	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+talks	talk	VBZ	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+changes	change	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+happened	happen	VBD	CW	VERB
+back	back	RB	ADV	CW
+then	then	RB	ADV	CW
+some	some	DT	FW
+wars	war	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+america	america	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+face	face	VB	CW	VERB
+about	about	IN	FW
+stock	stock	NNP	CW	NOUN	ARGUMENT
+markings	markings	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+bankruptcies	bankruptcy	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+wwii	wwii	NNP	CW	NOUN	ARGUMENT
+america	america	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+face	face	VB	CW	VERB
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+worst	worst	JJS	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+happened	happen	VBD	CW	VERB
+
+sentence break
+
+many	many	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+germany	germany	NNP	CW	NOUN	ARGUMENT
+japan	japan	NNP	CW	NOUN	ARGUMENT
+chose	choose	VBD	CW	VERB
+to	to	TO	FW
+fight	fight	VB	CW	VERB
+america	america	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	CW	VERB
+what	what	WP	FW
+cause	cause	VB	CW	VERB
+d-day	d-day	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+those	those	DT	FW
+wars	war	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+worst	worst	JJS	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+wwii	wwii	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	CW	VERB
+when	when	WRB	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+nuke	nuke	VB	CW	VERB
+japan	japan	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+america	america	NNP	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+pushed	push	VBD	CW	VERB
+forward	forward	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+leader	leader	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+enemy	enemy	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+leader	leader	NNP	CW	NOUN	ARGUMENT
+committed	committed	JJ	CW	ADJ
+suicide	suicide	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+heard	hear	VBD	CW	VERB
+reports	report	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+troops	troops	NNS	CW	NOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+america	america	NNP	CW	NOUN	ARGUMENT
+reached	reach	VBD	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+perimeter	perimeter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+before	before	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	CW	VERB
+born	bear	VBN	CW	VERB
+in	in	IN	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+about	about	IN	FW
+these	these	DT	FW
+major	major	JJ	CW	ADJ
+events	event	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+changed	change	VBD	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+american	american	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+when	when	WRB	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+mining	mine	VBG	CW	VERB
+coal	coal	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+an	a	DT	FW
+industry	industry	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+making	make	VBG	CW	VERB
+steel	steel	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+were	be	VBD	CW	VERB
+three	three	CD	FW
+industries	industry	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+were	be	VBD	FW	aux_or_cop
+competing	compete	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+sent	send	VBD	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+dangerous	dangerous	JJ	CW	ADJ
+jobs	job	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+industries	industry	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+bough	bough	VBP	CW	VERB
+these	these	DT	FW
+elements	element	NNS	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+improve	improve	VB	CW	VERB
+on	on	IN	FW
+growing	grow	VBG	CW	VERB
+and	and	CC	FW
+making	make	VBG	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+factories	factory	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+these	these	DT	FW
+elements	element	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+expensive	expensive	JJ	CW	ADJ
+which	which	WDT	FW
+was	be	VBD	CW	VERB
+how	how	WRB	FW
+these	these	DT	FW
+industries	industry	NNS	CW	NOUN	ARGUMENT
+kept	keep	VBD	CW	VERB
+growing	grow	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+share	share	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+history	history	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+history	history	NN	CW	NOUN	ARGUMENT
+talks	talk	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+what	what	WP	FW
+happened	happen	VBD	CW	VERB
+back	back	RB	ADV	CW
+then	then	RB	ADV	CW
+in	in	IN	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+talks	talk	VBZ	CW	VERB
+about	about	IN	FW
+major	major	JJ	CW	ADJ
+events	event	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+changed	change	VBD	CW	VERB
+american	american	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+major	major	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+happened	happen	VBD	CW	VERB
+in	in	IN	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+great	great	JJ	CW	ADJ
+depression	depression	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+what	what	WP	FW
+happened	happen	VBD	CW	VERB
+back	back	RB	ADV	CW
+then	then	RB	ADV	CW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	CW	VERB
+not	not	RB	ADV	CW
+born	bear	VBN	CW	VERB
+like	like	IN	FW
+what	what	WP	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+actions	action	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+made	make	VBD	CW	VERB
+america	america	NNP	CW	NOUN	ARGUMENT
+become	become	VB	CW	VERB
+to	to	TO	FW
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+major	major	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+happened	happen	VBD	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+united	united	NNP	CW	NOUN	ARGUMENT
+states	states	NNPS	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+great	great	NNP	CW	NOUN	ARGUMENT
+depression	depression	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+happened	happen	VBD	CW	VERB
+when	when	WRB	FW
+many	many	JJ	CW	ADJ
+banks	bank	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+to	to	TO	FW
+bankruptcy	bankruptcy	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+any	any	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+crowds	crowd	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+get	get	VB	CW	VERB
+crazy	crazy	JJ	CW	ADJ
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+lost	lose	VBD	CW	VERB
+homes	home	NNS	CW	NOUN	ARGUMENT
+stock	stock	NNP	CW	NOUN	ARGUMENT
+market	market	NNP	CW	NOUN	ARGUMENT
+ratings	rating	NNS	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+down	down	RB	ADV	CW
+and	and	CC	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW	SUBORDINATOR
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+banks	bank	NNS	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+down	down	RB	ADV	CW
+more	more	JJR	CW	ADJ
+banks	bank	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+u.s.	u.s.	NNP	CW	NOUN	ARGUMENT
+shut	shut	VBD	CW	VERB
+down	down	RP	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+could	could	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	FW	aux_or_cop
+get	get	VB	CW	VERB
+by	by	IN	FW
+since	since	IN	FW	SUBORDINATOR
+many	many	JJ	CW	ADJ
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+rent	rent	NN	CW	NOUN	ARGUMENT
+buy	buy	VB	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+pay	pay	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+insurance	insurance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+history	history	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+what	what	WP	FW
+happened	happen	VBD	CW	VERB
+back	back	RB	ADV	CW
+then	then	RB	ADV	CW
+before	before	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	CW	VERB
+born	bear	VBN	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+some	some	DT	FW
+questions	question	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+might	might	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+happened	happen	VBN	CW	VERB
+back	back	RB	ADV	CW
+which	which	WDT	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+answered	answer	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+about	about	IN	FW
+history	history	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+may	may	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+interests	interest	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+happened	happen	VBD	CW	VERB
+back	back	RB	ADV	CW
+then	then	RB	ADV	CW
+in	in	IN	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+families	family	NNS	CW	NOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+neighbors	neighbor	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+get	get	VB	CW	VERB
+confused	confuse	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+history	history	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+the	the	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+american	american	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+change	change	VB	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+believed	believe	VBN	CW	VERB
+in	in	IN	FW
+since	since	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+the	the	DT	FW
+true	true	JJ	CW	ADJ
+facts	fact	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+history	history	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+history	history	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+about	about	RB	ADV	CW
+about	about	IN	FW
+what	what	WP	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	CW	VERB
+in	in	IN	FW
+these	these	DT	FW
+major	major	JJ	CW	ADJ
+events	event	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+about	about	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+concusion	concusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+history	history	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+what	what	WP	FW
+major	major	JJ	CW	ADJ
+events	event	NNS	CW	NOUN	ARGUMENT
+happened	happen	VBD	CW	VERB
+back	back	RB	ADV	CW
+then	then	RB	ADV	CW
+in	in	IN	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	CW	VERB
+born	bear	VBN	CW	VERB
+and	and	CC	FW
+understand	understand	VB	CW	VERB
+about	about	IN	FW
+american	american	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

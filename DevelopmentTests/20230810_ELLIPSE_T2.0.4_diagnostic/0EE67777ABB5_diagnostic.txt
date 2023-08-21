@@ -1,0 +1,400 @@
+word	lemma	POS	CW\FW	other categories
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+agreeing	agree	VBG	CW	VERB
+to	to	TO	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+sometimes	sometimes	RB	ADV	CW
+bring	bring	VB	CW	VERB
+better	better	JJR	CW	ADJ
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+represents	represent	VBZ	CW	VERB
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+could	could	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+good	good	JJ	CW	ADJ
+or	or	CC	FW
+bad	bad	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+like	like	IN	FW
+coming	come	VBG	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	CW	VERB
+prepared	prepare	VBN	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+could	could	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+good	good	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+or	or	CC	FW
+not	not	RB	ADV	CW
+coming	come	VBG	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+represent	represent	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+caring	care	VBG	CW	VERB
+person	person	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+irresponsible	irresponsible	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+sometimes	sometimes	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefor	therefor	NNP	CW	NOUN	ARGUMENT
+try	try	VB	CW	VERB
+to	to	TO	FW
+always	always	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+sometimes	sometimes	RB	ADV	CW
+and	and	CC	FW
+wont	wont	VB	CW	VERB
+go	go	VB	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	CW	VERB
+why	why	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+think	think	VB	CW	VERB
+positive	positive	JJ	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+consequences	consequence	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+better	better	JJR	CW	ADJ
+friendships	friendship	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+last	last	VB	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+lifetime	lifetime	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+explanations	explanation	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+why	why	WRB	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	JJ	CW	ADJ
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+agreeing	agree	VBG	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+represent	represent	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+would	would	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+better	better	JJR	CW	ADJ
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+stands	stand	VBZ	CW	VERB
+for	for	IN	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+and	and	CC	FW
+positive	positive	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+new	new	JJ	CW	ADJ
+and	and	CC	FW
+better	better	RBR	ADV	CW
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	IN	FW	SUBORDINATOR
+having	have	VBG	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+one	one	CD	FW
+would	would	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+positive	positive	JJ	CW	ADJ
+energy	energy	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+getting	get	VBG	CW	VERB
+paid	pay	VBN	CW	VERB
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	TO	FW
+always	always	RB	ADV	CW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+do	do	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+bring	bring	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+always	always	RB	ADV	CW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+wouldnt	wouldnt	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+take	take	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+anywhere	anywhere	RB	ADV	FW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+prompt	prompt	JJ	CW	ADJ
+says	say	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	CW	VERB
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	JJ	CW	ADJ
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefor	therefor	NNP	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+better	better	JJR	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+choices	choice	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

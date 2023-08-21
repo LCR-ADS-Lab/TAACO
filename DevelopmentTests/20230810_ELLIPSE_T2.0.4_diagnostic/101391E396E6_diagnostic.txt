@@ -1,0 +1,475 @@
+word	lemma	POS	CW\FW	other categories
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+for	for	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+multiple	multiple	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+the	the	DT	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+to	to	TO	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+was	be	VBD	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+that	that	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+thought	thought	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+interview	interview	VB	CW	VERB
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+korean	korean	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+veterans	veteran	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandfather	grandfather	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+veteran	veteran	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+korean	korean	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+korean	korean	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+battle	battle	NN	CW	NOUN	ARGUMENT
+field	field	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+horrifing	horrife	VBG	CW	VERB
+
+sentence break
+
+after	after	IN	FW
+finishing	finish	VBG	CW	VERB
+the	the	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+``	``	``	FW
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VB	CW	VERB
+a	a	DT	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+korean	korean	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+''	''	''	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+3	3	CD	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	CW	VERB
+in	in	IN	FW
+battle	battle	NN	CW	NOUN	ARGUMENT
+field	field	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+living	live	VBG	CW	VERB
+pretty	pretty	RB	ADV	CW
+cloes	clo	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+live	live	VBP	CW	VERB
+and	and	CC	FW
+went	go	VBD	CW	VERB
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandfathers	grandfather	NNS	CW	NOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandfather	grandfather	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+``	``	``	FW
+how	how	WRB	FW
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+korean	korean	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+battlefield	battlefield	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+``	``	``	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+to	to	TO	FW
+go	go	VB	CW	VERB
+into	into	IN	FW
+the	the	DT	FW
+battlefield	battlefield	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+make	make	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+feel	feel	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+protecting	protect	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+
+sentence break
+
+after	after	IN	FW
+finishing	finish	VBG	CW	VERB
+interview	interview	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+korean	korean	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+only	only	RB	ADV	CW
+horrific	horrific	JJ	CW	ADJ
+memories	memory	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+wasn	wasn	NN	CW	NOUN	ARGUMENT
+'	'	''	FW
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+that	that	IN	FW	PRONOUN
+why	why	WRB	FW
+do	do	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+think	think	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+than	than	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+a	a	DT	FW
+2	2	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+real	real	JJ	CW	ADJ
+fact	fact	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+sometimes	sometimes	RB	ADV	CW
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+a	a	DT	FW
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+answer	answer	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+better	better	JJR	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+here	here	RB	ADV	CW
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+a	a	DT	FW
+multiple	multiple	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+better	better	JJR	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+for	for	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+multiple	multiple	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+other	other	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+of	of	IN	FW
+and	and	CC	FW
+last	last	JJ	CW	ADJ
+but	but	CC	FW
+not	not	RB	ADV	CW
+least	least	JJS	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+listening	listen	VBG	CW	VERB
+a	a	DT	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VB	CW	VERB
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+to	to	TO	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+1	1	CD	FW
+or	or	CC	FW
+2	2	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+change	change	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+interview	interview	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+project	project	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+suggest	suggest	VB	CW	VERB
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+3	3	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

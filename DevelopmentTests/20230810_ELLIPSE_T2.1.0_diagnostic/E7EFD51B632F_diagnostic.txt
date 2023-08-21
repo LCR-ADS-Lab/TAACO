@@ -1,0 +1,707 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+most	most	RBS	ADV	CW
+persuasive	persuasive	JJ	CW	ADJ
+efficient	efficient	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+set	set	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+examples	example	NNS	CW	NOUN	ARGUMENT
+sets	set	VBZ	CW	VERB
+an	an	DT	FW
+image	image	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+minds	mind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+an	an	DT	FW
+ideal	ideal	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+moreover	moreover	RB	ADV	FW
+every	every	DT	FW
+single	single	JJ	CW	ADJ
+human	human	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+this	this	DT	FW	PRONOUN
+earth	earth	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+vibe	vibe	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+energy	energy	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+off	off	RP	FW
+due	due	IN	FW
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thinking	think	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+perceive	perceive	VBP	CW	VERB
+or	or	CC	FW
+take	take	VB	CW	VERB
+in	in	RP	FW
+to	to	TO	FW
+judge	judge	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+has	have	VBZ	CW	VERB
+an	an	DT	FW
+energy	energy	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+vibe	vibe	VB	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+likes	like	VBZ	CW	VERB
+or	or	CC	FW
+agrees	agree	VBZ	CW	VERB
+with	with	IN	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+tend	tend	VB	CW	VERB
+to	to	TO	FW
+gravitate	gravitate	VB	CW	VERB
+towards	towards	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+morally	morally	RB	ADV	CW
+right	right	JJ	CW	ADJ
+or	or	CC	FW
+wrong	wrong	JJ	CW	ADJ
+to	to	TO	FW
+see	see	VB	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+improvement	improvement	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+take	take	VB	CW	VERB
+on	on	RP	FW
+similar	similar	JJ	CW	ADJ
+motives	motive	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+morally	morally	RB	ADV	CW
+right	right	JJ	CW	ADJ
+or	or	CC	FW
+wrong	wrong	JJ	CW	ADJ
+
+sentence break
+
+martin	martin	NNP	CW	NOUN	ARGUMENT
+luther	luther	NNP	CW	NOUN	ARGUMENT
+king	king	NNP	CW	NOUN	ARGUMENT
+jr.	jr.	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+demonstrated	demonstrate	VBN	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+influencing	influence	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+and	and	CC	FW
+wrong	wrong	JJ	CW	ADJ
+by	by	IN	FW
+leading	lead	VBG	CW	VERB
+a	a	DT	FW
+protest	protest	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+many	many	JJ	CW	ADJ
+african	african	NNP	CW	NOUN	ARGUMENT
+americans	americans	NNPS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+involved	involve	VBN	CW	VERB
+in	in	IN	FW
+
+sentence break
+
+martin	martin	NNP	CW	NOUN	ARGUMENT
+luther	luther	NNP	CW	NOUN	ARGUMENT
+king	king	NNP	CW	NOUN	ARGUMENT
+jr.	jr.	NNP	CW	NOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+a	a	DT	FW
+famous	famous	JJ	CW	ADJ
+speech	speech	NN	CW	NOUN	ARGUMENT
+called	call	VBN	CW	VERB
+"	"	``	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+"	"	``	FW
+which	which	WDT	FW
+radiated	radiate	VBD	CW	VERB
+strong	strong	JJ	CW	ADJ
+energy	energy	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+gave	give	VBD	CW	VERB
+african	african	NNP	CW	NOUN	ARGUMENT
+americans	americans	NNPS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+strength	strength	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+pride	pride	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+protest	protest	VB	CW	VERB
+the	the	DT	FW
+whites	white	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+racist	racist	JJ	CW	ADJ
+segregation	segregation	NN	CW	NOUN	ARGUMENT
+laws	law	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+great	great	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+by	by	IN	FW
+martin	martin	NNP	CW	NOUN	ARGUMENT
+luther	luther	NNP	CW	NOUN	ARGUMENT
+king	king	NNP	CW	NOUN	ARGUMENT
+jr.	jr.	NNP	CW	NOUN	ARGUMENT
+displayed	display	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+capable	capable	JJ	CW	ADJ
+and	and	CC	FW
+high	high	JJ	CW	ADJ
+-	-	HYPH	FW
+thinking	think	VBG	CW	VERB
+individual	individual	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+african	african	NNP	CW	NOUN	ARGUMENT
+americans	americans	NNPS	CW	NOUN	ARGUMENT
+gravitated	gravitate	VBD	CW	VERB
+towards	towards	IN	FW
+
+sentence break
+
+due	due	IN	FW
+to	to	IN	FW
+the	the	DT	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+african	african	NNP	CW	NOUN	ARGUMENT
+americans	americans	NNPS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+martin	martin	NNP	CW	NOUN	ARGUMENT
+luther	luther	NNP	CW	NOUN	ARGUMENT
+king	king	NNP	CW	NOUN	ARGUMENT
+jr.	jr.	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+what	what	WP	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+rights	right	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+human	human	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+and	and	CC	FW
+how	how	WRB	FW
+wrong	wrong	JJ	CW	ADJ
+the	the	DT	FW
+whites	white	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+segregation	segregation	NN	CW	NOUN	ARGUMENT
+laws	law	NNS	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+improvement	improvement	NN	CW	NOUN	ARGUMENT
+within	within	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+personal	personal	JJ	CW	ADJ
+trainer	trainer	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+persistent	persistent	JJ	CW	ADJ
+and	and	CC	FW
+passionate	passionate	JJ	CW	ADJ
+at	at	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+being	be	VBG	FW	aux_or_cop
+motivated	motivate	VBN	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+gym	gym	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+encouraged	encourage	VBD	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+more	more	RBR	ADV	CW
+fit	fit	JJ	CW	ADJ
+and	and	CC	FW
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+also	also	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+sets	set	VBZ	CW	VERB
+a	a	DT	FW
+postitive	postitive	JJ	CW	ADJ
+message	message	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+where	where	WRB	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+trainer	trainer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+having	have	VBG	CW	VERB
+the	the	DT	FW
+personal	personal	JJ	CW	ADJ
+trainer	trainer	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+gain	gain	VB	CW	VERB
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+led	lead	VBN	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+seeing	see	VBG	CW	VERB
+improvement	improvement	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+change	change	VB	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+mindset	mindset	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+final	final	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+desire	desire	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+on	on	RP	FW
+similar	similar	JJ	CW	ADJ
+motives	motive	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+an	an	DT	FW
+early	early	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+development	development	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+tend	tend	VBP	CW	VERB
+to	to	TO	FW
+look	look	VB	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+popular	popular	JJ	CW	ADJ
+figures	figure	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+awe	awe	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+gain	gain	VBP	CW	VERB
+inspiration	inspiration	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+profession	profession	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+seen	see	VBN	CW	VERB
+an	an	DT	FW
+astronaut	astronaut	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+television	television	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+became	became	VBD	FW	aux_or_cop
+inspired	inspire	VBN	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+one	one	CD	FW
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+grows	grow	VBZ	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+inspiration	inspiration	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+led	lead	VBN	CW	VERB
+this	this	DT	FW	PRONOUN
+upcoming	upcoming	JJ	CW	ADJ
+astronaut	astronaut	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+astronomy	astronomy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+related	relate	VBN	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+an	an	DT	FW
+amateur	amateur	JJ	CW	ADJ
+astronaut	astronaut	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+born	bear	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+astronaut	astronaut	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+tv	tv	NN	CW	NOUN	ARGUMENT
+decades	decade	NNS	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+set	set	VBD	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+interesting	interesting	JJ	CW	ADJ
+tasks	task	NNS	CW	NOUN	ARGUMENT
+an	an	DT	FW
+astronaut	astronaut	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+which	which	WDT	FW
+led	lead	VBD	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+inspiration	inspiration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+better	well	RBR	ADV	CW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+due	due	IN	FW
+to	to	IN	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+influencing	influence	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+morally	morally	RB	ADV	CW
+right	right	JJ	CW	ADJ
+or	or	CC	FW
+wrong	wrong	JJ	CW	ADJ
+to	to	TO	FW
+see	see	VB	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+improvement	improvement	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+take	take	VB	CW	VERB
+on	on	RP	FW
+similar	similar	JJ	CW	ADJ
+motives	motive	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+based	base	VBN	CW	VERB
+on	on	IN	FW
+good	good	JJ	CW	ADJ
+examples	example	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+set	set	VBN	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+set	set	NN	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+off	off	RP	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+interests	interest	VBZ	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+connect	connect	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+retain	retain	VB	CW	VERB
+an	an	DT	FW
+energy	energy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+vibe	vibe	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+coinsides	coinside	VBZ	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+indeed	indeed	RB	ADV	CW
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+influencing	influence	VBG	CW	VERB
+individuals	individual	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

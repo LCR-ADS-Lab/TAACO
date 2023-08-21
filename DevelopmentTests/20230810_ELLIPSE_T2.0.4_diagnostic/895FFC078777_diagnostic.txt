@@ -1,0 +1,500 @@
+word	lemma	POS	CW\FW	other categories
+more	more	RBR	ADV	CW
+is	be	VBZ	CW	VERB
+always	always	RB	ADV	CW
+done	do	VBN	CW	VERB
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+other	other	JJ	CW	ADJ
+wise	wise	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+lazy	lazy	JJ	CW	ADJ
+and	and	CC	FW
+say	say	VB	CW	VERB
+``	``	``	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+tommorow	tommorow	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+know	know	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+tommorow	tommorow	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+ever	ever	RB	ADV	CW
+come	come	VB	CW	VERB
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+tasks	task	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+mindset	mindset	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+that	that	IN	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+youre	youre	VBP	CW	VERB
+an	a	DT	FW
+honest	honest	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+really	really	RB	ADV	CW
+say	say	VB	CW	VERB
+alot	alot	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	FW	aux_or_cop
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+stressed	stress	VBN	CW	VERB
+out	out	RP	FW
+and	and	CC	FW
+worry	worry	VBP	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+much	much	RB	ADV	CW
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+suppose	suppose	VB	CW	VERB
+to	to	TO	FW
+
+sentence break
+
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easier	easier	JJR	CW	ADJ
+then	then	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+bigger	bigger	JJR	CW	ADJ
+consequence	consequence	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+accomplished	accomplish	VBD	CW	VERB
+alot	alot	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+entrepreneurs	entrepreneur	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+didnt	didnt	VBP	CW	VERB
+wait	wait	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+bill	bill	NNP	CW	NOUN	ARGUMENT
+gates	gates	NNP	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+richest	richest	JJS	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+billions	billion	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+how	how	WRB	FW
+did	do	VBD	FW	aux_or_cop
+he	he	PRP	FW	PRONOUN	ARGUMENT
+manage	manage	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+all	all	DT	FW
+that	that	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+done	do	VBN	CW	VERB
+not	not	RB	ADV	CW
+waiting	wait	VBG	CW	VERB
+for	for	IN	FW
+tommorowto	tommorowto	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+the	the	DT	FW
+tacks	tack	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+where	where	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bill	bill	NNP	CW	NOUN	ARGUMENT
+gates	gates	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+always	always	RB	ADV	CW
+busy	busy	JJ	CW	ADJ
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+owner	owner	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+microsoft	microsoft	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+bring	bring	VB	CW	VERB
+positivity	positivity	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+into	into	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+steve	steve	NNP	CW	NOUN	ARGUMENT
+jobs	jobs	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+steve	steve	NNP	CW	NOUN	ARGUMENT
+jobs	jobs	NNP	CW	NOUN	ARGUMENT
+didnt	didnt	JJ	CW	ADJ
+wait	wait	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+himslef	himslef	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+dropped	drop	VBD	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+doing	do	VBG	CW	VERB
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+after	after	IN	FW
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+stayed	stay	VBD	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+small	small	JJ	CW	ADJ
+garge	garge	NN	CW	NOUN	ARGUMENT
+worked	work	VBD	CW	VERB
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+night	night	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+invent	invent	VB	CW	VERB
+a	a	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+macbook	macbook	NNP	CW	NOUN	ARGUMENT
+with	with	IN	FW
+this	this	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+famous	famous	JJ	CW	ADJ
+entrepreneur	entrepreneur	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+couple	couple	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+apple	apple	NNP	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+to	to	TO	FW
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+steve	steve	NNP	CW	NOUN	ARGUMENT
+jobs	jobs	NNP	CW	NOUN	ARGUMENT
+worked	work	VBD	CW	VERB
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+where	where	WRB	FW
+is	be	VBZ	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+not	not	RB	ADV	CW
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+by	by	IN	FW
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+steve	steve	NNP	CW	NOUN	ARGUMENT
+jobs	jobs	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+great	great	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+come	come	VB	CW	VERB
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+some	some	DT	FW
+
+sentence break
+
+these	these	DT	FW
+two	two	CD	FW
+entremreneurs	entremreneurs	NNPS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+examples	example	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+should	should	MD	FW	aux_or_cop
+come	come	VB	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+both	both	DT	FW
+worked	work	VBD	CW	VERB
+so	so	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+for	for	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+companys	company	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+waiting	wait	VBG	CW	VERB
+a	a	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+complete	complete	JJ	CW	ADJ
+
+sentence break
+
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+anyhting	anyhting	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+neither	neither	CC	FW
+will	will	MD	FW	aux_or_cop
+waiting	wait	VBG	CW	VERB
+
+sentence break
+
+so	so	IN	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+so	so	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+or	or	CC	FW
+stress	stress	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+later	later	RB	ADV	CW
+
+sentence break
+
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+essay	essay	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+moment	moment	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+the	the	DT	FW
+task	task	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+wise	wise	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+be	be	VB	CW	VERB
+done	do	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+

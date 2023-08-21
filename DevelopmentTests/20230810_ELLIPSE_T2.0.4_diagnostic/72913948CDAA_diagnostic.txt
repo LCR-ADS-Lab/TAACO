@@ -1,0 +1,583 @@
+word	lemma	POS	CW\FW	other categories
+positive	positive	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+do	do	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+answer	answer	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+this	this	DT	FW
+question	question	NN	CW	NOUN	ARGUMENT
+yes	yes	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+intelligent	intelligent	JJ	CW	ADJ
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+
+sentence break
+
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+good	good	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+one	one	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+make	make	VBP	CW	VERB
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+better	better	RBR	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+makes	make	VBZ	CW	VERB
+him/her	him/her	JJR	CW	ADJ
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+pass	pass	VB	CW	VERB
+all	all	DT	FW
+his/her	his/her	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+good	good	JJ	CW	ADJ
+score	score	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+in	in	IN	FW
+his/her	his/her	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+smarter	smarter	RBR	ADV	FW
+one	one	CD	FW
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+intelligent	intelligent	JJ	CW	ADJ
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+help	help	VBP	CW	VERB
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+all	all	DT	FW
+his/her	his/her	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+good	good	JJ	CW	ADJ
+score	score	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+smarter	smarter	RBR	ADV	FW
+one	one	CD	FW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+works	work	VBZ	CW	VERB
+
+sentence break
+
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+positive	positive	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+need	need	VB	CW	VERB
+any	any	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+get	get	VBP	CW	VERB
+the	the	DT	FW
+highest	highest	JJS	CW	ADJ
+score	score	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+positive	positive	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+most	most	RBS	ADV	CW
+beautiful	beautiful	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+live	live	VB	CW	VERB
+with	with	IN	FW
+peace	peace	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+intelligent	intelligent	JJ	CW	ADJ
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+because	because	IN	FW
+when	when	WRB	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+positive	positive	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+makes	make	VBZ	CW	VERB
+him/her	him/her	JJR	CW	ADJ
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+smiling	smile	VBG	CW	VERB
+and	and	CC	FW
+positive	positive	JJ	CW	ADJ
+
+sentence break
+
+so	so	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+loved	love	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+friends	friend	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+now	now	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+with	with	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+
+sentence break
+
+being	be	VBG	CW	VERB
+positive	positive	JJ	CW	ADJ
+makes	make	VBZ	CW	VERB
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+better	better	RBR	ADV	CW
+
+sentence break
+
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+as	as	IN	FW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+he/she	he/she	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+intelligent	intelligent	JJ	CW	ADJ
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+
+sentence break
+
+just	just	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+most	most	RBS	ADV	CW
+beautiful	beautiful	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+
+sentence break
+
+overall	overall	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+and	and	CC	FW
+again	again	RB	ADV	CW
+relax	relax	VB	CW	VERB
+and	and	CC	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+breath	breath	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+lose	lose	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+negative	negative	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+lastly	lastly	RB	ADV	CW
+enjoy	enjoy	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+argue	argue	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+to	to	TO	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+born	bear	VBN	CW	VERB
+on	on	IN	FW
+sometimes	sometimes	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+looks	look	VBZ	CW	VERB
+like	like	IN	FW
+the	the	DT	FW
+mountain	mountain	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+claim	claim	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+looks	look	VBZ	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+usually	usually	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+positive	positive	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+something	something	NN	CW	NOUN	ARGUMENT
+happened	happen	VBD	CW	VERB
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+sad	sad	JJ	CW	ADJ
+and	and	CC	FW
+negative	negative	JJ	CW	ADJ
+and	and	CC	FW
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hate	hate	VBP	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+to	to	TO	FW
+love	love	VB	CW	VERB
+his/her	his/her	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+if	if	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+negative	negative	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+makes	make	VBZ	CW	VERB
+him/her	him/her	JJR	CW	ADJ
+sick	sick	JJ	CW	ADJ
+sad	sad	JJ	CW	ADJ
+mad	mad	JJ	CW	ADJ
+and	and	CC	FW
+complicate	complicate	VB	CW	VERB
+
+sentence break
+
+however	however	RB	ADV	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+protect	protect	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+gon	gon	VBG	CW	VERB
+na	na	TO	FW
+happened	happen	VBN	CW	VERB
+to	to	TO	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+summery	summery	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,245 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+hidden	hidden	JJ	CW	ADJ
+talent	talent	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+nt	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+what	what	WP	FW
+race	race	NN	CW	NOUN	ARGUMENT
+yo	yo	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+whether	whether	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+black	black	JJ	CW	ADJ
+hispanic	hispanic	JJ	CW	ADJ
+chinese	chinese	JJ	CW	ADJ
+or	or	CC	FW
+any	any	DT	FW
+other	other	JJ	CW	ADJ
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+race	race	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+may	may	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+use	use	VB	CW	VERB
+for	for	IN	FW
+good	good	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+talent	talent	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+fixing	fix	VBG	CW	VERB
+cars	car	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+fixing	fix	VBG	CW	VERB
+cars	car	NNS	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+skill	skill	NN	CW	NOUN	ARGUMENT
+cause	cause	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+nt	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+tire	tire	NN	CW	NOUN	ARGUMENT
+popped	pop	VBD	CW	VERB
+or	or	CC	FW
+maybe	maybe	RB	ADV	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+car	car	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+nt	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+turn	turn	VB	CW	VERB
+on	on	RP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+mechanic	mechanic	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fix	fix	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+car	car	NN	CW	NOUN	ARGUMENT
+broke	break	VBD	CW	VERB
+down	down	RP	FW
+and	and	CC	FW
+the	the	DT	FW
+maybe	maybe	RB	ADV	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+fix	fix	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+making	make	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mechanic	mechanic	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+pay	pay	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+100	100	CD	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+or	or	CC	FW
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+a	a	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+another	another	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+yours	yours	PRP	FW	PRONOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+selling	sell	VBG	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+car	car	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+windows	window	NNS	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+roll	roll	VB	CW	VERB
+down	down	RP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+buy	buy	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+fix	fix	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+sell	sell	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+even	even	RB	ADV	CW
+more	more	JJR	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+sells	sell	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+2500	2500	CD	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+sell	sell	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+3000	3000	CD	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+500	500	CD	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+pockets	pocket	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+;)	;)	NFP	FW
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,734 @@
+word	lemma	POS	CW\FW	other categories
+philosopher	philosopher	NNP	CW	NOUN	ARGUMENT
+physician	physician	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+humanitarian	humanitarian	JJ	CW	ADJ
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+example	example	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+influencing	influence	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+louder	louder	RBR	ADV	CW
+than	than	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+in	in	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+explain	explain	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reasoning	reasoning	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+let	let	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+right	right	JJ	CW	ADJ
+into	into	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+to	to	IN	FW
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+both	both	DT	FW
+adults	adult	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+alike	alike	RB	ADV	FW
+are	be	VBP	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+other	other	JJ	CW	ADJ
+peoples	people	NNS	CW	NOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+hero	hero	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+role	role	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+upon	upon	IN	FW
+and	and	CC	FW
+are	be	VBP	FW	aux_or_cop
+motivated	motivate	VBN	CW	VERB
+to	to	TO	FW
+copy	copy	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+the	the	DT	FW
+role	role	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+that	that	DT	FW
+effects	effect	NNS	CW	NOUN	ARGUMENT
+what	what	WP	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+looks	look	VBZ	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+let	let	VB	CW	VERB
+'s	us	PRP	FW	PRONOUN	ARGUMENT
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+an	an	DT	FW
+actor	actor	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+television	television	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+acting	act	VBG	CW	VERB
+all	all	DT	FW
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+respecting	respect	VBG	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+results	result	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+that	that	IN	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+watch	watch	VBP	CW	VERB
+that	that	DT	FW
+show	show	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+copy	copy	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+acting	act	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+as	as	IN	FW
+respecting	respect	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+to	to	IN	FW
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+own	own	VBP	CW	VERB
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+actions	action	NNS	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+louder	louder	RBR	ADV	CW
+than	than	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW
+old	old	JJ	CW	ADJ
+saying	saying	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+swell	swell	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+actions	action	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+usually	usually	RB	ADV	CW
+found	find	VBN	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+off	off	RP	FW
+more	more	JJR	CW	ADJ
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+emotion	emotion	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+since	since	IN	FW	SUBORDINATOR
+actions	action	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+visible	visible	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+of	of	IN	FW
+an	an	DT	FW
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+inspiring	inspire	VBG	CW	VERB
+and	and	CC	FW
+influencing	influence	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+giving	give	VBG	CW	VERB
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+five	five	CD	FW
+gives	give	VBZ	CW	VERB
+off	off	RP	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+sport	sport	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+saying	say	VBG	CW	VERB
+"	"	``	FW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+to	to	IN	FW
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+own	own	VBP	CW	VERB
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+in	in	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+act	act	VB	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+born	bear	VBN	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+attempt	attempt	VBP	CW	VERB
+to	to	TO	FW
+mimic	mimic	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+kids	kid	NNS	CW	NOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+following	follow	VBG	CW	VERB
+the	the	DT	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+words	word	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+mean	mean	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+understand	understand	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+ideals	ideal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+constantly	constantly	RB	ADV	CW
+changing	change	VBG	CW	VERB
+by	by	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+then	then	RB	ADV	CW
+not	not	RB	ADV	CW
+effected	effect	VBN	CW	VERB
+by	by	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+much	much	JJ	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+effected	effect	VBN	CW	VERB
+by	by	IN	FW
+other	other	JJ	CW	ADJ
+peoples	people	NNS	CW	NOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+setting	set	VBG	CW	VERB
+examples	example	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+are	be	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+taking	take	VBG	CW	VERB
+physical	physical	JJ	CW	ADJ
+action	action	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+these	these	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+physical	physical	JJ	CW	ADJ
+action	action	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+makes	make	VBZ	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+want	want	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+opposite	opposite	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+furthermore	furthermore	RB	ADV	FW
+setting	set	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+examples	example	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+out	out	RP	FW
+better	well	RBR	ADV	CW
+than	than	IN	FW
+physical	physical	JJ	CW	ADJ
+action	action	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+influential	influential	JJ	CW	ADJ
+from	from	IN	FW
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+distance	distance	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+being	be	VBG	FW	aux_or_cop
+up	up	RB	ADV	CW
+close	close	RB	ADV	CW
+to	to	TO	FW
+physically	physically	RB	ADV	CW
+inspire	inspire	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+looking	look	VBG	CW	VERB
+up	up	IN	FW
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+speaking	speak	VBG	CW	VERB
+louder	louder	RBR	ADV	CW
+than	than	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+in	in	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+valid	valid	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+all	all	PDT	FW
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+to	to	IN	FW
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+additionally	additionally	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+out	out	RP	FW
+and	and	CC	FW
+set	set	VBD	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

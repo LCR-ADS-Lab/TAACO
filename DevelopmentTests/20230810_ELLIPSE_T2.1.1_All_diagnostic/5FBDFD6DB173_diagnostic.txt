@@ -1,0 +1,410 @@
+word	lemma	POS	CW\FW	other categories
+yes	yes	UH	FW
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+successful	successful	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+science	science	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+relate	relate	JJ	CW	ADJ
+to	to	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+science	science	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+but	but	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+strengths	strength	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+some	some	DT	FW
+parts	part	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+failure	failure	VBP	CW	VERB
+in	in	IN	FW
+someways	someway	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+failures	failure	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+strength	strength	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+yet	yet	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+tries	try	VBZ	CW	VERB
+there	there	RB	ADV	CW
+best	well	RBS	ADV	CW
+on	on	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+successful	successful	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+long	long	RB	ADV	CW
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+thirdly	thirdly	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+english	english	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+at	at	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+at	at	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+turn	turn	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+turn	turn	VB	CW	VERB
+back	back	RB	ADV	CW
+to	to	IN	FW
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+on	on	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+relate	relate	JJ	CW	ADJ
+to	to	IN	FW
+any	any	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+furthermore	furthermore	IN	FW
+failures	failure	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+additionally	additionally	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+successful	successful	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+failures	failure	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+korean	korean	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+french	french	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+in	in	IN	FW
+korean	korean	JJ	CW	ADJ
+or	or	CC	FW
+french	french	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+speaking	speak	VBG	CW	VERB
+and	and	CC	FW
+writting	writting	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+korean	korean	JJ	CW	ADJ
+and	and	CC	FW
+french	french	JJ	CW	ADJ
+
+sentence break
+
+addition	addition	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failures	failure	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+successers	successer	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+try	try	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+try	try	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

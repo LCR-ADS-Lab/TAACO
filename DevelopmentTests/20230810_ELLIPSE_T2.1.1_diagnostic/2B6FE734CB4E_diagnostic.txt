@@ -1,0 +1,480 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+puerto	puerto	NNP	CW	NOUN	ARGUMENT
+rico	rico	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+puerto	puerto	NNP	CW	NOUN	ARGUMENT
+rico	rico	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+beautiful	beautiful	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+puerto	puerto	NNP	CW	NOUN	ARGUMENT
+rico	rico	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+beautiful	beautiful	JJ	CW	ADJ
+beach	beach	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+rivers	river	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+other	other	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+because	because	IN	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+the	the	DT	FW
+weather	weather	NN	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hot	hot	JJ	CW	ADJ
+even	even	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+winter	winter	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hot	hot	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+hot	hot	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+reach	reach	VB	CW	VERB
+the	the	DT	FW
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+100	100	CD	FW
+degrees	degree	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+living	live	VBG	CW	VERB
+in	in	IN	FW
+puerto	puerto	NNP	CW	NOUN	ARGUMENT
+rico	rico	NNP	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+hot	hot	JJ	CW	ADJ
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+beach	beach	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+or	or	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+river	river	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+pool	pool	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+buy	buy	VB	CW	VERB
+pools	pool	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+have	have	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW	SUBORDINATOR
+when	when	WRB	FW
+the	the	DT	FW
+weather	weather	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hot	hot	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+beach	beach	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+or	or	CC	FW
+rivers	river	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+personally	personally	RB	ADV	CW
+like	like	VBP	CW	VERB
+going	go	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+river	river	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+water	water	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+colder	colder	JJ	CW	ADJ
+and	and	CC	FW
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+refreshing	refreshing	JJ	CW	ADJ
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+hot	hot	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+pick	pick	VBP	CW	VERB
+puerto	puerto	NNP	CW	NOUN	ARGUMENT
+rico	rico	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+because	because	IN	FW
+of	of	IN	FW
+there	there	EX	FW
+delicious	delicious	JJ	CW	ADJ
+foods	food	NNS	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+tropical	tropical	JJ	CW	ADJ
+dishes	dish	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+call	call	VBP	CW	VERB
+the	the	DT	FW
+three	three	CD	FW
+meat	meat	NN	CW	NOUN	ARGUMENT
+sandwich	sandwich	NN	CW	NOUN	ARGUMENT
+witch	witch	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+made	make	VBN	CW	VERB
+of	of	IN	FW
+really	really	RB	ADV	CW
+tender	tender	JJ	CW	ADJ
+pork	pork	NN	CW	NOUN	ARGUMENT
+meat	meat	NN	CW	NOUN	ARGUMENT
+chicken	chicken	NN	CW	NOUN	ARGUMENT
+beef	beef	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBD	CW	VERB
+potato	potato	NN	CW	NOUN	ARGUMENT
+sticks	stick	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+add	add	VBP	CW	VERB
+the	the	DT	FW
+mayo	mayo	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ketchup	ketchup	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+holidays	holiday	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+christmas	christmas	NNP	CW	NOUN	ARGUMENT
+puertorican	puertorican	VBD	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+cook	cook	VBP	CW	VERB
+a	a	DT	FW
+hole	hole	NN	CW	NOUN	ARGUMENT
+pig	pig	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+when	when	WRB	FW
+the	the	DT	FW
+pig	pig	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+done	do	VBN	CW	VERB
+cooking	cooking	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+cut	cut	VBD	CW	VERB
+the	the	DT	FW
+pig	pig	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+shred	shre	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+into	into	IN	FW
+pieces	piece	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+rice	rice	NN	CW	NOUN	ARGUMENT
+mix	mix	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+beans	bean	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+from	from	IN	FW
+puerto	puerto	NNP	CW	NOUN	ARGUMENT
+rico	rico	NNP	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+know	know	VB	CW	VERB
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+are	be	VBP	FW	aux_or_cop
+family	family	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+a	a	DT	FW
+party	party	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+u.s	u.s	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+go	go	VBP	CW	VERB
+and	and	CC	FW
+visit	visit	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+visit	visit	VB	CW	VERB
+when	when	WRB	FW
+ever	ever	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+
+sentence break
+
+when	when	WRB	FW
+ever	ever	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+visit	visit	VBP	CW	VERB
+puerto	puerto	NNP	CW	NOUN	ARGUMENT
+rico	rico	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+two	two	CD	FW
+little	little	JJ	CW	ADJ
+brothers	brother	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+seen	see	VBN	CW	VERB
+sense	sense	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+consents	consent	NNS	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+play	play	VBP	CW	VERB
+baseball	baseball	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+hot	hot	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+stay	stay	VBP	CW	VERB
+home	home	RB	ADV	CW
+watching	watch	VBG	CW	VERB
+t.v	t.v	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+playing	play	VBG	CW	VERB
+playstation	playstation	NNP	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+lives	live	VBZ	CW	VERB
+in	in	IN	FW
+virginia	virginia	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+back	back	RB	ADV	CW
+to	to	IN	FW
+the	the	DT	FW
+u.s	u.s	NNP	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+family	family	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+'s	's	POS	FW
+sad	sad	JJ	CW	ADJ
+and	and	CC	FW
+starst	starst	JJ	CW	ADJ
+crying	cry	VBG	CW	VERB
+but	but	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+back	back	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

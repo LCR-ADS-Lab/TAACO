@@ -1,0 +1,350 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+every	every	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+always	always	RB	ADV	CW
+a	a	DT	FW
+humble	humble	JJ	CW	ADJ
+story	story	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+did	do	VBD	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+journey	journey	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+some	some	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+gone	go	VBN	CW	VERB
+through	through	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+struggles	struggle	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+destined	destine	VBN	CW	VERB
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+every	every	DT	FW
+story	story	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+story	story	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+based	base	VBN	CW	VERB
+on	on	IN	FW
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+came	come	VBD	CW	VERB
+from	from	IN	FW
+what	what	WDT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+finished	finish	VBN	CW	VERB
+and	and	CC	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+status	status	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+however	however	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+success	success	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+after	after	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+an	a	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+every	every	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+hesitate	hesitate	VB	CW	VERB
+to	to	TO	FW
+stand	stand	VB	CW	VERB
+back	back	RP	FW
+for	for	IN	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+pursue	pursue	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+greatest	greatest	JJS	CW	ADJ
+blessing	blessing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+after	after	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+gone	go	VBN	CW	VERB
+through	through	IN	FW
+failures	failure	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instances	instance	NNS	CW	NOUN	ARGUMENT
+graduating	graduate	VBG	CW	VERB
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+graduating	graduate	VBG	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+fail	fail	VB	CW	VERB
+and	and	CC	FW
+try	try	VB	CW	VERB
+harder	harder	JJR	CW	ADJ
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+some	some	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+within	within	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+making	make	VBG	CW	VERB
+any	any	DT	FW
+move	move	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pursue	pursue	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+planned	planned	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+planning	planning	NNP	CW	NOUN	ARGUMENT
+ahead	ahead	RB	ADV	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+actually	actually	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+prepares	prepare	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+successful	successful	JJ	CW	ADJ
+individual	individual	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+at	at	IN	FW
+this	this	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+planning	plan	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+planned	plan	VBN	CW	VERB
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+what	what	WP	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+waiting	wait	VBG	CW	VERB
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'d	would	MD	FW	aux_or_cop
+rather	rather	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+clean	clean	JJ	CW	ADJ
+conscience	conscience	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+a	a	DT	FW
+successful	successful	JJ	CW	ADJ
+cheater	cheater	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+conclude	conclude	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+in	in	IN	FW
+every	every	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+within	within	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+fate	fate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+thankful	thankful	JJ	CW	ADJ
+of	of	IN	FW
+what	what	WP	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+receiving	receive	VBG	CW	VERB
+at	at	IN	FW
+that	that	DT	FW
+moment	moment	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+humble	humble	JJ	CW	ADJ
+keep	keep	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+feet	foot	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+ground	ground	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+by	by	IN	FW
+saying	say	VBG	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+once	once	RB	ADV	CW
+stand	stand	VB	CW	VERB
+up	up	RP	FW
+twice	twice	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

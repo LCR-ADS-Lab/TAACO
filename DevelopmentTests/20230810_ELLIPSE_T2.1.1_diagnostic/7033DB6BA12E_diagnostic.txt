@@ -1,0 +1,607 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+some	some	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+out	out	RB	ADV	CW
+there	there	RB	ADV	CW
+who	who	WP	FW
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+shorter	short	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+maybe	maybe	RB	ADV	FW
+some	some	DT	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+shorter	short	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+nowadays	nowadays	RB	ADV	FW
+theirs	theirs	PRP	FW	PRONOUN	ARGUMENT
+youtube	youtube	VBP	CW	VERB
+and	and	CC	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+phones	phone	NNS	CW	NOUN	ARGUMENT
+computers	computer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tv	tv	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+so	so	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+learn	learn	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+computers	computer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tv	tv	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+there	there	EX	FW
+s	s	VBZ	CW	VERB
+places	place	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+fair	fair	JJ	CW	ADJ
+for	for	IN	FW
+having	have	VBG	CW	VERB
+shorter	short	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+already	already	RB	ADV	CW
+and	and	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+not	not	RB	ADV	CW
+fun	fun	NN	CW	NOUN	ARGUMENT
+anymore	anymore	RB	ADV	FW
+either	either	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+mean	mean	VBP	CW	VERB
+for	for	IN	FW
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+seen	see	VBN	CW	VERB
+on	on	IN	FW
+twitter	twitter	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+been	been	VBD	FW	aux_or_cop
+hating	hate	VBG	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+guy	guy	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+tells	tell	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+closed	close	VBN	CW	VERB
+or	or	CC	FW
+not	not	RB	ADV	CW
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+hope	hope	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+closed	close	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+looking	look	VBG	CW	VERB
+foward	foward	RB	ADV	CW
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+monday	monday	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+monday	monday	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+worst	bad	JJS	CW	ADJ
+and	and	CC	FW
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+celebreties	celebretie	NNS	CW	NOUN	ARGUMENT
+became	become	VBD	CW	VERB
+famouse	famouse	JJ	CW	ADJ
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+eminem	eminem	NNP	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+rapper	rapper	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+dropped	drop	VBD	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+highschool	highschool	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+became	become	VBD	CW	VERB
+famouse	famouse	JJ	CW	ADJ
+for	for	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+likes	like	VBZ	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+what	what	WP	FW
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+highschool	highschool	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	PDT	FW
+the	the	DT	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+known	know	VBN	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+leave	leave	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+guess	guess	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+fair	fair	JJ	CW	ADJ
+y'know	y'know	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+leave	leave	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+known	know	VBN	CW	VERB
+for	for	IN	FW
+awhile	awhile	RB	ADV	CW
+and	and	CC	FW
+just	just	RB	ADV	CW
+become	become	VB	CW	VERB
+famouse	famouse	JJ	CW	ADJ
+and	and	CC	FW
+while	while	IN	FW	SUBORDINATOR
+there	there	RB	ADV	CW
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+guess	guess	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+all	all	RB	ADV	CW
+agree	agree	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+shorter	short	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+something	something	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+wait	wait	VB	CW	VERB
+intill	intill	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+come	come	VB	CW	VERB
+back	back	RB	ADV	CW
+and	and	CC	FW
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+s	s	VBZ	CW	VERB
+traffic	traffic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+home	home	RB	ADV	CW
+around	around	IN	FW
+8:30	8:30	CD	FW
+to	to	IN	FW
+9:00	9:00	CD	FW
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+that	that	RB	ADV	CW	PRONOUN
+much	much	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+live	live	VBP	CW	VERB
+close	close	RB	ADV	CW
+to	to	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+complain	complain	VB	CW	VERB
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+to	to	IN	FW
+this	this	DT	FW	PRONOUN
+because	because	IN	FW	SUBORDINATOR
+like	like	UH	FW
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+phones	phone	NNS	CW	NOUN	ARGUMENT
+computers	computer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tv	tv	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+on	on	IN	FW
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+for	for	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+10th	10th	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+an	an	DT	FW
+8th	8th	JJ	CW	ADJ
+grader	grader	NN	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+shorter	short	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+nowadays	nowadays	RB	ADV	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+by	by	IN	FW
+ourselfs	ourselfs	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+for	for	IN	FW
+the	the	DT	FW
+preschool	preschool	JJ	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+kindergarden	kindergarden	JJ	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+there	there	RB	ADV	CW
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+longer	long	RBR	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+toddlers	toddler	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+selfs	selfs	NNP	CW	NOUN	ARGUMENT
+but	but	CC	FW
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VB	CW	VERB
+shorter	short	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+hopefully	hopefully	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+to	to	TO	FW
+effect	effect	VB	CW	VERB
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+like	like	UH	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+make	make	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+go	go	VBP	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+coming	come	VBG	CW	VERB
+home	home	RB	ADV	CW
+late	late	RB	ADV	CW
+and	and	CC	FW
+barely	barely	RB	ADV	CW
+have	have	VB	CW	VERB
+anytime	anytime	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+there	there	RB	ADV	CW
+project	project	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

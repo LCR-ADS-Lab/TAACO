@@ -1,0 +1,756 @@
+word	lemma	POS	CW\FW	other categories
+once	once	IN	FW	SUBORDINATOR
+there	there	EX	FW
+was	be	VBD	CW	VERB
+a	a	DT	FW
+girl	girl	NN	CW	NOUN	ARGUMENT
+named	name	VBN	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+studies	study	NNS	CW	NOUN	ARGUMENT
+hard	hard	RB	ADV	CW
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+aims	aim	VBZ	CW	VERB
+high	high	JJ	CW	ADJ
+on	on	IN	FW
+any	any	DT	FW
+of	of	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+exams	exam	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+pass	pass	VB	CW	VERB
+
+sentence break
+
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+month	month	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+results	result	NNS	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+passes	pass	VBZ	CW	VERB
+all	all	PDT	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+exams	exam	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+likewise	likewise	RB	ADV	FW
+the	the	DT	FW
+great	great	JJ	CW	ADJ
+artist	artist	NN	CW	NOUN	ARGUMENT
+michelangelo	michelangelo	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+"	"	``	FW
+the	the	DT	FW
+greater	great	JJR	CW	ADJ
+danger	danger	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+lies	lie	VBZ	CW	VERB
+no	no	UH	FW
+in	in	IN	FW
+setting	set	VBG	CW	VERB
+out	out	RP	FW
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+falling	fall	VBG	CW	VERB
+short	short	JJ	CW	ADJ
+but	but	CC	FW
+in	in	IN	FW
+setting	set	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+aim	aim	VB	CW	VERB
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieve	achieve	VB	CW	VERB
+more	more	JJR	CW	ADJ
+while	while	IN	FW	SUBORDINATOR
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+achieve	achieve	VB	CW	VERB
+more	more	JJR	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+greater	great	JJR	CW	ADJ
+danger	danger	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+lies	lie	VBZ	CW	VERB
+in	in	IN	FW
+setting	set	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+have	have	VBP	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+greater	great	JJR	CW	ADJ
+danger	danger	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+lies	lie	VBZ	CW	VERB
+in	in	IN	FW
+setting	set	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hate	hate	VBP	CW	VERB
+staring	stare	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+whenever	whenever	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+think	think	VBP	CW	VERB
+negative	negative	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+achieve	achieve	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+achieve	achieve	VBP	CW	VERB
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+started	start	VBN	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+to	to	TO	FW
+think	think	VB	CW	VERB
+positive	positive	JJ	CW	ADJ
+on	on	IN	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+end	end	VBP	CW	VERB
+up	up	RP	FW
+happy	happy	JJ	CW	ADJ
+for	for	IN	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+aimed	aim	VBD	CW	VERB
+for	for	IN	FW
+and	and	CC	FW
+achieved	achieve	VBN	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+positive	positive	JJ	CW	ADJ
+on	on	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+aiming	aim	VBG	CW	VERB
+for	for	IN	FW
+
+sentence break
+
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+think	think	VB	CW	VERB
+positive	positive	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+very	very	RB	ADV	CW
+sure	sure	JJ	CW	ADJ
+and	and	CC	FW
+confident	confident	JJ	CW	ADJ
+of	of	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+aiming	aim	VBG	CW	VERB
+for	for	IN	FW
+
+sentence break
+
+for	for	IN	FW
+this	this	DT	FW	PRONOUN
+reason	reason	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+aim	aim	VB	CW	VERB
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+the	the	DT	FW
+greater	great	JJR	CW	ADJ
+danger	danger	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+lies	lie	VBZ	CW	VERB
+in	in	IN	FW
+setting	set	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+aiming	aim	VBG	CW	VERB
+for	for	IN	FW
+
+sentence break
+
+a	a	DT	FW
+psychology	psychology	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+done	do	VBN	CW	VERB
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+test	test	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+goals	goal	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+did	do	VBD	FW	aux_or_cop
+the	the	DT	FW
+study	study	NN	CW	NOUN	ARGUMENT
+explained	explain	VBD	CW	VERB
+why	why	WRB	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+one	one	CD	FW
+do	do	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+explain	explain	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+toward	toward	IN	FW
+which	which	WDT	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+directed	direct	VBN	CW	VERB
+
+sentence break
+
+having	have	VBG	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+aim	aim	VB	CW	VERB
+for	for	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+high	high	JJ	CW	ADJ
+should	should	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+one	one	CD	FW
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+this	this	DT	FW	PRONOUN
+reason	reason	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+aim	aim	VB	CW	VERB
+high	high	RB	ADV	CW
+not	not	RB	ADV	CW
+low	low	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+additionally	additionally	RB	ADV	CW
+the	the	DT	FW
+greater	great	JJR	CW	ADJ
+danger	danger	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+lies	lie	VBZ	CW	VERB
+in	in	IN	FW
+setting	set	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+tv	tv	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+good	good	NNP	CW	NOUN	ARGUMENT
+doctor	doctor	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NNP	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+was	be	VBD	CW	VERB
+only	only	RB	ADV	CW
+20	20	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+chance	chance	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+die	die	VB	CW	VERB
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+believe	believe	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+until	until	IN	FW	SUBORDINATOR
+the	the	DT	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+about	about	JJ	CW	ADJ
+to	to	TO	FW
+die	die	VB	CW	VERB
+so	so	RB	ADV	CW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+the	the	DT	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+live	live	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+very	very	RB	ADV	CW
+well	well	RB	ADV	CW
+and	and	CC	FW
+the	the	DT	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+home	home	RB	ADV	CW
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+tv	tv	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+believe	believe	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+the	the	DT	FW
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+well	well	RB	ADV	CW
+
+sentence break
+
+likewise	likewise	RB	ADV	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+aim	aim	VB	CW	VERB
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+aimed	aim	VBD	CW	VERB
+for	for	IN	FW
+
+sentence break
+
+for	for	IN	FW
+this	this	DT	FW	PRONOUN
+reason	reason	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+aim	aim	VBP	CW	VERB
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieve	achieve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+dangerous	dangerous	JJ	CW	ADJ
+than	than	IN	FW
+aiming	aim	VBG	CW	VERB
+too	too	RB	ADV	CW
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+falling	fall	VBG	CW	VERB
+short	short	JJ	CW	ADJ
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+the	the	DT	FW
+great	great	JJ	CW	ADJ
+artist	artist	NN	CW	NOUN	ARGUMENT
+michelangelo	michelangelo	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+"	"	``	FW
+the	the	DT	FW
+greater	great	JJR	CW	ADJ
+danger	danger	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+lies	lie	VBZ	CW	VERB
+no	no	UH	FW
+in	in	IN	FW
+setting	set	VBG	CW	VERB
+out	out	RP	FW
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+falling	fall	VBG	CW	VERB
+short	short	JJ	CW	ADJ
+but	but	CC	FW
+in	in	IN	FW
+setting	set	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+the	the	DT	FW
+greater	great	JJR	CW	ADJ
+danger	danger	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+lies	lie	VBZ	CW	VERB
+in	in	IN	FW
+setting	set	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+out	out	RP	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+positive	positive	JJ	CW	ADJ
+on	on	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+have	have	VBP	CW	VERB
+steps	step	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+believe	believe	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+setting	set	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+dangerous	dangerous	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

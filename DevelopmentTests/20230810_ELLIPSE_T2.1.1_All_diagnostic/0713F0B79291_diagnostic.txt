@@ -1,0 +1,509 @@
+word	lemma	POS	CW\FW	other categories
+technology	technology	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+alot	alot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+communication	communication	NN	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+live	live	VBP	CW	VERB
+in	in	IN	FW
+different	different	JJ	CW	ADJ
+states	state	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+countries	country	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+disracted	disracte	VBN	CW	VERB
+by	by	IN	FW
+new	new	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+computers	computer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+cellphones	cellphone	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+source	source	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+came	come	VBD	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+for	for	IN	FW
+any	any	DT	FW
+sorts	sort	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+busy	busy	JJ	CW	ADJ
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+or	or	CC	FW
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+an	an	DT	FW
+emergency	emergency	NN	CW	NOUN	ARGUMENT
+occuring	occur	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+momment	momment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+most	most	JJS	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+human	human	JJ	CW	ADJ
+contact	contact	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+due	due	JJ	CW	ADJ
+to	to	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+friendships	friendship	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+relationships	relationship	NNS	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+start	start	VBP	CW	VERB
+off	off	RP	FW
+with	with	IN	FW
+communication	communication	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+exchanging	exchange	VBG	CW	VERB
+phones	phone	NNS	CW	NOUN	ARGUMENT
+numbers	number	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+have	have	VBP	CW	VERB
+some	some	DT	FW
+sort	sort	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+contact	contact	VB	CW	VERB
+with	with	IN	FW
+one	one	CD	FW
+another	another	DT	FW
+
+sentence break
+
+limitation	limitation	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+human	human	JJ	CW	ADJ
+contact	contact	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+due	due	JJ	CW	ADJ
+to	to	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+need	need	VB	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+another	another	DT	FW
+especially	especially	RB	ADV	FW
+family	family	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+companies	company	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+provide	provide	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+foods	food	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+goods	good	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+human	human	JJ	CW	ADJ
+contact	contact	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+love	love	NN	CW	NOUN	ARGUMENT
+ones	one	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+call	call	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+past	past	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+that	that	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+those	those	DT	FW
+urgent	urgent	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+polices	police	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+sorts	sort	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+need	need	VBP	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+get	get	VBP	FW	aux_or_cop
+called	call	VBN	CW	VERB
+in	in	RP	FW
+for	for	IN	FW
+job	job	NN	CW	NOUN	ARGUMENT
+interviews	interview	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+start	start	VBP	CW	VERB
+giving	give	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+once	once	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+getting	get	VBG	CW	VERB
+older	old	JJR	CW	ADJ
+for	for	IN	FW
+contact	contact	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+work	work	VBP	CW	VERB
+in	in	IN	FW
+offices	office	NNS	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+telephones	telephone	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+computers	computer	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+clients	client	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+need	need	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+questions	question	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+need	need	VBP	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+contact	contact	VB	CW	VERB
+parents	parent	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+something	something	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+or	or	CC	FW
+have	have	VBP	CW	VERB
+any	any	DT	FW
+questions	question	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+have	have	VB	CW	VERB
+meetings	meeting	NNS	CW	NOUN	ARGUMENT
+while	while	IN	FW
+on	on	IN	FW
+the	the	DT	FW
+telephone	telephone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+banks	bank	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+companies	company	NNS	CW	NOUN	ARGUMENT
+mostly	mostly	RB	ADV	CW
+need	need	VBP	CW	VERB
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+contact	contact	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+charged	charge	VBN	CW	VERB
+in	in	IN	FW
+tracking	track	VBG	CW	VERB
+decives	decive	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+money	money	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+banks	bank	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+brought	bring	VBN	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+positivity	positivity	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+humans	human	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+use	use	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+strangers	stranger	NNS	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+contacted	contact	VBD	CW	VERB
+one	one	CD	FW
+another	another	DT	FW
+
+sentence break
+
+contacting	contact	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+brought	bring	VBN	CW	VERB
+excitements	excitement	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+humans	human	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+contact	contact	NN	CW	NOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+live	live	VBP	CW	VERB
+miles	mile	NNS	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+distracted	distract	VBN	CW	VERB
+with	with	IN	FW
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+communication	communication	NN	CW	NOUN	ARGUMENT
+towards	towards	IN	FW
+another	another	DT	FW
+or	or	CC	FW
+reading	read	VBG	CW	VERB
+magazines	magazine	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+out	out	RP	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+on	on	RP	FW
+in	in	IN	FW
+the	the	DT	FW
+real	real	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+often	often	RB	ADV	FW
+think	think	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+technology	technology	NNP	CW	NOUN	ARGUMENT
+allows	allow	VBZ	CW	VERB
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+happen	happen	VB	CW	VERB
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+useful	useful	JJ	CW	ADJ
+for	for	IN	FW
+multiple	multiple	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+how	how	WRB	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+helpful	helpful	JJ	CW	ADJ
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+and	and	CC	FW
+contact	contact	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

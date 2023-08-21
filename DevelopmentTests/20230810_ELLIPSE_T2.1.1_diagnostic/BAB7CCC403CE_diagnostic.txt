@@ -1,0 +1,408 @@
+word	lemma	POS	CW\FW	other categories
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+greats	great	NNS	CW	NOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+hear	hear	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+let	let	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+this	this	DT	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+this	this	DT	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+study	study	VB	CW	VERB
+and	and	CC	FW
+study	study	VB	CW	VERB
+until	until	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+worth	worth	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+let	let	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+step	step	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+under	under	IN	FW
+stand	stand	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+let	let	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+let	let	VB	CW	VERB
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+teach	teach	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+review	review	VBP	CW	VERB
+and	and	CC	FW
+review	review	VB	CW	VERB
+until	until	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+under	under	IN	FW
+stand	stand	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+under	under	IN	FW
+stand	stand	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+way	way	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+asking	ask	VBG	CW	VERB
+a	a	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+other	other	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+by	by	IN	FW
+using	use	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+notes	note	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+info	info	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+or	or	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+check	check	VB	CW	VERB
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+videos	video	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+math	math	NN	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+became	become	VBD	CW	VERB
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+believe	believe	VB	CW	VERB
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+way	way	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+ever	ever	RB	ADV	CW
+a	a	DT	FW
+question	question	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+hard	hard	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+other	other	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+to	to	TO	FW
+believe	believe	VB	CW	VERB
+was	be	VBD	FW	aux_or_cop
+to	to	IN	FW
+all	all	DT	FW
+ways	way	NNS	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+another	another	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+answer	answer	VB	CW	VERB
+the	the	DT	FW
+question	question	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+trusted	trust	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+new	new	VBP	CW	VERB
+the	the	DT	FW
+answer	answer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+ways	way	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+became	become	VBD	CW	VERB
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+was	be	VBD	FW	aux_or_cop
+
+sentence break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+answer	answer	VB	CW	VERB
+the	the	DT	FW
+question	question	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+next	next	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+under	under	IN	FW
+stand	stand	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+last	last	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+believe	believe	VB	CW	VERB
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

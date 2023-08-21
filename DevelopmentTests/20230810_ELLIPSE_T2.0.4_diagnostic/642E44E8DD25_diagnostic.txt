@@ -1,0 +1,825 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+have	have	VB	CW	VERB
+some	some	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+field	field	NN	CW	NOUN	ARGUMENT
+trips	trip	NNS	CW	NOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+question	question	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+
+sentence break
+
+this	this	DT	FW
+essay	essay	NN	CW	NOUN	ARGUMENT
+made	make	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+more	more	RBR	ADV	CW
+about	about	IN	FW
+what	what	WP	FW
+job	job	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+i	i	FW	FW
+like	like	IN	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+engineering	engineering	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+put	put	VB	CW	VERB
+all	all	DT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+to	to	TO	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+college	college	NN	CW	NOUN	ARGUMENT
+degrees	degree	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	FW	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+off	off	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+wold	wold	VBD	CW	VERB
+come	come	VBN	CW	VERB
+true	true	JJ	CW	ADJ
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+or	or	CC	FW
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+well	well	RB	ADV	CW
+i	i	FW	FW
+guess	guess	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+another	another	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+pay	pay	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+that	that	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	LS	FW
+will	will	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+all	all	DT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+help	help	VB	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+in	in	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+i	i	FW	FW
+only	only	RB	ADV	CW
+put	put	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+into	into	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+genric_name	genric_name	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+came	come	VBD	CW	VERB
+to	to	TO	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+all	all	DT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sol	sol	NNP	CW	NOUN	ARGUMENT
+thank	thank	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+reading	read	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+essay	essay	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+engineering	engineering	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+another	another	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thats	that	NNS	CW	NOUN	ARGUMENT
+ones	one	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+company	company	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+close	close	JJ	CW	ADJ
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+job	job	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+frying	frying	JJ	CW	ADJ
+airplanes	airplane	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+o	o	NN	CW	NOUN	ARGUMENT
+ways	way	NNS	CW	NOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+fly	fly	VB	CW	VERB
+one	one	CD	FW
+but	but	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+do	do	VB	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+plus	plus	CC	FW
+i	i	FW	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+think	think	VB	CW	VERB
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+just	just	RB	ADV	CW
+to	to	TO	FW
+hard	hard	RB	ADV	CW
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+especially	especially	RB	ADV	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+take	take	VB	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+remember	remember	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+i	i	FW	FW
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+only	only	RB	ADV	CW
+i	i	FW	FW
+put	put	VBD	CW	VERB
+mu	mu	NN	CW	NOUN	ARGUMENT
+effort	effort	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+smart	smart	JJ	CW	ADJ
+only	only	RB	ADV	CW
+when	when	WRB	FW
+i	i	FW	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+o	o	NN	CW	NOUN	ARGUMENT
+ways	way	NNS	CW	NOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+give	give	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+try	try	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+o	o	NN	CW	NOUN	ARGUMENT
+ways	way	NNS	CW	NOUN	ARGUMENT
+ended	end	VBD	CW	VERB
+up	up	IN	FW
+learning	learn	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+i	i	FW	FW
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+understand	understand	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hoe	hoe	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+mad	mad	JJ	CW	ADJ
+when	when	WRB	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+understand	understand	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	LS	FW
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+done	do	VBN	CW	VERB
+good	good	JJ	CW	ADJ
+in	in	IN	FW
+7	7	CD	FW
+and	and	CC	FW
+8th	8th	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+all	all	DT	FW
+of	of	IN	FW
+these	these	DT	FW	PRONOUN
+happen	happen	VB	CW	VERB
+because	because	IN	FW
+i	i	FW	FW
+made	make	VBN	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+flying	fly	VBG	CW	VERB
+airplanes	airplane	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+much	much	RB	ADV	CW
+harder	harder	RBR	ADV	CW
+then	then	RB	ADV	CW
+learning	learn	VBG	CW	VERB
+engineering	engineering	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+put	put	VBN	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+effort	effort	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+engineering	engineering	NNP	CW	NOUN	ARGUMENT
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+do	do	VBP	FW	aux_or_cop
+say	say	VB	CW	VERB
+but	but	CC	FW
+i	i	FW	FW
+wan	wan	FW	FW
+na	na	TO	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+hard	hard	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+on	on	IN	FW
+saturdays	saturdays	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sundays	sundays	NNP	CW	NOUN	ARGUMENT
+i	i	FW	FW
+work	work	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dads	dad	NNS	CW	NOUN	ARGUMENT
+lets	let	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+cut	cut	VB	CW	VERB
+the	the	DT	FW
+grass	grass	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+easy	easy	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+telling	tell	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+i	i	FW	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+be	be	VB	CW	VERB
+like	like	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+those	those	DT	FW
+hot	hot	JJ	CW	ADJ
+days	day	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+guess	guess	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+working	work	VBG	CW	VERB
+all	all	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+very	very	RB	ADV	CW
+hot	hot	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+taught	teach	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+working	work	VBG	CW	VERB
+under	under	IN	FW
+the	the	DT	FW
+sun	sun	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+hard	hard	RB	ADV	CW
+a	a	DT	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+back	back	JJ	CW	ADJ
+hurt	hurt	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+them	they	PRP	FW	PRONOUN	ARGUMENT
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+older	older	JJR	CW	ADJ
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+dough	dough	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+when	when	WRB	FW
+get	get	VB	CW	VERB
+older	older	JJR	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+back	back	RB	ADV	CW
+to	to	TO	FW
+el	el	NNP	CW	NOUN	ARGUMENT
+salvador	salvador	NNP	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+still	still	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+a	a	DT	FW
+engineering	engineering	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+company	company	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+all	all	DT	FW
+about	about	IN	FW
+planning	plan	VBG	CW	VERB
+how	how	WRB	FW
+do	do	VBP	FW	aux_or_cop
+build	build	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+good	good	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+hard	hard	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+very	very	RB	ADV	CW
+series	series	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+do	do	VBP	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+one	one	CD	FW
+of	of	IN	FW
+these	these	DT	FW
+companies	company	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+very	very	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+risk	risk	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+want	want	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+this	this	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+in	in	RP	FW
+order	order	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+get	get	VB	FW	aux_or_cop
+pay	pay	VB	CW	VERB
+very	very	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+to	to	TO	FW
+hard	hard	RB	ADV	CW
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+engineering	engineering	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+checks	check	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+ended	end	VBD	CW	VERB
+up	up	RP	FW
+teaching	teaching	NN	CW	NOUN	ARGUMENT
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+science	science	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+very	very	RB	ADV	CW
+nice	nice	JJ	CW	ADJ
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+that	that	WDT	FW	PRONOUN
+i	i	FW	FW
+talked	talk	VBD	CW	VERB
+about	about	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+teaching	teach	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+prealgebra	prealgebra	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

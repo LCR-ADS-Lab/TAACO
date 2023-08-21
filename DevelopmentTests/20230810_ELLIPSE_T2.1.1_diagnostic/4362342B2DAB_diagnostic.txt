@@ -1,0 +1,478 @@
+word	lemma	POS	CW\FW	other categories
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+"	"	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+never	never	RB	ADV	CW
+loss	loss	NN	CW	NOUN	ARGUMENT
+eagerness	eagerness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+failing	fail	VBG	CW	VERB
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+prevent	prevent	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+achieving	achieve	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+argue	argue	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+encouraging	encourage	VBG	CW	VERB
+words	word	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+failing	fail	VBG	CW	VERB
+in	in	IN	FW
+any	any	DT	FW
+major	major	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lessons	lesson	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+first	first	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+in	in	IN	FW
+the	the	DT	FW
+finial	finial	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+chances	chance	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+making	make	VBG	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+decrease	decrease	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+society	society	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+relevant	relevant	JJ	CW	ADJ
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+learning	learn	VBG	CW	VERB
+from	from	IN	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+succeed	succeed	VB	CW	VERB
+in	in	IN	FW
+any	any	DT	FW
+major	major	JJ	CW	ADJ
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+encouraging	encouraging	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+to	to	TO	FW
+not	not	RB	ADV	CW
+lose	lose	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+persistence	persistence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+prevent	prevent	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+any	any	DT	FW
+of	of	IN	FW
+encouragement	encouragement	NN	CW	NOUN	ARGUMENT
+words	word	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+positive	positive	JJ	CW	ADJ
+energy	energy	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+succeed	succeed	VB	CW	VERB
+or	or	CC	FW
+accomplish	accomplish	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+short	short	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+disagree	disagree	VB	CW	VERB
+with	with	IN	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+failing	fail	VBG	CW	VERB
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+this	this	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+view	view	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+likes	like	VBZ	CW	VERB
+failing	fail	VBG	CW	VERB
+in	in	IN	FW
+any	any	DT	FW
+major	major	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+and	and	CC	FW
+have	have	VB	CW	VERB
+faith	faith	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+ourselves	ourselves	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+succeed	succeed	VB	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+pivotal	pivotal	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+loss	loss	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+sum	sum	VB	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+correct	correct	JJ	CW	ADJ
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+success	success	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+after	after	IN	FW
+failing	fail	VBG	CW	VERB
+but	but	CC	FW
+without	without	IN	FW
+losing	lose	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+faith	faith	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+hope	hope	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+same	same	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+teaches	teach	VBZ	CW	VERB
+us	us	NNP	CW	NOUN	ARGUMENT
+lessons	lesson	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+from	from	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+good	good	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+encouraging	encourage	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+successful	successful	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+hate	hate	VBP	CW	VERB
+failing	fail	VBG	CW	VERB
+and	and	CC	FW
+this	this	DT	FW
+view	view	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+sense	sense	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+no	no	DT	FW
+one	one	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+stand	stand	VB	CW	VERB
+being	be	VBG	FW	aux_or_cop
+loser	loser	JJ	CW	ADJ
+in	in	IN	FW
+any	any	DT	FW
+major	major	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,448 @@
+word	lemma	POS	CW\FW	other categories
+a	a	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+debating	debate	VBG	CW	VERB
+the	the	DT	FW
+adoption	adoption	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+10p	10p	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+m.	m.	NNP	CW	NOUN	ARGUMENT
+weekday	weekday	NNP	CW	NOUN	ARGUMENT
+curfew	curfew	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+keep	keep	NN	CW	NOUN	ARGUMENT
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+do	do	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+unfairly	unfairly	RB	ADV	CW
+interfere	interfere	VB	CW	VERB
+in	in	IN	FW
+young	young	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+
+sentence break
+
+well	well	UH	FW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opponent	opponent	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+a	a	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+trust	trust	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+into	into	IN	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+simple	simple	JJ	CW	ADJ
+like	like	IN	FW
+knowing	know	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+some	some	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+unfairly	unfairly	RB	ADV	CW
+interfere	interfere	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+young	young	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+there	there	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+some	some	DT	FW
+cases	case	NNS	CW	NOUN	ARGUMENT
+making	make	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+totaled	total	VBN	CW	VERB
+uncalled	uncalled	JJ	CW	ADJ
+for	for	IN	FW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+where	where	WRB	FW
+to	to	TO	FW
+actually	actually	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+giving	give	VBG	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+chants	chant	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+responsible	responsible	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+interfere	interfere	JJ	CW	ADJ
+in	in	IN	FW
+young	young	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+having	have	VBG	CW	VERB
+a	a	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+weekends	weekend	NNS	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+around	around	IN	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+understandable	understandable	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+could	could	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+around	around	IN	FW
+the	the	DT	FW
+night	night	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+live	live	VBP	CW	VERB
+in	in	IN	FW
+rundown	rundown	JJ	CW	ADJ
+neighborhoods	neighborhood	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+live	live	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+around	around	IN	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+win	win	VBP	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+home	home	RB	ADV	CW
+but	but	CC	FW
+some	some	DT	FW
+tend	tend	VBP	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+out	out	RP	FW
+a	a	DT	FW
+bit	bit	NN	CW	NOUN	ARGUMENT
+longer	long	RBR	ADV	CW
+that	that	WDT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+why	why	WRB	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+imported	import	VBN	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+on	on	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+weekends	weekend	NNS	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+around	around	IN	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+on	on	IN	FW
+the	the	DT	FW
+streets	street	NNS	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+hours	hour	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+should't	should't	NNP	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+parents	parent	NNS	CW	NOUN	ARGUMENT
+worded	word	VBD	CW	VERB
+about	about	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+some	some	DT	FW
+cases	case	NNS	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+a	a	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+save	save	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+know	know	VB	CW	VERB
+what	what	WP	FW
+could	could	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+where	where	WRB	FW
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+after	after	IN	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+fall	fall	VB	CW	VERB
+into	into	IN	FW
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+crowd	crowd	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+should't	should't	NFP	FW
+stay	stay	VBP	CW	VERB
+no	no	RB	ADV	CW
+later	later	RB	ADV	CW
+then	then	RB	ADV	CW
+10p	10p	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+m.	m.	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+debating	debate	VBG	CW	VERB
+the	the	DT	FW
+adoption	adoption	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+10p	10p	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+m.	m.	NNP	CW	NOUN	ARGUMENT
+weekday	weekday	NNP	CW	NOUN	ARGUMENT
+curfew	curfew	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+some	some	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+unfairly	unfairly	RB	ADV	CW
+interfere	interfere	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+young	young	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+
+sentence break
+
+having	have	VBG	CW	VERB
+a	a	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+weekends	weekend	NNS	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+around	around	IN	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+understandable	understandable	JJ	CW	ADJ
+
+sentence break
+
+on	on	IN	FW
+the	the	DT	FW
+streets	street	NNS	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+hours	hour	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+should't	should't	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+imported	import	VBN	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+responsible	responsible	JJ	CW	ADJ
+and	and	CC	FW
+aks	ak	VBZ	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

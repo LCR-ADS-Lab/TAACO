@@ -1,0 +1,861 @@
+word	lemma	POS	CW\FW	other categories
+now	now	RB	ADV	CW
+a	a	DT	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+schools	school	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+finding	find	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+use	use	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+new	new	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+educate	educate	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+through	through	IN	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+every	every	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+attracted	attract	VBN	CW	VERB
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+with	with	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+ways	way	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+works	work	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+have	have	VB	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+effects	effect	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+using	use	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+getting	get	VBG	CW	VERB
+off	off	RP	FW
+tasks	task	NNS	CW	NOUN	ARGUMENT
+no	no	DT	FW
+more	more	JJR	CW	ADJ
+hands	hand	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+learning	learning	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+to	to	IN	FW
+relying	rely	VBG	CW	VERB
+too	too	RB	ADV	CW
+much	much	RB	ADV	CW
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+learning	learning	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+process	process	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+this	this	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+focus	focus	VB	CW	VERB
+or	or	CC	FW
+get	get	VB	CW	VERB
+off	off	IN	FW
+task	task	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+method	method	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+educate	educate	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+tend	tend	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+distracted	distract	VBN	CW	VERB
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+suppose	suppose	VBN	CW	VERB
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+end	end	VB	CW	VERB
+up	up	RP	FW
+dozing	doze	VBG	CW	VERB
+off	off	RP	FW
+and	and	CC	FW
+start	start	VB	CW	VERB
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+to	to	IN	FW
+music	music	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+end	end	VB	CW	VERB
+up	up	RP	FW
+playing	play	VBG	CW	VERB
+games	game	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+focus	focus	VB	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+'s	be	VBZ	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+taught	teach	VBN	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+with	with	IN	FW
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+so	so	RB	ADV	CW
+big	big	JJ	CW	ADJ
+now	now	RB	ADV	CW
+a	a	DT	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+focus	focus	VB	CW	VERB
+more	more	RBR	ADV	CW
+on	on	IN	FW
+texting	texting	NN	CW	NOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+being	be	VBG	FW	aux_or_cop
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+snapchat	snapchat	NNP	CW	NOUN	ARGUMENT
+instagram	instagram	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+twitter	twitter	NNP	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+than	than	IN	FW
+focusing	focus	VBG	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+showing	show	VBG	CW	VERB
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+getting	get	VBG	CW	VERB
+more	more	RBR	ADV	CW
+distracted	distracted	JJ	CW	ADJ
+and	and	CC	FW
+off	off	IN	FW
+task	task	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+use	use	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+paragraph	paragraph	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+about	about	IN	FW
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+using	use	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+negative	negative	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+this	this	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+more	more	JJR	CW	ADJ
+hands	hand	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+learning	learn	VBG	CW	VERB
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+using	use	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+method	method	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+getting	get	VBG	CW	VERB
+the	the	DT	FW
+hands	hand	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+learning	learn	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+
+sentence break
+
+back	back	RB	ADV	CW
+then	then	RB	ADV	CW
+before	before	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+taught	teach	VBN	CW	VERB
+was	be	VBD	FW	aux_or_cop
+with	with	IN	FW
+the	the	DT	FW
+step	step	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+step	step	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ended	end	VBD	CW	VERB
+up	up	RP	FW
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classrooms	classroom	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+the	the	DT	FW
+step	step	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+step	step	NN	CW	NOUN	ARGUMENT
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+than	than	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+just	just	RB	ADV	CW
+getting	get	VBG	CW	VERB
+the	the	DT	FW
+answers	answer	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+using	use	VBG	CW	VERB
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+specific	specific	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+work	work	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+those	those	DT	FW	PRONOUN
+who	who	WP	FW
+learn	learn	VBP	CW	VERB
+the	the	DT	FW
+step	step	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+step	step	NN	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+paragraph	paragraph	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+using	use	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classrooms	classroom	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+this	this	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+relying	rely	VBG	CW	VERB
+too	too	RB	ADV	CW
+much	much	RB	ADV	CW
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+end	end	VBP	CW	VERB
+up	up	RP	FW
+using	use	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+relying	rely	VBG	CW	VERB
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+theresleves	theresleve	VBZ	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+imagine	imagine	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+end	end	VBP	CW	VERB
+up	up	RP	FW
+not	not	RB	ADV	CW
+working	work	VBG	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+used	use	VBD	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+what	what	WP	FW
+are	be	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+now	now	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+use	use	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+the	the	DT	FW
+material	material	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+
+sentence break
+
+with	with	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+using	use	VBG	CW	VERB
+phones	phone	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+teaching	teach	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+effect	effect	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+ways	way	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+learning	learn	VBG	CW	VERB
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+to	to	TO	FW
+rely	rely	VB	CW	VERB
+on	on	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+later	later	JJ	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+paragraph	paragraph	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+concluded	conclude	VBN	CW	VERB
+the	the	DT	FW
+paper	paper	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sum	sum	VB	CW	VERB
+up	up	RP	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+paper	paper	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+more	more	JJR	CW	ADJ
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+end	end	VBP	CW	VERB
+up	up	RP	FW
+using	use	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+more	more	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+get	get	VB	FW	aux_or_cop
+distracted	distract	VBN	CW	VERB
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+hands	hand	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+learning	learn	VBG	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+and	and	CC	FW
+also	also	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+to	to	TO	FW
+rely	rely	VB	CW	VERB
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+for	for	IN	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+than	than	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+them	they	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+used	use	VBN	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+method	method	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+learning	learn	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+not	not	RB	ADV	CW
+giving	give	VBG	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+but	but	CC	FW
+rather	rather	RB	ADV	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+showing	show	VBG	CW	VERB
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+quicker	quick	RBR	ADV	CW
+without	without	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+extra	extra	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+stick	stick	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+methods	method	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+now	now	RB	ADV	CW
+and	and	CC	FW
+not	not	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+add	add	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+another	another	DT	FW
+method	method	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+teaching	teach	VBG	CW	VERB
+these	these	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

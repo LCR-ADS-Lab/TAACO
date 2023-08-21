@@ -1,0 +1,441 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+what	what	WDT	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+like	like	IN	FW
+
+sentence break
+
+some	some	DT	FW
+will	will	MD	FW	aux_or_cop
+simply	simply	RB	ADV	CW
+just	just	RB	ADV	CW
+not	not	RB	ADV	CW
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+think	think	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+minds	mind	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+say	say	VBP	CW	VERB
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+show	show	VB	CW	VERB
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+think	think	VBP	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+common	common	JJ	CW	ADJ
+
+sentence break
+
+especially	especially	RB	ADV	FW
+when	when	WRB	FW
+meeting	meet	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+before	before	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+think	think	VBP	CW	VERB
+to	to	TO	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+have	have	VBP	CW	VERB
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+without	without	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+even	even	RB	ADV	CW
+knowing	know	VBG	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+happens	happen	VBZ	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+say	say	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+aloud	aloud	RB	ADV	FW
+
+sentence break
+
+those	those	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+okay	okay	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+only	only	RB	ADV	CW
+a	a	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+only	only	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+little	little	JJ	CW	ADJ
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+assume	assume	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+which	which	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+at	at	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+looking	look	VBG	CW	VERB
+at	at	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+determine	determine	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+match	match	VBP	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+plenty	plenty	JJ	CW	ADJ
+about	about	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+prime	prime	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+made	make	VBD	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+by	by	IN	FW
+saying	say	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+had	have	VBD	CW	VERB
+a	a	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	CW	VERB
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+look	look	VB	CW	VERB
+at	at	IN	FW
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+count	count	VBP	CW	VERB
+when	when	WRB	FW
+meeting	meet	VBG	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+say	say	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+say	say	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+or	or	CC	FW
+funny	funny	JJ	CW	ADJ
+
+sentence break
+
+stating	state	VBG	CW	VERB
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+a	a	DT	FW
+conversation	conversation	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+lead	lead	VBP	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+stated	state	VBD	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+has	have	VBZ	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+told	tell	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

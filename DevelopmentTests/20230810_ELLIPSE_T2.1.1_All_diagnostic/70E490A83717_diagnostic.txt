@@ -1,0 +1,385 @@
+word	lemma	POS	CW\FW	other categories
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+winter	winter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+making	make	VBG	CW	VERB
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+longer	long	RBR	ADV	CW
+than	than	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+off	off	RP	FW
+in	in	IN	FW
+spring	spring	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fall	fall	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+back	back	RB	ADV	CW
+from	from	IN	FW
+break	break	NN	CW	NOUN	ARGUMENT
+regardless	regardless	RB	ADV	FW
+of	of	IN	FW
+the	the	DT	FW
+season	season	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+most	most	RBS	ADV	CW
+likely	likely	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+retain	retain	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+gone	go	VBN	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+a	a	DT	FW
+longer	long	JJR	CW	ADJ
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+why	why	WRB	FW
+should	should	MD	FW	aux_or_cop
+educators	educator	NNS	CW	NOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+longer	long	JJR	CW	ADJ
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+retain	retain	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+a	a	DT	FW
+longer	long	JJR	CW	ADJ
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+enjoyable	enjoyable	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+retain	retain	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+learning	learn	VBG	CW	VERB
+targets	target	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+waste	waste	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+having	have	VBG	CW	VERB
+a	a	DT	FW
+longer	long	JJR	CW	ADJ
+winter	winter	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+extend	extend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+causing	cause	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+lost	lose	VBN	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+season	season	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+break	break	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+enjoyable	enjoyable	JJ	CW	ADJ
+either	either	CC	FW
+cause	cause	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+cold	cold	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+certainly	certainly	RB	ADV	CW
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+remember	remember	VB	CW	VERB
+the	the	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+s	s	VBZ	CW	VERB
+a	a	DT	FW
+break	break	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+enjoy	enjoy	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+maybe	maybe	RB	ADV	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+into	into	IN	FW
+consideration	consideration	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+review	review	VB	CW	VERB
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+learned	learn	VBN	CW	VERB
+during	during	IN	FW
+the	the	DT	FW
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+assign	assign	VB	CW	VERB
+online	online	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+review	review	NN	CW	NOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+memorize	memorize	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+once	once	RB	ADV	CW
+a	a	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+return	return	VBP	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+others	other	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+behind	behind	RB	ADV	CW
+on	on	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+remember	remember	VB	CW	VERB
+the	the	DT	FW
+objectives	objective	NNS	CW	NOUN	ARGUMENT
+taught	teach	VBN	CW	VERB
+
+sentence break
+
+a	a	DT	FW
+longer	long	JJR	CW	ADJ
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+possibly	possibly	RB	ADV	FW
+help	help	VB	CW	VERB
+the	the	DT	FW
+scholar	scholar	NN	CW	NOUN	ARGUMENT
+remember	remember	VB	CW	VERB
+what	what	WP	FW
+was	be	VBD	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+to	to	TO	FW
+revise	revise	VB	CW	VERB
+and	and	CC	FW
+analyze	analyze	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+given	give	VBN	CW	VERB
+to	to	IN	FW
+in	in	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+season	season	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+retain	retain	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+unless	unless	IN	FW	SUBORDINATOR
+the	the	DT	FW
+individual	individual	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+studying	study	VBG	CW	VERB
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+overall	overall	RB	ADV	CW
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+longer	long	JJR	CW	ADJ
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

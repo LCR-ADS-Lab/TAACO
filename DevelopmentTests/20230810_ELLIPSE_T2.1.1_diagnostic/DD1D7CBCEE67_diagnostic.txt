@@ -1,0 +1,334 @@
+word	lemma	POS	CW\FW	other categories
+a	a	DT	FW
+teens	teen	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+distance	distance	NN	CW	NOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	an	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+attent	attent	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+online	online	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+conferencing	conferencing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+more	more	RBR	ADV	CW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+after	after	IN	FW	SUBORDINATOR
+take	take	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+made	make	VBD	CW	VERB
+more	more	JJR	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+pay	pay	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+bills	bill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+madse	madse	NN	CW	NOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+play	play	VB	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+leran	leran	VB	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+watch	watch	VB	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+take	take	VB	CW	VERB
+all	all	PDT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+online	online	RB	ADV	FW
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+better	well	JJR	CW	ADJ
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+pass	pass	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+game	game	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+pay	pay	NN	CW	NOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+a	a	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+online	online	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+begining	begin	VBG	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+prompt	prompt	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+better	well	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+and	and	CC	FW
+pass	pass	VB	CW	VERB
+all	all	PDT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+study	study	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+made	make	VBD	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+oppurtunity	oppurtunity	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+graduation	graduation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+take	take	VB	CW	VERB
+a	a	DT	FW
+online	online	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+better	well	JJR	CW	ADJ
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+mall	mall	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+take	take	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+or	or	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+many	many	JJ	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+to	to	TO	FW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+better	well	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+the	the	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+yuo	yuo	NNP	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

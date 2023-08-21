@@ -1,0 +1,395 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+offer	offer	NN	CW	NOUN	ARGUMENT
+programs	program	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+not	not	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+think	think	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+unnecessary	unnecessary	JJ	CW	ADJ
+but	but	CC	FW
+each	each	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+owns	own	VBZ	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+circumstances	circumstance	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+this	this	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+not	not	RB	ADV	CW
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+work	work	VB	CW	VERB
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	FW	FW
+come	come	VBN	CW	VERB
+here	here	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+change	change	VB	CW	VERB
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+lats	lat	NNS	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+graduation	graduation	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+3	3	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	FW	FW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+this	this	DT	FW
+programs	program	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+reality	reality	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+care	care	NNP	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+parents	parent	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+grand-pa	grand-pa	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+grand-ma	grand-ma	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+responsibilities	responsibility	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+planning	plan	VBG	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+social	social	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+care	care	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+job	job	NNP	CW	NOUN	ARGUMENT
+family	family	NNP	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+money	money	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+to	to	TO	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+dad	dad	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+those	those	DT	FW
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+real	real	JJ	CW	ADJ
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+buy	buy	VB	CW	VERB
+a	a	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+computer	computer	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+university	university	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+save	save	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+case	case	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+an	a	DT	FW
+emergency	emergency	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+school	school	NNP	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+many	many	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+each	each	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+necessary	necessary	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+graduate	graduate	NN	CW	NOUN	ARGUMENT
+3-7	3-7	CD	FW
+class	class	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+projects	project	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+each	each	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+a	a	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+3	3	CD	FW
+or	or	CC	FW
+4	4	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+the	the	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+honestly	honestly	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+short	short	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+6	6	CD	FW
+sol	sol	NNP	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+7	7	CD	FW
+periods	period	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+any	any	DT	FW
+elective	elective	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW	SUBORDINATOR
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+better	better	JJR	CW	ADJ
+option	option	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+graduate	graduate	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+nevertheless	nevertheless	RB	ADV	FW
+the	the	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+life	life	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+this	this	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+hard	hard	RB	ADV	CW
+because	because	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+take	take	VB	CW	VERB
+a	a	DT	FW
+offer	offer	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+sound	sound	VB	CW	VERB
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+option	option	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+each	each	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+owns	own	VBZ	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+circumstances	circumstance	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

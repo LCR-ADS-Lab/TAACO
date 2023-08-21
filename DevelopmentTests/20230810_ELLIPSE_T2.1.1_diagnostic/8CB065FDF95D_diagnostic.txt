@@ -1,0 +1,525 @@
+word	lemma	POS	CW\FW	other categories
+splash	splash	VB	CW	VERB
+splash	splash	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+waves	wave	NNS	CW	NOUN	ARGUMENT
+splashes	splash	VBZ	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+beach	beach	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+sun	sun	NN	CW	NOUN	ARGUMENT
+shines	shine	VBZ	CW	VERB
+reflects	reflect	VBZ	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+ocean	ocean	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+cheers	cheer	VBZ	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+surfers	surfer	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+competition	competition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+experience	experience	VB	CW	VERB
+the	the	DT	FW
+nice	nice	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	UH	FW
+visit	visit	VB	CW	VERB
+famous	famous	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+important	important	JJ	CW	ADJ
+historical	historical	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+nice	nice	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+located	locate	VBN	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+above	above	IN	FW
+the	the	DT	FW
+equator	equator	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+makes	make	VBZ	CW	VERB
+the	the	DT	FW
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+few	few	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+earth	earth	NNP	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	CW	VERB
+warm	warm	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+an	an	DT	FW
+entire	entire	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+this	this	DT	FW
+warm	warm	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+warm	warm	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+wear	wear	VB	CW	VERB
+comfortable	comfortable	JJ	CW	ADJ
+cloths	cloth	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+having	have	VBG	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+getting	get	VBG	CW	VERB
+cold	cold	JJ	CW	ADJ
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+any	any	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+the	the	DT	FW
+winter	winter	NN	CW	NOUN	ARGUMENT
+arrived	arrive	VBD	CW	VERB
+in	in	IN	FW
+virginia	virginia	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+wear	wear	VB	CW	VERB
+thick	thick	JJ	CW	ADJ
+cloths	cloth	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+weather	weather	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+colder	cold	JJR	CW	ADJ
+but	but	CC	FW
+in	in	IN	FW
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+weather	weather	NN	CW	NOUN	ARGUMENT
+rarely	rarely	RB	ADV	CW
+gets	get	VBZ	CW	VERB
+cold	cold	JJ	CW	ADJ
+which	which	WDT	FW
+gives	give	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+choices	choice	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+wear	wear	VB	CW	VERB
+whatever	whatever	WDT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+chose	choose	VBD	CW	VERB
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+few	few	JJ	CW	ADJ
+famous	famous	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+
+sentence break
+
+in	in	IN	FW
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+volcano	volcano	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+for	for	IN	FW
+multiple	multiple	JJ	CW	ADJ
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+that	that	DT	FW
+volcano	volcano	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+releasing	release	VBG	CW	VERB
+lava	lava	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+gases	gas	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+ten	ten	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+in	in	IN	FW
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+giant	giant	JJ	CW	ADJ
+tree	tree	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+
+sentence break
+
+that	that	DT	FW
+tree	tree	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+known	know	VBN	CW	VERB
+for	for	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+beautiful	beautiful	JJ	CW	ADJ
+color	color	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+leaves	leave	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+the	the	DT	FW
+tree	tree	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+
+sentence break
+
+that	that	DT	FW
+tree	tree	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+big	big	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+makes	make	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+look	look	VB	CW	VERB
+like	like	IN	FW
+an	an	DT	FW
+ant	ant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+third	third	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+historical	historical	JJ	CW	ADJ
+museum	museum	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+since	since	IN	FW
+sixth	sixth	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	IN	FW
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+definitely	definitely	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+pearl	pearl	NNP	CW	NOUN	ARGUMENT
+harbor	harbor	NNP	CW	NOUN	ARGUMENT
+museum	museum	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+pearl	pearl	NNP	CW	NOUN	ARGUMENT
+harbor	harbor	NNP	CW	NOUN	ARGUMENT
+museum	museum	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+unique	unique	JJ	CW	ADJ
+and	and	CC	FW
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+made	make	VBN	CW	VERB
+on	on	IN	FW
+top	top	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+biggest	big	JJS	CW	ADJ
+united	united	NNP	CW	NOUN	ARGUMENT
+state	state	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+military	military	JJ	CW	ADJ
+ship	ship	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+this	this	DT	FW	PRONOUN
+allows	allow	VBZ	CW	VERB
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+this	this	DT	FW
+big	big	JJ	CW	ADJ
+military	military	JJ	CW	ADJ
+ship	ship	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+sank	sink	VBN	CW	VERB
+by	by	IN	FW
+japanese	japanese	JJ	CW	ADJ
+suprise	suprise	NN	CW	NOUN	ARGUMENT
+attack	attack	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+world	world	NNP	CW	NOUN	ARGUMENT
+war	war	NNP	CW	NOUN	ARGUMENT
+two	two	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+during	during	IN	FW
+sixth	sixth	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW
+attack	attack	NN	CW	NOUN	ARGUMENT
+made	make	VBD	CW	VERB
+united	united	NNP	CW	NOUN	ARGUMENT
+states	states	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+isolation	isolation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+join	join	VB	CW	VERB
+the	the	DT	FW
+war	war	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	WDT	FW	PRONOUN
+made	make	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+this	this	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+any	any	DT	FW
+other	other	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+cool	cool	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+important	important	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+chose	choose	VBD	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+any	any	DT	FW
+other	other	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

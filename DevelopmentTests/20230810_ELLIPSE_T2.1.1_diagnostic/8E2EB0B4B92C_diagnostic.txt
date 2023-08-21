@@ -1,0 +1,596 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	VBD	CW	VERB
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+wrote	write	VBD	CW	VERB
+"	"	``	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+that	that	DT	FW	PRONOUN
+but	but	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+also	also	RB	ADV	CW
+others	other	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+may	may	MD	FW	aux_or_cop
+disagree	disagree	VB	CW	VERB
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+saying	saying	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+would	would	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+one	one	CD	FW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+what	what	WP	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+relieved	relieve	VBN	CW	VERB
+not	not	RB	ADV	CW
+pretending	pretend	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+somethings	something	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+
+sentence break
+
+last	last	JJ	CW	ADJ
+but	but	CC	FW
+not	not	RB	ADV	CW
+least	least	JJS	CW	ADJ
+three	three	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+the	the	DT	FW
+real	real	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+wrote	write	VBD	CW	VERB
+"	"	``	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+one	one	CD	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+what	what	WP	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	RB	ADV	CW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+boost	boost	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+worry	worry	VBP	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+stressing	stress	VBG	CW	VERB
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+
+sentence break
+
+think	think	VB	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+one	one	CD	FW
+wrote	write	VBD	CW	VERB
+"	"	``	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+"	"	``	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+this	this	DT	FW
+a	a	DT	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+wrote	write	VBD	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+or	or	CC	FW
+disagree	disagree	VB	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+there	there	EX	FW
+own	own	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+however	however	RB	ADV	FW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+quote	quote	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+relieved	relieved	JJ	CW	ADJ
+not	not	RB	ADV	CW
+pretending	pretend	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+pretending	pretend	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+stress	stress	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+pressured	pressured	JJ	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+like	like	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+will	will	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+good	good	JJ	CW	ADJ
+about	about	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+pretending	pretend	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+wrote	write	VBD	CW	VERB
+"	"	``	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+why	why	WRB	FW
+do	do	VBP	FW	aux_or_cop
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+quote	quote	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+many	many	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+the	the	DT	FW
+real	real	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+being	be	VBG	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+around	around	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+less	less	RBR	ADV	CW
+confident	confident	JJ	CW	ADJ
+about	about	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+pretending	pretending	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+guilty	guilty	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+lying	lie	VBG	CW	VERB
+to	to	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+think	think	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	VBD	CW	VERB
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+wrote	write	VBD	CW	VERB
+"	"	``	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+and	and	CC	FW
+many	many	JJ	CW	ADJ
+disagree	disagree	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+all	all	RB	ADV	CW
+entitled	entitle	VBN	CW	VERB
+to	to	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+completely	completely	RB	ADV	CW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+quote	quote	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+one	one	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+what	what	WP	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+two	two	CD	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+relieved	relieve	VBN	CW	VERB
+not	not	RB	ADV	CW
+pretending	pretend	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+somethings	something	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+and	and	CC	FW
+three	three	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+the	the	DT	FW
+real	real	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+become	become	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+do	do	VB	CW	VERB
+what	what	WP	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+comfortable	comfortable	JJ	CW	ADJ
+
+sentence break
+
+think	think	VB	CW	VERB
+to	to	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+before	before	IN	FW
+choosing	choose	VBG	CW	VERB
+what	what	WP	FW
+s	s	VBZ	CW	VERB
+best	good	JJS	CW	ADJ
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,394 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+importance	importance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+an	an	DT	FW
+ugly	ugly	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+eating	eat	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+anyhow	anyhow	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+eating	eating	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+no	no	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+next	next	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+inpressions	inpression	NNS	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+try	try	VBP	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+shopping	shopping	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+saw	saw	VB	CW	VERB
+the	the	DT	FW
+appraisal	appraisal	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+any	any	DT	FW
+restaurant	restaurant	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+a	a	DT	FW
+perfect	perfect	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+waiting	wait	VBG	CW	VERB
+for	for	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+15	15	CD	FW
+minute	minute	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+15	15	CD	FW
+minute	minute	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+coming	come	VBG	CW	VERB
+but	but	CC	FW
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+squeamish	squeamish	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+disappointment	disappointment	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feeling	feel	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+eating	eat	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+are	be	VBP	FW	aux_or_cop
+pretty	pretty	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+desk	desk	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+care	care	VB	CW	VERB
+how	how	WRB	FW
+was	be	VBD	FW	aux_or_cop
+food	food	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+try	try	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+first	first	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+introduce	introduce	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+guy	guy	NN	CW	NOUN	ARGUMENT
+talking	talk	VBG	CW	VERB
+too	too	RB	ADV	CW
+mach	mach	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+mouth	mouth	NN	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+just	just	RB	ADV	CW
+like	like	IN	FW
+fly	fly	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hate	hate	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+too	too	RB	ADV	CW
+much	much	RB	ADV	CW
+and	and	CC	FW
+want	want	VB	CW	VERB
+quiet	quiet	JJ	CW	ADJ
+
+sentence break
+
+than	than	IN	FW	SUBORDINATOR
+behave	behave	VBP	CW	VERB
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+guy	guy	NN	CW	NOUN	ARGUMENT
+let	let	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+discontent	discontent	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+hate	hate	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+guy	guy	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+want	want	VBP	CW	VERB
+leave	leave	VB	CW	VERB
+to	to	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+impression	impression	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+let	let	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+apart	apart	RB	ADV	FW
+to	to	IN	FW
+this	this	DT	FW	PRONOUN
+guy	guy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+third	third	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+shopping	shop	VBG	CW	VERB
+with	with	IN	FW
+best	good	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+here	here	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+new	new	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+guys	guy	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+came	come	VBD	CW	VERB
+only	only	RB	ADV	CW
+1	1	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+anywhere	anywhere	RB	ADV	FW
+to	to	IN	FW
+shop	shop	VB	CW	VERB
+than	than	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+check	check	VB	CW	VERB
+to	to	TO	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+find	find	VBP	CW	VERB
+a	a	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+pretty	pretty	JJ	CW	ADJ
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+however	however	RB	ADV	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+the	the	DT	FW
+all	all	DT	FW
+appraisal	appraisal	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+only	only	RB	ADV	CW
+3	3	CD	FW
+or	or	CC	FW
+4	4	CD	FW
+appraisal	appraisal	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+other	other	JJ	CW	ADJ
+one	one	CD	FW
+because	because	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+the	the	DT	FW
+quality	quality	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+needs	need	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+one	one	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+in	in	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+regardless	regardless	RB	ADV	FW
+to	to	TO	FW
+change	change	VB	CW	VERB
+arise	arise	VB	CW	VERB
+in	in	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+head	head	VBP	CW	VERB
+almost	almost	RB	ADV	FW
+are	be	VBP	FW	aux_or_cop
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+an	an	DT	FW
+effect	effect	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+meet	meet	VB	CW	VERB
+are	be	VBP	FW	aux_or_cop
+unforgettable	unforgettable	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

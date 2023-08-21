@@ -1,0 +1,425 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+im	im	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+hard-working	hard-working	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+play	play	VB	CW	VERB
+sport	sport	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+volunteer	volunteer	VB	CW	VERB
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+or	or	CC	FW
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+stocker	stocker	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+now	now	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+manager	manager	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+put	put	VB	CW	VERB
+all	all	DT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+heart	heart	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+miss	miss	VBP	CW	VERB
+a	a	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+late	late	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+ready	ready	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+check	check	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+every	every	DT	FW
+is	be	VBZ	CW	VERB
+done	do	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+before	before	IN	FW
+the	the	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+and	and	CC	FW
+set	set	VBN	CW	VERB
+plan	plan	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBD	CW	VERB
+one	one	CD	FW
+hundred	hundred	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+to	to	TO	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+task	task	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+lazy	lazy	JJ	CW	ADJ
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+any	any	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+complete	complete	JJ	CW	ADJ
+any	any	DT	FW
+task	task	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+boss	boss	NN	CW	NOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+a	a	DT	FW
+hard-worker	hard-worker	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+than	than	IN	FW
+a	a	DT	FW
+lazy	lazy	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+any	any	DT	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+hard-working	hard-working	JJ	CW	ADJ
+and	and	CC	FW
+responsible	responsible	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+responsible	responsible	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+important	important	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+ask	ask	VBP	CW	VERB
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+any	any	DT	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hire	hire	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+most	most	JJS	CW	ADJ
+employers	employer	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+specific	specific	JJ	CW	ADJ
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+potential	potential	JJ	CW	ADJ
+employee	employee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+never	never	RB	ADV	CW
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hire	hire	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+hard-working	hard-working	JJ	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+employers	employer	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+volunteering	volunteer	VBG	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+working	work	VBG	CW	VERB
+with	with	IN	FW
+job	job	NN	CW	NOUN	ARGUMENT
+owners	owner	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+helper	helper	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+take	take	VBP	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+work	work	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+bookkeeper	bookkeeper	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+having	have	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+than	than	IN	FW
+being	be	VBG	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+having	have	VBG	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+having	have	VBG	CW	VERB
+responsible	responsible	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+employers	employer	NNS	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+with	with	IN	FW
+important	important	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+manged	mang	VBD	CW	VERB
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+check	check	VBP	CW	VERB
+out	out	RP	FW
+book	book	NN	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+clean	clean	VBP	CW	VERB
+the	the	DT	FW
+library	library	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+later	later	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+volunteer	volunteer	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+two	two	CD	FW
+company	company	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+filer	filer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+plan	plan	VBP	CW	VERB
+paper	paper	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+employer	employer	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+done	do	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+

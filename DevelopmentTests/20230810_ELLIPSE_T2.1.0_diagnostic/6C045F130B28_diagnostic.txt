@@ -1,0 +1,536 @@
+word	lemma	POS	CW\FW	other categories
+technology	technology	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+today	today	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+advance	advance	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+both	both	CC	FW
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+negative	negative	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+according	accord	VBG	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+change	change	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+style	style	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+living	living	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+some	some	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+slow	slow	JJ	CW	ADJ
+downs	down	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+physical	physical	JJ	CW	ADJ
+growth	growth	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+development	development	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+stops	stop	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+learning	learn	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+many	many	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+save	save	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+modern	modern	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+negative	negative	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+check	check	VB	CW	VERB
+out	out	RP	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+shop	shop	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+play	play	VB	CW	VERB
+games	game	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+moving	move	VBG	CW	VERB
+form	form	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+talking	talk	VBG	CW	VERB
+to	to	IN	FW
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+leads	lead	VBZ	CW	VERB
+to	to	IN	FW
+no	no	DT	FW
+physical	physical	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+slow	slow	VBP	CW	VERB
+downs	down	NNS	CW	NOUN	ARGUMENT
+physical	physical	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+was	be	VBD	CW	VERB
+a	a	DT	FW
+survey	survey	NN	CW	NOUN	ARGUMENT
+taken	take	VBN	CW	VERB
+few	few	JJ	CW	ADJ
+days	day	NNS	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+states	state	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+45	45	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+middle	middle	JJ	CW	ADJ
+schoolers	schooler	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+u.s.a	u.s.a	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+some	some	DT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+vitamin	vitamin	NN	CW	NOUN	ARGUMENT
+medicine	medicine	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+the	the	DT	FW
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+eat	eat	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+properly	properly	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+watch	watch	VBP	CW	VERB
+t.	t.	NNP	CW	NOUN	ARGUMENT
+v	v	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+phone	phone	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+taking	take	VBG	CW	VERB
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+38	38	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+middle	middle	JJ	CW	ADJ
+schoolers	schooler	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+glasses	glass	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+sitting	sit	VBG	CW	VERB
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+tv	tv	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+using	use	VBG	CW	VERB
+phone	phone	NN	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+46	46	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+overweight	overweight	JJ	CW	ADJ
+or	or	CC	FW
+underweight	underweight	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+much	much	JJ	CW	ADJ
+physical	physical	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+technology	technology	NN	CW	NOUN	ARGUMENT
+stops	stop	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+learning	learn	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+new	new	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+taking	take	VBG	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+trying	try	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+learning	learn	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+a	a	DT	FW
+habit	habit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+letting	let	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+do	do	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+stopped	stop	VBD	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+spoon	spoon	NN	CW	NOUN	ARGUMENT
+feeding	feed	VBG	CW	VERB
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+granted	grant	VBN	CW	VERB
+and	and	CC	FW
+never	never	RB	ADV	CW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+but	but	CC	FW
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+many	many	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+save	save	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+delayed	delay	VBN	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+complete	complete	VBP	CW	VERB
+task	task	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+faster	fast	RBR	ADV	CW
+than	than	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+helps	help	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+save	save	VB	CW	VERB
+25	25	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+an	an	DT	FW
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+on	on	IN	FW
+monday	monday	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+deadline	deadline	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+submit	submit	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+on	on	IN	FW
+friday	friday	NNP	CW	NOUN	ARGUMENT
+so	so	CC	FW
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+read	read	VB	CW	VERB
+books	book	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+some	some	DT	FW
+info	info	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+at	at	RB	ADV	FW
+least	least	RBS	ADV	CW
+2	2	CD	FW
+weeks	week	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+thanks	thank	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+modern	modern	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+3	3	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+at	at	IN	FW
+last	last	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	UH	FW
+conclude	conclude	VB	CW	VERB
+that	that	DT	FW	SUBORDINATOR	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+a	a	DT	FW
+major	major	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+day	day	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+both	both	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+impact	impact	NN	CW	NOUN	ARGUMENT
+negative	negative	JJ	CW	ADJ
+and	and	CC	FW
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+impact	impact	VBP	CW	VERB
+'s	be	VBZ	FW	aux_or_cop
+on	on	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+"	"	``	FW
+how	how	WRB	FW
+and	and	CC	FW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+changes	change	VBZ	CW	VERB
+lifestyle	lifestyle	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+slow	slow	JJ	CW	ADJ
+downs	down	VBZ	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+physical	physical	JJ	CW	ADJ
+growth	growth	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+stop	stop	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+learning	learn	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+completes	complete	VBZ	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+task	task	NN	CW	NOUN	ARGUMENT
+easily	easily	RB	ADV	FW
+and	and	CC	FW
+faster	fast	RBR	ADV	CW
+that	that	IN	FW	PRONOUN
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+less	less	JJR	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+positive	positive	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

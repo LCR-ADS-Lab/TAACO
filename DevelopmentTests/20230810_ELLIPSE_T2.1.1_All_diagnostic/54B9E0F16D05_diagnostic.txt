@@ -1,0 +1,290 @@
+word	lemma	POS	CW\FW	other categories
+shopping	shopping	NN	CW	NOUN	ARGUMENT
+watching	watch	VBG	CW	VERB
+movies	movie	NNS	CW	NOUN	ARGUMENT
+video	video	NN	CW	NOUN	ARGUMENT
+chatting	chatting	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+studying	study	VBG	CW	VERB
+
+sentence break
+
+all	all	DT	FW
+amazing	amazing	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+because	because	IN	FW
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+any	any	DT	FW
+hobby	hobby	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+interest	interest	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+easily	easily	RB	ADV	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+the	the	DT	FW
+simple	simple	JJ	CW	ADJ
+touch	touch	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+finger	finger	NN	CW	NOUN	ARGUMENT
+tips	tip	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW	SUBORDINATOR
+many	many	JJ	CW	ADJ
+feel	feel	VBP	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+limited	limit	VBN	CW	VERB
+human	human	JJ	CW	ADJ
+contact	contact	NN	CW	NOUN	ARGUMENT
+others	other	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+connected	connect	VBN	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	UH	FW
+never	never	RB	ADV	CW
+before	before	RB	ADV	CW
+
+sentence break
+
+witch	witch	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+had	have	VBN	CW	VERB
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+live	live	VBP	CW	VERB
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+some	some	DT	FW
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+greater	great	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+helping	help	VBG	CW	VERB
+and	and	CC	FW
+improving	improve	VBG	CW	VERB
+humans	human	NNS	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+hurting	hurt	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+connecting	connect	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+all	all	RB	ADV	CW
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+seconds	second	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fast	fast	JJ	CW	ADJ
+easy	easy	JJ	CW	ADJ
+and	and	CC	FW
+resourceful	resourceful	JJ	CW	ADJ
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+disability	disability	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+now	now	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+move	move	VB	CW	VERB
+and	and	CC	FW
+express	express	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+without	without	IN	FW
+any	any	DT	FW
+complications	complication	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+distracted	distracted	JJ	CW	ADJ
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+device	device	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+shut	shut	VBD	CW	VERB
+out	out	RP	FW
+the	the	DT	FW
+outside	outside	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+even	even	RB	ADV	CW
+then	then	RB	ADV	CW
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+there	there	RB	ADV	CW
+young	young	JJ	CW	ADJ
+adult	adult	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+
+sentence break
+
+resources	resource	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+needed	need	VBN	CW	VERB
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+one	one	CD	FW
+click	click	VB	CW	VERB
+away	away	RB	ADV	CW
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+research	research	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+subject	subject	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+materials	material	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+outside	outside	RB	ADV	CW
+of	of	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+really	really	RB	ADV	CW
+determine	determine	VB	CW	VERB
+the	the	DT	FW
+quality	quality	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+ether	ether	RB	ADV	FW
+hate	hate	VB	CW	VERB
+or	or	CC	FW
+love	love	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+admit	admit	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+put	put	VBN	CW	VERB
+humans	human	NNS	CW	NOUN	ARGUMENT
+into	into	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	PDT	FW
+the	the	DT	FW
+accomplishments	accomplishment	NNS	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+because	because	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+mad	mad	JJ	CW	ADJ
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+into	into	IN	FW
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+today	today	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+take	take	VB	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+granted	grant	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+

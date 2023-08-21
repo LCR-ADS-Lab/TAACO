@@ -1,0 +1,594 @@
+word	lemma	POS	CW\FW	other categories
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+principal	principal	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+considering	consider	VBG	CW	VERB
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+policy	policy	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+participate	participate	VB	CW	VERB
+in	in	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+unless	unless	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+a	a	DT	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+average	average	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	FW	FW
+think	think	VBP	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+policy	policy	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+principal	principal	JJ	CW	ADJ
+considering	consider	VBG	CW	VERB
+i	i	FW	FW
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+ideal	ideal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+responsible	responsible	JJ	CW	ADJ
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+relative_name	relative_name	NN	CW	NOUN	ARGUMENT
+play	play	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+hear	hear	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+principal	principal	JJ	CW	ADJ
+change	change	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+policy	policy	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+stated	state	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+scared	scare	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+sport	sport	NN	CW	NOUN	ARGUMENT
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+c	c	NN	CW	NOUN	ARGUMENT
+average	average	JJ	CW	ADJ
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+need	need	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+studier	studier	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW	SUBORDINATOR
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+up	up	RB	ADV	CW
+initially	initially	RB	ADV	CW
+one	one	CD	FW
+of	of	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+studies	study	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+two	two	CD	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+coach	coach	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ask	ask	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+let	let	VB	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+play	play	VB	CW	VERB
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+voice	voice	NN	CW	NOUN	ARGUMENT
+no	no	DT	FW
+u	u	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+so	so	RB	ADV	CW
+deferent	deferent	JJ	CW	ADJ
+from	from	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+u	u	FW	FW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+u	u	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+two	two	CD	FW
+work	work	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+fair	fair	JJ	CW	ADJ
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+reply	reply	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+voices	voice	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+said	say	VBD	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+fair	fair	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+u	u	FW	FW
+want	want	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+u	u	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+two	two	CD	FW
+work	work	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+ilistrade	ilistrade	VB	CW	VERB
+the	the	DT	FW
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+game	game	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+coming	come	VBG	CW	VERB
+in	in	IN	FW
+two	two	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+want	want	VBP	CW	VERB
+two	two	CD	FW
+play	play	VBP	CW	VERB
+cause	cause	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+game	game	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+two	two	CD	FW
+play	play	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+two	two	CD	FW
+work	work	NN	CW	NOUN	ARGUMENT
+harder	harder	JJR	CW	ADJ
+than	than	IN	FW
+ever	ever	RB	ADV	CW
+before	before	RB	ADV	CW
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+cut	cut	VBD	CW	VERB
+the	the	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+cable	cable	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+two	two	CD	FW
+go	go	VBP	CW	VERB
+online	online	JJ	CW	ADJ
+she	she	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+fuscous	fuscous	JJ	CW	ADJ
+on	on	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+star	star	VB	CW	VERB
+a	a	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+all	all	DT	FW	SUBORDINATOR
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+classmate	classmate	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+c	c	NN	CW	NOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+average	average	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+put	put	VBN	CW	VERB
+together	together	RB	ADV	CW
+and	and	CC	FW
+study	study	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tomorrow	tomorrow	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+so	so	RB	ADV	CW
+scared	scared	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+fall	fall	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+test	test	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+ever	ever	RB	ADV	CW
+play	play	VB	CW	VERB
+sport	sport	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+again	again	RB	ADV	CW
+until	until	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+take	take	VB	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+called	call	VBD	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+sad	sad	JJ	CW	ADJ
+voice	voice	NN	CW	NOUN	ARGUMENT
+relative_name	relative_name	NN	CW	NOUN	ARGUMENT
+can	can	MD	CW	VERB
+u	u	VB	CW	VERB
+please	please	VB	CW	VERB
+come	come	VBN	CW	VERB
+here	here	RB	ADV	CW
+i	i	FW	FW
+have	have	VBP	FW	aux_or_cop
+news	news	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+u	u	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+star	star	VB	CW	VERB
+crying	cry	VBG	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+thought	thought	NNP	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+fall	fall	VBP	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+u	u	FW	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+u	u	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+a	a	DT	FW
+baverage	baverage	NN	CW	NOUN	ARGUMENT
+u	u	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+back	back	RB	ADV	CW
+to	to	TO	FW
+play	play	VB	CW	VERB
+again	again	RB	ADV	CW
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+so	so	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+coach	coach	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thank	thank	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+helping	help	VBG	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+relays	relay	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+listen	listen	VB	CW	VERB
+to	to	TO	FW
+what	what	WP	FW
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+just	just	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+all	all	RB	ADV	CW
+because	because	IN	FW
+of	of	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+coach	coach	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+policy	policy	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+principal	principal	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+used	use	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+c	c	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+bcause	bcause	NNP	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+help	help	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+now	now	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+respects	respect	VBZ	CW	VERB
+the	the	DT	FW
+policy	policy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+work	work	NN	CW	NOUN	ARGUMENT
+hard	hard	RB	ADV	CW
+for	for	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+relative_name	relative_name	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+boy	boy	NN	CW	NOUN	ARGUMENT
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+player	player	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+play	play	VB	CW	VERB
+better	better	JJR	CW	ADJ
+then	then	RB	ADV	CW
+same	same	JJ	CW	ADJ
+boy	boy	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+because	because	IN	FW
+of	of	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+and	and	CC	FW
+move	move	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+a	a	DT	FW
+c	c	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+a	a	DT	FW
+b	b	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+now	now	RB	ADV	CW
+the	the	DT	FW
+capita	capita	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+boy	boy	NN	CW	NOUN	ARGUMENT
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+this	this	DT	FW	PRONOUN
+i	i	FW	FW
+mean	mean	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+u	u	FW	FW
+want	want	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+badly	badly	RB	ADV	CW
+u	u	FW	FW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+not	not	RB	ADV	CW
+that	that	IN	FW	PRONOUN
+easy	easy	NNP	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+if	if	IN	FW
+u	u	NN	CW	NOUN	ARGUMENT
+excuse	excuse	NN	CW	NOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	FW	FW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+study	study	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

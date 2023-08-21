@@ -1,0 +1,373 @@
+word	lemma	POS	CW\FW	other categories
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school_name	school_name	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+now	now	RB	ADV	CW
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+put	put	VB	CW	VERB
+the	the	DT	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+interest	interest	NN	CW	NOUN	ARGUMENT
+necessary	necessary	JJ	CW	ADJ
+on	on	IN	FW
+that	that	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+because	because	RB	ADV	CW
+are	be	VBP	CW	VERB
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+those	those	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+required	require	VBD	CW	VERB
+or	or	CC	FW
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+having	have	VBG	CW	VERB
+the	the	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+know	know	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+electricity	electricity	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+practice	practice	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+that	that	DT	FW
+specific	specific	JJ	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+allow	allow	VB	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+elective	elective	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+as	as	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school_name	school_name	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+if	if	IN	FW
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+give	give	VB	CW	VERB
+the	the	DT	FW
+credits	credit	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+required	require	VBN	CW	VERB
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+that	that	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+for	for	IN	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+math	math	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+science	science	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+for	for	IN	FW
+the	the	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+electricity	electricity	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+science	science	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+math	math	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+to	to	TO	FW
+practice	practice	VB	CW	VERB
+with	with	IN	FW
+electricity	electricity	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+for	for	IN	FW
+having	have	VBG	CW	VERB
+the	the	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+a	a	DT	FW
+elective	elective	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+health	health	NNP	CW	NOUN	ARGUMENT
+pe	pe	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+normal	normal	JJ	CW	ADJ
+pe	pe	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+taking	take	VBG	CW	VERB
+health	health	NNP	CW	NOUN	ARGUMENT
+pe	pe	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+to	to	TO	FW
+how	how	WRB	FW
+maintain	maintain	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+save	save	VB	CW	VERB
+and	and	CC	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+eat	eat	VB	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+the	the	DT	FW
+normal	normal	JJ	CW	ADJ
+pe	pe	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+maintain	maintain	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+condition	condition	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+i	i	FW	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+a	a	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

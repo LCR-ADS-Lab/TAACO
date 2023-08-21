@@ -1,0 +1,613 @@
+word	lemma	POS	CW\FW	other categories
+always	always	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+determined	determined	JJ	CW	ADJ
+to	to	TO	FW
+become	become	VB	CW	VERB
+successful	successful	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+accomplishments	accomplishment	NNS	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+necessary	necessary	JJ	CW	ADJ
+to	to	TO	FW
+procrastinate	procrastinate	VB	CW	VERB
+
+sentence break
+
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+quoted	quote	VBD	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+"	"	``	FW
+determine	determine	VB	CW	VERB
+never	never	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+idle	idle	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wonderful	wonderful	JJ	CW	ADJ
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+having	have	VBG	CW	VERB
+the	the	DT	FW
+mind	mind	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+in	in	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+being	be	VBG	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+procrastinate	procrastinate	VB	CW	VERB
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+or	or	CC	FW
+trustworthy	trustworthy	JJ	CW	ADJ
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+motivated	motivate	VBN	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+having	have	VBG	CW	VERB
+the	the	DT	FW
+mind	mind	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+in	in	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+being	be	VBG	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+the	the	DT	FW
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+accuracy	accuracy	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+therefore	therefore	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+organize	organize	VB	CW	VERB
+
+sentence break
+
+organization	organization	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+arrange	arrange	VB	CW	VERB
+equipment	equipment	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+utensils	utensil	VBZ	CW	VERB
+neatly	neatly	RB	ADV	CW
+for	for	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+accomplishing	accomplish	VBG	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+becoming	become	VBG	CW	VERB
+financially	financially	RB	ADV	CW
+stable	stable	JJ	CW	ADJ
+because	because	IN	FW
+of	of	IN	FW
+finishing	finish	VBG	CW	VERB
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+by	by	IN	FW
+completing	complete	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+sensation	sensation	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+having	have	VBG	CW	VERB
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+amazing	amazing	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+having	have	VBG	CW	VERB
+the	the	DT	FW
+mind	mind	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+in	in	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+having	have	VBG	CW	VERB
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+procrastinate	procrastinate	VB	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+track	track	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+which	which	WDT	FW
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+completed	complete	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+having	have	VBG	CW	VERB
+a	a	DT	FW
+incomplete	incomplete	JJ	CW	ADJ
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+passed	pass	VBN	CW	VERB
+due	due	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+harder	hard	JJR	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+an	an	DT	FW
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+minute	minute	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+rush	rush	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+procrastinating	procrastinating	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+finishing	finish	VBG	CW	VERB
+any	any	DT	FW
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+by	by	IN	FW
+having	have	VBG	CW	VERB
+the	the	DT	FW
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+accurate	accurate	JJ	CW	ADJ
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+precisely	precisely	RB	ADV	CW
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+any	any	DT	FW
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+crosses	cross	VBZ	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+having	have	VBG	CW	VERB
+the	the	DT	FW
+mind	mind	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+in	in	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+seeing	see	VBG	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+responsible	responsible	JJ	CW	ADJ
+or	or	CC	FW
+trustworthy	trustworthy	JJ	CW	ADJ
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+responsible	responsible	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+complete	complete	VBP	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+before	before	IN	FW
+hand	hand	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+repeatedly	repeatedly	RB	ADV	CW
+to	to	TO	FW
+have	have	VB	CW	VERB
+an	an	DT	FW
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+completed	complete	VBN	CW	VERB
+by	by	IN	FW
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+date	date	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+trustworthy	trustworthy	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+stick	stick	VBP	CW	VERB
+to	to	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+finish	finish	VBP	CW	VERB
+the	the	DT	FW
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW
+hand	hand	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+makes	make	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+trust	trust	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+
+sentence break
+
+accomplishing	accomplish	VBG	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+reach	reach	VB	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+active	active	JJ	CW	ADJ
+and	and	CC	FW
+and	and	CC	FW
+determined	determine	VBN	CW	VERB
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+procrastinating	procrastinate	VBG	CW	VERB
+
+sentence break
+
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+important	important	JJ	CW	ADJ
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+massive	massive	JJ	CW	ADJ
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+on	on	IN	FW
+track	track	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+procrastinate	procrastinate	VB	CW	VERB
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+seeing	see	VBG	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+responsible	responsible	JJ	CW	ADJ
+or	or	CC	FW
+trustworthy	trustworthy	JJ	CW	ADJ
+are	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+in	in	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+completed	complete	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+

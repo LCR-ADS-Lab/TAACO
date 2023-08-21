@@ -1,0 +1,426 @@
+word	lemma	POS	CW\FW	other categories
+"	"	``	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+"	"	''	FW
+this	this	DT	FW	PRONOUN
+phrase	phrase	NN	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+american	american	JJ	CW	ADJ
+jazz	jazz	NN	CW	NOUN	ARGUMENT
+legend	legend	NN	CW	NOUN	ARGUMENT
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+problems	problem	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+making	make	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+giving	give	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+making	make	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+personality	personality	NN	CW	NOUN	ARGUMENT
+stronger	strong	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+problems	problem	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+imagine	imagine	VB	CW	VERB
+being	be	VBG	FW	aux_or_cop
+on	on	IN	FW
+a	a	DT	FW
+math	math	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+the	the	DT	FW
+answer	answer	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+scared	scared	JJ	CW	ADJ
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+remember	remember	VB	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+answer	answer	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+too	too	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+and	and	CC	FW
+this	this	DT	FW	PRONOUN
+fact	fact	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+the	the	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+by	by	IN	FW
+using	use	VBG	CW	VERB
+all	all	PDT	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+energy	energy	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+in	in	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	FW	aux_or_cop
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+situation	situation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+problems	problem	NNS	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fight	fight	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+anywhere	anywhere	RB	ADV	FW
+with	with	IN	FW
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+probably	probably	RB	ADV	CW
+someone	someone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+call	call	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+office	office	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+take	take	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+police	police	NN	CW	NOUN	ARGUMENT
+department	department	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+think	think	VB	CW	VERB
+on	on	IN	FW
+why	why	WRB	FW
+this	this	DT	FW	PRONOUN
+happened	happen	VBD	CW	VERB
+and	and	CC	FW
+this	this	DT	FW	PRONOUN
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+problems	problem	NNS	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+personality	personality	NN	CW	NOUN	ARGUMENT
+stronger	strong	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+crash	crash	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+car	car	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+scared	scared	JJ	CW	ADJ
+for	for	IN	FW
+this	this	DT	FW	PRONOUN
+event	event	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+and	and	CC	FW
+in	in	IN	FW
+that	that	DT	FW	PRONOUN
+moment	moment	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+felt	feel	VBD	CW	VERB
+bad	bad	JJ	CW	ADJ
+so	so	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+stressed	stress	VBN	CW	VERB
+this	this	DT	FW	PRONOUN
+stress	stress	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+patient	patient	JJ	CW	ADJ
+and	and	CC	FW
+determined	determine	VBN	CW	VERB
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+solving	solve	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+two	two	CD	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+personality	personality	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+stronger	strong	JJR	CW	ADJ
+that	that	IN	FW	PRONOUN
+before	before	IN	FW
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+problems	problem	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+making	make	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+giving	give	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+making	make	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+personality	personality	NN	CW	NOUN	ARGUMENT
+stronger	strong	JJR	CW	ADJ
+
+sentence break
+
+so	so	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+the	the	DT	FW
+lead	lead	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+situation	situation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+determined	determine	VBN	CW	VERB
+in	in	IN	FW
+solving	solve	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+now	now	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+problems	problem	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

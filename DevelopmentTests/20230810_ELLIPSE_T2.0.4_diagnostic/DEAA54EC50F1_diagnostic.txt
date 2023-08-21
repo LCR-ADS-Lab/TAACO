@@ -1,0 +1,492 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+extend	extend	VB	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	RBR	ADV	CW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+adding	add	VBG	CW	VERB
+an	a	DT	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+lower	lower	JJR	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+moods	mood	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+bad	bad	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+relations	relation	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+playing	play	VBG	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+stay	stay	VB	CW	VERB
+mentally	mentally	RB	ADV	CW
+and	and	CC	FW
+physically	physically	RB	ADV	CW
+healthy	healthy	JJ	CW	ADJ
+but	but	CC	FW
+with	with	IN	FW
+tired	tired	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+brain	brain	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+so	so	RB	ADV	CW
+challenging	challenging	JJ	CW	ADJ
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+additionally	additionally	RB	ADV	CW
+injuries	injury	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+occur	occur	VB	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+fast	fast	RB	ADV	CW
+enough	enough	RB	ADV	CW
+to	to	TO	FW
+do	do	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+approximately	approximately	RB	ADV	CW
+three	three	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+volleyball	volleyball	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+after	after	IN	FW
+the	the	DT	FW
+practices	practice	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+6:30	6:30	CD	FW
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+toke	toke	VBP	CW	VERB
+a	a	DT	FW
+shower	shower	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ate	eat	VBD	CW	VERB
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+already	already	RB	ADV	CW
+8:40	8:40	CD	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+bed	bed	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+9:00	9:00	CD	FW
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+project	project	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+add	add	VBP	CW	VERB
+one	one	CD	FW
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+hobbies	hobby	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+long	long	RB	ADV	CW
+
+sentence break
+
+after	after	IN	FW
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+body	body	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+a	a	DT	FW
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+let	let	VB	CW	VERB
+'s	's	POS	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+how	how	WRB	FW
+long	long	RB	ADV	CW
+would	would	MD	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+adds	add	VBZ	CW	VERB
+one	one	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+each	each	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+extending	extend	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+very	very	RB	ADV	CW
+short	short	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+participate	participate	VB	CW	VERB
+in	in	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	RBR	ADV	CW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	RBR	ADV	CW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+work	work	NN	CW	NOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+more	more	RBR	ADV	CW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+add	add	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	TO	FW
+bed	bed	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+until	until	IN	FW
+late	late	JJ	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+mood	mood	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+tired	tired	JJ	CW	ADJ
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+longer	longer	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+led	lead	VBD	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+lower	lower	JJR	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+maybe	maybe	RB	ADV	FW
+bad	bad	JJ	CW	ADJ
+behaviors	behavior	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+even	even	RB	ADV	CW
+cause	cause	VB	CW	VERB
+separation	separation	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+families	family	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+likewise	likewise	RB	ADV	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+table	table	NN	CW	NOUN	ARGUMENT
+eating	eat	VBG	CW	VERB
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+cinema	cinema	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	CW	VERB
+not	not	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+prefer	prefer	VB	CW	VERB
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+then	then	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+lower	lower	JJR	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+affected	affect	VBN	CW	VERB
+negatively	negatively	RB	ADV	CW
+anyway	anyway	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

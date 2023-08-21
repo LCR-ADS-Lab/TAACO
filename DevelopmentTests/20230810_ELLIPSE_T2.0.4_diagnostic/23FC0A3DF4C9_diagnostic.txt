@@ -1,0 +1,327 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+an	a	DT	FW
+elective	elective	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+drama	drama	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+music	music	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+all	all	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+is	be	VBZ	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+bill	bill	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+electricity	electricity	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+gas	gas	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+water	water	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+optional	optional	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+any	any	DT	FW
+art	art	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+whenever	whenever	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+bored	bore	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+art	art	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+not	not	RB	ADV	CW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+to	to	TO	FW
+music	music	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+on	on	IN	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+sports	sport	NNS	CW	NOUN	ARGUMENT
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+talking	talk	VBG	CW	VERB
+to	to	TO	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+cool	cool	JJ	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+sit	sit	VB	CW	VERB
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+bunch	bunch	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+nerds	nerd	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+paint	paint	VBP	CW	VERB
+make	make	VBP	CW	VERB
+clay	clay	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+draw	draw	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+required	require	VBN	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+optional	optional	JJ	CW	ADJ
+just	just	RB	ADV	CW
+like	like	IN	FW
+band	band	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+either	either	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+being	be	VBG	CW	VERB
+there	there	RB	ADV	CW
+and	and	CC	FW
+just	just	RB	ADV	CW
+skip	skip	VB	CW	VERB
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	CW	VERB
+not	not	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+making	make	VBG	CW	VERB
+clay	clay	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+drawing	drawing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+drama	drama	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+optional	optional	JJ	CW	ADJ
+too	too	RB	ADV	CW
+since	since	IN	FW	SUBORDINATOR
+all	all	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+make	make	VB	CW	VERB
+an	a	DT	FW
+act	act	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+speech	speech	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+futures	future	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+music	music	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+what	what	WP	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+most	most	RBS	ADV	CW
+interesting	interesting	JJ	CW	ADJ
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+futures	future	NNS	CW	NOUN	ARGUMENT
+either	either	CC	FW
+
+sentence break
+
+these	these	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+and	and	CC	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+interests	interest	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+elective	elective	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+should	should	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+required	require	VBN	CW	VERB
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

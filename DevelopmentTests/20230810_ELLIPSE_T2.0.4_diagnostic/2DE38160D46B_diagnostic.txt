@@ -1,0 +1,360 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+believe	believe	VB	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+in	in	IN	FW
+businesses	business	NNS	CW	NOUN	ARGUMENT
+footsteps	footstep	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	CW	VERB
+the	the	DT	FW
+four-day	four-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+stick	stick	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+five-day	five-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+better	better	RBR	ADV	CW
+for	for	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+long	long	JJ	CW	ADJ
+run	run	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+the	the	DT	FW
+five-day	five-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+like	like	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+five-day	five-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+whatever	whatever	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+like	like	IN	FW
+take	take	NN	CW	NOUN	ARGUMENT
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+clubs	club	NNS	CW	NOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+way	way	RB	ADV	CW
+more	more	RBR	ADV	CW
+useful	useful	JJ	CW	ADJ
+to	to	TO	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+now	now	RB	ADV	CW
+even	even	RB	ADV	CW
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+lie	lie	VB	CW	VERB
+and	and	CC	FW
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+five-day	five-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greatest	greatest	JJS	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+have	have	VB	CW	VERB
+there	there	EX	FW
+down	down	RP	FW
+fall	fall	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	IN	FW
+for	for	IN	FW
+starter	starter	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+five	five	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+show	show	VB	CW	VERB
+up	up	RP	FW
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+also	also	RB	ADV	CW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+long	long	RB	ADV	CW
+on	on	IN	FW
+enough	enough	JJ	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+five-day	five-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+yea	yea	NN	CW	NOUN	ARGUMENT
+five-day	five-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+suck	suck	VB	CW	VERB
+too	too	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+now	now	RB	ADV	CW
+some	some	DT	FW
+can	can	MD	FW	aux_or_cop
+argue	argue	VB	CW	VERB
+saying	say	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+four-day	four-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+extra	extra	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+off	off	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+that	that	DT	FW
+true	true	JJ	CW	ADJ
+but	but	CC	FW
+there	there	EX	FW
+a	a	DT	FW
+catch	catch	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+that	that	DT	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+one	one	CD	FW
+extra	extra	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+off	off	RP	FW
+like	like	IN	FW
+say	say	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+on	on	IN	FW
+thursday	thursday	NNP	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+show	show	VB	CW	VERB
+up	up	RP	FW
+to	to	TO	FW
+the	the	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+because	because	RB	ADV	CW
+school	school	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+longer	longer	RB	ADV	CW
+now	now	RB	ADV	CW
+of	of	IN	FW
+course	course	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+using	use	VBG	CW	VERB
+that	that	IN	FW	PRONOUN
+as	as	IN	FW
+an	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+four-day	four-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+yes	yes	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+extra	extra	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+like	like	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+before	before	IN	FW	SUBORDINATOR
+there	there	EX	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+catch	catch	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+five-day	five-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+the	the	DT	FW
+four-day	four-day	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	better	RBR	ADV	CW
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+long	long	JJ	CW	ADJ
+run	run	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

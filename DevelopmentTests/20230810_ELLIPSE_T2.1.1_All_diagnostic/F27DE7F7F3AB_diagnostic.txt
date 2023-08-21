@@ -1,0 +1,313 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+the	the	DT	FW
+model	model	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+extending	extend	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+schools	school	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+seven	seven	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+two	two	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+full	full	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+student	student	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+easy	easy	JJ	CW	ADJ
+or	or	CC	FW
+conferrable	conferrable	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+full	full	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+two	two	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+expanding	expand	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+helping	help	VBG	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+using	use	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+help	help	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+for	for	IN	FW
+all	all	DT	FW
+who	who	WP	FW
+attend	attend	VBP	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+the	the	DT	FW
+two	two	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+expanding	expand	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+energy	energy	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+four	four	CD	FW
+-	-	HYPH	FW
+day	day	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+extending	extend	VBG	CW	VERB
+schools	school	NNS	CW	NOUN	ARGUMENT
+extending	extend	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+full	full	JJ	CW	ADJ
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+management	management	NN	CW	NOUN	ARGUMENT
+systems	system	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+the	the	DT	FW
+two	two	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+extending	extend	VBG	CW	VERB
+police	police	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+full	full	JJ	CW	ADJ
+for	for	IN	FW
+who	who	WP	FW
+attend	attend	VBP	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+who	who	WP	FW
+need	need	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fore	fore	RB	ADV	FW
+example	example	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+home	home	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+helping	help	VBG	CW	VERB
+for	for	IN	FW
+that	that	DT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+mean	mean	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+full	full	JJ	CW	ADJ
+the	the	DT	FW
+four	four	CD	FW
+-	-	HYPH	FW
+day	day	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+extending	extend	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+two	two	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+the	the	DT	FW
+am	am	NN	CW	NOUN	ARGUMENT
+disagree	disagree	JJ	CW	ADJ
+with	with	IN	FW
+this	this	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+nt	not	RB	ADV	CW
+help	help	VB	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+school	school	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+extending	extend	VBG	CW	VERB
+police	police	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,626 @@
+word	lemma	POS	CW\FW	other categories
+overall	overall	RB	ADV	CW
+having	have	VBG	CW	VERB
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+own	own	VB	CW	VERB
+a	a	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+privilege	privilege	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+not	not	RB	ADV	CW
+a	a	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+administrators	administrator	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+away	away	RP	FW
+the	the	DT	FW
+device	device	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW
+and	and	CC	FW
+only	only	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+cooperating	cooperate	VBG	CW	VERB
+and	and	CC	FW
+return	return	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+simply	simply	RB	ADV	CW
+not	not	RB	ADV	CW
+bring	bring	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+devices	device	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	CW	VERB
+not	not	RB	ADV	CW
+made	make	VBN	CW	VERB
+to	to	TO	FW
+harm	harm	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+tried	try	VBN	CW	VERB
+
+sentence break
+
+social	social	NNP	CW	NOUN	ARGUMENT
+media	media	NNS	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+a	a	DT	FW
+role	role	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+temptation	temptation	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+pockets	pocket	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+update	update	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+status	status	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+text	text	NN	CW	NOUN	ARGUMENT
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+stay	stay	VB	CW	VERB
+off	off	RP	FW
+task	task	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+and	and	CC	FW
+do	do	VB	CW	VERB
+some	some	DT	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+stay	stay	VB	CW	VERB
+in	in	IN	FW
+touch	touch	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+learning	learn	VBG	CW	VERB
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+and	and	CC	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+take	take	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+away	away	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+further	further	RB	ADV	CW
+more	more	RBR	ADV	CW
+in	in	IN	FW
+today	today	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+society	society	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+in	in	IN	FW
+touch	touch	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+close	close	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+far	far	RB	ADV	CW
+away	away	RB	ADV	CW
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+tool	tool	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+mini	mini	JJ	CW	ADJ
+computer	computer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+using	use	VBG	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	TO	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+focusing	focus	VBG	CW	VERB
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+task	task	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+allowed	allow	VBD	CW	VERB
+such	such	JJ	CW	ADJ
+action	action	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+making	make	VBG	CW	VERB
+a	a	DT	FW
+very	very	RB	ADV	CW
+poor	poor	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+earn	earn	VB	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+reputation	reputation	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+to	to	TO	FW
+the	the	DT	FW
+national	national	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+proves	prove	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+hurt	hurt	VB	CW	VERB
+the	the	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+academically	academically	RB	ADV	FW
+but	but	CC	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+itself	itself	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+downfall	downfall	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+popularity	popularity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+obviously	obviously	RB	ADV	CW
+the	the	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+staff	staff	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+unemployed	unemployed	JJ	CW	ADJ
+by	by	IN	FW
+the	the	DT	FW
+county	county	NN	CW	NOUN	ARGUMENT
+due	due	JJ	CW	ADJ
+to	to	TO	FW
+the	the	DT	FW
+lack	lack	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+income	income	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+state	state	NN	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+damaged	damage	VBN	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+taken	take	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+smart	smart	JJ	CW	ADJ
+phones	phone	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+a	a	DT	FW
+vital	vital	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+today	today	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+society	society	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+hobby	hobby	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+now	now	RB	ADV	CW
+taking	take	VBG	CW	VERB
+the	the	DT	FW
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+along	along	IN	FW
+with	with	IN	FW
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+new	new	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+social	social	NNP	CW	NOUN	ARGUMENT
+media	media	NNP	CW	NOUN	ARGUMENT
+technology	technology	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+education	education	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+world	world	NNP	CW	NOUN	ARGUMENT
+around	around	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+beautiful	beautiful	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+take	take	VB	CW	VERB
+notice	notice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW	SUBORDINATOR
+using	use	VBG	CW	VERB
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+becomes	become	VBZ	CW	VERB
+a	a	DT	FW
+faster	faster	RBR	ADV	CW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+most	most	JJS	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+relying	rely	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+invention	invention	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nevertheless	nevertheless	RB	ADV	FW
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+perceptive	perceptive	JJ	CW	ADJ
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+to	to	TO	FW
+maintain	maintain	VB	CW	VERB
+self	self	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+over	over	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+devices	device	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+results	result	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+disastrous	disastrous	JJ	CW	ADJ
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+rely	rely	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+devices	device	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+give	give	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+certain	certain	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+wide	wide	JJ	CW	ADJ
+variety	variety	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+information	information	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+or	or	CC	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+user	user	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+the	the	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+web	web	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+inaccurate	inaccurate	JJ	CW	ADJ
+which	which	WDT	FW
+could	could	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	TO	FW
+misunderstanding	misunderstanding	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+gain	gain	VB	CW	VERB
+wrong	wrong	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+a	a	DT	FW
+misconception	misconception	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+could	could	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+academics	academic	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+careers	career	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+clearly	clearly	RB	ADV	CW
+the	the	DT	FW
+user	user	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+wise	wise	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+using	use	VBG	CW	VERB
+an	a	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+possibly	possibly	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+or	or	CC	FW
+use	use	VB	CW	VERB
+a	a	DT	FW
+textbook	textbook	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+revised	revise	VBN	CW	VERB
+by	by	IN	FW
+many	many	JJ	CW	ADJ
+authorized	authorized	JJ	CW	ADJ
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

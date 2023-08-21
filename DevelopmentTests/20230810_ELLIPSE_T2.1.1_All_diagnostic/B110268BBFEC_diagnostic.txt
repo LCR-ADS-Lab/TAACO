@@ -1,0 +1,277 @@
+word	lemma	POS	CW\FW	other categories
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+philosopher	philosopher	NN	CW	NOUN	ARGUMENT
+physician	physician	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+humanitarian	humanitarian	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+at	at	IN	FW
+motivating	motivate	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+saying	say	VBG	CW	VERB
+"	"	``	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+influencing	influence	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+from	from	IN	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+
+sentence break
+
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+to	to	IN	FW
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+anybody	anybody	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+act	act	VB	CW	VERB
+different	different	JJ	CW	ADJ
+
+sentence break
+
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+influences	influence	VBZ	CW	VERB
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+to	to	IN	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+often	often	RB	ADV	FW
+affects	affect	VBZ	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+events	event	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+successful	successful	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+accomplished	accomplish	VBD	CW	VERB
+that	that	IN	FW	PRONOUN
+by	by	IN	FW
+having	have	VBG	CW	VERB
+influence	influence	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+believing	believe	VBG	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+capable	capable	JJ	CW	ADJ
+of	of	IN	FW
+
+sentence break
+
+say	say	VB	CW	VERB
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+having	have	VBG	CW	VERB
+a	a	DT	FW
+rough	rough	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+asks	ask	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+"	"	``	FW
+hey	hey	UH	FW
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VB	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+or	or	CC	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+very	very	RB	ADV	CW
+annoying	annoying	JJ	CW	ADJ
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+change	change	VB	CW	VERB
+into	into	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+yes	yes	UH	FW
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+
+sentence break
+
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+setting	set	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+examples	example	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+struggle	struggle	VBP	CW	VERB
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+really	really	RB	ADV	CW
+needed	need	VBD	CW	VERB
+to	to	TO	FW
+hear	hear	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+example	example	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+everything	everything	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+albert	albert	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+in	in	IN	FW
+that	that	DT	FW	SUBORDINATOR	PRONOUN
+quote	quote	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+true	true	JJ	CW	ADJ
+
+sentence break
+
+always	always	RB	ADV	CW
+setting	set	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+examples	example	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+great	great	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+told	tell	VBD	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+quote	quote	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+learned	learn	VBD	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+maybe	maybe	RB	ADV	FW
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+watch	watch	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+ahead	ahead	RB	ADV	FW
+of	of	IN	FW
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,407 @@
+word	lemma	POS	CW\FW	other categories
+imagine	imagine	VB	CW	VERB
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+behaved	behave	VBD	CW	VERB
+same	same	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+a	a	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+confidences	confidence	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+brings	bring	VBZ	CW	VERB
+the	the	DT	FW
+better	well	JJR	CW	ADJ
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+may	may	MD	FW	aux_or_cop
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+negative	negative	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+succeed	succeed	VB	CW	VERB
+however	however	RB	ADV	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+explain	explain	VB	CW	VERB
+the	the	DT	FW
+performances	performance	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+50	50	CD	FW
+out	out	IN	FW
+of	of	IN	FW
+100	100	CD	FW
+which	which	WDT	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+on	on	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+do	do	VB	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+properly	properly	RB	ADV	CW
+but	but	CC	FW
+because	because	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+present	present	VBP	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+scared	scared	JJ	CW	ADJ
+and	and	CC	FW
+nervous	nervous	JJ	CW	ADJ
+to	to	TO	FW
+present	present	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+majorly	majorly	RB	ADV	CW
+graded	grade	VBN	CW	VERB
+on	on	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+performance	performance	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+practiced	practice	VBD	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+present	present	VB	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+five	five	CD	FW
+-	-	HYPH	FW
+six	six	CD	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thought	think	VBD	CW	VERB
+about	about	IN	FW
+how	how	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	FW	aux_or_cop
+this	this	DT	FW	PRONOUN
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+scared	scared	JJ	CW	ADJ
+of	of	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+100	100	CD	FW
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+which	which	WDT	FW
+was	be	VBD	FW	aux_or_cop
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+
+sentence break
+
+a	a	DT	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+few	few	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+players	player	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+getting	get	VBG	CW	VERB
+along	along	RB	ADV	FW
+or	or	CC	FW
+one	one	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+than	than	IN	FW
+other	other	JJ	CW	ADJ
+which	which	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+by	by	IN	FW
+thinking	think	VBG	CW	VERB
+equally	equally	RB	ADV	CW
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+friendly	friendly	JJ	CW	ADJ
+to	to	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+the	the	DT	FW
+optimistic	optimistic	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+human	human	JJ	CW	ADJ
+supports	support	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+task	task	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+past	past	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+reflects	reflect	VBZ	CW	VERB
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+learns	learn	VBZ	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+good	good	JJ	CW	ADJ
+memories	memory	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+good	good	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+presented	present	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+illustrates	illustrate	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+confident	confident	JJ	CW	ADJ
+and	and	CC	FW
+positive	positive	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+worrying	worry	VBG	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+player	player	NN	CW	NOUN	ARGUMENT
+lost	lose	VBD	CW	VERB
+couple	couple	NN	CW	NOUN	ARGUMENT
+times	time	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+same	same	JJ	CW	ADJ
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+before	before	RB	ADV	CW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+and	and	CC	FW
+feel	feel	VBP	CW	VERB
+positives	positive	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+effect	effect	NN	CW	NOUN	ARGUMENT
+changes	change	VBZ	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+display	display	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+input	input	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+feeling	feel	VBG	CW	VERB
+true	true	JJ	CW	ADJ
+helps	help	VBZ	CW	VERB
+the	the	DT	FW
+output	output	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+positive	positive	JJ	CW	ADJ
+behaving	behaving	NN	CW	NOUN	ARGUMENT
+helped	help	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+getting	get	VBG	CW	VERB
+100	100	CD	FW
+on	on	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+showed	show	VBD	CW	VERB
+on	on	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+practiced	practice	VBD	CW	VERB
+and	and	CC	FW
+improved	improve	VBD	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+co	co	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+to	to	TO	FW
+wins	win	VBZ	CW	VERB
+the	the	DT	FW
+games	game	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+games	game	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+feel	feel	VBP	CW	VERB
+and	and	CC	FW
+perform	perform	VB	CW	VERB
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+support	support	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

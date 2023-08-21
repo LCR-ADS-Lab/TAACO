@@ -1,0 +1,575 @@
+word	lemma	POS	CW\FW	other categories
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+said	say	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+said	say	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+solution	solution	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+with	with	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+personality	personality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+desired	desire	VBN	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+mean	mean	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+to	to	TO	FW
+have	have	VB	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+better	well	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNPS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+had	have	VBD	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+important	important	JJ	CW	ADJ
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+ownself	ownself	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+showing	show	VBG	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+important	important	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+
+sentence break
+
+however	however	RB	ADV	FW
+to	to	TO	FW
+have	have	VB	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+control	control	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+grateful	grateful	JJ	CW	ADJ
+key	key	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+furthermore	furthermore	RB	ADV	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+personality	personality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+mean	mean	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+having	have	VBG	CW	VERB
+a	a	DT	FW
+really	really	RB	ADV	CW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+right	right	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+wonderful	wonderful	JJ	CW	ADJ
+personality	personality	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+details	detail	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+argue	argue	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+said	say	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+in	in	IN	FW
+this	this	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+have	have	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+saying	say	VBG	CW	VERB
+the	the	DT	FW
+opposite	opposite	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+mean	mean	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+said	said	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+differently	differently	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+had	have	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+summarize	summarize	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+said	say	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+sucess	sucess	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+for	for	IN	FW
+some	some	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+for	for	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+can	can	MD	FW	aux_or_cop
+really	really	RB	ADV	CW
+explain	explain	VB	CW	VERB
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+different	different	JJ	CW	ADJ
+direction	direction	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+motion	motion	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+in	in	IN	FW
+this	this	DT	FW
+case	case	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+represent	represent	VB	CW	VERB
+to	to	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teach	teach	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+different	different	JJ	CW	ADJ
+between	between	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+can	can	MD	FW	aux_or_cop
+describe	describe	VB	CW	VERB
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+personality	personality	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+different	different	JJ	CW	ADJ
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+
+sentence break
+
+
+paragraph break
+

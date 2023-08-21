@@ -1,0 +1,441 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+educational	educational	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+enjoyable	enjoyable	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+experiments	experiment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+tennis	tennis	NN	CW	NOUN	ARGUMENT
+witch	witch	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+pretty	pretty	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+sixth	sixth	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+band	band	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+strings	string	NNS	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+played	play	VBD	CW	VERB
+the	the	DT	FW
+drums	drum	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+viola	viola	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+until	until	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+eight	eight	CD	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+the	the	DT	FW
+trumpet	trumpet	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+liked	like	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+of	of	IN	FW
+all	all	DT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+experiments	experiment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+one	one	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+seventh	seventh	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+dissected	dissect	VBD	CW	VERB
+a	a	DT	FW
+frog	frog	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+
+sentence break
+
+once	once	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+fifth	fifth	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBD	CW	VERB
+a	a	DT	FW
+gummy	gummy	JJ	CW	ADJ
+bear	bear	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+cup	cup	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+water	water	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+bigger	big	JJR	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+eight	eight	CD	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+ice	ice	NN	CW	NOUN	ARGUMENT
+cream	cream	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+so	so	RB	ADV	CW
+cold	cold	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+furthermore	furthermore	RB	ADV	FW
+and	and	CC	FW
+the	the	DT	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+are	be	VBP	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+to	to	IN	FW
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+tennis	tennis	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+wrestling	wrestling	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+tennis	tennis	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	got	VBD	FW	aux_or_cop
+hurt	hurt	VBN	CW	VERB
+more	more	RBR	ADV	CW
+in	in	IN	FW
+wrestling	wrestling	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+tennis	tennis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+tennis	tennis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+in	in	IN	FW
+sixth	sixth	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+band	band	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+strings	string	NNS	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+played	play	VBD	CW	VERB
+the	the	DT	FW
+drums	drum	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+played	play	VBD	CW	VERB
+the	the	DT	FW
+viola	viola	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+strings	string	NNS	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+very	very	RB	ADV	CW
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+the	the	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+stopped	stop	VBD	CW	VERB
+in	in	IN	FW
+seventh	seventh	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+eight	eight	CD	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+the	the	DT	FW
+trumpet	trumpet	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+liked	like	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+that	that	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+better	well	RBR	ADV	CW
+than	than	IN	FW
+the	the	DT	FW
+viola	viola	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+drums	drum	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+the	the	DT	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+educational	educational	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+enjoyable	enjoyable	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+experiments	experiment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+tennis	tennis	NN	CW	NOUN	ARGUMENT
+witch	witch	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+pretty	pretty	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+and	and	CC	FW
+wrestling	wrestling	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+sixth	sixth	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+band	band	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+strings	string	NNS	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+played	play	VBD	CW	VERB
+the	the	DT	FW
+drums	drum	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+viola	viola	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+until	until	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+eight	eight	CD	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+the	the	DT	FW
+trumpet	trumpet	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+liked	like	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

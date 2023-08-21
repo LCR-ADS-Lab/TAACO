@@ -1,0 +1,187 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+totally	totally	RB	ADV	CW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+grown	grown	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+all	all	DT	FW
+by	by	IN	FW
+himself	himself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+on	on	IN	FW
+paper	paper	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+some	some	DT	FW
+sort	sort	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+an	a	DT	FW
+essay	essay	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+do	do	VB	CW	VERB
+good	good	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+adultry	adultry	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+married	marry	VBN	CW	VERB
+or	or	CC	FW
+single	single	JJ	CW	ADJ
+if	if	IN	FW
+and	and	CC	FW
+only	only	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+wife	wife	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+earn	earn	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+getting	get	VBG	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+so	so	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+live	live	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+bills	bill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+use	use	VB	CW	VERB
+mobile	mobile	JJ	CW	ADJ
+devices	device	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+neighbors	neighbor	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+co-workers	co-worker	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+or	or	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+a	a	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+getting	get	VBG	CW	VERB
+an	a	DT	FW
+award	award	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+working	work	VBG	CW	VERB
+really	really	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+and	and	CC	FW
+making	make	VBG	CW	VERB
+the	the	DT	FW
+manager	manager	NN	CW	NOUN	ARGUMENT
+super-duper	super-duper	JJ	CW	ADJ
+proud	proud	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+afford	afford	VB	CW	VERB
+getting	get	VBG	CW	VERB
+a	a	DT	FW
+mansion	mansion	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+going	go	VBG	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+cruise	cruise	NN	CW	NOUN	ARGUMENT
+ship	ship	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+gazillionare	gazillionare	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

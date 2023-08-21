@@ -1,0 +1,378 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+accomplish	accomplish	VB	CW	VERB
+more	more	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+active	active	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+activities	activity	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+make	make	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+always	always	RB	ADV	CW
+active	active	JJ	CW	ADJ
+and	and	CC	FW
+one	one	CD	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+season	season	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+started	start	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+all	all	PDT	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+active	active	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+practice	practice	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+practice	practice	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+and	and	CC	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+and	and	CC	FW
+accomplish	accomplish	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+math	math	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+low	low	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+quater	quater	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+made	make	VBD	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+kind	kind	RB	ADV	CW
+angry	angry	JJ	CW	ADJ
+so	so	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+decided	decide	VBD	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+homework	homework	NN	CW	NOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+
+sentence break
+
+after	after	IN	FW
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+weeks	week	NNS	CW	NOUN	ARGUMENT
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+quater	quater	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+much	much	RB	ADV	CW
+better	well	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+by	by	IN	FW
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+helped	helped	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+better	well	JJR	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+tests	test	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+what	what	WP	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+by	by	IN	FW
+giving	give	VBG	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+practice	practice	VB	CW	VERB
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VB	CW	VERB
+well	well	RB	ADV	CW
+in	in	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+always	always	RB	ADV	CW
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+be	be	VB	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+says	say	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+more	more	JJR	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+however	however	RB	ADV	FW
+begin	begin	VB	CW	VERB
+active	active	JJ	CW	ADJ
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+and	and	CC	FW
+also	also	RB	ADV	CW
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+more	more	JJR	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+by	by	IN	FW
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+active	active	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+or	or	CC	FW
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+want	want	VBP	CW	VERB
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+dominion	dominion	NNP	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+all	all	PDT	FW
+the	the	DT	FW
+stundents	stundent	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+always	always	RB	ADV	CW
+do	do	VB	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+anyways	anyways	UH	FW
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+no	no	UH	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+someone	someone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+accomplish	accomplish	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+doing	do	VBG	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

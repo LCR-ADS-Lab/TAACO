@@ -1,0 +1,582 @@
+word	lemma	POS	CW\FW	other categories
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+senior	senior	JJ	CW	ADJ
+this	this	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+uses	use	VBZ	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+plain	plain	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+busy	busy	JJ	CW	ADJ
+days	day	NNS	CW	NOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+uses	use	VBZ	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+fellow	fellow	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+upcoming	upcoming	JJ	CW	ADJ
+events	event	NNS	CW	NOUN	ARGUMENT
+happening	happen	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+use	use	VBP	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+research	research	NN	CW	NOUN	ARGUMENT
+paper	paper	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+history	history	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+library	library	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+all	all	RB	ADV	CW
+used	use	VBN	CW	VERB
+up	up	RP	FW
+so	so	RB	ADV	CW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+look	look	VB	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+resources	resource	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+for	for	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+paper	paper	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+research	research	VB	CW	VERB
+resources	resource	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+research	research	VB	CW	VERB
+resources	resource	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+for	for	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+translate	translate	VB	CW	VERB
+words	word	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+new	new	JJ	CW	ADJ
+to	to	IN	FW
+this	this	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+only	only	RB	ADV	CW
+speaks	speak	VBZ	CW	VERB
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+bit	bit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+the	the	DT	FW
+word	word	NN	CW	NOUN	ARGUMENT
+met	meet	VBD	CW	VERB
+
+sentence break
+
+student	student	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+research	research	VB	CW	VERB
+answer	answer	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+question	question	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+read	read	VB	CW	VERB
+books	book	NNS	CW	NOUN	ARGUMENT
+online	online	JJ	CW	ADJ
+or	or	CC	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+library	library	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+each	each	DT	FW
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+call	call	VB	CW	VERB
+text	text	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+face	face	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+classmate	classmate	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+could	could	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+show	show	VB	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+sick	sick	JJ	CW	ADJ
+or	or	CC	FW
+had	have	VBD	CW	VERB
+a	a	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+energies	energy	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+text	text	VB	CW	VERB
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+to	to	TO	FW
+see	see	VB	CW	VERB
+what	what	WP	FW
+kinda	kinda	JJ	CW	ADJ
+homework	homework	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+to	to	TO	FW
+remind	remind	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+do	do	VBP	FW	aux_or_cop
+soon	soon	RB	ADV	CW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+forget	forget	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+some	some	DT	FW
+of	of	IN	FW
+classmate	classmate	NN	CW	NOUN	ARGUMENT
+text	text	VBP	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+asking	ask	VBG	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+finished	finish	VBD	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+would	would	MD	FW	aux_or_cop
+some	some	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+about	about	IN	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+upcoming	upcoming	JJ	CW	ADJ
+events	event	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+out	out	RP	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+using	use	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+any	any	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+research	research	VB	CW	VERB
+resources	resource	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+every	every	DT	FW
+distracting	distracting	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+play	play	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+falling	fall	VBG	CW	VERB
+asleep	asleep	JJ	CW	ADJ
+while	while	IN	FW	SUBORDINATOR
+listening	listen	VBG	CW	VERB
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+music	music	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+in	in	IN	FW
+realty	realty	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+maybe	maybe	RB	ADV	FW
+some	some	DT	FW
+but	but	CC	FW
+not	not	RB	ADV	CW
+all	all	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+know	know	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+please	please	UH	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+schools	school	NNS	CW	NOUN	ARGUMENT
+principal	principal	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+using	use	VBG	CW	VERB
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+phones	phone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+helpful	helpful	JJ	CW	ADJ
+resource	resource	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

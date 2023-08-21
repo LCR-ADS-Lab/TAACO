@@ -1,0 +1,329 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+alot	alot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+movies	movie	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+hit	hit	VBD	CW	VERB
+the	the	DT	FW
+climax	climax	NN	CW	NOUN	ARGUMENT
+everything	everything	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+went	go	VBD	CW	VERB
+down	down	RB	ADV	CW
+but	but	CC	FW
+once	once	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+happy	happy	JJ	CW	ADJ
+ending	end	VBG	CW	VERB
+meaning	meaning	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+losing	lose	VBG	CW	VERB
+but	but	CC	FW
+hope	hope	VBP	CW	VERB
+brought	bring	VBN	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+a	a	DT	FW
+loser	loser	NN	CW	NOUN	ARGUMENT
+cant	cant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+loser	loser	NN	CW	NOUN	ARGUMENT
+forever	forever	RB	ADV	FW
+
+sentence break
+
+there	there	EX	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+redemption	redemption	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+courage	courage	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+strength	strength	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+what	what	WP	FW
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+''	''	''	FW
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+an	a	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+''	''	''	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+faillure	faillure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+london	london	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+being	be	VBG	CW	VERB
+bombed	bomb	VBN	CW	VERB
+by	by	IN	FW
+german	german	JJ	CW	ADJ
+nazi	nazi	JJ	CW	ADJ
+
+sentence break
+
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+ideal	ideal	NNP	CW	NOUN	ARGUMENT
+of	of	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+quote	quote	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+moral	moral	JJ	CW	ADJ
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+fellow	fellow	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+not	not	RB	ADV	CW
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+britian	britian	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+losing	lose	VBG	CW	VERB
+against	against	IN	FW
+the	the	DT	FW
+axis	axis	NNP	CW	NOUN	ARGUMENT
+power	power	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+starting	start	VBG	CW	VERB
+losing	lose	VBG	CW	VERB
+hope	hope	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchhill	churchhill	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+man	man	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+honor	honor	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+public	public	JJ	CW	ADJ
+speaker	speaker	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+losing	lose	VBG	CW	VERB
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	TO	FW
+great	great	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+quote	quote	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+on	on	IN	FW
+failing	fail	VBG	CW	VERB
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+been	be	VBN	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+great	great	NNP	CW	NOUN	ARGUMENT
+war	war	NNP	CW	NOUN	ARGUMENT
+german	german	NNP	CW	NOUN	ARGUMENT
+nazi	nazi	NNP	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+regime	regime	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+britian	britian	NNP	CW	NOUN	ARGUMENT
+won	win	VBD	CW	VERB
+the	the	DT	FW
+war	war	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+hope	hope	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+leader	leader	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+or	or	CC	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+fellow	fellow	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+hope	hope	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+believe	believe	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+quote	quote	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+work	work	VB	CW	VERB
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+cooperate	cooperate	VBP	CW	VERB
+and	and	CC	FW
+have	have	VBP	CW	VERB
+great	great	JJ	CW	ADJ
+leadership	leadership	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

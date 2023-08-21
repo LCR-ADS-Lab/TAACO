@@ -1,0 +1,545 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+believe	believe	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+of	of	IN	FW
+all	all	DT	FW
+the	the	DT	FW
+research	research	NN	CW	NOUN	ARGUMENT
+showing	show	VBG	CW	VERB
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+distance	distance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+online	online	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+offer	offer	VB	CW	VERB
+the	the	DT	FW
+distance	distance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+online	online	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+six	six	CD	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+proper_name	proper_name	CD	FW
+was	be	VBD	FW	aux_or_cop
+making	make	VBG	CW	VERB
+online	online	JJ	CW	ADJ
+video	video	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+far	far	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+on	on	IN	FW
+that	that	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+focus	focus	VBP	CW	VERB
+on	on	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+video	video	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+focus	focus	VB	CW	VERB
+on	on	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+that	that	DT	FW	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+cross	cross	VB	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+making	make	VBG	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+saw	see	VBD	CW	VERB
+the	the	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+cross	cross	VB	CW	VERB
+the	the	DT	FW
+road	road	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+some	some	DT	FW
+accident	accident	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+video	video	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+focusing	focus	VBG	CW	VERB
+what	what	WP	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+offer	offer	VB	CW	VERB
+the	the	DT	FW
+distance	distance	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+using	use	VBG	CW	VERB
+map	map	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+far	far	RB	ADV	CW
+or	or	CC	FW
+how	how	WRB	FW
+close	close	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+other	other	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+self	self	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+car	car	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+additional	additional	JJ	CW	ADJ
+there	there	EX	FW
+are	be	VBP	CW	VERB
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+making	make	VBG	CW	VERB
+online	online	JJ	CW	ADJ
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+focus	focus	VBP	CW	VERB
+what	what	WP	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+doing	do	VBG	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+tine	tine	NN	CW	NOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+proper_name	proper_name	CD	FW
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+eleven	eleven	CD	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+offer	offer	VB	CW	VERB
+the	the	DT	FW
+distance	distance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+making	make	VBG	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+school	school	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+showing	show	VBG	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+on	on	IN	FW
+that	that	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+take	take	VB	CW	VERB
+care	care	VB	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+focusing	focus	VBG	CW	VERB
+the	the	DT	FW
+video	video	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+cross	cross	VB	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+raining	rain	VBG	CW	VERB
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+pay	pay	VB	CW	VERB
+attention	attention	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+car	car	NN	CW	NOUN	ARGUMENT
+accident	accident	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+on	on	IN	FW
+that	that	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+passed	pass	VBD	CW	VERB
+away	away	RP	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+died	die	VBD	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefits	benefit	VBZ	CW	VERB
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+are	be	VBP	CW	VERB
+not	not	RB	ADV	CW
+focusing	focus	VBG	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+focusing	focus	VBG	CW	VERB
+what	what	WP	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+doing	do	VBG	CW	VERB
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+focusing	focus	VBG	CW	VERB
+online	online	JJ	CW	ADJ
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+additional	additional	JJ	CW	ADJ
+using	use	VBG	CW	VERB
+map	map	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+butter	butter	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+making	make	VBG	CW	VERB
+online	online	JJ	CW	ADJ
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+hard	hard	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+online	online	JJ	CW	ADJ
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+offer	offer	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+distance	distance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+focus	focus	VB	CW	VERB
+when	when	WRB	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+making	make	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+believe	believe	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+online	online	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+offer	offer	VB	CW	VERB
+the	the	DT	FW
+distance	distance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+other	other	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+offer	offer	VB	CW	VERB
+the	the	DT	FW
+distance	distance	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

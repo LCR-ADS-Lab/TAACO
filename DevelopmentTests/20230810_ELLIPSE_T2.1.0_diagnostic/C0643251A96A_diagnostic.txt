@@ -1,0 +1,340 @@
+word	lemma	POS	CW\FW	other categories
+generic_name	generic_name	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+prompt	prompt	JJ	CW	ADJ
+-	-	HYPH	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+prompt	prompt	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+explain	explain	VB	CW	VERB
+to	to	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+seeking	seek	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+seeking	seek	VBG	CW	VERB
+muitipule	muitipule	NN	CW	NOUN	ARGUMENT
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+beacsue	beacsue	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+a	a	DT	FW
+bunch	bunch	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+diffferent	diffferent	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+most	most	RBS	ADV	CW
+likey	likey	RB	ADV	FW
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+better	well	RBR	ADV	CW
+to	to	TO	FW
+have	have	VB	CW	VERB
+mutilple	mutilple	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+just	just	RB	ADV	CW
+having	have	VBG	CW	VERB
+one	one	CD	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+for	for	IN	FW
+some	some	DT	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+example	example	NNP	CW	NOUN	ARGUMENT
+one	one	CD	FW
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+having	having	VBG	FW	aux_or_cop
+issuse	issuse	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+mutiple	mutiple	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+are	be	VBP	FW	aux_or_cop
+1	1	CD	FW
+.	.	LS	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+counsler	counsler	JJ	CW	ADJ
+2	2	CD	FW
+.	.	LS	FW
+
+sentence break
+
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+worker	worker	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+.	.	LS	FW
+
+sentence break
+
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+trusted	trust	VBN	CW	VERB
+adult	adult	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+.	.	LS	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+parent	parent	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+.	.	LS	FW
+
+sentence break
+
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+other	other	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+example	example	VB	CW	VERB
+two	two	CD	FW
+a	a	DT	FW
+lady	lady	NN	CW	NOUN	ARGUMENT
+haves	have	VBZ	CW	VERB
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+offers	offer	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+for	for	IN	FW
+one	one	CD	FW
+and	and	CC	FW
+thinks	think	VBZ	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+stll	stll	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+jobs	job	NNS	CW	NOUN	ARGUMENT
+lining	line	VBG	CW	VERB
+up	up	RP	FW
+behind	behind	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+offers	offer	VBZ	CW	VERB
+are1	are1	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+sceintest	sceintest	NNP	CW	NOUN	ARGUMENT
+at	at	IN	FW
+nasa	nasa	NNP	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+host	host	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+ellen	ellen	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+a	a	DT	FW
+buisness	buisness	NN	CW	NOUN	ARGUMENT
+owner	owner	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+feel	feel	VBP	CW	VERB
+like	like	IN	FW
+asking	ask	VBG	CW	VERB
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+bescause	bescause	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+best	good	JJS	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW
+for	for	IN	FW	SUBORDINATOR
+the	the	DT	FW
+bst	bst	NNP	CW	NOUN	ARGUMENT
+advice	advice	NN	CW	NOUN	ARGUMENT
+ask	ask	VB	CW	VERB
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+trustable	trustable	JJ	CW	ADJ
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+this	this	DT	FW	PRONOUN
+trusted	trust	VBN	CW	VERB
+person	person	NN	CW	NOUN	ARGUMENT
+know	know	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+ask	ask	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+quetions	quetion	NNS	CW	NOUN	ARGUMENT
+iif	iif	UH	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+answer	answer	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+right	right	RB	ADV	CW
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+trust	trust	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+taking	take	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+adult	adult	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+having	have	VBG	CW	VERB
+issues	issue	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+patince	patince	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+probroly	probroly	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+hard	hard	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,711 @@
+word	lemma	POS	CW\FW	other categories
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+distance	distance	NN	CW	NOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	an	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+online	online	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+conferencing	conferencing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+the	the	DT	FW
+question	question	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+class	class	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+seems	seem	VBZ	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+attend	attend	VBP	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+take	take	VBP	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+identify	identify	VB	CW	VERB
+talents	talent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+potentials	potential	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+take	take	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+communication	communication	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+potential	potential	JJ	CW	ADJ
+key	key	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+which	which	WDT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+gain	gain	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+school	school	NN	CW	NOUN	ARGUMENT
+creates	create	VBZ	CW	VERB
+a	a	DT	FW
+solid	solid	JJ	CW	ADJ
+foundation	foundation	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+persist	persist	VB	CW	VERB
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+rest	rest	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+out	out	RP	FW
+a	a	DT	FW
+doubt	doubt	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+provides	provide	VBZ	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+values	value	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+academic	academic	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+as	as	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+attend	attend	VB	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+take	take	VBP	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+identify	identify	VB	CW	VERB
+talents	talent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+potentials	potential	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+take	take	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+school	school	NN	CW	NOUN	ARGUMENT
+offers	offer	VBZ	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+high	high	NNP	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+provides	provide	VBZ	CW	VERB
+different	different	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+optional	optional	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+electricity	electricity	NNP	CW	NOUN	ARGUMENT
+cosmetology	cosmetology	NNP	CW	NOUN	ARGUMENT
+floral	floral	NNP	CW	NOUN	ARGUMENT
+design	design	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+enthusiastic	enthusiastic	JJ	CW	ADJ
+for	for	IN	FW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+last	last	JJ	CW	ADJ
+semester	semester	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+took	take	VBD	CW	VERB
+floral	floral	NNP	CW	NOUN	ARGUMENT
+design	design	NNP	CW	NOUN	ARGUMENT
+class	class	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	IN	FW
+numerous	numerous	JJ	CW	ADJ
+fascinating	fascinating	JJ	CW	ADJ
+fill	fill	NN	CW	NOUN	ARGUMENT
+trips	trip	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+floral	floral	NNP	CW	NOUN	ARGUMENT
+design	design	NNP	CW	NOUN	ARGUMENT
+class	class	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+additionally	additionally	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+organizer	organizer	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+decoration	decoration	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+graduation	graduation	NNP	CW	NOUN	ARGUMENT
+night	night	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+so	so	RB	ADV	CW
+dedicated	dedicated	JJ	CW	ADJ
+to	to	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+floral	floral	NNP	CW	NOUN	ARGUMENT
+design	design	NNP	CW	NOUN	ARGUMENT
+class	class	NNP	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+always	always	RB	ADV	CW
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+becoming	become	VBG	CW	VERB
+a	a	DT	FW
+florist	florist	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+certainly	certainly	RB	ADV	CW
+unlike	unlike	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+take	take	VBP	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+create	create	VB	CW	VERB
+talents	talent	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+beneficial	beneficial	JJ	CW	ADJ
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+academic	academic	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+pursuing	pursue	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+further	far	RB	ADV	CW
+communication	communication	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+potential	potential	JJ	CW	ADJ
+key	key	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+which	which	WDT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+gain	gain	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+administrators	administrator	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+councilors	councilor	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+provide	provide	VB	CW	VERB
+support	support	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+ms.	ms.	NNP	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+esl	esl	NNP	CW	NOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+great	great	JJ	CW	ADJ
+examples	example	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+brag	brag	VB	CW	VERB
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+demonstrates	demonstrate	VBZ	CW	VERB
+day	day	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+day	day	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+importance	importance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+communicate	communicate	JJ	CW	ADJ
+
+sentence break
+
+moreover	moreover	RB	ADV	FW
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+transmit	transmit	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+which	which	WDT	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+discussing	discuss	VBG	CW	VERB
+and	and	CC	FW
+also	also	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+gain	gain	VBP	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+voyage	voyage	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+became	become	VBD	CW	VERB
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+mention	mention	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+strives	strive	VBZ	CW	VERB
+with	with	IN	FW
+determination	determination	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+denied	deny	VBN	CW	VERB
+the	the	DT	FW
+fears	fear	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+the	the	DT	FW
+victory	victory	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nevertheless	nevertheless	RB	ADV	FW
+school	school	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+an	an	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+school	school	NN	CW	NOUN	ARGUMENT
+creates	create	VBZ	CW	VERB
+a	a	DT	FW
+solid	solid	JJ	CW	ADJ
+foundation	foundation	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+persist	persist	VB	CW	VERB
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+rest	rest	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+take	take	VBP	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+procrastinators	procrastinator	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+rules	rule	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+humans	human	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+born	bear	VBN	CW	VERB
+with	with	IN	FW
+all	all	PDT	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+qualities	quality	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+talents	talent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+built	build	VBN	CW	VERB
+manners	manner	NNS	CW	NOUN	ARGUMENT
+values	value	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+contribute	contribute	VB	CW	VERB
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+jobs	job	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+social	social	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+come	come	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+by	by	IN	FW
+all	all	DT	FW
+counts	count	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+proven	prove	VBN	CW	VERB
+results	result	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+doubt	doubt	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+attend	attend	VBP	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+take	take	VBP	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+identify	identify	VB	CW	VERB
+talents	talent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+potentials	potential	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+take	take	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+communication	communication	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+potential	potential	JJ	CW	ADJ
+key	key	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+which	which	WDT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+gain	gain	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+school	school	NN	CW	NOUN	ARGUMENT
+creates	create	VBZ	CW	VERB
+a	a	DT	FW
+solid	solid	JJ	CW	ADJ
+foundation	foundation	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+persist	persist	VB	CW	VERB
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+rest	rest	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+let	let	VB	CW	VERB
+'s	us	PRP	FW	PRONOUN	ARGUMENT
+take	take	VB	CW	VERB
+a	a	DT	FW
+stand	stand	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+and	and	CC	FW
+let	let	VB	CW	VERB
+the	the	DT	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+board	board	NNP	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+that	that	WDT	FW	PRONOUN
+take	take	VBP	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+beneficial	beneficial	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

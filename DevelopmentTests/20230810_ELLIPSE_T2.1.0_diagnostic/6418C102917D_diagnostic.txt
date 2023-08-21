@@ -1,0 +1,457 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+cartoon	cartoon	NN	CW	NOUN	ARGUMENT
+sponge	sponge	NN	CW	NOUN	ARGUMENT
+bob	bob	NNP	CW	NOUN	ARGUMENT
+square	square	NNP	CW	NOUN	ARGUMENT
+pants	pant	NNS	CW	NOUN	ARGUMENT
+sponge	sponge	NNP	CW	NOUN	ARGUMENT
+bob	bob	NNP	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+'s	's	POS	FW
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+as	as	IN	FW
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+inferring	infer	VBG	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+use	use	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+how	how	WRB	FW
+old	old	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+what	what	WP	FW
+disabilities	disability	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+inferring	infer	VBG	CW	VERB
+to	to	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+think	think	VB	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+beginning	begin	VBG	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+young	young	JJ	CW	ADJ
+little	little	JJ	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+imagine	imagine	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+as	as	IN	FW	SUBORDINATOR
+an	an	DT	FW
+other	other	JJ	CW	ADJ
+parent	parent	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+say	say	VB	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+and	and	CC	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+apart	apart	RB	ADV	FW
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+grew	grow	VBD	CW	VERB
+up	up	RP	FW
+having	have	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+or	or	CC	FW
+big	big	JJ	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+how	how	WRB	FW
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+imagine	imagine	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+like	like	IN	FW
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+examples	example	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+wear	wear	VB	CW	VERB
+out	out	RP	FW
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+wanna	wanna	VBP	CW	VERB
+wear	wear	VBP	CW	VERB
+what	what	WDT	FW
+design	design	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+on	on	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+cake	cake	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+and	and	CC	FW
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+imagine	imagine	VBP	CW	VERB
+unicorns	unicorn	NNS	CW	NOUN	ARGUMENT
+ninjas	ninjas	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+any	any	DT	FW
+of	of	IN	FW
+those	those	DT	FW	PRONOUN
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+superheros	superhero	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+without	without	IN	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+know	know	VB	CW	VERB
+about	about	IN	FW
+that	that	DT	FW	PRONOUN
+or	or	CC	FW
+the	the	DT	FW
+sense	sense	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+knowing	know	VBG	CW	VERB
+what	what	WP	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+having	have	VBG	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+were	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+always	always	RB	ADV	CW
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+use	use	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+for	for	IN	FW
+disable	disable	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+all	all	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+for	for	IN	FW
+one	one	CD	FW
+example	example	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+blind	blind	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+yeah	yeah	UH	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+in	in	IN	FW
+there	there	RB	ADV	CW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+there	there	RB	ADV	CW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+throughout	throughout	IN	FW
+a	a	DT	FW
+blind	blind	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+life	life	NN	CW	NOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+in	in	IN	FW
+there	there	EX	FW
+life	life	NN	CW	NOUN	ARGUMENT
+spam	spam	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wanna	wanna	VBP	CW	VERB
+know	know	VB	CW	VERB
+why	why	WRB	FW
+how	how	WRB	FW
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+blind	blind	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+what	what	WP	FW
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+or	or	CC	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+drawing	draw	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+blind	blind	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+there	there	RB	ADV	CW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+what	what	WP	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+or	or	CC	FW
+when	when	WRB	FW
+there	there	EX	FW
+walking	walk	VBG	CW	VERB
+down	down	IN	FW
+the	the	DT	FW
+street	street	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+when	when	WRB	FW
+buying	buy	VBG	CW	VERB
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+number	number	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+always	always	RB	ADV	CW
+use	use	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+some	some	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+do	do	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+magically	magically	RB	ADV	CW
+know	know	VBP	CW	VERB
+what	what	WP	FW
+there	there	RB	ADV	CW
+doing	do	VBG	CW	VERB
+no	no	UH	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+imagine	imagine	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+imagine	imagine	VBP	CW	VERB
+were	be	VBD	FW	aux_or_cop
+this	this	DT	FW	PRONOUN
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+or	or	CC	FW
+that	that	DT	FW	PRONOUN
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+because	because	IN	FW	SUBORDINATOR
+for	for	IN	FW
+those	those	DT	FW	PRONOUN
+given	give	VBN	CW	VERB
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+ourselves	ourselves	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+given	give	VBN	CW	VERB
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+blind	blind	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+throughout	throughout	IN	FW
+there	there	EX	FW
+life	life	NN	CW	NOUN	ARGUMENT
+spam	spam	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+given	give	VBN	CW	VERB
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

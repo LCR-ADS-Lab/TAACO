@@ -1,0 +1,242 @@
+word	lemma	POS	CW\FW	other categories
+art	art	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+importants	important	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+not	not	RB	ADV	CW
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+class	class	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+such	such	JJ	CW	ADJ
+sports	sport	NNS	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+many	many	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+see	see	VB	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+deal	deal	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+days	day	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+see	see	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+art	art	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+carrear	carrear	NN	CW	NOUN	ARGUMENT
+coming	come	VBG	CW	VERB
+from	from	IN	FW
+art	art	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+art	art	NN	CW	NOUN	ARGUMENT
+market	market	NN	CW	NOUN	ARGUMENT
+art	art	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+that	that	RB	ADV	CW	PRONOUN
+important	important	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+cool	cool	JJ	CW	ADJ
+or	or	CC	FW
+nice	nice	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+chance	chance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+try	try	VB	CW	VERB
+to	to	TO	FW
+skip	skip	VB	CW	VERB
+class	class	NN	CW	NOUN	ARGUMENT
+walking	walk	VBG	CW	VERB
+around	around	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+wasting	waste	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+using	use	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+agree	agree	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+with	with	IN	FW
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+just	just	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+take	take	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+who	who	WP	FW
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+real	real	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+happens	happen	VBZ	CW	VERB
+in	in	IN	FW
+every	every	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+to	to	TO	FW
+avoid	avoid	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+problems	problem	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+elective	elective	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

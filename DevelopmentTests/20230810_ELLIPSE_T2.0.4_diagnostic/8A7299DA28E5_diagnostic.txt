@@ -1,0 +1,689 @@
+word	lemma	POS	CW\FW	other categories
+a	a	DT	FW
+british	british	JJ	CW	ADJ
+naturalist	naturalist	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+politician	politician	NN	CW	NOUN	ARGUMENT
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+``	``	``	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+forms	form	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+control	control	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+being	be	VBG	FW	aux_or_cop
+quiet	quiet	JJ	CW	ADJ
+being	be	VBG	FW	aux_or_cop
+social	social	JJ	CW	ADJ
+and	and	CC	FW
+being	be	VBG	CW	VERB
+over	over	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+being	be	VBG	FW	aux_or_cop
+quiet	quiet	JJ	CW	ADJ
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+quiet	quiet	JJ	CW	ADJ
+isnt	isnt	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+or	or	CC	FW
+bad	bad	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+quiet	quiet	JJ	CW	ADJ
+sometimes	sometimes	RB	ADV	CW
+not	not	RB	ADV	CW
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+once	once	RB	ADV	CW
+in	in	IN	FW
+a	a	DT	FW
+while	while	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+balance	balance	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+out	out	RP	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+back	back	RB	ADV	CW
+when	when	WRB	FW
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+i	i	FW	FW
+middle	middle	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+6th	6th	JJ	CW	ADJ
+to	to	TO	FW
+7th	7th	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+quiet	quiet	JJ	CW	ADJ
+kid	kid	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+little	little	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+talk	talk	VB	CW	VERB
+to	to	TO	FW
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+felt	feel	VBD	CW	VERB
+so	so	RB	ADV	CW
+alone	alone	RB	ADV	CW
+because	because	IN	FW
+of	of	IN	FW
+that	that	DT	FW	PRONOUN
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+talking	talk	VBG	CW	VERB
+to	to	TO	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+got	get	VBD	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+control	control	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+thats	that	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+being	be	VBG	FW	aux_or_cop
+quiet	quiet	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+therefore	therefore	RB	ADV	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+over	over	JJ	CW	ADJ
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+like	like	IN	FW
+being	be	VBG	FW	aux_or_cop
+confident	confident	JJ	CW	ADJ
+or	or	CC	FW
+keeping	keep	VBG	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+check	check	NN	CW	NOUN	ARGUMENT
+thats	that	VBZ	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+trait	trait	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+trait	trait	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+over	over	IN	FW
+confident	confident	JJ	CW	ADJ
+and	and	CC	FW
+cocky	cocky	JJ	CW	ADJ
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+like	like	IN	FW
+those	those	DT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+``	``	``	FW
+there	there	EX	FW
+no	no	DT	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+``	``	``	FW
+party	party	NN	CW	NOUN	ARGUMENT
+poopers	pooper	NNS	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+confess	confess	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+cocky	cocky	JJ	CW	ADJ
+and	and	CC	FW
+over	over	IN	FW
+confident	confident	JJ	CW	ADJ
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+came	come	VBD	CW	VERB
+to	to	TO	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+competitive	competitive	JJ	CW	ADJ
+kid	kid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+even	even	RB	ADV	CW
+screamed	scream	VBD	CW	VERB
+and	and	CC	FW
+yelled	yell	VBD	CW	VERB
+of	of	IN	FW
+happiness	happiness	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+scored	score	VBD	CW	VERB
+or	or	CC	FW
+won	win	VBD	CW	VERB
+a	a	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+think	think	VBP	CW	VERB
+thats	that	VBZ	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+yes	yes	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+there	there	RB	ADV	CW
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+screamed	scream	VBD	CW	VERB
+and	and	CC	FW
+yelled	yell	VBD	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+scored	score	VBD	CW	VERB
+or	or	CC	FW
+won	win	VBD	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+game	game	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+didnt	didnt	FW	FW
+control	control	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+i	i	FW	FW
+just	just	RB	ADV	CW
+yelled	yell	VBN	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+'ve	have	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+yelled	yell	VBN	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+'ve	have	VB	FW	aux_or_cop
+just	just	RB	ADV	CW
+celebrated	celebrate	VBN	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+hands	hand	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+look	look	VB	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+the	the	DT	FW
+sky	sky	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+didnt	didnt	VBP	CW	VERB
+do	do	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+being	be	VBG	CW	VERB
+over	over	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+social	social	JJ	CW	ADJ
+
+sentence break
+
+being	be	VBG	CW	VERB
+social	social	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+talking	talk	VBG	CW	VERB
+to	to	TO	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+like	like	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+even	even	RB	ADV	CW
+discover	discover	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+talkative	talkative	JJ	CW	ADJ
+kid	kid	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+7th	7th	JJ	CW	ADJ
+to	to	TO	FW
+8th	8th	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+felt	feel	VBD	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+annoying	annoy	VBG	CW	VERB
+to	to	TO	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+talked	talk	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+learned	learn	VBD	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+how	how	WRB	FW
+to	to	TO	FW
+approach	approach	VB	CW	VERB
+and	and	CC	FW
+talk	talk	VB	CW	VERB
+to	to	TO	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+discover	discover	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+like	like	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+discover	discover	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+over	over	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+are	be	VBP	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+turn	turn	VBP	CW	VERB
+moody	moody	JJ	CW	ADJ
+or	or	CC	FW
+mean	mean	VB	CW	VERB
+and	and	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+mean	mean	JJ	CW	ADJ
+then	then	RB	ADV	CW
+nice	nice	JJ	CW	ADJ
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+dont	dont	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	PRONOUN
+happens	happen	VBZ	CW	VERB
+to	to	TO	FW
+thats	that	VB	CW	VERB
+how	how	WRB	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+works	work	VBZ	CW	VERB
+
+sentence break
+
+thats	that	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+control	control	VB	CW	VERB
+and	and	CC	FW
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+being	be	VBG	FW	aux_or_cop
+social	social	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+when	when	WRB	FW
+the	the	DT	FW
+british	british	JJ	CW	ADJ
+naturalist	naturalist	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+politician	politician	NN	CW	NOUN	ARGUMENT
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+``	``	``	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+though	though	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+two	two	CD	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+forms	form	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+being	be	VBG	FW	aux_or_cop
+quiet	quiet	JJ	CW	ADJ
+being	be	VBG	FW	aux_or_cop
+social	social	JJ	CW	ADJ
+and	and	CC	FW
+being	be	VBG	CW	VERB
+over	over	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+about	about	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

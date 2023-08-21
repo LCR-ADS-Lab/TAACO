@@ -1,0 +1,602 @@
+word	lemma	POS	CW\FW	other categories
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+said	say	VBD	CW	VERB
+"	"	``	FW
+is	be	VBZ	FW	aux_or_cop
+ok	ok	JJ	CW	ADJ
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+matters	matter	VBZ	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+stand	stand	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+trying	try	VBG	CW	VERB
+"	"	''	FW
+
+sentence break
+
+a	a	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+act	act	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+deciding	decide	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+controversy	controversy	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+question	question	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+reaching	reach	VBG	CW	VERB
+a	a	DT	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+making	make	VBG	CW	VERB
+a	a	DT	FW
+judgment	judgment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+benefit	benefit	VB	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+consequences	consequence	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+by	by	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+argue	argue	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+a	a	DT	FW
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+solving	solve	VBG	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+the	the	DT	FW
+past	past	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+fight	fight	VBP	CW	VERB
+and	and	CC	FW
+die	die	VB	CW	VERB
+for	for	IN	FW
+rights	right	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+now	now	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+privilege	privilege	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+for	for	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+let	let	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+decide	decide	VB	CW	VERB
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+clearly	clearly	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+a	a	DT	FW
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+made	make	VBN	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+initially	initially	RB	ADV	CW
+citizens	citizen	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+united	united	NNP	CW	NOUN	ARGUMENT
+states	states	NNP	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+divorce	divorce	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+wife	wife	NN	CW	NOUN	ARGUMENT
+cheating	cheat	VBG	CW	VERB
+on	on	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+specify	specify	VB	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+court	court	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+paperwork	paperwork	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+divorce	divorce	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+detail	detail	VB	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+privilege	privilege	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+divorce	divorce	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+human	human	JJ	CW	ADJ
+right	right	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+need	need	VB	CW	VERB
+the	the	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+any	any	DT	FW
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+made	make	VBN	CW	VERB
+this	this	DT	FW	PRONOUN
+decision	decision	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+personal	personal	JJ	CW	ADJ
+
+sentence break
+
+one	one	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+observe	observe	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+taking	take	VBG	CW	VERB
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+additionally	additionally	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+capacity	capacity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+emend	emend	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+for	for	IN	FW
+peer	peer	NN	CW	NOUN	ARGUMENT
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+a	a	DT	FW
+wrong	wrong	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+using	use	VBG	CW	VERB
+drugs	drug	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+add	add	VB	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+realize	realize	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+what	what	WP	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+were	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+wrong	wrong	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+understood	understand	VBD	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+for	for	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+staunch	staunch	RB	ADV	CW
+doing	do	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+clearly	clearly	RB	ADV	CW
+society	society	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+want	want	VB	CW	VERB
+but	but	CC	FW
+is	be	VBZ	FW	aux_or_cop
+in	in	IN	FW
+one	one	CD	FW
+to	to	TO	FW
+say	say	VB	CW	VERB
+no	no	UH	FW
+and	and	CC	FW
+fix	fix	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+wrong	wrong	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+but	but	CC	FW
+not	not	RB	ADV	CW
+less	less	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+points	point	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+views	view	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+because	because	IN	FW
+of	of	IN	FW
+that	that	DT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+teach	teach	VBP	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+differentiate	differentiate	VB	CW	VERB
+between	between	IN	FW
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+bad	bad	JJ	CW	ADJ
+that	that	DT	FW	PRONOUN
+means	mean	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+troubles	trouble	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+illustrate	illustrate	VB	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+need	need	VB	CW	VERB
+the	the	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+obviously	obviously	RB	ADV	CW
+humans	human	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+unique	unique	JJ	CW	ADJ
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+means	mean	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+one	one	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+and	and	CC	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+respect	respect	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+summary	summary	NN	CW	NOUN	ARGUMENT
+taking	take	VBG	CW	VERB
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+privilege	privilege	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+ancestors	ancestor	NNS	CW	NOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+made	make	VBN	CW	VERB
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+qualify	qualify	JJ	CW	ADJ
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+by	by	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+prove	prove	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+citizens	citizen	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+a	a	DT	FW
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+made	make	VBN	CW	VERB
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+respect	respect	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+points	point	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+views	view	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+judge	judge	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+only	only	RB	ADV	CW
+one	one	CD	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+respect	respect	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+always	always	RB	ADV	CW
+have	have	VB	CW	VERB
+present	present	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

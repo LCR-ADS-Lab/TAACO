@@ -1,0 +1,346 @@
+word	lemma	POS	CW\FW	other categories
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+"	"	``	FW
+determine	determine	VB	CW	VERB
+never	never	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+idle	idle	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wonderful	wonderful	JJ	CW	ADJ
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+accomplish	accomplish	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+has	have	VBZ	FW	aux_or_cop
+happened	happen	VBN	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+before	before	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+chores	chore	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+fold	fold	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+shirts	shirt	NNS	CW	NOUN	ARGUMENT
+pants	pant	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+clean	clean	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+in	in	IN	FW
+a	a	DT	FW
+short	short	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+never	never	RB	ADV	CW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+than	than	IN	FW
+how	how	WRB	FW
+will	will	MD	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+inactivity	inactivity	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+serves	serve	VBZ	CW	VERB
+a	a	DT	FW
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+clean	clean	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+lazy	lazy	JJ	CW	ADJ
+and	and	CC	FW
+decide	decide	VB	CW	VERB
+not	not	RB	ADV	CW
+to	to	TO	FW
+clean	clean	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+and	and	CC	FW
+see	see	VB	CW	VERB
+'s	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+dirty	dirty	JJ	CW	ADJ
+and	and	CC	FW
+guess	guess	VB	CW	VERB
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+cleans	clean	VBZ	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+makes	make	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+look	look	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+but	but	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+clean	clean	JJ	CW	ADJ
+now	now	RB	ADV	CW
+and	and	CC	FW
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+some	some	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+busy	busy	JJ	CW	ADJ
+doing	do	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+but	but	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+much	much	RB	ADV	CW
+done	do	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+propose	propose	VBP	CW	VERB
+ourselves	ourselves	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+a	a	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+that	that	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+to	to	TO	FW
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+work	work	VB	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+who	who	WP	FW
+but	but	CC	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+come	come	VB	CW	VERB
+and	and	CC	FW
+bless	bless	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+what	what	WP	FW
+maybe	maybe	RB	ADV	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+wanted	want	VBN	CW	VERB
+
+sentence break
+
+just	just	RB	ADV	CW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

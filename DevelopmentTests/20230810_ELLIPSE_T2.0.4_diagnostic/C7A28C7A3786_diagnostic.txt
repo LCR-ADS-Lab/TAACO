@@ -1,0 +1,234 @@
+word	lemma	POS	CW\FW	other categories
+2	2	LS	FW
+
+sentence break
+
+agree	agree	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+somethin	somethin	VB	CW	VERB
+better	better	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+1	1	LS	FW
+
+sentence break
+
+desagree	desagree	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+don	don	VBP	CW	VERB
+think	think	VB	CW	VERB
+after	after	IN	FW
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+``	``	``	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+im	im	NN	CW	NOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+i	i	FW	FW
+think	think	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wan	wan	VBP	CW	VERB
+na	na	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+
+sentence break
+
+think	think	VB	CW	VERB
+febore	febore	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+grow	grow	VBP	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+because	because	IN	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+try	try	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+know	know	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+osmethin	osmethin	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+try	try	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+yours	yours	PRP$	FW	PRONOUN	ARGUMENT
+hands	hand	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+bit	bit	NN	CW	NOUN	ARGUMENT
+imposible	imposible	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+and	and	CC	FW
+thats	that	VB	CW	VERB
+all	all	DT	FW
+
+sentence break
+
+the	the	DT	FW
+humanity	humanity	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+inimaginables	inimaginable	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thas	tha	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+cool	cool	JJ	CW	ADJ
+but	but	CC	FW
+the	the	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+impossible	impossible	JJ	CW	ADJ
+understannding	understannding	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+and	and	CC	FW
+fail	fail	VB	CW	VERB
+thats	that	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+personas	persona	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+whatever	whatever	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+and	and	CC	FW
+thats	that	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

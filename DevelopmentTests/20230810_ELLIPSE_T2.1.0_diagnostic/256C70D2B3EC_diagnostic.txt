@@ -1,0 +1,592 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+never	never	RB	ADV	CW
+done	do	VBN	CW	VERB
+before	before	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+anywhere	anywhere	RB	ADV	FW
+but	but	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+now	now	RB	ADV	CW
+
+sentence break
+
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+mean	mean	VB	CW	VERB
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+getting	get	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+gaining	gain	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+try	try	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+afraid	afraid	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+new	new	JJ	CW	ADJ
+heights	height	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+gain	gain	VB	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+levels	level	NNS	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+the	the	DT	FW
+limitations	limitation	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+yet	yet	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+gain	gain	VB	CW	VERB
+more	more	JJR	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+join	join	VB	CW	VERB
+a	a	DT	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+the	the	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+gaining	gain	VBG	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+to	to	TO	FW
+play	play	VB	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+getting	get	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+an	an	DT	FW
+art	art	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ll	ll	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+art	art	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+determine	determine	VB	CW	VERB
+how	how	WRB	FW
+smart	smart	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+volunteering	volunteer	VBG	CW	VERB
+for	for	IN	FW
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+doing	do	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+less	less	RBR	ADV	CW
+nervous	nervous	JJ	CW	ADJ
+or	or	CC	FW
+afraid	afraid	JJ	CW	ADJ
+of	of	IN	FW
+doing	do	VBG	CW	VERB
+what	what	WP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+wanting	want	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+kind	kind	RB	ADV	CW
+of	of	RB	ADV	CW
+like	like	UH	FW
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+classmates	classmate	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+go	go	VBP	CW	VERB
+up	up	RB	ADV	CW
+there	there	RB	ADV	CW
+and	and	CC	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+afraid	afraid	JJ	CW	ADJ
+or	or	CC	FW
+nervous	nervous	JJ	CW	ADJ
+anymore	anymore	RB	ADV	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+build	build	VB	CW	VERB
+self	self	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ve	ve	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+wanted	want	VBN	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+decide	decide	VB	CW	VERB
+whether	whether	IN	FW	SUBORDINATOR
+or	or	CC	FW
+not	not	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+going	go	VBG	CW	VERB
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+new	new	JJ	CW	ADJ
+limits	limit	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+leads	lead	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+long	long	JJ	CW	ADJ
+goals	goal	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+gaining	gain	VBG	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+building	build	VBG	CW	VERB
+self	self	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+future	future	JJ	CW	ADJ
+goal	goal	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+wanted	want	VBN	CW	VERB
+
+sentence break
+
+like	like	UH	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+pilot	pilot	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+volunteer	volunteer	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+aviation	aviation	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+the	the	DT	FW
+ways	way	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+becoming	become	VBG	CW	VERB
+a	a	DT	FW
+pilot	pilot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+gaining	gain	VBG	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+referring	refer	VBG	CW	VERB
+to	to	IN	FW
+is	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+self	self	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+used	use	VBN	CW	VERB
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+can	can	MD	FW	aux_or_cop
+maybe	maybe	RB	ADV	FW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+faster	fast	RBR	ADV	CW
+and	and	CC	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+easier	easy	JJR	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+positively	positively	RB	ADV	CW
+correct	correct	JJ	CW	ADJ
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+gain	gain	VB	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+new	new	JJ	CW	ADJ
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+doing	do	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+wiser	wiser	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+than	than	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+brighter	bright	JJR	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+always	always	RB	ADV	CW
+look	look	VB	CW	VERB
+for	for	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+done	do	VBN	CW	VERB
+to	to	TO	FW
+challenge	challenge	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+easier	easy	JJR	CW	ADJ
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

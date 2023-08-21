@@ -1,0 +1,390 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+agree	agree	JJ	CW	ADJ
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+two	two	CD	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+find	find	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+like	like	IN	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+like	like	IN	FW
+soldier	soldier	NNP	CW	NOUN	ARGUMENT
+fireman	fireman	NNP	CW	NOUN	ARGUMENT
+lawyer	lawyer	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+president	president	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+the	the	DT	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	IN	FW
+much	much	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+the	the	DT	FW
+case	case	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+what	what	WP	FW
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+find	find	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+happen	happen	VB	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+alot	alot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+apply	apply	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+different	different	JJ	CW	ADJ
+expression	expression	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+happy	happy	JJ	CW	ADJ
+active	active	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+accurate	accurate	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+opposite	opposite	JJ	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+find	find	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+like	like	IN	FW
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+agree	agree	JJ	CW	ADJ
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+live	live	VBP	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+think	think	VB	CW	VERB
+the	the	DT	FW
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+for	for	IN	FW	SUBORDINATOR
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+and	and	CC	FW
+not	not	RB	ADV	CW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplisment	accomplisment	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+belived	belive	VBN	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+family	family	NNP	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+manager	manager	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+belived	belive	VBD	CW	VERB
+in	in	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+everthing	everthing	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+the	the	DT	FW
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+often	often	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+

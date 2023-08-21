@@ -1,0 +1,342 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+electronic	electronic	JJ	CW	ADJ
+devices	device	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+haven	haven	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+drive	drive	VB	CW	VERB
+to	to	IN	FW
+that	that	DT	FW
+location	location	NN	CW	NOUN	ARGUMENT
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+call	call	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+send	send	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+email	email	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lastly	lastly	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+text	text	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+that	that	DT	FW
+location	location	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+contact	contact	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+an	an	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+additionally	additionally	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+a	a	DT	FW
+longer	long	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+drive	drive	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW
+a	a	DT	FW
+result	result	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+order	order	VB	CW	VERB
+online	online	RB	ADV	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+obivious	obivious	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+still	still	RB	ADV	CW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+the	the	DT	FW
+negative	negative	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+a	a	DT	FW
+longer	long	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+order	order	VBP	CW	VERB
+online	online	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+drive	drive	VB	CW	VERB
+to	to	IN	FW
+that	that	DT	FW
+location	location	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+still	still	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+because	because	IN	FW	SUBORDINATOR
+ask	ask	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+that	that	DT	FW
+location	location	NN	CW	NOUN	ARGUMENT
+overall	overall	JJ	CW	ADJ
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+contact	contact	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+order	order	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+return	return	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+exchange	exchange	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+mostly	mostly	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+contact	contact	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+easier	easy	JJR	CW	ADJ
+and	and	CC	FW
+faster	fast	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+

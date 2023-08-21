@@ -1,0 +1,400 @@
+word	lemma	POS	CW\FW	other categories
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+explain	explain	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+'	'	''	FW
+t	t	NN	CW	NOUN	ARGUMENT
+matter	matter	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+worst	worst	JJS	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+after	after	IN	FW	SUBORDINATOR
+the	the	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+
+sentence break
+
+
+paragraph break
+
+furthermore	furthermore	RB	ADV	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+pass	pass	VB	CW	VERB
+by	by	IN	FW
+a	a	DT	FW
+hard	hard	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+``	``	``	FW
+after	after	IN	FW
+the	the	DT	FW
+storm	storm	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+the	the	DT	FW
+calm	calm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+plays	play	VBZ	CW	VERB
+an	a	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+if	if	IN	FW
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+will	will	MD	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+worst	worst	JJS	CW	ADJ
+because	because	IN	FW
+that	that	DT	FW	PRONOUN
+means	mean	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+already	already	RB	ADV	CW
+and	and	CC	FW
+for	for	IN	FW
+that	that	DT	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+worked	work	VBD	CW	VERB
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+fight	fight	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+victory	victory	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+anymore	anymore	RB	ADV	FW
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+but	but	CC	FW
+that	that	IN	FW	PRONOUN
+does	do	VBZ	CW	VERB
+'	'	''	FW
+t	t	NN	CW	NOUN	ARGUMENT
+matter	matter	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+and	and	CC	FW
+tried	try	VBD	CW	VERB
+again	again	RB	ADV	CW
+and	and	CC	FW
+again	again	RB	ADV	CW
+after	after	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+remember	remember	VB	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+how	how	WRB	FW
+important	important	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+additional	additional	JJ	CW	ADJ
+the	the	DT	FW
+word	word	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+``	``	``	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+pursuit	pursuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+clear	clear	JJ	CW	ADJ
+mind	mind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+or	or	CC	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+cases	case	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+very	very	RB	ADV	CW
+famous	famous	JJ	CW	ADJ
+statement	statement	NN	CW	NOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+failure	failure	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+because	because	IN	FW
+by	by	IN	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+wrong	wrong	JJ	CW	ADJ
+and	and	CC	FW
+thats	that	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+pursuit	pursuit	NN	CW	NOUN	ARGUMENT
+an	a	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+and	and	CC	FW
+
+sentence break
+
+
+paragraph break
+
+``	``	``	FW
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+impossible	impossible	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+tried	try	VBN	CW	VERB
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+``	``	``	FW
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+in	in	IN	FW
+this	this	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+true	true	JJ	CW	ADJ
+statement	statement	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+all	all	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

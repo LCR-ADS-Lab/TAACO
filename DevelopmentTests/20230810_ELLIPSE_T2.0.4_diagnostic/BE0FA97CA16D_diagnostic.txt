@@ -1,0 +1,420 @@
+word	lemma	POS	CW\FW	other categories
+to	to	TO	FW
+get	get	VB	CW	VERB
+in	in	IN	FW
+more	more	JJR	CW	ADJ
+depth	depth	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+there	there	RB	ADV	CW
+own	own	JJ	CW	ADJ
+options	option	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+design	design	VB	CW	VERB
+there	there	RB	ADV	CW
+projects	project	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+on	on	IN	FW
+poster	poster	NN	CW	NOUN	ARGUMENT
+paper	paper	NN	CW	NOUN	ARGUMENT
+video	video	NN	CW	NOUN	ARGUMENT
+powerpoint	powerpoint	NN	CW	NOUN	ARGUMENT
+etc.	etc.	FW	FW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+endless	endless	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+options	option	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+from	from	IN	FW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+the	the	DT	FW
+most	most	RBS	ADV	CW
+comfortable	comfortable	JJ	CW	ADJ
+in	in	IN	FW
+
+sentence break
+
+let	let	VB	CW	VERB
+'s	's	PRP	FW	PRONOUN	ARGUMENT
+say	say	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+feels	feel	VBZ	CW	VERB
+agitated	agitate	VBN	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+project	project	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	CW	VERB
+on	on	IN	FW
+video	video	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+ok	ok	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+designed	design	VBN	CW	VERB
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+look	look	VB	CW	VERB
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+matters	matter	VBZ	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+summer	summer	NN	CW	NOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+based	base	VBN	CW	VERB
+off	off	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+require	require	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+based	base	VBN	CW	VERB
+on	on	IN	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+design	design	VBP	CW	VERB
+there	there	EX	FW
+projects	project	VBZ	CW	VERB
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+based	base	VBN	CW	VERB
+on	on	IN	FW
+how	how	WRB	FW
+each	each	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+designs	design	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+add	add	VB	CW	VERB
+on	on	IN	FW
+since	since	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+creating	create	VBG	CW	VERB
+these	these	DT	FW
+projects	project	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+sense	sense	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+becuase	becuase	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+based	base	VBN	CW	VERB
+on	on	IN	FW
+there	there	EX	FW
+projects	project	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+on	on	IN	FW	SUBORDINATOR
+there	there	EX	FW
+own	own	VBP	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+ever	ever	RB	ADV	CW
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+to	to	TO	FW
+hear	hear	VB	CW	VERB
+another	another	DT	FW
+voice	voice	NN	CW	NOUN	ARGUMENT
+meaning	mean	VBG	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+the	the	DT	FW
+material	material	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+better	better	JJR	CW	ADJ
+
+sentence break
+
+rather	rather	RB	ADV	FW
+than	than	IN	FW
+having	have	VBG	CW	VERB
+to	to	TO	FW
+hear	hear	VB	CW	VERB
+from	from	IN	FW	SUBORDINATOR
+there	there	EX	FW
+own	own	VBP	CW	VERB
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+an	a	DT	FW
+average	average	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+disagree	disagree	VB	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+designed	design	VBN	CW	VERB
+instead	instead	RB	ADV	FW
+and	and	CC	FW
+not	not	RB	ADV	CW
+student	student	NN	CW	NOUN	ARGUMENT
+designed	design	VBN	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+having	have	VBG	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+designed	design	VBN	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+becuase	becuase	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+certain	certain	JJ	CW	ADJ
+instructions	instruction	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+read	read	VB	CW	VERB
+and	and	CC	FW
+follow	follow	VB	CW	VERB
+
+sentence break
+
+no	no	DT	FW
+need	need	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+or	or	CC	FW
+plan	plan	VB	CW	VERB
+out	out	RP	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+based	base	VBN	CW	VERB
+off	off	IN	FW
+what	what	WP	FW
+the	the	DT	FW
+instructions	instruction	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+asking	ask	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+getting	get	VBG	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+one	one	CD	FW
+another	another	DT	FW
+but	but	CC	FW
+also	also	RB	ADV	CW
+on	on	IN	FW
+each	each	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+individual	individual	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+however	however	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+stand	stand	VBP	CW	VERB
+on	on	IN	FW
+that	that	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+projects	project	NNS	CW	NOUN	ARGUMENT
+should	should	MD	CW	VERB
+be	be	VB	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+designed	design	VBN	CW	VERB
+what	what	WDT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+understand	understand	VBP	CW	VERB
+the	the	DT	FW
+subject	subject	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+clearly	clearly	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

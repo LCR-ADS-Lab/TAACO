@@ -1,0 +1,550 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+vet	vet	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+just	just	RB	ADV	CW
+help	help	VB	CW	VERB
+families	family	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+there	there	EX	FW
+companion	companion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+vet	vet	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+like	like	UH	FW
+3	3	CD	FW
+or	or	CC	FW
+less	less	JJR	CW	ADJ
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+all	all	DT	FW
+families	family	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+there	there	RB	ADV	CW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+vet	vet	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+have	have	VB	CW	VERB
+lower	low	JJR	CW	ADJ
+prices	price	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+vet	vet	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+so	so	IN	FW	SUBORDINATOR
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+with	with	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+different	different	JJ	CW	ADJ
+animals	animal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+but	but	CC	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+include	include	VB	CW	VERB
+working	work	VBG	CW	VERB
+with	with	IN	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+than	than	IN	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+vet	vet	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	CW	VERB
+really	really	RB	ADV	CW
+not	not	RB	ADV	CW
+scared	scared	JJ	CW	ADJ
+of	of	IN	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+some	some	DT	FW
+nurses	nurse	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+u	u	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+cat	cat	NN	CW	NOUN	ARGUMENT
+somewhere	somewhere	RB	ADV	CW
+else	else	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+bite	bite	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+valenter	valenter	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+a	a	DT	FW
+shelter	shelter	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+theses	thesis	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+vet	vet	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+become	become	VBN	CW	VERB
+a	a	DT	FW
+vet	vet	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+on	on	IN	FW
+helping	help	VBG	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+hurt	hurt	JJ	CW	ADJ
+animals	animal	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+streets	street	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+seen	see	VBN	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+lately	lately	RB	ADV	CW
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+sad	sad	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+easily	easily	RB	ADV	FW
+scared	scare	VBN	CW	VERB
+by	by	IN	FW
+blood	blood	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+this	this	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+consider	consider	VBP	CW	VERB
+animals	animal	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+humans	human	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+even	even	RB	ADV	CW
+cuter	cuter	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+look	look	VBP	CW	VERB
+forward	forward	RB	ADV	CW
+to	to	TO	FW
+have	have	VB	CW	VERB
+not	not	RB	ADV	CW
+as	as	RB	ADV	CW
+many	many	JJ	CW	ADJ
+animals	animal	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+streets	street	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+how	how	WRB	FW
+the	the	DT	FW
+animal	animal	NN	CW	NOUN	ARGUMENT
+bodes	bode	VBZ	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+dogs	dog	NNS	CW	NOUN	ARGUMENT
+cats	cat	NNS	CW	NOUN	ARGUMENT
+birds	bird	NNS	CW	NOUN	ARGUMENT
+lizards	lizard	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+learn	learn	VB	CW	VERB
+where	where	WRB	FW
+the	the	DT	FW
+bones	bone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+and	and	CC	FW
+where	where	WRB	FW
+the	the	DT	FW
+harts	hart	VBZ	CW	VERB
+a	a	DT	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+x	x	NNS	CW	NOUN	ARGUMENT
+-	-	NNS	CW	NOUN	ARGUMENT
+rays	ray	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tell	tell	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+news	news	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+and	and	CC	FW
+bad	bad	JJ	CW	ADJ
+ones	one	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+hopefully	hopefully	RB	ADV	CW
+not	not	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+news	news	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+vet	vet	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hopefully	hopefully	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+really	really	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+work	work	VB	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+different	different	JJ	CW	ADJ
+animals	animal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+this	this	DT	FW
+meas	mea	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+vet	vet	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+vary	vary	JJ	CW	ADJ
+important	important	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+u	u	PRP	FW	PRONOUN	ARGUMENT
+mess	mess	VBP	CW	VERB
+up	up	RB	ADV	CW
+one	one	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+nt	not	RB	ADV	CW
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+actually	actually	RB	ADV	CW
+want	want	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+come	come	VB	CW	VERB
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+scared	scared	JJ	CW	ADJ
+to	to	TO	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+wan	wan	VBD	CW	VERB
+t	t	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

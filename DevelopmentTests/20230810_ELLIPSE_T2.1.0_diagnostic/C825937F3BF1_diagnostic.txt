@@ -1,0 +1,608 @@
+word	lemma	POS	CW\FW	other categories
+students	student	NNS	CW	NOUN	ARGUMENT
+committing	commit	VBG	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+helpful	helpful	JJ	CW	ADJ
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+not	not	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+committed	commit	VBN	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+specific	specific	JJ	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+like	like	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+explore	explore	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+way	way	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+decide	decide	VBP	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+being	be	VBG	FW	aux_or_cop
+said	say	VBD	CW	VERB
+committed	commit	VBN	CW	VERB
+at	at	IN	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+exploring	explore	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+deciding	decide	VBG	CW	VERB
+in	in	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+committed	commit	VBN	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+helpful	helpful	JJ	CW	ADJ
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+sticking	stick	VBG	CW	VERB
+to	to	IN	FW
+one	one	CD	FW
+area	area	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+just	just	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+focused	focus	VBN	CW	VERB
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+especially	especially	RB	ADV	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+focusing	focus	VBG	CW	VERB
+and	and	CC	FW
+putting	put	VBG	CW	VERB
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+enjoy	enjoy	VB	CW	VERB
+having	have	VBG	CW	VERB
+to	to	TO	FW
+just	just	RB	ADV	CW
+stick	stick	VB	CW	VERB
+with	with	IN	FW
+one	one	CD	FW
+area	area	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+
+sentence break
+
+exploring	explore	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+with	with	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+committed	commit	VBN	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	DT	FW
+exploring	explore	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+or	or	CC	FW
+stress	stress	VB	CW	VERB
+about	about	IN	FW
+being	be	VBG	FW	aux_or_cop
+committed	commit	VBN	CW	VERB
+to	to	IN	FW
+just	just	RB	ADV	CW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+exploring	explore	VBG	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+enjoy	enjoy	VB	CW	VERB
+more	more	JJR	CW	ADJ
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+than	than	IN	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+committed	committed	JJ	CW	ADJ
+to	to	IN	FW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+unless	unless	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+love	love	VBP	CW	VERB
+to	to	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+committed	committed	JJ	CW	ADJ
+to	to	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+enjoy	enjoy	VB	CW	VERB
+much	much	JJ	CW	ADJ
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+one	one	CD	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+committed	commit	VBN	CW	VERB
+to	to	IN	FW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+love	love	VB	CW	VERB
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+exploring	explore	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enjoying	enjoy	VBG	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+exploring	exploring	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+enjoy	enjoy	VB	CW	VERB
+more	more	JJR	CW	ADJ
+of	of	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+being	be	VBG	FW	aux_or_cop
+committed	commit	VBN	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+exploring	explore	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+but	but	CC	FW
+lastly	lastly	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+enter	enter	VBP	CW	VERB
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+deciding	decide	VBG	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+head	head	VBP	CW	VERB
+to	to	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+pretty	pretty	RB	ADV	CW
+tough	tough	JJ	CW	ADJ
+
+sentence break
+
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+prepare	prepare	VB	CW	VERB
+for	for	IN	FW
+what	what	WP	FW
+s	s	VBZ	FW	aux_or_cop
+coming	come	VBG	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+chose	choose	VBN	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+while	while	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+prepare	prepare	VB	CW	VERB
+for	for	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+in	in	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+choosing	choose	VBG	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+head	head	VBP	CW	VERB
+in	in	RB	ADV	CW
+to	to	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+tough	tough	JJ	CW	ADJ
+for	for	IN	FW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+committed	commit	VBN	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+beneficial	beneficial	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+boring	boring	JJ	CW	ADJ
+and	and	CC	FW
+sad	sad	JJ	CW	ADJ
+unless	unless	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+truly	truly	RB	ADV	FW
+love	love	VBP	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+entering	enter	VBG	CW	VERB
+college	college	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+immediately	immediately	RB	ADV	CW
+deciding	decide	VBG	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+without	without	IN	FW
+actually	actually	RB	ADV	CW
+knowing	know	VBG	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+chose	choose	VBD	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+so	so	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+
+sentence break
+
+now	now	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+explore	explore	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+way	way	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+enjoy	enjoy	VB	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+enjoy	enjoy	VB	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+whatever	whatever	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+once	once	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+stick	stick	VB	CW	VERB
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+have	have	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

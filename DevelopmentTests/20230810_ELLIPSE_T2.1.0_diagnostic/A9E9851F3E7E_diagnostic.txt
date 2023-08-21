@@ -1,0 +1,417 @@
+word	lemma	POS	CW\FW	other categories
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+distance	distance	NN	CW	NOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	an	DT	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+online	online	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+conferencing	conferencing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+here	here	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+three	three	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+wasting	waste	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+just	just	RB	ADV	CW
+playing	play	VBG	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+watching	watch	VBG	CW	VERB
+t.v.	t.v.	NNP	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+home	home	RB	ADV	CW
+schooled	schooled	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+easily	easily	RB	ADV	FW
+get	get	VB	FW	aux_or_cop
+distracted	distract	VBN	CW	VERB
+from	from	IN	FW
+cellular	cellular	JJ	CW	ADJ
+devices	device	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+siblings	sibling	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+there	there	EX	FW
+work	work	VB	CW	VERB
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+any	any	DT	FW
+connection	connection	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+any	any	DT	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+struggle	struggle	VB	CW	VERB
+with	with	IN	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+focus	focus	VB	CW	VERB
+on	on	IN	FW
+doing	do	VBG	CW	VERB
+there	there	RB	ADV	CW
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+class	class	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+blind	blind	JJ	CW	ADJ
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+do	do	VB	CW	VERB
+any	any	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+blind	blind	JJ	CW	ADJ
+parents	parent	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+hire	hire	VB	CW	VERB
+or	or	CC	FW
+contact	contact	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+blind	blind	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+some	some	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+speak	speak	VB	CW	VERB
+english	english	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+also	also	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+gaurdian	gaurdian	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+afford	afford	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+third	third	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wasting	waste	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+states	state	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+free	free	JJ	CW	ADJ
+books	book	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+states	state	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+
+sentence break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+for	for	IN	FW
+the	the	DT	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+wasting	waste	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+bills	bill	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+distance	distance	NN	CW	NOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	an	DT	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	RB	ADV	CW
+or	or	CC	FW
+by	by	IN	FW
+video	video	NN	CW	NOUN	ARGUMENT
+conferencing	conferencing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+home	home	RB	ADV	CW
+for	for	IN	FW
+education	education	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+attend	attend	VB	CW	VERB
+distance	distance	NN	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+for	for	IN	FW
+there	there	EX	FW
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

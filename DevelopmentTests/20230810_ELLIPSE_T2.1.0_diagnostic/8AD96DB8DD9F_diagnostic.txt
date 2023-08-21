@@ -1,0 +1,502 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VB	CW	VERB
+or	or	CC	FW
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+reading	reading	NN	CW	NOUN	ARGUMENT
+books	book	NNS	CW	NOUN	ARGUMENT
+studying	study	VBG	CW	VERB
+and	and	CC	FW
+learning	learn	VBG	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+imagine	imagine	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+reading	read	VBG	CW	VERB
+books	book	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+mad	mad	JJ	CW	ADJ
+or	or	CC	FW
+just	just	RB	ADV	CW
+in	in	IN	FW
+general	general	JJ	CW	ADJ
+
+sentence break
+
+comedy	comedy	NN	CW	NOUN	ARGUMENT
+books	book	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+read	read	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+cheers	cheer	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+up	up	RP	FW
+more	more	RBR	ADV	CW
+than	than	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+beside	beside	IN	FW
+music	music	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	FW	aux_or_cop
+imagining	imagine	VBG	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+read	read	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+the	the	DT	FW
+story	story	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+interesting	interesting	JJ	CW	ADJ
+like	like	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+talking	talk	VBG	CW	VERB
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+imagining	imagining	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+slow	slow	JJ	CW	ADJ
+learner	learner	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+fast	fast	RB	ADV	CW
+like	like	IN	FW
+other	other	JJ	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+sit	sit	VB	CW	VERB
+down	down	RP	FW
+and	and	CC	FW
+imagine	imagine	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+catch	catch	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+to	to	IN	FW
+studying	study	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+remembering	remember	VBG	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+studying	study	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+are	be	VBP	CW	VERB
+big	big	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+understand	understand	VB	CW	VERB
+especially	especially	RB	ADV	FW
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+to	to	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+english	english	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+of	of	IN	FW
+smart	smart	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+lost	lose	VBN	CW	VERB
+in	in	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+once	once	RB	ADV	CW
+and	and	CC	FW
+the	the	DT	FW
+confuses	confuse	NNS	CW	NOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+english	english	NNP	CW	NOUN	ARGUMENT
+taught	teach	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+knew	know	VBD	CW	VERB
+before	before	IN	FW
+like	like	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+introduction	introduction	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+every	every	DT	FW
+paragraph	paragraph	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+learning	learning	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+playing	playing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+letting	let	VBG	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+learning	learning	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+joke	joke	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+take	take	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+seriously	seriously	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+come	come	VB	CW	VERB
+true	true	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+wake	wake	VBP	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+happy	happy	JJ	CW	ADJ
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+
+sentence break
+
+learning	learning	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+to	to	IN	FW
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+either	either	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+location	location	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+read	read	VB	CW	VERB
+and	and	CC	FW
+write	write	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+each	each	DT	FW
+and	and	CC	FW
+everyday	everyday	JJ	CW	ADJ
+by	by	IN	FW
+studying	study	VBG	CW	VERB
+learning	learn	VBG	CW	VERB
+or	or	CC	FW
+reading	reading	NN	CW	NOUN	ARGUMENT
+books	book	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+fill	fill	VB	CW	VERB
+up	up	RP	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+emptiness	emptiness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+like	like	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+learning	learning	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+studying	study	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+studying	study	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+imagine	imagine	VB	CW	VERB
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+talked	talk	VBD	CW	VERB
+about	about	IN	FW
+
+sentence break
+
+reading	read	VBG	CW	VERB
+books	book	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+cheers	cheer	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+up	up	RP	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+mad	mad	JJ	CW	ADJ
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+pop	pop	VB	CW	VERB
+off	off	RP	FW
+and	and	CC	FW
+say	say	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+regret	regret	VBP	CW	VERB
+saying	say	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+

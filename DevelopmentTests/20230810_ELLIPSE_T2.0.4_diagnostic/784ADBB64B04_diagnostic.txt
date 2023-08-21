@@ -1,0 +1,302 @@
+word	lemma	POS	CW\FW	other categories
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW	SUBORDINATOR
+life	life	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+talk	talk	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+who	who	WP	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+
+sentence break
+
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+around	around	RB	ADV	CW
+as	as	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+work	work	NN	CW	NOUN	ARGUMENT
+partner	partner	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+common	common	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+lost	lose	VBD	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+jobs	job	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+employees	employee	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+always	always	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+interview	interview	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+perform	perform	VBP	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+express	express	VBP	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+jobs	job	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+deal	deal	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+deal	deal	VB	CW	VERB
+with	with	IN	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+summarize	summarize	VB	CW	VERB
+how	how	WRB	FW
+affect	affect	VB	CW	VERB
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+express	express	VBP	CW	VERB
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+positive	positive	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+have	have	VBP	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+ours	ours	JJ	CW	ADJ
+lifetime	lifetime	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+convenient	convenient	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+can	can	MD	FW	aux_or_cop
+meet	meet	VB	CW	VERB
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+peoples	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+projects	project	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,348 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+elbert	elbert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+strong	strong	JJ	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+smartest	smartest	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+lived	live	VBD	CW	VERB
+through	through	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+really	really	RB	ADV	CW
+smart	smart	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+too	too	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+genus	genus	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+o	o	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+do	do	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+``	``	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+because	because	IN	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+now	now	RB	ADV	CW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+how	how	WRB	FW
+are	be	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+strong	strong	JJ	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+really	really	RB	ADV	CW
+smart	smart	JJ	CW	ADJ
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+lived	live	VBD	CW	VERB
+through	through	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+elbert	elbert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+smart	smart	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+elbert	elbert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+strong	strong	JJ	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+smartest	smartest	JJS	CW	ADJ
+human	human	JJ	CW	ADJ
+beings	being	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+ever	ever	RB	ADV	CW
+live	live	VB	CW	VERB
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+really	really	RB	ADV	CW
+smart	smart	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+''	''	''	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+strong	strong	JJ	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+and	and	CC	FW
+become	become	VB	CW	VERB
+really	really	RB	ADV	CW
+smart	smart	JJ	CW	ADJ
+
+sentence break
+
+elbert	elbert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+created	create	VBD	CW	VERB
+and	and	CC	FW
+invented	invent	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+to	to	TO	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+a	a	DT	FW
+strong	strong	JJ	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+elbert	elbert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+created	create	VBD	CW	VERB
+cool	cool	JJ	CW	ADJ
+inventions	invention	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+gadgets	gadget	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+a	a	DT	FW
+wild	wild	JJ	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+and	and	CC	FW
+create	create	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+cool	cool	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+why	why	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+this	this	DT	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+smart	smart	JJ	CW	ADJ
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+used	use	VBD	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+elbert	elbert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+really	really	RB	ADV	CW
+old	old	JJ	CW	ADJ
+and	and	CC	FW
+really	really	RB	ADV	CW
+smart	smart	JJ	CW	ADJ
+so	so	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+lived	live	VBD	CW	VERB
+through	through	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+human	human	JJ	CW	ADJ
+not	not	RB	ADV	CW
+as	as	IN	FW
+genus	genus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+learned	learn	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+genus	genus	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+live	live	VB	CW	VERB
+through	through	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+human	human	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

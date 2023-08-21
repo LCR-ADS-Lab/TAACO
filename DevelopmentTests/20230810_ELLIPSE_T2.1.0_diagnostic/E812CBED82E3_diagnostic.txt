@@ -1,0 +1,381 @@
+word	lemma	POS	CW\FW	other categories
+older	old	JJR	CW	ADJ
+and	and	CC	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+
+sentence break
+
+older	old	JJR	CW	ADJ
+studentss	studentss	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+smarter	smart	JJR	CW	ADJ
+then	then	RB	ADV	CW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+younger	young	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+been	be	VBN	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+alot	alot	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+any	any	DT	FW
+subjects	subject	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+ages	age	NNS	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+teaches	teach	VBZ	CW	VERB
+different	different	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+becuase	becuase	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+young	young	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+yong	yong	NNP	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+late	late	RB	ADV	CW
+born	bear	VBN	CW	VERB
+then	then	RB	ADV	CW
+older	old	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parent	parent	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+atempt	atempt	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+early	early	RB	ADV	CW
+or	or	CC	FW
+late	late	JJ	CW	ADJ
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+young	young	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+alot	alot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+studednt	studednt	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+smart	smart	JJ	CW	ADJ
+or	or	CC	FW
+intelligant	intelligant	JJ	CW	ADJ
+then	then	RB	ADV	CW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+listening	listening	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+reading	reading	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+well	well	RB	ADV	CW
+on	on	IN	FW
+listening	listen	VBG	CW	VERB
+or	or	CC	FW
+reading	reading	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+gete	gete	VB	CW	VERB
+smarter	smart	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+when	when	WRB	FW
+the	the	DT	FW
+young	young	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+older	old	JJR	CW	ADJ
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+starting	start	VBG	CW	VERB
+to	to	TO	FW
+change	change	VB	CW	VERB
+and	and	CC	FW
+turning	turn	VBG	CW	VERB
+into	into	IN	FW
+a	a	DT	FW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+student	student	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+start	start	VBP	CW	VERB
+growing	grow	VBG	CW	VERB
+like	like	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+older	old	JJR	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+deploma	deploma	NN	CW	NOUN	ARGUMENT
+paper	paper	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+other	other	JJ	CW	ADJ
+studetns	studetns	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+starts	start	VBZ	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+subject	subject	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+olderer	olderer	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+brilliant	brilliant	JJ	CW	ADJ
+then	then	RB	ADV	CW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+are	be	VBP	FW	aux_or_cop
+available	available	JJ	CW	ADJ
+to	to	IN	FW
+any	any	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+studys	studys	JJ	CW	ADJ
+alot	alot	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+prepare	prepare	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+any	any	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+gon	go	NN	CW	NOUN	ARGUMENT
+na	to	TO	FW
+take	take	VB	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+goes	go	VBZ	CW	VERB
+to	to	IN	FW
+many	many	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+assign	assign	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+and	and	CC	FW
+get	get	VB	CW	VERB
+important	important	JJ	CW	ADJ
+details	detail	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+that	that	DT	FW	PRONOUN
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+older	old	JJR	CW	ADJ
+and	and	CC	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	RB	ADV	CW
+different	different	JJ	CW	ADJ
+comparing	compare	VBG	CW	VERB
+to	to	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+both	both	DT	FW
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+reading	reading	NN	CW	NOUN	ARGUMENT
+writing	writing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+speaking	speak	VBG	CW	VERB
+skills	skill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+older	old	JJR	CW	ADJ
+and	and	CC	FW
+younger	young	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+studentes	studente	VBZ	CW	VERB
+like	like	IN	FW
+to	to	TO	FW
+help	help	VB	CW	VERB
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+in	in	IN	FW
+common	common	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+read	read	VBP	CW	VERB
+and	and	CC	FW
+work	work	VB	CW	VERB
+hard	hard	JJ	CW	ADJ
+alot	alot	NN	CW	NOUN	ARGUMENT
+each	each	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+older	old	JJR	CW	ADJ
+and	and	CC	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+pair	pair	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+made	make	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,885 @@
+word	lemma	POS	CW\FW	other categories
+once	once	RB	ADV	CW
+again	again	RB	ADV	CW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+guardians	guardian	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+reduce	reduce	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+positions	position	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+cope	cope	VB	CW	VERB
+with	with	IN	FW
+shift	shift	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+subject	subject	JJ	CW	ADJ
+directives	directive	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+more	more	RBR	ADV	CW
+significant	significant	JJ	CW	ADJ
+in	in	IN	FW
+amount	amount	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+requirement	requirement	NN	CW	NOUN	ARGUMENT
+perhaps	perhaps	RB	ADV	CW
+stressing	stress	VBG	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+quite	quite	RB	ADV	FW
+the	the	DT	FW
+degree	degree	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+current	current	JJ	CW	ADJ
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+alone	alone	RB	ADV	CW
+has	have	VBZ	CW	VERB
+multitudes	multitude	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+events	event	NNS	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+concepts	concept	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+brimming	brim	VBG	CW	VERB
+in	in	IN	FW
+attentiveness	attentiveness	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+consumption	consumption	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+negatives	negative	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+lengthening	lengthen	VBG	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+duration	duration	NN	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+but	but	CC	FW
+truly	truly	RB	ADV	FW
+take	take	VB	CW	VERB
+into	into	IN	FW
+consideration	consideration	NN	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+a	a	DT	FW
+change	change	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+frame	frame	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+result	result	VB	CW	VERB
+in	in	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+impacts	impact	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+irreversibly	irreversibly	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+education	education	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+considered	consider	VBN	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+an	a	DT	FW
+immense	immense	JJ	CW	ADJ
+and	and	CC	FW
+influential	influential	JJ	CW	ADJ
+extent	extent	NN	CW	NOUN	ARGUMENT
+over	over	IN	FW
+the	the	DT	FW
+preparation	preparation	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+individuals	individual	NNS	CW	NOUN	ARGUMENT
+within	within	IN	FW
+the	the	DT	FW
+constantly	constantly	RB	ADV	CW
+expanding	expand	VBG	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+determine	determine	VB	CW	VERB
+how	how	WRB	FW
+a	a	DT	FW
+future	future	JJ	CW	ADJ
+employee	employee	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+react	react	VB	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+circumstance	circumstance	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+perhaps	perhaps	RB	ADV	CW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+solve	solve	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+entire	entire	JJ	CW	ADJ
+generations	generation	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	CW	VERB
+based	base	VBN	CW	VERB
+upon	upon	IN	FW
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fundamentals	fundamental	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+algebra	algebra	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+language	language	NN	CW	NOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+learned	learn	VBN	CW	VERB
+by	by	IN	FW
+these	these	DT	FW
+individuals	individual	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+sculpted	sculpt	VBN	CW	VERB
+the	the	DT	FW
+process	process	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+man	man	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+touch	touch	VB	CW	VERB
+the	the	DT	FW
+moon	moon	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+cease	cease	VB	CW	VERB
+global	global	JJ	CW	ADJ
+crises	crisis	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	DT	FW
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+has	have	VBZ	FW	aux_or_cop
+possibly	possibly	RB	ADV	FW
+resulted	result	VBN	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+exist	exist	VBP	CW	VERB
+in	in	IN	FW
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+circumstance	circumstance	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+increase	increase	VB	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+due	due	JJ	CW	ADJ
+to	to	TO	FW
+the	the	DT	FW
+following	following	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+current	current	JJ	CW	ADJ
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+already	already	RB	ADV	CW
+establishes	establish	VBZ	CW	VERB
+7	7	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+probable	probable	JJ	CW	ADJ
+physical	physical	JJ	CW	ADJ
+and	and	CC	FW
+intellectual	intellectual	JJ	CW	ADJ
+progression	progression	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+experience	experience	VB	CW	VERB
+more	more	RBR	ADV	CW
+unproductive	unproductive	JJ	CW	ADJ
+and	and	CC	FW
+negative	negative	JJ	CW	ADJ
+entities	entity	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+one	one	CD	FW
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+produce	produce	VB	CW	VERB
+incompatibilities	incompatibility	NNS	CW	NOUN	ARGUMENT
+towards	towards	IN	FW
+both	both	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+related	related	JJ	CW	ADJ
+individual	individual	JJ	CW	ADJ
+schedules	schedule	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+
+sentence break
+
+
+paragraph break
+
+though	though	IN	FW	SUBORDINATOR
+a	a	DT	FW
+multitude	multitude	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+negative	negative	JJ	CW	ADJ
+concepts	concept	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+events	event	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+associated	associate	VBN	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+extending	extend	VBG	CW	VERB
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+quite	quite	RB	ADV	FW
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+variety	variety	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+such	such	PDT	FW
+a	a	DT	FW
+transformation	transformation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+prolonged	prolonged	JJ	CW	ADJ
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+excellent	excellent	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+further	further	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+subject	subject	JJ	CW	ADJ
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+as	as	IN	FW
+direct	direct	JJ	CW	ADJ
+application	application	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+homework	homework	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+higher	higher	JJR	CW	ADJ
+chance	chance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	CW	VERB
+finished	finish	VBN	CW	VERB
+within	within	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+socialization	socialization	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+gym	gym	NN	CW	NOUN	ARGUMENT
+sessions	session	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+extended	extend	VBN	CW	VERB
+
+sentence break
+
+however	however	RB	ADV	FW
+negative	negative	JJ	CW	ADJ
+concepts	concept	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+solutions	solution	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+may	may	MD	FW	aux_or_cop
+indicate	indicate	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+no	no	DT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+may	may	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+of	of	IN	FW
+the	the	DT	FW
+scenario	scenario	NN	CW	NOUN	ARGUMENT
+unproductive	unproductive	JJ	CW	ADJ
+elements	element	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+still	still	RB	ADV	CW
+remain	remain	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+previously	previously	RB	ADV	CW
+mentioned	mention	VBN	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+take	take	VBP	CW	VERB
+a	a	DT	FW
+view	view	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+against	against	IN	FW
+the	the	DT	FW
+prolongment	prolongment	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+academic	academic	JJ	CW	ADJ
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+relates	relate	VBZ	CW	VERB
+to	to	TO	FW
+incompatibilities	incompatibility	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+multiple	multiple	JJ	CW	ADJ
+individuals	individual	NNS	CW	NOUN	ARGUMENT
+an	a	DT	FW
+increase	increase	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+negativity	negativity	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+current	current	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+frame	frame	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+being	be	VBG	CW	VERB
+against	against	IN	FW
+an	a	DT	FW
+extended	extended	NNP	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+day	day	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+with	with	IN	FW
+the	the	DT	FW
+prolonging	prolong	VBG	CW	VERB
+of	of	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+multiple	multiple	JJ	CW	ADJ
+casual	casual	JJ	CW	ADJ
+difficulties	difficulty	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+amplified	amplify	VBN	CW	VERB
+whilst	whilst	IN	FW	SUBORDINATOR
+new	new	JJ	CW	ADJ
+forms	form	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+faults	fault	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+felt	feel	VBN	CW	VERB
+by	by	IN	FW
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+select	select	JJ	CW	ADJ
+few	few	JJ	CW	ADJ
+could	could	MD	FW	aux_or_cop
+include	include	VB	CW	VERB
+having	have	VBG	CW	VERB
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+more	more	JJR	CW	ADJ
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+receiving	receive	VBG	CW	VERB
+an	a	DT	FW
+increase	increase	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+quite	quite	RB	ADV	FW
+more	more	RBR	ADV	CW
+
+sentence break
+
+certain	certain	JJ	CW	ADJ
+subject	subject	NN	CW	NOUN	ARGUMENT
+periods	period	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+uninteresting	uninteresting	JJ	CW	ADJ
+after	after	IN	FW
+critically	critically	RB	ADV	CW
+focusing	focus	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+upon	upon	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+periods	period	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+shorter	shorter	JJR	CW	ADJ
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+cope	cope	VB	CW	VERB
+the	the	DT	FW
+extension	extension	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+events	event	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+a	a	DT	FW
+possibility	possibility	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+occurring	occur	VBG	CW	VERB
+throughout	throughout	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+unintentionally	unintentionally	RB	ADV	FW
+imposing	impose	VBG	CW	VERB
+and	and	CC	FW
+certain	certain	JJ	CW	ADJ
+situations	situation	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+very	very	RB	ADV	CW
+well	well	RB	ADV	CW
+be	be	VB	CW	VERB
+perceived	perceive	VBN	CW	VERB
+by	by	IN	FW
+an	a	DT	FW
+array	array	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+aforementioned	aforementioned	JJ	CW	ADJ
+extension	extension	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+beginning	begin	VBG	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+7-hour	7-hour	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+enter	enter	VBP	CW	VERB
+the	the	DT	FW
+building	building	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+perhaps	perhaps	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+encountered	encounter	VBN	CW	VERB
+a	a	DT	FW
+dilemma	dilemma	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+certain	certain	JJ	CW	ADJ
+peers	peer	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+caught	catch	VBN	CW	VERB
+the	the	DT	FW
+bus	bus	NN	CW	NOUN	ARGUMENT
+late	late	JJ	CW	ADJ
+or	or	CC	FW
+arrived	arrive	VBN	CW	VERB
+earlier	earlier	JJR	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+
+sentence break
+
+afterwards	afterwards	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+how	how	WRB	FW
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+concept	concept	NN	CW	NOUN	ARGUMENT
+functions	function	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+another	another	DT	FW
+and	and	CC	FW
+may	may	MD	FW	aux_or_cop
+simultaneously	simultaneously	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+attempting	attempt	VBG	CW	VERB
+to	to	TO	FW
+concluded	conclude	VBD	CW	VERB
+a	a	DT	FW
+page	page	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+moving	move	VBG	CW	VERB
+from	from	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+periods	period	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+perplexed	perplex	VBN	CW	VERB
+at	at	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+locker	locker	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+present	present	JJ	CW	ADJ
+condition	condition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+questioning	question	VBG	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+both	both	DT	FW
+have	have	VBP	CW	VERB
+separate	separate	JJ	CW	ADJ
+projects	project	NNS	CW	NOUN	ARGUMENT
+due	due	JJ	CW	ADJ
+tomorrow	tomorrow	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+essence	essence	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+day	day	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+of	of	IN	FW
+highly	highly	RB	ADV	CW
+troubling	troubling	JJ	CW	ADJ
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+as	as	IN	FW
+instances	instance	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+an	a	DT	FW
+be	be	VB	FW	aux_or_cop
+excessively	excessively	RB	ADV	CW
+stressful	stressful	JJ	CW	ADJ
+in	in	IN	FW
+relation	relation	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+alone	alone	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+final	final	JJ	CW	ADJ
+note	note	NN	CW	NOUN	ARGUMENT
+pertaining	pertain	VBG	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+longer	longer	RBR	ADV	CW
+daily	daily	JJ	CW	ADJ
+routine	routine	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	TO	FW
+extensive	extensive	JJ	CW	ADJ
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+faculty	faculty	NN	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+guardian	guardian	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+frames	frame	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+require	require	VB	CW	VERB
+adequate	adequate	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+function	function	VB	CW	VERB
+properly	properly	RB	ADV	CW
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+baseball	baseball	NN	CW	NOUN	ARGUMENT
+and/or	and/or	CC	FW
+team	team	NN	CW	NOUN	ARGUMENT
+swimming	swimming	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+guardians	guardian	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+now	now	RB	ADV	CW
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fulfill	fulfill	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+schedules	schedule	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+react	react	VB	CW	VERB
+with	with	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+result	result	VB	CW	VERB
+in	in	IN	FW
+negative	negative	JJ	CW	ADJ
+consequences	consequence	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+faculty	faculty	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+a	a	DT	FW
+longer	longer	JJR	CW	ADJ
+duration	duration	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+cleanse	cleanse	VB	CW	VERB
+or	or	CC	FW
+conclude	conclude	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+occupational	occupational	JJ	CW	ADJ
+duties	duty	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+excess	excess	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+materials	material	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+apparent	apparent	JJ	CW	ADJ
+within	within	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+some	some	DT	FW
+degree	degree	NN	CW	NOUN	ARGUMENT
+outside	outside	IN	FW
+of	of	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+left	leave	VBN	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+severe	severe	JJ	CW	ADJ
+imbalance	imbalance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+two	two	CD	FW
+correlating	correlate	VBG	CW	VERB
+but	but	CC	FW
+differed	differ	VBD	CW	VERB
+schedules	schedule	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+interact	interact	VB	CW	VERB
+with	with	IN	FW
+
+sentence break
+
+
+paragraph break
+

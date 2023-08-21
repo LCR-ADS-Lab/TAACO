@@ -1,0 +1,398 @@
+word	lemma	POS	CW\FW	other categories
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+control	control	VB	CW	VERB
+these	these	DT	FW	PRONOUN
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+involvements	involvement	NNS	CW	NOUN	ARGUMENT
+these	these	DT	FW	PRONOUN
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+left	leave	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+families	family	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+decision	decision	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+involved	involve	VBN	CW	VERB
+in	in	IN	FW
+an	an	DT	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+deal	deal	VB	CW	VERB
+with	with	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	FW	aux_or_cop
+involved	involve	VBN	CW	VERB
+into	into	IN	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+control	control	VB	CW	VERB
+these	these	DT	FW	PRONOUN
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+-it	-it	NNP	CW	NOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+signs	sign	NNS	CW	NOUN	ARGUMENT
+into	into	IN	FW
+a	a	DT	FW
+football	football	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+control	control	VB	CW	VERB
+what	what	WDT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+signed	sign	VBD	CW	VERB
+into	into	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+an	an	DT	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+or	or	CC	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+sign	sign	VB	CW	VERB
+into	into	IN	FW
+a	a	DT	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+should	should	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+depend	depend	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+obviously	obviously	RB	ADV	CW
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+homeworks	homework	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+involved	involve	VBN	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+clubs	club	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+on	on	IN	FW
+a	a	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+conselour	conselour	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+how	how	WRB	FW
+to	to	TO	FW
+manage	manage	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+conselour	conselour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ask	ask	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+her	she	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+any	any	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+core	core	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+any	any	DT	FW
+other	other	JJ	CW	ADJ
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+whenever	whenever	WRB	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+to	to	TO	FW
+not	not	RB	ADV	CW
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+complicated	complicated	JJ	CW	ADJ
+or	or	CC	FW
+important	important	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+requires	require	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+assignments.\	assignments.\	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+families	family	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+ones	one	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+control	control	VB	CW	VERB
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+doing	do	VBG	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+control	control	VB	CW	VERB
+these	these	DT	FW	PRONOUN
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+issues	issue	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+let	let	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+decide	decide	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

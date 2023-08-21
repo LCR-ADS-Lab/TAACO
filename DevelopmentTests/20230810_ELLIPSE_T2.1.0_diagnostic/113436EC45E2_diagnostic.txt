@@ -1,0 +1,641 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+philosopher	philosopher	NN	CW	NOUN	ARGUMENT
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+the	the	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+important	important	JJ	CW	ADJ
+and	and	CC	FW
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+influencing	influence	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+the	the	DT	FW
+society	society	NN	CW	NOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+persons	person	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+sons	son	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+famous	famous	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+fans	fan	NNS	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+under	under	IN	FW
+12	12	CD	FW
+ages	age	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+given	give	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+generation	generation	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+influencing	influence	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+sons	son	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+daughter	daughter	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+has	have	VBZ	CW	VERB
+there	there	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+speak	speak	NN	CW	NOUN	ARGUMENT
+walk	walk	VB	CW	VERB
+and	and	CC	FW
+who	who	WP	FW
+clothing	clothing	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+father	father	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+drunk	drunk	JJ	CW	ADJ
+and	and	CC	FW
+smoker	smoker	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+him	he	PRP	FW	PRONOUN	ARGUMENT
+given	give	VBN	CW	VERB
+to	to	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+sons	son	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+by	by	IN	FW
+influencing	influence	VBG	CW	VERB
+in	in	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+sons	son	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+destroy	destroy	VB	CW	VERB
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+situation	situation	NN	CW	NOUN	ARGUMENT
+happen	happen	VB	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+authority	authority	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+bad	bad	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+given	give	VBN	CW	VERB
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+is	be	VBZ	FW	aux_or_cop
+no	no	DT	FW
+only	only	RB	ADV	CW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+to	to	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+sons	son	NNS	CW	NOUN	ARGUMENT
+nevertheless	nevertheless	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+a	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+expensive	expensive	JJ	CW	ADJ
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+shoe	shoe	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+a	a	DT	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+care	care	VBP	CW	VERB
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+the	the	DT	FW
+father	father	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+give	give	VB	CW	VERB
+a	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+respect	respect	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+with	with	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+challenge	challenge	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW	SUBORDINATOR
+no	no	RB	ADV	CW
+matter	matter	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+obstacle	obstacle	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+support	support	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+teach	teach	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+be	be	VB	FW	aux_or_cop
+adults	adult	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+explain	explain	VB	CW	VERB
+many	many	JJ	CW	ADJ
+thinks	think	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+know	know	VB	CW	VERB
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+wrong	wrong	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+help	help	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+say	say	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+thinks	think	VBZ	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+wrong	wrong	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+respect	respect	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+a	a	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+influencing	influence	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+respect	respect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+leader	leader	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+caretaker	caretaker	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+church	church	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+one	one	CD	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+one	one	CD	FW
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+influences	influence	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+movement	movement	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+in	in	IN	FW
+the	the	DT	FW
+church	church	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+a	a	DT	FW
+leader	leader	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+support	support	VB	CW	VERB
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+no	no	PDT	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+leader	leader	NN	CW	NOUN	ARGUMENT
+teach	teach	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+leader	leader	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+that	that	DT	FW	PRONOUN
+like	like	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+friendly	friendly	JJ	CW	ADJ
+etc	etc	FW	FW
+.	.	FW	FW
+
+sentence break
+
+and	and	CC	FW
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+example	example	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+influence	influence	VB	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+inspire	inspire	VB	CW	VERB
+more	more	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+them	they	PRP	FW	PRONOUN	ARGUMENT
+teach	teach	VBP	CW	VERB
+another	another	DT	FW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+any	any	DT	FW
+areas	area	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+desaggres	desaggre	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+for	for	IN	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+another	another	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+one	one	CD	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+fallow	fallow	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+steps	step	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	IN	FW
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+neighborhood	neighborhood	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+community	community	NN	CW	NOUN	ARGUMENT
+helped	help	VBD	CW	VERB
+who	who	WP	FW
+needed	need	VBD	CW	VERB
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+anothers	another	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

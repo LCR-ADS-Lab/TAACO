@@ -1,0 +1,514 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+healthier	healthy	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+better	well	RBR	ADV	CW
+
+sentence break
+
+studies	study	NNS	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+a	a	DT	FW
+healthier	healthy	JJR	CW	ADJ
+meal	meal	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+process	process	VB	CW	VERB
+fast	fast	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+a	a	DT	FW
+healthy	healthy	JJ	CW	ADJ
+meal	meal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+more	more	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+healthier	healthy	JJR	CW	ADJ
+meal	meal	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+means	mean	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+learning	learning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+higher	high	JJR	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+higher	high	JJR	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+scores	score	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+higher	high	JJR	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+scores	score	NNS	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+rated	rate	VBN	CW	VERB
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+score	score	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+smartest	smart	JJS	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+having	have	VBG	CW	VERB
+healthier	healthy	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+healthier	healthy	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+meets	meet	VBZ	CW	VERB
+number	number	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+calories	calorie	NNS	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+promotes	promote	VBZ	CW	VERB
+healthier	healthy	JJR	CW	ADJ
+living	living	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+effect	effect	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+eating	eat	VBG	CW	VERB
+fast	fast	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+america	america	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+choosing	choose	VBG	CW	VERB
+fast	fast	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+replacement	replacement	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+classic	classic	JJ	CW	ADJ
+homemade	homemade	JJ	CW	ADJ
+meals	meal	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+many	many	JJ	CW	ADJ
+of	of	IN	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fast	fast	JJ	CW	ADJ
+and	and	CC	FW
+convenient	convenient	JJ	CW	ADJ
+but	but	CC	FW
+the	the	DT	FW
+negative	negative	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+outweighed	outweigh	VBD	CW	VERB
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+shot	shot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eating	eat	VBG	CW	VERB
+fast	fast	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+daily	daily	RB	ADV	CW
+affects	affect	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+diet	diet	NN	CW	NOUN	ARGUMENT
+leaves	leave	VBZ	CW	VERB
+a	a	DT	FW
+hole	hole	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+pocket	pocket	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+change	change	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+mood	mood	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+effect	effect	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+seen	see	VBN	CW	VERB
+right	right	RB	ADV	CW
+away	away	RB	ADV	CW
+but	but	CC	FW
+after	after	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+to	to	TO	FW
+add	add	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+
+paragraph break
+
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+eliminate	eliminate	VB	CW	VERB
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+cafeteria	cafeteria	NN	CW	NOUN	ARGUMENT
+foods	food	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+for	for	IN	FW
+the	the	DT	FW
+good	good	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eating	eat	VBG	CW	VERB
+fast	fast	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+everyday	everyday	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+any	any	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+athletic	athletic	JJ	CW	ADJ
+and	and	CC	FW
+energetic	energetic	JJ	CW	ADJ
+
+sentence break
+
+to	to	TO	FW
+do	do	VB	CW	VERB
+all	all	PDT	FW
+this	this	DT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+eating	eat	VBG	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+get	get	VB	CW	VERB
+sick	sick	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+controlling	control	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+diet	diet	NN	CW	NOUN	ARGUMENT
+properly	properly	RB	ADV	CW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+to	to	TO	FW
+happen	happen	VB	CW	VERB
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+eating	eat	VBG	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+for	for	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+parents	parent	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+health	health	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+changes	change	VBZ	CW	VERB
+the	the	DT	FW
+menu	menu	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+healthier	healthy	JJR	CW	ADJ
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+worried	worried	JJ	CW	ADJ
+about	about	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+this	this	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+used	use	VBN	CW	VERB
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+start	start	VB	CW	VERB
+eating	eat	VBG	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+sick	sick	JJ	CW	ADJ
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+old	old	JJ	CW	ADJ
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+healthy	healthy	JJ	CW	ADJ
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+means	mean	VBZ	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+going	going	VBG	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+that	that	RB	ADV	CW	PRONOUN
+hard	hard	JJ	CW	ADJ
+on	on	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+healthy	healthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+that	that	RB	ADV	CW	PRONOUN
+expensive	expensive	JJ	CW	ADJ
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+fast	fast	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+save	save	VB	CW	VERB
+more	more	JJR	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+eating	eat	VBG	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+foods	food	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+and	and	CC	FW
+smart	smart	JJ	CW	ADJ
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+

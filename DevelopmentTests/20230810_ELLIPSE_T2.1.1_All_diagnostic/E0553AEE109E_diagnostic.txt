@@ -1,0 +1,784 @@
+word	lemma	POS	CW\FW	other categories
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+having	have	VBG	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+long	long	JJ	CW	ADJ
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+do	do	VBP	CW	VERB
+three	three	CD	FW
+months	month	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+argue	argue	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+month	month	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+longer	long	JJR	CW	ADJ
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+off	off	RP	FW
+in	in	IN	FW
+the	the	DT	FW
+spring	spring	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fall	fall	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+think	think	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+though	though	IN	FW
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+come	come	VB	CW	VERB
+back	back	RB	ADV	CW
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+forgotten	forget	VBN	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+on	on	IN	FW
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+an	an	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+full	full	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+reduces	reduce	VBZ	CW	VERB
+stress	stress	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+educators	educator	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+on	on	IN	FW
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+long	long	JJ	CW	ADJ
+distance	distance	NN	CW	NOUN	ARGUMENT
+relatives	relative	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+to	to	TO	FW
+just	just	RB	ADV	CW
+spend	spend	VB	CW	VERB
+some	some	DT	FW
+quality	quality	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+live	live	VBP	CW	VERB
+in	in	IN	FW
+virginia	virginia	NNP	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+car	car	NN	CW	NOUN	ARGUMENT
+ride	ride	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+florida	florida	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+any	any	DT	FW
+other	other	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+break	break	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+plan	plan	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+trip	trip	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+at	at	IN	FW
+any	any	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+
+sentence break
+
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+necesarily	necesarily	RB	ADV	FW
+go	go	VB	CW	VERB
+on	on	IN	FW
+trips	trip	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+just	just	RB	ADV	CW
+see	see	VB	CW	VERB
+family	family	NN	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+gift	gift	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+tradition	tradition	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+families	family	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+
+sentence break
+
+having	have	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+to	to	IN	FW
+going	go	VBG	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+necesity	necesity	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+full	full	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+more	more	JJR	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+
+sentence break
+
+most	most	JJS	CW	ADJ
+parents	parent	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+real	real	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+and	and	CC	FW
+what	what	WP	FW
+struggles	struggle	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+got	got	VB	CW	VERB
+through	through	RP	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VB	CW	VERB
+more	more	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+age	age	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+to	to	TO	FW
+drive	drive	VB	CW	VERB
+and	and	CC	FW
+experience	experience	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+age	age	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+driving	drive	VBG	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+to	to	TO	FW
+earn	earn	VB	CW	VERB
+some	some	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+out	out	RP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+an	an	DT	FW
+estimate	estimate	NN	CW	NOUN	ARGUMENT
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	IN	FW
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+at	at	IN	FW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+eventually	eventually	RB	ADV	CW
+get	get	VB	CW	VERB
+to	to	IN	FW
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+longer	long	JJR	CW	ADJ
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+full	full	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+easier	easy	JJR	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+full	full	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	VBP	CW	VERB
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+longer	long	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+long	long	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+reduces	reduce	VBZ	CW	VERB
+stress	stress	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+for	for	IN	FW
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+school	school	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+to	to	TO	FW
+deal	deal	VB	CW	VERB
+with	with	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+things	thing	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+on	on	RP	FW
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+to	to	TO	FW
+deal	deal	VB	CW	VERB
+with	with	IN	FW
+both	both	DT	FW
+is	be	VBZ	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+so	so	CC	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+break	break	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+failing	fail	VBG	CW	VERB
+tests	test	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+manage	manage	VB	CW	VERB
+to	to	TO	FW
+study	study	VB	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+failing	fail	VBG	CW	VERB
+tests	test	NNS	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+bad	bad	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+yelling	yell	VBG	CW	VERB
+at	at	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+pressuring	pressure	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+better	well	RBR	ADV	CW
+and	and	CC	FW
+having	have	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+deal	deal	VB	CW	VERB
+with	with	IN	FW
+that	that	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VB	CW	VERB
+stress	stress	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+minds	mind	NNS	CW	NOUN	ARGUMENT
+off	off	RP	FW
+in	in	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+less	less	JJR	CW	ADJ
+stress	stress	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+overall	overall	RB	ADV	CW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+run	run	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+break	break	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+on	on	IN	FW
+vacations	vacation	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+an	an	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+full	full	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+reduces	reduce	VBZ	CW	VERB
+stress	stress	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+less	less	JJR	CW	ADJ
+stress	stress	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+three	three	CD	FW
+months	month	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+break	break	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+used	use	VBN	CW	VERB
+to	to	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+three	three	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+long	long	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+there	there	EX	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+arguments	argument	NNS	CW	NOUN	ARGUMENT
+into	into	IN	FW
+why	why	WRB	FW
+change	change	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+now	now	RB	ADV	CW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+best	good	JJS	CW	ADJ
+to	to	TO	FW
+just	just	RB	ADV	CW
+keep	keep	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+been	be	VBN	FW	aux_or_cop
+
+sentence break
+
+having	have	VBG	CW	VERB
+long	long	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+breaks	break	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+results	result	VBZ	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+solutions	solution	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,399 @@
+word	lemma	POS	CW\FW	other categories
+"	"	``	FW
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+pairs	pair	VBZ	CW	VERB
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+are	be	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+effects	effect	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+both	both	DT	FW
+sides	side	NNS	CW	NOUN	ARGUMENT
+because	because	RB	ADV	CW
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+out	out	RP	FW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+there	there	EX	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+less	less	JJR	CW	ADJ
+bullying	bullying	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+finally	finally	RB	ADV	CW
+both	both	DT	FW
+sides	side	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pair	pair	VB	CW	VERB
+older	old	JJR	CW	ADJ
+and	and	CC	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+out	out	RP	FW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+already	already	RB	ADV	CW
+went	go	VBD	CW	VERB
+through	through	IN	FW
+that	that	DT	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+understand	understand	VB	CW	VERB
+the	the	DT	FW
+subject	subject	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+better	well	RBR	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+break	break	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+
+sentence break
+
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+by	by	IN	FW
+telling	tell	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+relax	relax	VB	CW	VERB
+and	and	CC	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+how	how	WRB	FW
+to	to	TO	FW
+not	not	RB	ADV	CW
+stress	stress	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+this	this	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+studies	study	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+shown	show	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+less	less	JJR	CW	ADJ
+bullying	bullying	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+the	the	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sense	sense	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+in	in	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+bully	bully	RB	ADV	FW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+the	the	DT	FW
+principle	principle	NN	CW	NOUN	ARGUMENT
+decided	decide	VBD	CW	VERB
+to	to	TO	FW
+pair	pair	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+up	up	RP	FW
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+understand	understand	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+worked	work	VBD	CW	VERB
+there	there	EX	FW
+was	be	VBD	CW	VERB
+way	way	RB	ADV	CW
+less	less	JJR	CW	ADJ
+bullying	bullying	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+that	that	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+final	final	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+good	good	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+effects	effect	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+both	both	DT	FW
+sides	side	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+now	now	RB	ADV	CW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+why	why	WRB	FW
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+ones	one	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+grumpy	grumpy	JJ	CW	ADJ
+and	and	CC	FW
+tired	tired	JJ	CW	ADJ
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+why	why	WRB	FW
+younger	young	JJR	CW	ADJ
+ones	one	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+so	so	RB	ADV	CW
+energetic	energetic	JJ	CW	ADJ
+annoying	annoying	JJ	CW	ADJ
+and	and	CC	FW
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+stressed	stress	VBN	CW	VERB
+about	about	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+effects	effect	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+this	this	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+pairing	pair	VBG	CW	VERB
+older	old	JJR	CW	ADJ
+and	and	CC	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+this	this	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+every	every	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+less	less	JJR	CW	ADJ
+negativity	negativity	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+out	out	RP	FW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+there	there	EX	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+less	less	JJR	CW	ADJ
+bullying	bullying	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+finally	finally	RB	ADV	CW
+both	both	DT	FW
+sides	side	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+so	so	RB	ADV	CW
+yes	yes	UH	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+good	good	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+effects	effect	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+this	this	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

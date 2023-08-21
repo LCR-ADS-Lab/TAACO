@@ -1,0 +1,522 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+some	some	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+districts	district	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+programs	program	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+allows	allow	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+in	in	IN	FW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+than	than	IN	FW
+four	four	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+normal	normal	JJ	CW	ADJ
+
+sentence break
+
+which	which	WDT	FW
+means	mean	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+early	early	RB	ADV	CW
+for	for	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+early	early	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+workforce	workforce	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+allowing	allow	VBG	CW	VERB
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+in	in	IN	FW
+three	three	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+more	more	JJR	CW	ADJ
+elective	elective	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+stressing	stress	VBG	CW	VERB
+about	about	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+four	four	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+early	early	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+stressful	stressful	JJ	CW	ADJ
+focusing	focus	VBG	CW	VERB
+on	on	IN	FW
+getting	get	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+passing	pass	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+short	short	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+the	the	DT	FW
+university	university	NNP	CW	NOUN	ARGUMENT
+of	of	IN	FW
+virginia	virginia	NNP	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+an	an	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+which	which	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+putting	put	VBG	CW	VERB
+too	too	RB	ADV	CW
+much	much	JJ	CW	ADJ
+stress	stress	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+and	and	CC	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+succeed	succeed	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+faster	fast	JJR	CW	ADJ
+and	and	CC	FW
+easier	easy	JJR	CW	ADJ
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+early	early	RB	ADV	CW
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+four	four	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+traditionally	traditionally	RB	ADV	CW
+and	and	CC	FW
+not	not	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+rush	rush	VB	CW	VERB
+through	through	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+years	year	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+graduate	graduate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+enjoy	enjoy	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+years	year	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+normal	normal	JJ	CW	ADJ
+sometimes	sometimes	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+stress	stress	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+too	too	RB	ADV	CW
+much	much	JJ	CW	ADJ
+of	of	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+four	four	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+elective	elective	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+less	less	JJR	CW	ADJ
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+during	during	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+and	and	CC	FW
+also	also	RB	ADV	CW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+might	might	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+four	four	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+too	too	RB	ADV	CW
+much	much	JJ	CW	ADJ
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+not	not	RB	ADV	CW
+that	that	RB	ADV	CW	PRONOUN
+much	much	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+when	when	WRB	FW
+the	the	DT	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+pass	pass	VBP	CW	VERB
+by	by	RP	FW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+being	be	VBG	FW	aux_or_cop
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+only	only	RB	ADV	CW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+easier	easy	JJR	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+away	away	RB	ADV	CW
+from	from	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+dramas	drama	NNS	CW	NOUN	ARGUMENT
+faster	fast	RBR	ADV	CW
+to	to	TO	FW
+start	start	VB	CW	VERB
+working	work	VBG	CW	VERB
+going	go	VBG	CW	VERB
+to	to	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+faster	fast	RBR	ADV	CW
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+rushing	rush	VBG	CW	VERB
+through	through	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+succeed	succeed	VB	CW	VERB
+but	but	CC	FW
+the	the	DT	FW
+faster	fast	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+too	too	RB	ADV	CW
+long	long	JJ	CW	ADJ
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+through	through	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+in	in	IN	FW
+some	some	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+districts	district	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+programs	program	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+allows	allow	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+in	in	IN	FW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+than	than	IN	FW
+four	four	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+normal	normal	JJ	CW	ADJ
+
+sentence break
+
+allowing	allow	VBG	CW	VERB
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+in	in	IN	FW
+three	three	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+too	too	RB	ADV	CW
+much	much	JJ	CW	ADJ
+stress	stress	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+elective	elective	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+enjoy	enjoy	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+years	year	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+district	district	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+offer	offer	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+program	program	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+normal	normal	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

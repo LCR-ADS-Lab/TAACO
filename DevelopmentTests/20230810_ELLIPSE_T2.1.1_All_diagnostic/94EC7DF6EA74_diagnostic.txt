@@ -1,0 +1,339 @@
+word	lemma	POS	CW\FW	other categories
+people	people	NNS	CW	NOUN	ARGUMENT
+these	these	DT	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+go	go	VB	CW	VERB
+outdoors	outdoors	RB	ADV	FW
+as	as	RB	ADV	CW
+much	much	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+used	use	VBD	CW	VERB
+to	to	TO	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+avoiding	avoid	VBG	CW	VERB
+going	go	VBG	CW	VERB
+outside	outside	RB	ADV	CW
+because	because	IN	FW
+of	of	IN	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+going	go	VBG	CW	VERB
+outdoors	outdoors	RB	ADV	FW
+is	be	VBZ	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+more	more	RBR	ADV	CW
+fun	fun	JJ	CW	ADJ
+than	than	IN	FW
+staying	stay	VBG	CW	VERB
+indoors	indoor	NNS	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+play	play	VB	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+practice	practice	NN	CW	NOUN	ARGUMENT
+sports	sport	NNS	CW	NOUN	ARGUMENT
+run	run	JJ	CW	ADJ
+laps	lap	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VB	FW	aux_or_cop
+exercise	exercise	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+outdoor	outdoor	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+enjoyable	enjoyable	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+activities	activity	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enjoy	enjoy	VB	CW	VERB
+the	the	DT	FW
+weather	weather	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+doing	do	VBG	CW	VERB
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+outdoors	outdoors	RB	ADV	FW
+more	more	RBR	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+go	go	VB	CW	VERB
+outdoors	outdoors	RB	ADV	FW
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+do	do	VB	CW	VERB
+activities	activity	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+later	later	RB	ADV	CW
+on	on	RB	ADV	CW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+weak	weak	JJ	CW	ADJ
+bones	bone	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+stay	stay	VBP	CW	VERB
+indoors	indoor	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+listening	listen	VBG	CW	VERB
+to	to	IN	FW
+music	music	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+go	go	VB	CW	VERB
+outside	outside	RB	ADV	CW
+and	and	CC	FW
+do	do	VB	CW	VERB
+activities	activity	NNS	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+listening	listen	VBG	CW	VERB
+to	to	IN	FW
+music	music	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+exercise	exercise	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+run	run	VB	CW	VERB
+laps	lap	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+ride	ride	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+bike	bike	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+riding	ride	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+bike	bike	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+later	later	RB	ADV	CW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+stronger	strong	JJR	CW	ADJ
+bones	bone	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+improve	improve	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+stamina	stamina	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+strength	strength	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+play	play	VB	CW	VERB
+outdoor	outdoor	JJ	CW	ADJ
+games	game	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+tag	tag	NN	CW	NOUN	ARGUMENT
+freeze	freeze	VB	CW	VERB
+tag	tag	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hide	hide	VB	CW	VERB
+and	and	CC	FW
+go	go	VB	CW	VERB
+seek	seek	VB	CW	VERB
+tag	tag	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+many	many	JJ	CW	ADJ
+more	more	JJR	CW	ADJ
+
+sentence break
+
+these	these	DT	FW
+outdoor	outdoor	JJ	CW	ADJ
+games	game	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+improve	improve	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+stamina	stamina	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+strength	strength	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+outdoors	outdoors	RB	ADV	FW
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+sunny	sunny	JJ	CW	ADJ
+and	and	CC	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+outdoors	outdoors	RB	ADV	FW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+to	to	TO	FW
+bring	bring	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+activities	activity	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+activities	activity	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+head	head	NN	CW	NOUN	ARGUMENT
+over	over	RP	FW
+to	to	IN	FW
+a	a	DT	FW
+local	local	JJ	CW	ADJ
+park	park	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+activities	activity	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+outdoors	outdoors	RB	ADV	FW
+more	more	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+

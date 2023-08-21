@@ -1,0 +1,523 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+persuit	persuit	JJ	CW	ADJ
+of/	of/	NN	CW	NOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+with	with	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+sometimes	sometimes	RB	ADV	CW
+fail	fail	VB	CW	VERB
+or	or	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+seceed	seceed	VB	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+seceed	seceed	VB	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+jod	jod	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+suceed	suceed	VB	CW	VERB
+by	by	IN	FW
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+an	an	DT	FW
+helping	help	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+like	like	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+or	or	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+boss	boss	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+show	show	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+was	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+prove	prove	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+wrong	wrong	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+until	until	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+boss	boss	NN	CW	NOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+seceed	secee	VBN	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+shools	shool	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+seceed	seceed	VB	CW	VERB
+too	too	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+shoolss	shoolss	JJ	CW	ADJ
+must	must	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+pass	pass	VB	CW	VERB
+a	a	DT	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+math	math	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+science	science	NNP	CW	NOUN	ARGUMENT
+some	some	DT	FW
+of	of	IN	FW
+does	do	VBZ	FW	aux_or_cop
+class	class	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+hard	hard	RB	ADV	CW
+specialy	specialy	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+sol	sol	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+abuot	abuot	JJ	CW	ADJ
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+during	during	IN	FW
+the	the	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+study	study	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+seceed	seceed	VB	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+pass	pass	VBP	CW	VERB
+the	the	DT	FW
+sol	sol	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did't	did't	VBP	CW	VERB
+study	study	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+sol	sol	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+pass	pass	VB	CW	VERB
+two	two	CD	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+a	a	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+study	study	VB	CW	VERB
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+pass	pass	VBP	CW	VERB
+the	the	DT	FW
+two	two	CD	FW
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+felt	feel	VBD	CW	VERB
+proud	proud	JJ	CW	ADJ
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+seceed	seceed	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+third	third	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+breaking	break	VBG	CW	VERB
+with	with	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+seceed	seceed	VBP	CW	VERB
+and	and	CC	FW
+break	break	VBP	CW	VERB
+with	with	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+free	free	JJ	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+waste	waste	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+know	know	NN	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+party	party	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+freind	freind	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+girlfriend	girlfriend	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+very	very	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+shout	shout	VB	CW	VERB
+at	at	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+breakup	breakup	VB	CW	VERB
+with	with	IN	FW
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+break	break	VB	CW	VERB
+with	with	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+mad	mad	JJ	CW	ADJ
+and	and	CC	FW
+say	say	VB	CW	VERB
+ok	ok	UH	FW
+
+sentence break
+
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+freedom	freedom	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+last	last	JJ	CW	ADJ
+he	he	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+know	know	VB	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+go	go	VB	CW	VERB
+uot	uot	VB	CW	VERB
+with	with	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+party	party	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+free	free	JJ	CW	ADJ
+like	like	IN	FW
+a	a	DT	FW
+bird	bird	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+persuit	persuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+with	with	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+sometimes	sometimes	RB	ADV	CW
+fail	fail	VB	CW	VERB
+and	and	CC	FW
+seceed	secee	VBN	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+shools	shools	NNPS	CW	NOUN	ARGUMENT
+relationships	relationships	NNPS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+many	many	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+seceed	seceed	VB	CW	VERB
+or	or	CC	FW
+fail	fail	VB	CW	VERB
+
+sentence break
+
+wich	wich	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

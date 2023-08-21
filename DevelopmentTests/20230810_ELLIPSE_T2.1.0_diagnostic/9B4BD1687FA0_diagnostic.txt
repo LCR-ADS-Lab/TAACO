@@ -1,0 +1,494 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+"	"	``	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+mastered	master	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+extend	extend	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+studies	study	NNS	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+important	important	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+new	new	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+set	set	VB	CW	VERB
+new	new	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+studies	study	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+discoveries	discovery	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+thirdly	thirdly	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+by	by	IN	FW
+teaching	teach	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+material	material	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+grow	grow	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+different	different	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teaching	teaching	NN	CW	NOUN	ARGUMENT
+methods	method	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+by	by	IN	FW
+studying	study	VBG	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+an	an	DT	FW
+important	important	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+in	in	IN	FW
+full	full	JJ	CW	ADJ
+detail	detail	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+isaac	isaac	NNP	CW	NOUN	ARGUMENT
+newton	newton	NNP	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+discovers	discover	VBZ	CW	VERB
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+gravity	gravity	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+an	an	DT	FW
+apple	apple	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+fell	fall	VBD	CW	VERB
+on	on	IN	FW
+top	top	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+theories	theory	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+what	what	WP	FW
+may	may	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+such	such	JJ	CW	ADJ
+phenomenon	phenomenon	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+studied	study	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+creating	create	VBG	CW	VERB
+equations	equation	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+and	and	CC	FW
+a	a	DT	FW
+math	math	NN	CW	NOUN	ARGUMENT
+subject	subject	NN	CW	NOUN	ARGUMENT
+called	call	VBN	CW	VERB
+calculus	calculus	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+many	many	JJ	CW	ADJ
+others	other	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+shakespeare	shakespeare	NNP	CW	NOUN	ARGUMENT
+beethoven	beethoven	NNP	CW	NOUN	ARGUMENT
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+stephen	stephen	NNP	CW	NOUN	ARGUMENT
+hawkins	hawkins	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+leonardo	leonardo	NNP	CW	NOUN	ARGUMENT
+davince	davince	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+smart	smart	JJ	CW	ADJ
+men	man	NNS	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+to	to	TO	FW
+discover	discover	VB	CW	VERB
+and	and	CC	FW
+grow	grow	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+discovering	discover	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+every	every	DT	FW
+single	single	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+weather	weather	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+or	or	CC	FW
+bad	bad	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+new	new	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+discoveries	discovery	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+deathly	deathly	RB	ADV	CW
+decease	decease	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+kill	kill	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+cure	cure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+cure	cure	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+takes	take	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+gather	gather	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+mastered	master	VBD	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+continue	continue	VB	CW	VERB
+helping	help	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+suffering	suffer	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+bad	bad	JJ	CW	ADJ
+decease	decease	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+until	until	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+find	find	VBP	CW	VERB
+a	a	DT	FW
+cure	cure	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+live	live	VB	CW	VERB
+as	as	RB	ADV	CW
+long	long	RB	ADV	CW
+as	as	IN	FW
+possible	possible	JJ	CW	ADJ
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+third	third	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+by	by	IN	FW
+teaching	teach	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+teaching	teach	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+letting	let	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+know	know	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+methods	method	NNS	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+succeed	succeed	VB	CW	VERB
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+doing	do	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+another	another	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+mentality	mentality	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+bigger	big	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+mastered	master	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+never	never	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+or	or	CC	FW
+to	to	IN	FW
+good	good	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+get	get	VB	CW	VERB
+tired	tired	JJ	CW	ADJ
+of	of	IN	FW
+learning	learn	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+fascinating	fascinating	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+this	this	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+outer	outer	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

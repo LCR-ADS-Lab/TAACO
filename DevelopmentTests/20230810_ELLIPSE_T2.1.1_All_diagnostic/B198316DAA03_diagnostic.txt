@@ -1,0 +1,477 @@
+word	lemma	POS	CW\FW	other categories
+failure	failure	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+an	an	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+pursuit	pursuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+guide	guide	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+having	have	VBG	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+about	about	IN	FW
+learning	learn	VBG	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+granted	grant	VBN	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+birth	birth	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+master	master	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+have	have	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+failed	fail	VBN	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+master	master	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+objective	objective	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+s	s	VBZ	FW	aux_or_cop
+show	show	VB	CW	VERB
+how	how	WRB	FW
+important	important	JJ	CW	ADJ
+failure	failure	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+trial	trial	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+error	error	NN	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+from	from	IN	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+past	past	JJ	CW	ADJ
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+firstly	firstly	RB	ADV	CW
+without	without	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+determine	determine	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+event	event	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+in	in	IN	FW
+this	this	DT	FW
+quote	quote	UH	FW
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+chill	chill	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+quote	quote	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+the	the	DT	FW
+importance	importance	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+role	role	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+plays	play	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+pursuit	pursuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+quote	quote	UH	FW
+and	and	CC	FW
+stamens	stamen	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+accurate	accurate	JJ	CW	ADJ
+and	and	CC	FW
+show	show	VBP	CW	VERB
+young	young	JJ	CW	ADJ
+kill	kill	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+and	and	CC	FW
+have	have	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+have	have	VB	CW	VERB
+some	some	DT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+out	out	RP	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+determine	determine	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+an	an	DT	FW
+event	event	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sports	sport	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+as	as	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+was	be	VBD	CW	VERB
+no	no	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+no	no	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+getting	get	VBG	CW	VERB
+better	well	JJR	CW	ADJ
+no	no	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+practicing	practice	VBG	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+pursuit	pursuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+thirdly	thirdly	RB	ADV	CW
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+an	an	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+path	path	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+failures	failure	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+aids	aid	VBZ	CW	VERB
+the	the	DT	FW
+learning	learning	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+a	a	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+skateboard	skateboard	JJ	CW	ADJ
+or	or	CC	FW
+ride	ride	VB	CW	VERB
+a	a	DT	FW
+bicycle	bicycle	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+at	at	IN	FW
+first	first	RB	ADV	CW
+there	there	EX	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+kid	kid	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+a	a	DT	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+sake	sake	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+bound	bind	VBN	CW	VERB
+to	to	TO	FW
+fall	fall	VB	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+before	before	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+apart	apart	RB	ADV	FW
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+come	come	VB	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+born	bear	VBN	CW	VERB
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+an	an	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+pursuit	pursuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+guide	guide	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+having	have	VBG	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+about	about	IN	FW
+learning	learn	VBG	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+granted	grant	VBN	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+birth	birth	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+master	master	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+have	have	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+failed	fail	VBN	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+master	master	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+objective	objective	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

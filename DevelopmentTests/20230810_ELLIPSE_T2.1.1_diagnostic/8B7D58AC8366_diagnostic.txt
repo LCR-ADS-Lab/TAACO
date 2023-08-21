@@ -1,0 +1,408 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+meaning	meaning	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+how	how	WRB	FW
+good	good	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+until	until	IN	FW	SUBORDINATOR
+a	a	DT	FW
+problematic	problematic	JJ	CW	ADJ
+moment	moment	NN	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+up	up	RP	FW
+but	but	CC	FW
+when	when	WRB	FW
+that	that	DT	FW
+moment	moment	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+show	show	VB	CW	VERB
+how	how	WRB	FW
+great	great	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+truly	truly	RB	ADV	FW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+those	those	DT	FW
+situations	situation	NNS	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+up	up	RP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+unstopable	unstopable	JJ	CW	ADJ
+
+sentence break
+
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+heart	heart	NN	CW	NOUN	ARGUMENT
+starts	start	VBZ	CW	VERB
+to	to	TO	FW
+beat	beat	VB	CW	VERB
+fast	fast	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+faster	fast	RBR	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+much	much	RB	ADV	CW
+faster	fast	RBR	ADV	CW
+and	and	CC	FW
+efficient	efficient	JJ	CW	ADJ
+than	than	IN	FW
+normally	normally	RB	ADV	CW
+
+sentence break
+
+here	here	RB	ADV	CW
+'s	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+examples	example	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+state	state	NN	CW	NOUN	ARGUMENT
+championship	championship	NN	CW	NOUN	ARGUMENT
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+game	game	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+tied	tie	VBN	CW	VERB
+with	with	IN	FW
+one	one	CD	FW
+minute	minute	NN	CW	NOUN	ARGUMENT
+remaining	remain	VBG	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+sweat	sweat	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+heart	heart	NN	CW	NOUN	ARGUMENT
+beating	beat	VBG	CW	VERB
+at	at	IN	FW
+an	an	DT	FW
+insane	insane	JJ	CW	ADJ
+rate	rate	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+feel	feel	VB	CW	VERB
+adrealine	adrealine	NN	CW	NOUN	ARGUMENT
+pumping	pump	VBG	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+crowd	crowd	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+cheering	cheer	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+on	on	RP	FW
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+see	see	VBP	CW	VERB
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+scouts	scout	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+to	to	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+"	"	``	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+show	show	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+greatness	greatness	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+here	here	RB	ADV	CW
+'s	be	VBZ	FW	aux_or_cop
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+taking	take	VBG	CW	VERB
+a	a	DT	FW
+unit	unit	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+far	far	RB	ADV	CW
+this	this	DT	FW
+whole	whole	JJ	CW	ADJ
+unit	unit	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+paid	pay	VBN	CW	VERB
+attention	attention	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	PDT	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+expect	expect	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+studying	study	VBG	CW	VERB
+outside	outside	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+off	off	RP	FW
+very	very	RB	ADV	CW
+rough	rough	JJ	CW	ADJ
+and	and	CC	FW
+spend	spend	VB	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+few	few	JJ	CW	ADJ
+questions	question	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+only	only	RB	ADV	CW
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+left	leave	VBN	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+sweat	sweat	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+heart	heart	NN	CW	NOUN	ARGUMENT
+speeding	speeding	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+become	become	VBP	CW	VERB
+scared	scared	JJ	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+thinking	think	VBG	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+really	really	RB	ADV	CW
+right	right	JJ	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+thinking	think	VBG	CW	VERB
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+wasted	waste	VBN	CW	VERB
+studying	study	VBG	CW	VERB
+
+sentence break
+
+after	after	IN	FW
+all	all	PDT	FW
+those	those	DT	FW
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+remembering	remember	VBG	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+the	the	DT	FW
+past	past	JJ	CW	ADJ
+few	few	JJ	CW	ADJ
+days	day	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+runs	run	VBZ	CW	VERB
+out	out	RP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+submit	submit	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+having	have	VBG	CW	VERB
+any	any	DT	FW
+high	high	JJ	CW	ADJ
+hopes	hope	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+shock	shock	VBP	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+getting	get	VBG	CW	VERB
+the	the	DT	FW
+highest	high	JJS	CW	ADJ
+score	score	NN	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+entire	entire	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+meanings	meaning	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+here	here	RB	ADV	CW
+'s	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+more	more	JJR	CW	ADJ
+"	"	``	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+let	let	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+or	or	CC	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+just	just	RB	ADV	CW
+prove	prove	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+wrong	wrong	JJ	CW	ADJ
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+

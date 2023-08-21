@@ -1,0 +1,218 @@
+word	lemma	POS	CW\FW	other categories
+first	first	RB	ADV	CW
+of	of	IN	FW
+all	all	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+important	important	JJ	CW	ADJ
+projects	project	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+final	final	JJ	CW	ADJ
+project	project	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+quarter	quarter	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+do	do	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+do	do	VBP	FW	aux_or_cop
+i	i	FW	FW
+rather	rather	RB	ADV	FW
+do	do	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+quarter	quarter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+homework	homework	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+another	another	DT	FW
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+too	too	RB	ADV	CW
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	CW	VERB
+why	why	WRB	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+suppose	suppose	VB	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+take	take	VB	CW	VERB
+away	away	RP	FW
+to	to	TO	FW
+much	much	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+important	important	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+projects	project	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+dear	dear	NNP	CW	NOUN	ARGUMENT
+principal	principal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+write	write	VBP	CW	VERB
+this	this	DT	FW
+letter	letter	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+children	child	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+suppose	suppose	VB	CW	VERB
+to	to	TO	FW
+perform	perform	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+sometimes	sometimes	RB	ADV	CW
+children	child	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+maybe	maybe	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+better	better	JJR	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+first	first	RB	ADV	CW
+of	of	IN	FW
+all	all	DT	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+kids	kid	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+important	important	JJ	CW	ADJ
+projects	project	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+secondly	secondly	RB	ADV	CW
+children	child	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+children	child	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+chores	chore	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+help	help	NN	CW	NOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

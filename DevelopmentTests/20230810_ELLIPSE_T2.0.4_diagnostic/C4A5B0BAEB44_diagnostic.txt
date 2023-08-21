@@ -1,0 +1,532 @@
+word	lemma	POS	CW\FW	other categories
+actions	action	NNS	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+louder	louder	RBR	ADV	CW
+than	than	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+to	to	TO	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+as	as	RB	ADV	CW
+important	important	JJ	CW	ADJ
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+colleges	college	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+looking	look	VBG	CW	VERB
+at	at	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+look	look	VBP	CW	VERB
+into	into	IN	FW
+what	what	WP	FW
+clubs	club	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+join	join	VBP	CW	VERB
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+colleges	college	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+interesting	interesting	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+recruit	recruit	VB	CW	VERB
+
+sentence break
+
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+president	president	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+a	a	DT	FW
+prime	prime	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+kept	keep	VBD	CW	VERB
+on	on	IN	FW
+saying	say	VBG	CW	VERB
+``	``	``	FW
+let	let	VB	CW	VERB
+'s	's	POS	FW
+build	build	VB	CW	VERB
+a	a	DT	FW
+wall	wall	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+what	what	WP	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+person	person	NN	CW	NOUN	ARGUMENT
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+president	president	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+a	a	DT	FW
+upset	upset	JJ	CW	ADJ
+or	or	CC	FW
+angry	angry	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+``	``	``	FW
+are	be	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+okay	okay	JJ	CW	ADJ
+''	''	''	FW
+
+sentence break
+
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+reply	reply	VBP	CW	VERB
+with	with	IN	FW
+``	``	``	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+fine	fine	JJ	CW	ADJ
+''	''	''	FW
+
+sentence break
+
+
+sentence break
+
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+body	body	NN	CW	NOUN	ARGUMENT
+language	language	NN	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+driver	driver	NN	CW	NOUN	ARGUMENT
+ed	ed	NNP	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+was	be	VBD	CW	VERB
+a	a	DT	FW
+boy	boy	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+would	would	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+make	make	VB	CW	VERB
+natsy	natsy	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+rude	rude	JJ	CW	ADJ
+jokes	joke	NNS	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+bully	bully	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+disrepect	disrepect	NN	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+no	no	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	CW	VERB
+known	know	VBN	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+jerk	jerk	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+self-center	self-center	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	CW	VERB
+alone	alone	RB	ADV	CW
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+quite	quite	RB	ADV	FW
+and	and	CC	FW
+nice	nice	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	CW	VERB
+around	around	RB	ADV	CW
+
+sentence break
+
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+another	another	DT	FW
+classmate	classmate	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+mine	mine	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+having	have	VBG	CW	VERB
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+restaurant	restaurant	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+acting	act	VBG	CW	VERB
+out	out	RP	FW
+
+sentence break
+
+one	one	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+help	help	VB	CW	VERB
+a	a	DT	FW
+old	old	JJ	CW	ADJ
+lady	lady	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+market	market	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+carry	carry	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+grocery	grocery	NN	CW	NOUN	ARGUMENT
+bags	bag	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+louder	louder	RBR	ADV	CW
+than	than	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+getting	get	VBG	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+know	know	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+than	than	IN	FW
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+getting	get	VBG	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+know	know	VB	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+hi	hi	UH	FW
+to	to	TO	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+say	say	VB	CW	VERB
+hi	hi	UH	FW
+back	back	RB	ADV	CW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+make	make	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+rude	rude	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	TO	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+just	just	RB	ADV	CW
+image	image	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+move	move	VBP	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+eachother	eachother	RB	ADV	FW
+since	since	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+kids	kid	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+much	much	JJ	CW	ADJ
+worst	worst	JJS	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+speak	speak	VB	CW	VERB
+english	english	JJ	CW	ADJ
+as	as	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+very	very	RB	ADV	CW
+good	good	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+choose	choose	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+pet	pet	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+know	know	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+pet	pet	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+pet	pet	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+wants	want	VBZ	CW	VERB
+habits	habit	NNS	CW	NOUN	ARGUMENT
+personality	personality	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+needs	need	VBZ	CW	VERB
+also	also	RB	ADV	CW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+dislikes	dislike	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+a	a	DT	FW
+loving	loving	JJ	CW	ADJ
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+dog	dog	NN	CW	NOUN	ARGUMENT
+cat	cat	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+anyother	anyother	NN	CW	NOUN	ARGUMENT
+pet	pet	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+starts	start	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+getting	get	VBG	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+first	first	RB	ADV	CW
+and	and	CC	FW
+giving	give	VBG	CW	VERB
+love	love	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+inclusion	inclusion	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+change	change	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+louder	louder	RBR	ADV	CW
+than	than	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+getting	get	VBG	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+than	than	IN	FW
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+everday	everday	NNP	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+leave	leave	VBP	CW	VERB
+powerful	powerful	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+terriable	terriable	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+overall	overall	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+humans	human	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+on	on	IN	FW
+one	one	CD	FW
+is	be	VBZ	FW	aux_or_cop
+prefect	prefect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

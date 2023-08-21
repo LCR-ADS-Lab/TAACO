@@ -1,0 +1,367 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+step	step	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+been	be	VBN	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+every	every	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+process	process	VB	CW	VERB
+the	the	DT	FW
+piece	piece	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+missing	miss	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+going	go	VBG	CW	VERB
+in	in	IN	FW
+up	up	RB	ADV	CW
+and	and	CC	FW
+down	down	RB	ADV	CW
+and	and	CC	FW
+had	have	VBD	CW	VERB
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+are	be	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+and	and	CC	FW
+have	have	VBP	FW	aux_or_cop
+gone	go	VBN	CW	VERB
+through	through	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+without	without	IN	FW
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+out	out	IN	FW
+there	there	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+in	in	IN	FW
+live	live	JJ	CW	ADJ
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+gong	gong	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	CW	VERB
+up	up	RB	ADV	CW
+and	and	CC	FW
+down	down	RB	ADV	CW
+and	and	CC	FW
+this	this	DT	FW	PRONOUN
+teach	teach	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+who	who	WP	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+an	a	DT	FW
+successful	successful	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+successful	successful	JJ	CW	ADJ
+live	live	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+the	the	DT	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+matter	matter	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+many	many	JJ	CW	ADJ
+obstacle	obstacle	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+eleven	eleven	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+star	star	VBP	CW	VERB
+making	make	VBG	CW	VERB
+cookies	cookie	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+first	first	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+try	try	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+going	go	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+cookies	cookie	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+how	how	WRB	FW
+bad	bad	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+
+sentence break
+
+then	then	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+failing	fail	VBG	CW	VERB
+and	and	CC	FW
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+perfect	perfect	JJ	CW	ADJ
+and	and	CC	FW
+in	in	IN	FW
+some	some	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+live	live	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+unsuccessful	unsuccessful	JJ	CW	ADJ
+to	to	TO	FW
+became	become	VBD	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+one	one	CD	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+some	some	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+capability	capability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+make	make	VB	CW	VERB
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+other	other	JJ	CW	ADJ
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+not	not	RB	ADV	CW
+consisted	consist	VBN	CW	VERB
+in	in	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+with	with	IN	FW
+out	out	IN	FW
+making	make	VBG	CW	VERB
+any	any	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thinking	think	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+every	every	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+an	a	DT	FW
+litter	litter	NN	CW	NOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+puzzle	puzzle	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+up	up	RB	ADV	CW
+and	and	CC	FW
+downs	downs	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW
+an	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+j.k	j.k	NNP	CW	NOUN	ARGUMENT
+rowling	rowling	NNP	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+the	the	DT	FW
+harry	harry	NNP	CW	NOUN	ARGUMENT
+potter	potter	NNP	CW	NOUN	ARGUMENT
+sires	sire	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+published	publish	VBN	CW	VERB
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+successful	successful	JJ	CW	ADJ
+and	and	CC	FW
+then	then	RB	ADV	CW
+by	by	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+sires	sire	NNS	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+famous	famous	JJ	CW	ADJ
+book	book	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+any	any	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+an	a	DT	FW
+successful	successful	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+not	not	RB	ADV	CW
+every	every	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+try	try	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

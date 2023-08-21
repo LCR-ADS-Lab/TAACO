@@ -1,0 +1,454 @@
+word	lemma	POS	CW\FW	other categories
+going	go	VBG	CW	VERB
+to	to	TO	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+exiting	exit	VBG	CW	VERB
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+playing	play	VBG	CW	VERB
+tag	tag	NN	CW	NOUN	ARGUMENT
+hide	hide	VB	CW	VERB
+and	and	CC	FW
+seek	seek	VB	CW	VERB
+or	or	CC	FW
+maybe	maybe	RB	ADV	FW
+look	look	VB	CW	VERB
+at	at	IN	FW
+insects	insect	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+going	go	VBG	CW	VERB
+to	to	TO	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+bmx	bmx	NNP	CW	NOUN	ARGUMENT
+bike	bike	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+adults	adult	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	TO	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+exercise	exercise	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+and	and	CC	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+swinging	swing	VBG	CW	VERB
+or	or	CC	FW
+playing	play	VBG	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+slides	slide	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+outside	outside	RB	ADV	CW
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+play	play	VB	CW	VERB
+other	other	JJ	CW	ADJ
+games	game	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+hopscotch	hopscotch	NN	CW	NOUN	ARGUMENT
+jump	jump	NN	CW	NOUN	ARGUMENT
+rope	rope	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+like	like	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+other	other	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+outside	outside	JJ	CW	ADJ
+and	and	CC	FW
+ride	ride	NN	CW	NOUN	ARGUMENT
+bikes	bike	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+or	or	CC	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+skate	skate	NN	CW	NOUN	ARGUMENT
+park	park	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+endless	endless	JJ	CW	ADJ
+amounts	amount	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+outside	outside	RB	ADV	CW
+playing	play	VBG	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+swings	swing	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+when	when	WRB	FW
+i	i	FW	FW
+go	go	VB	CW	VERB
+there	there	RB	ADV	CW
+i	i	FW	FW
+like	like	IN	FW
+to	to	TO	FW
+see	see	VB	CW	VERB
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+the	the	DT	FW
+highest	highest	JJS	CW	ADJ
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+i	i	FW	FW
+just	just	RB	ADV	CW
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+im	im	NN	CW	NOUN	ARGUMENT
+bored	bore	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+some	some	DT	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+birds	bird	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ducks	duck	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+also	also	RB	ADV	CW
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+called	call	VBD	CW	VERB
+a	a	DT	FW
+dog	dog	NN	CW	NOUN	ARGUMENT
+park	park	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+dogs	dog	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+and	and	CC	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+dogs	dog	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+at	at	IN	FW
+the	the	DT	FW
+dog	dog	NN	CW	NOUN	ARGUMENT
+park	park	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+dog	dog	NN	CW	NOUN	ARGUMENT
+tricks	trick	NNS	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+or	or	CC	FW
+just	just	RB	ADV	CW
+let	let	VB	CW	VERB
+him/her	him/her	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+even	even	RB	ADV	CW
+let	let	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+meet	meet	VB	CW	VERB
+new	new	JJ	CW	ADJ
+dogs	dog	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+normal	normal	JJ	CW	ADJ
+playground	playground	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	better	RBR	ADV	CW
+
+sentence break
+
+taking	take	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+dog	dog	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+walk	walk	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+an	a	DT	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+outside	outside	JJ	CW	ADJ
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+outside	outside	JJ	CW	ADJ
+or	or	CC	FW
+in	in	IN	FW
+a	a	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+long	long	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+like	like	VBP	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+and	and	CC	FW
+inspect	inspect	VB	CW	VERB
+bugs	bug	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+bugs	bug	NNS	CW	NOUN	ARGUMENT
+including	include	VBG	CW	VERB
+butterflies	butterfly	NNS	CW	NOUN	ARGUMENT
+ladybugs	ladybug	NNS	CW	NOUN	ARGUMENT
+caterpillar	caterpillar	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fireflies	firefly	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+bugs	bug	NNS	CW	NOUN	ARGUMENT
+interesting	interesting	JJ	CW	ADJ
+for	for	IN	FW
+some	some	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+theres	there	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+a	a	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+called	call	VBD	CW	VERB
+a	a	DT	FW
+dog	dog	NN	CW	NOUN	ARGUMENT
+park	park	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+normally	normally	RB	ADV	CW
+see	see	VB	CW	VERB
+kids	kid	NNS	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+to	to	TO	FW
+play	play	VB	CW	VERB
+tag	tag	NN	CW	NOUN	ARGUMENT
+tag	tag	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+fun	fun	NN	CW	NOUN	ARGUMENT
+game	game	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+kids	kid	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+playing	play	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+hide	hide	VB	CW	VERB
+and	and	CC	FW
+seek	seek	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+an	a	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+theres	theres	RB	ADV	FW
+no	no	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+any	any	DT	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+play	play	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+swings	swing	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	FW	FW
+get	get	VB	CW	VERB
+bored	bore	VBN	CW	VERB
+i	i	FW	FW
+start	start	VB	CW	VERB
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+bmx	bmx	NNP	CW	NOUN	ARGUMENT
+bike	bike	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+neighborhood	neighborhood	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spending	spending	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+outdoors	outdoors	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+explore	explore	VB	CW	VERB
+there	there	RB	ADV	CW
+but	but	CC	FW
+playing	play	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

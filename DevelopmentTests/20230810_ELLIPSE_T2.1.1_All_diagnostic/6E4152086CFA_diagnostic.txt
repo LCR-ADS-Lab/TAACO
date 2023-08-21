@@ -1,0 +1,471 @@
+word	lemma	POS	CW\FW	other categories
+imagine	imagine	VB	CW	VERB
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+named	name	VBN	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+every	every	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+to	to	IN	FW
+vist	vist	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+grandparents	grandparent	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+stayed	stay	VBD	CW	VERB
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+two	two	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+break	break	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+grandparent	grandparent	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+on	on	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+vacation	vacation	VBP	CW	VERB
+too	too	RB	ADV	CW
+
+sentence break
+
+now	now	RB	ADV	CW
+imagine	imagine	VB	CW	VERB
+why	why	WRB	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+shrink	shrink	VB	CW	VERB
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	schools	NNP	CW	NOUN	ARGUMENT
+shouden't	shouden't	NNP	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+less	less	RBR	ADV	CW
+longer	long	JJR	CW	ADJ
+bacause	bacause	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+stressful	stressful	JJ	CW	ADJ
+and	and	CC	FW
+infair	infair	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+stressful	stressful	JJ	CW	ADJ
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+drepresion	drepresion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+normlay	normlay	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+schools	school	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+depresion	depresion	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+situations	situation	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+spending	spend	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+effect	effect	VB	CW	VERB
+a	a	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+emotionaly	emotionaly	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+affected	affect	VBN	CW	VERB
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+worst	bad	JJS	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+a	a	DT	FW
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+having	have	VBG	CW	VERB
+a	a	DT	FW
+shorter	short	JJR	CW	ADJ
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+equal	equal	JJ	CW	ADJ
+for	for	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+infair	infair	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+staff	staff	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+shorter	short	JJR	CW	ADJ
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+family	family	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+
+sentence break
+
+some	some	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+on	on	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+summer	summer	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+for	for	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+focus	focus	VB	CW	VERB
+or	or	CC	FW
+dedicatde	dedicatde	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+practice	practice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+spendig	spendig	CD	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+shrink	shrink	VBP	CW	VERB
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+on	on	IN	FW
+the	the	DT	FW
+regular	regular	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+8hrs	8hrs	CD	FW
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+rest	rest	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+graduate	graduate	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+after	after	IN	FW
+that	that	IN	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+empathize	empathize	VB	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+study	study	VBP	CW	VERB
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+exmaple	exmaple	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+just	just	RB	ADV	CW
+3	3	CD	FW
+4	4	CD	FW
+weeks	week	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+theh	theh	VB	CW	VERB
+having	have	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+tome	tome	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+ti	ti	NN	CW	NOUN	ARGUMENT
+relaize	relaize	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+such	such	JJ	CW	ADJ
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+unuseful	unuseful	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+less	less	JJR	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+stressful	stressful	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+infair	infair	JJ	CW	ADJ
+for	for	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+not	not	RB	ADV	CW
+having	have	VBG	CW	VERB
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+school	school	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+better	well	RBR	ADV	CW
+having	have	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+summer	summer	NNP	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+less	less	RBR	ADV	CW
+stressful	stressful	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+more	more	RBR	ADV	CW
+joyful	joyful	JJ	CW	ADJ
+for	for	IN	FW
+all	all	DT	FW
+
+sentence break
+
+
+paragraph break
+

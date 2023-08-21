@@ -1,0 +1,530 @@
+word	lemma	POS	CW\FW	other categories
+weekday	weekday	NNP	CW	NOUN	ARGUMENT
+curfew	curfew	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+midnight	midnight	NNP	CW	NOUN	ARGUMENT
+curfew	curfew	NNP	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+curfews	curfew	NNS	CW	NOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+any	any	DT	FW
+major	major	JJ	CW	ADJ
+accidents	accident	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+obey	obey	VB	CW	VERB
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+serious	serious	JJ	CW	ADJ
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+obey	obey	VB	CW	VERB
+the	the	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+driving	drive	VBG	CW	VERB
+after	after	IN	FW
+10p	10p	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+m.	m.	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+weekday	weekday	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+driving	drive	VBG	CW	VERB
+a	a	DT	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+weekday	weekday	NN	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+speed	speed	NN	CW	NOUN	ARGUMENT
+driving	drive	VBG	CW	VERB
+or	or	CC	FW
+doing	do	VBG	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+police	police	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+stop	stop	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+see	see	VB	CW	VERB
+the	the	DT	FW
+police	police	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+hiding	hide	VBG	CW	VERB
+and	and	CC	FW
+having	have	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+speed	speed	NN	CW	NOUN	ARGUMENT
+tracker	tracker	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+police	police	NN	CW	NOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+lisence	lisence	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+permit	permit	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+driving	driving	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+an	an	DT	FW
+adult	adult	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+permit	permit	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+a	a	DT	FW
+major	major	JJ	CW	ADJ
+consequence	consequence	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+driving	drive	VBG	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+careful	careful	JJ	CW	ADJ
+and	and	CC	FW
+obey	obey	VB	CW	VERB
+the	the	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+track	track	VB	CW	VERB
+or	or	CC	FW
+keep	keep	VB	CW	VERB
+a	a	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+home	home	RB	ADV	CW
+early	early	RB	ADV	CW
+no	no	RB	ADV	CW
+later	later	RB	ADV	CW
+than	than	IN	FW
+10p	10p	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+m.	m.	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+10	10	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+was	be	VBD	FW	aux_or_cop
+just	just	RB	ADV	CW
+17	17	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+home	home	RB	ADV	CW
+no	no	RB	ADV	CW
+later	later	RB	ADV	CW
+than	than	IN	FW
+10p	10p	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+m.	m.	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aunt	aunt	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+worried	worried	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+late	late	JJ	CW	ADJ
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+had	have	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+gotten	get	VBN	CW	VERB
+home	home	RB	ADV	CW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+2a	2a	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+m.	m.	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+the	the	DT	FW
+police	police	NN	CW	NOUN	ARGUMENT
+called	call	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aunt	aunt	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+racing	race	VBG	CW	VERB
+with	with	IN	FW
+another	another	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+got	get	VBD	CW	VERB
+into	into	IN	FW
+a	a	DT	FW
+major	major	JJ	CW	ADJ
+accident	accident	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+nose	nose	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+broken	break	VBN	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+stitches	stitch	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+face	face	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+window	window	NN	CW	NOUN	ARGUMENT
+shatterd	shatterd	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+oh	oh	UH	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+face	face	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+serious	serious	JJ	CW	ADJ
+consequence	consequence	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+away	away	RB	ADV	CW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+permit	permit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+drive	drive	VB	CW	VERB
+or	or	CC	FW
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+dangerous	dangerous	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+parents	parent	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+track	track	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+location	location	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+where	where	WRB	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+and	and	CC	FW
+call	call	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+imessage	imessage	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+heading	head	VBG	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+wants	want	VBZ	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+to	to	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+parnets	parnet	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+overprotected	overprotected	JJ	CW	ADJ
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+dangerous	dangerous	JJ	CW	ADJ
+happen	happen	VB	CW	VERB
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+right	right	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+mad	mad	JJ	CW	ADJ
+at	at	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+teens	teen	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+to	to	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+like	like	VBP	CW	VERB
+to	to	TO	FW
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+look	look	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+cause	cause	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+dangerous	dangerous	JJ	CW	ADJ
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+obey	obey	VB	CW	VERB
+the	the	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+away	away	RB	ADV	CW
+from	from	IN	FW
+troubleness	troubleness	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+any	any	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+accidents	accident	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

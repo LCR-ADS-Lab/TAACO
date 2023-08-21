@@ -1,0 +1,530 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+essay	essay	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+about	about	IN	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+"	"	``	FW
+a	a	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+debating	debate	VBG	CW	VERB
+the	the	DT	FW
+adoption	adoption	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+10	10	CD	FW
+p.m.	p.m.	NNP	CW	NOUN	ARGUMENT
+weekday	weekday	NN	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+mean	mean	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+street	street	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+those	those	DT	FW	PRONOUN
+hour	hour	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+breaking	break	VBG	CW	VERB
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+many	many	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+hat	hat	NN	CW	NOUN	ARGUMENT
+curfews	curfew	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+still	still	RB	ADV	CW
+have	have	VBP	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+missing	miss	VBG	CW	VERB
+and	and	CC	FW
+get	get	VB	FW	aux_or_cop
+hurt	hurt	VBN	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+night	night	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+not	not	RB	ADV	CW
+that	that	RB	ADV	CW	SUBORDINATOR	PRONOUN
+many	many	JJ	CW	ADJ
+placed	place	VBN	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+open	open	JJ	CW	ADJ
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+some	some	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+open	open	JJ	CW	ADJ
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+club	club	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+bar	bar	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+go	go	VB	CW	VERB
+and	and	CC	FW
+have	have	VB	CW	VERB
+touch	touch	NN	CW	NOUN	ARGUMENT
+on	on	RP	FW
+with	with	IN	FW
+alcohol	alcohol	NN	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+even	even	RB	ADV	CW
+drugs	drug	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+more	more	JJR	CW	ADJ
+other	other	JJ	CW	ADJ
+serious	serious	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+but	but	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+have	have	VBP	CW	VERB
+opposite	opposite	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+unfairly	unfairly	RB	ADV	CW
+interfere	interfere	VBN	CW	VERB
+in	in	IN	FW
+young	young	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+whatever	whatever	WDT	FW
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+there	there	EX	FW
+rights	right	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+control	control	VB	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+limited	limit	VBN	CW	VERB
+the	the	DT	FW
+freedom	freedom	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+teens	teen	NNS	CW	NOUN	ARGUMENT
+hungry	hungry	JJ	CW	ADJ
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+want	want	VB	CW	VERB
+some	some	DT	FW
+chicken	chicken	NN	CW	NOUN	ARGUMENT
+nugget	nugget	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+mcdonald	mcdonald	NNP	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+go	go	VB	CW	VERB
+because	because	IN	FW
+after	after	IN	FW
+10p	10p	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+m.	m.	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+street	street	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+breaking	break	VBG	CW	VERB
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+happens	happen	VBZ	CW	VERB
+on	on	IN	FW
+north	north	NNP	CW	NOUN	ARGUMENT
+korea	korea	NNP	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+increase	increase	VB	CW	VERB
+the	the	DT	FW
+population	population	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+breaking	break	VBG	CW	VERB
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+two	two	CD	FW
+different	different	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+curfews	curfew	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+parents	parent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+safe	safe	JJ	CW	ADJ
+and	and	CC	FW
+get	get	VB	CW	VERB
+away	away	RB	ADV	CW
+from	from	IN	FW
+the	the	DT	FW
+troubles	trouble	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+still	still	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+out	out	RP	FW
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+bad	bad	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+happen	happen	VBP	CW	VERB
+some	some	DT	FW
+bad	bad	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+robbery	robbery	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hurting	hurt	VBG	CW	VERB
+by	by	IN	FW
+some	some	DT	FW
+unknown	unknown	JJ	CW	ADJ
+strangers	stranger	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+kidnap	kidnap	VB	CW	VERB
+that	that	WDT	FW	PRONOUN
+cause	cause	VBP	CW	VERB
+teens	teen	NNS	CW	NOUN	ARGUMENT
+missing	miss	VBG	CW	VERB
+and	and	CC	FW
+increase	increase	VB	CW	VERB
+the	the	DT	FW
+number	number	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+teens	teen	NNS	CW	NOUN	ARGUMENT
+accident	accident	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+too	too	RB	ADV	CW
+strict	strict	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+limited	limit	VBN	CW	VERB
+the	the	DT	FW
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+make	make	VB	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+safer	safe	JJR	CW	ADJ
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+safe	safe	JJ	CW	ADJ
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+add	add	VB	CW	VERB
+more	more	JJR	CW	ADJ
+police	police	NN	CW	NOUN	ARGUMENT
+officer	officer	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+patrol	patrol	VB	CW	VERB
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+efficiency	efficiency	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+accident	accident	NN	CW	NOUN	ARGUMENT
+happens	happen	VBZ	CW	VERB
+and	and	CC	FW
+have	have	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stopped	stop	VBD	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+happens	happen	VBZ	CW	VERB
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+the	the	DT	FW
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+p.m.	p.m.	NNP	CW	NOUN	ARGUMENT
+to	to	IN	FW
+11	11	CD	FW
+p.m.	p.m.	NNP	CW	NOUN	ARGUMENT
+weekday	weekday	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+1	1	CD	FW
+a.m	a.m	NNP	CW	NOUN	ARGUMENT
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+propagate	propagate	VB	CW	VERB
+to	to	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+safe	safe	JJ	CW	ADJ
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+out	out	IN	FW
+what	what	WP	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+pay	pay	VB	CW	VERB
+more	more	JJR	CW	ADJ
+attention	attention	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+protect	protect	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+all	all	RB	ADV	CW
+on	on	RB	ADV	CW
+above	above	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+safe	safe	JJ	CW	ADJ
+and	and	CC	FW
+stay	stay	VB	CW	VERB
+away	away	RB	ADV	CW
+from	from	IN	FW
+the	the	DT	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+keep	keep	VBP	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+safe	safe	JJ	CW	ADJ
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+safe	safe	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

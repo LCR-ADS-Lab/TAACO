@@ -1,0 +1,397 @@
+word	lemma	POS	CW\FW	other categories
+scientist	scientist	NNP	CW	NOUN	ARGUMENT
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+once	once	RB	ADV	CW
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+there	there	RB	ADV	CW
+where	where	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+now	now	RB	ADV	CW
+without	without	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+three	three	CD	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+statement	statement	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+communication	communication	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+an	an	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+never	never	RB	ADV	CW
+had	have	VBN	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+since	since	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+possible	possible	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+'ve	've	VB	FW	aux_or_cop
+never	never	RB	ADV	CW
+thought	think	VBN	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+smart	smart	JJ	CW	ADJ
+phones	phone	NNS	CW	NOUN	ARGUMENT
+cars	car	NNS	CW	NOUN	ARGUMENT
+internet	internet	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+even	even	RB	ADV	CW
+fly	fly	VB	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+laughed	laugh	VBD	CW	VERB
+at	at	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+flying	fly	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+impossible	impossible	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+now	now	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+air	air	NN	CW	NOUN	ARGUMENT
+planes	plane	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+almost	almost	RB	ADV	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+possible	possible	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+next	next	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+communication	communication	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+communicates	communicate	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+humans	human	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+nature	nature	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+language	language	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+like	like	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+english	english	NNP	CW	NOUN	ARGUMENT
+german	german	JJ	CW	ADJ
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+.	.	FW	FW
+
+sentence break
+
+but	but	CC	FW
+before	before	IN	FW
+that	that	DT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+to	to	TO	FW
+made	made	VB	CW	VERB
+up	up	RP	FW
+a	a	DT	FW
+language	language	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+'ve	've	VB	FW	aux_or_cop
+never	never	RB	ADV	CW
+had	have	VBN	CW	VERB
+the	the	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+without	without	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+an	an	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+authors	author	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+write	write	VB	CW	VERB
+books	book	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+one	one	CD	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+write	write	VB	CW	VERB
+a	a	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+for	for	IN	FW
+writing	write	VBG	CW	VERB
+a	a	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+where	where	WRB	FW
+an	an	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+when	when	WRB	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+book	book	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+without	without	IN	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+without	without	IN	FW
+no	no	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+there	there	RB	ADV	CW
+where	where	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+now	now	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+three	three	CD	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+without	without	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+communicate	communicate	VB	CW	VERB
+as	as	RB	ADV	CW
+good	good	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+present	present	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+an	an	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+be	be	VBP	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

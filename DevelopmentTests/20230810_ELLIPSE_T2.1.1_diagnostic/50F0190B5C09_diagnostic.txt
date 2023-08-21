@@ -1,0 +1,288 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+21st	21st	JJ	CW	ADJ
+generation	generation	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+lived	live	VBN	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+exponential	exponential	JJ	CW	ADJ
+growth	growth	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+expecially	expecially	RB	ADV	FW
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+the	the	DT	FW
+huge	huge	JJ	CW	ADJ
+portion	portion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+exception	exception	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+education	education	NN	CW	NOUN	ARGUMENT
+field	field	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+using	use	VBG	CW	VERB
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+the	the	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+much	much	RB	ADV	CW
+faster	fast	RBR	ADV	CW
+and	and	CC	FW
+easier	easy	JJR	CW	ADJ
+than	than	IN	FW
+previous	previous	JJ	CW	ADJ
+generation	generation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+21st	21st	JJ	CW	ADJ
+generation	generation	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+lower	low	JJR	CW	ADJ
+average	average	JJ	CW	ADJ
+scores	score	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+affects	affect	VBZ	CW	VERB
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+positive	positive	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+educational	educational	JJ	CW	ADJ
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+uses	use	NNS	CW	NOUN	ARGUMENT
+cause	cause	VBP	CW	VERB
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+student	student	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+habit	habit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+the	the	DT	FW
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+uses	use	NNS	CW	NOUN	ARGUMENT
+increased	increase	VBD	CW	VERB
+many	many	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+tend	tend	VBP	CW	VERB
+to	to	TO	FW
+allow	allow	VB	CW	VERB
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+uses	use	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+and	and	CC	FW
+understand	understand	VB	CW	VERB
+topics	topic	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+concepts	concept	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+educational	educational	JJ	CW	ADJ
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+entertainment	entertainment	NN	CW	NOUN	ARGUMENT
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+causes	cause	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+lose	lose	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sns	sns	NNP	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+materials	material	NNS	CW	NOUN	ARGUMENT
+distract	distract	VBP	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+since	since	IN	FW	SUBORDINATOR
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+released	release	VBN	CW	VERB
+peeple	peeple	JJ	CW	ADJ
+could	could	MD	FW	aux_or_cop
+connect	connect	VB	CW	VERB
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+different	different	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+different	different	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+line	line	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+using	use	VBG	CW	VERB
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+everywhere	everywhere	RB	ADV	CW
+
+sentence break
+
+however	however	RB	ADV	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+mature	mature	JJ	CW	ADJ
+and	and	CC	FW
+easily	easily	RB	ADV	FW
+affect	affect	VB	CW	VERB
+by	by	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+accept	accept	VB	CW	VERB
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+inappropriate	inappropriate	JJ	CW	ADJ
+manor	manor	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+flood	flood	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+information	information	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+relied	relied	JJ	CW	ADJ
+on	on	IN	FW
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+alternative	alternative	JJ	CW	ADJ
+resources	resource	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+studying	study	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+regulate	regulate	VB	CW	VERB
+the	the	DT	FW
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+uses	use	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,367 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+use	use	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+help	help	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+ready	ready	JJ	CW	ADJ
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+jobs	job	NNS	CW	NOUN	ARGUMENT
+faster	fast	RBR	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+lose	lose	VB	CW	VERB
+the	the	DT	FW
+much	much	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+communicating	communicating	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+losing	lose	VBG	CW	VERB
+paper	paper	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+using	use	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+easy	easy	RB	ADV	CW
+and	and	CC	FW
+faster	fast	RBR	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+easy	easy	JJ	CW	ADJ
+and	and	CC	FW
+fast	fast	JJ	CW	ADJ
+by	by	IN	FW
+sending	send	VBG	CW	VERB
+email	email	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+important	important	JJ	CW	ADJ
+documents	document	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+send	send	VBP	CW	VERB
+to	to	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+partners	partner	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+coworkers	coworker	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+going	go	VBG	CW	VERB
+to	to	IN	FW
+there	there	EX	FW
+office	office	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+making	make	VBG	CW	VERB
+a	a	DT	FW
+meeting	meeting	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+these	these	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW
+using	use	VBG	CW	VERB
+email	email	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+saving	save	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+easy	easy	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+send	send	VB	CW	VERB
+documents	document	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+in	in	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+the	the	DT	FW
+use	use	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+paper	paper	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+helping	help	VBG	CW	VERB
+the	the	DT	FW
+environment	environment	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+communicating	communicate	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+issue	issue	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+using	use	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+out	out	RP	FW
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+scare	scare	JJ	CW	ADJ
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+partners	partner	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+task	task	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+critical	critical	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+nervous	nervous	JJ	CW	ADJ
+and	and	CC	FW
+make	make	VB	CW	VERB
+then	then	RB	ADV	CW
+feel	feel	VB	CW	VERB
+uncomfortable	uncomfortable	JJ	CW	ADJ
+by	by	IN	FW
+talking	talk	VBG	CW	VERB
+to	to	IN	FW
+then	then	RB	ADV	CW
+however	however	RB	ADV	FW
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+simple	simple	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+communicated	communicate	VBD	CW	VERB
+sending	send	VBG	CW	VERB
+a	a	DT	FW
+email	email	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+issues	issue	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+no	no	DT	FW
+oral	oral	JJ	CW	ADJ
+and	and	CC	FW
+physical	physical	JJ	CW	ADJ
+communication	communication	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+us	we	PRP	FW	PRONOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+and	and	CC	FW
+offered	offer	VBD	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+save	save	VB	CW	VERB
+important	important	JJ	CW	ADJ
+project	project	NN	CW	NOUN	ARGUMENT
+document	document	NN	CW	NOUN	ARGUMENT
+data	datum	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+sure	sure	JJ	CW	ADJ
+by	by	IN	FW
+saving	save	VBG	CW	VERB
+those	those	DT	FW
+document	document	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+flash	flash	NN	CW	NOUN	ARGUMENT
+drive	drive	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+safe	safe	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+save	save	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+letters	letter	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+office	office	NN	CW	NOUN	ARGUMENT
+365	365	CD	FW
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+save	save	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+worrying	worry	VBG	CW	VERB
+about	about	IN	FW
+loosing	loose	VBG	CW	VERB
+then	then	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+use	use	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+makes	make	VBZ	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+efficiently	efficiently	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+powerpoint	powerpoint	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+take	take	VB	CW	VERB
+or	or	CC	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+buy	buy	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+set	set	VBD	CW	VERB
+business	business	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+create	create	VB	CW	VERB
+one	one	CD	FW
+publish	publish	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+look	look	VB	CW	VERB
+for	for	IN	FW
+employs	employ	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

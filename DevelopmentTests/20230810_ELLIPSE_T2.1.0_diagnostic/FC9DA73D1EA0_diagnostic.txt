@@ -1,0 +1,612 @@
+word	lemma	POS	CW\FW	other categories
+even	even	RB	ADV	CW
+in	in	IN	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+everything	everything	NN	CW	NOUN	ARGUMENT
+catch	catch	NN	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+attention	attention	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+attending	attend	VBG	CW	VERB
+to	to	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+next	next	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+illustrate	illustrate	VB	CW	VERB
+three	three	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+saying	say	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+first	first	RB	ADV	CW
+by	by	IN	FW
+taking	take	VBG	CW	VERB
+online	online	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+semester	semester	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+second	second	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+distract	distract	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+easily	easily	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+focus	focus	VB	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+suppose	suppose	VBN	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+focusing	focus	VBG	CW	VERB
+on	on	IN	FW
+
+sentence break
+
+last	last	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+convenient	convenient	JJ	CW	ADJ
+when	when	WRB	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+teaching	teach	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+literally	literally	RB	ADV	CW
+face	face	VBP	CW	VERB
+to	to	IN	FW
+face	face	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+sometimes	sometimes	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+imagine	imagine	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+rush	rush	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+quickly	quickly	RB	ADV	CW
+and	and	CC	FW
+go	go	VB	CW	VERB
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+another	another	DT	FW
+consequence	consequence	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+put	put	VB	CW	VERB
+any	any	DT	FW
+interest	interest	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+later	later	RB	ADV	CW
+when	when	WRB	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+show	show	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW
+the	the	DT	FW
+light	light	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+blocks	block	VBZ	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+continue	continue	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+easily	easily	RB	ADV	FW
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	FW	aux_or_cop
+distracted	distract	VBN	CW	VERB
+by	by	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+taking	take	VBG	CW	VERB
+online	online	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+having	have	VBG	CW	VERB
+access	access	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+any	any	DT	FW
+electronic	electronic	JJ	CW	ADJ
+device	device	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+distract	distract	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	UH	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+computer	computer	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+using	use	VBG	CW	VERB
+tv	tv	NN	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+.	.	FW	FW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+sees	see	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+siblings	sibling	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+supervising	supervise	VBG	CW	VERB
+the	the	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+focusing	focus	VBG	CW	VERB
+enough	enough	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+imagine	imagine	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+distract	distract	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+terrible	terrible	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+young	young	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+have	have	VBP	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+playing	play	VBG	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+at	at	IN	FW
+last	last	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+convenient	convenient	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+interact	interact	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+classmate	classmate	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+other	other	JJ	CW	ADJ
+viewpoints	viewpoint	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+efficiently	efficiently	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+seeing	see	VBG	CW	VERB
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+literally	literally	RB	ADV	CW
+teaching	teach	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+needed	need	VBN	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+somethings	something	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+tend	tend	VBP	CW	VERB
+to	to	TO	FW
+forget	forget	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+right	right	RB	ADV	CW
+away	away	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+interacting	interact	VBG	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+classmate	classmate	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+learning	learning	NN	CW	NOUN	ARGUMENT
+getting	get	VBG	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+needed	need	VBN	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+taking	take	VBG	CW	VERB
+online	online	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+happen	happen	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+losing	lose	VBG	CW	VERB
+the	the	DT	FW
+semester	semester	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+score	score	VB	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+needed	need	VBN	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+electronic	electronic	JJ	CW	ADJ
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+available	available	JJ	CW	ADJ
+at	at	IN	FW
+home	home	RB	ADV	CW
+and	and	CC	FW
+get	get	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+attention	attention	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+easily	easily	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+
+attending	attend	VBG	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+convenient	convenient	JJ	CW	ADJ
+and	and	CC	FW
+better	well	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+learning	learn	VBG	CW	VERB
+and	and	CC	FW
+get	get	VBP	FW	aux_or_cop
+educated	educate	VBN	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+about	about	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+how	how	WRB	FW
+to	to	TO	FW
+interact	interact	VB	CW	VERB
+with	with	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+and	and	CC	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+needed	need	VBN	CW	VERB
+outside	outside	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+educated	educate	VBN	CW	VERB
+and	and	CC	FW
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

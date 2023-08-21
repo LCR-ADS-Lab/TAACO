@@ -1,0 +1,305 @@
+word	lemma	POS	CW\FW	other categories
+when	when	WRB	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+confused	confuse	VBN	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+want	want	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+advices	advice	NNS	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+solve	solve	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+problem	problem	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+struggling	struggle	VBG	CW	VERB
+on	on	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+some	some	DT	FW
+advices	advice	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+still	still	RB	ADV	CW
+confused	confused	JJ	CW	ADJ
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+another	another	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+advices	advice	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+helping	help	VBG	CW	VERB
+out	out	RP	FW
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+ask	ask	VB	CW	VERB
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+helpful	helpful	JJ	CW	ADJ
+advices	advice	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	RB	ADV	CW
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+teaching	teach	VBG	CW	VERB
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+out	out	RP	FW
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+persons	person	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+advices	advice	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW
+asking	ask	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+advices	advice	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+advices	advice	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+giving	give	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+that	that	DT	FW	PRONOUN
+one	one	CD	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+asking	ask	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+know	know	VB	CW	VERB
+of	of	IN	FW
+
+sentence break
+
+asking	ask	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+asking	ask	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+needs	need	VBZ	CW	VERB
+advices	advice	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW
+asking	ask	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+doing	do	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+driving	drive	VBG	CW	VERB
+a	a	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+taking	take	VBG	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+baby	baby	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+asking	ask	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+advices	advice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

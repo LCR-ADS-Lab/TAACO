@@ -1,0 +1,389 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+school	school	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+doesnt	doesnt	JJ	CW	ADJ
+matter	matter	NN	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+but	but	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+
+sentence break
+
+school	school	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+for	for	IN	FW
+learning	learn	VBG	CW	VERB
+and	and	CC	FW
+being	be	VBG	CW	VERB
+bored	bore	VBN	CW	VERB
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+confortle	confortle	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+playing	play	VBG	CW	VERB
+a	a	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+bodies	body	NNS	CW	NOUN	ARGUMENT
+stronger	stronger	JJR	CW	ADJ
+and	and	CC	FW
+healthy	healthy	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+helps	help	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+mentally	mentally	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+through	through	IN	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+outside	outside	JJ	CW	ADJ
+and	and	CC	FW
+playing	playing	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+playing	play	VBG	CW	VERB
+a	a	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	RBR	ADV	CW
+energy	energy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+ready	ready	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+likes	like	VBZ	CW	VERB
+opens	open	VBZ	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+helps	help	VBZ	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+stronger	stronger	JJR	CW	ADJ
+volleyball	volleyball	NNP	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+hands	hand	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+stronger	stronger	JJR	CW	ADJ
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+jump	jump	VB	CW	VERB
+higher	higher	JJR	CW	ADJ
+and	and	CC	FW
+football	football	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+run	run	VBP	CW	VERB
+faster	faster	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+productive	productive	JJ	CW	ADJ
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+playing	play	VBG	CW	VERB
+a	a	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+yearbook	yearbook	NN	CW	NOUN	ARGUMENT
+writing	writing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+spelling	spelling	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+serving	serve	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+confident	confident	JJ	CW	ADJ
+and	and	CC	FW
+talk	talk	VB	CW	VERB
+more	more	RBR	ADV	CW
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+writing	write	VBG	CW	VERB
+or	or	CC	FW
+coloring	color	VBG	CW	VERB
+the	the	DT	FW
+yearbook	yearbook	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+writing	write	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+so	so	RB	ADV	CW
+i	i	FW	FW
+know	know	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+gon	gon	VBG	CW	VERB
+na	na	TO	FW
+write	write	VB	CW	VERB
+neat	neat	JJ	CW	ADJ
+and	and	CC	FW
+correctly	correctly	RB	ADV	CW
+
+sentence break
+
+coloring	coloring	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+brains	brain	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+calm	calm	JJ	CW	ADJ
+and	and	CC	FW
+out	out	IN	FW
+of	of	IN	FW
+stress	stress	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spelling	spelling	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+writing	write	VBG	CW	VERB
+helps	help	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+improved	improve	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+coloring	color	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+by	by	IN	FW
+practicing	practice	VBG	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+gon	gon	VBG	CW	VERB
+na	na	TO	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+serving	serve	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+and	and	CC	FW
+thats	thats	IN	FW
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+or	or	CC	FW
+talk	talk	VB	CW	VERB
+to	to	TO	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	TO	FW
+and	and	CC	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	CW	VERB
+there	there	RB	ADV	CW
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+helping	help	VBG	CW	VERB
+to	to	TO	FW
+helping	help	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+best	best	JJS	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+maybe	maybe	RB	ADV	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+getting	get	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+helper	helper	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

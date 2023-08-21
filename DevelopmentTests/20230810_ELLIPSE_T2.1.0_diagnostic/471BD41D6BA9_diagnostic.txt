@@ -1,0 +1,244 @@
+word	lemma	POS	CW\FW	other categories
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+to	to	TO	FW
+converse	converse	VB	CW	VERB
+resources	resource	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+businesses	business	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+adopted	adopt	VBN	CW	VERB
+a	a	DT	FW
+four	four	CD	FW
+-	-	HYPH	FW
+day	day	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+each	each	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+consisting	consist	VBG	CW	VERB
+of	of	IN	FW
+ten	ten	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+deciding	decide	VBG	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+a	a	DT	FW
+four	four	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+nine	nine	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+consisting	consist	VBG	CW	VERB
+each	each	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+normal	normal	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+having	have	VBG	CW	VERB
+the	the	DT	FW
+normal	normal	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+majorly	majorly	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+part	part	NN	CW	NOUN	ARGUMENT
+times	time	NNS	CW	NOUN	ARGUMENT
+jobs	job	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+nine	nine	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+leave	leave	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+girls	girl	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+babies	baby	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+paying	pay	VBG	CW	VERB
+babysits	babysit	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW	SUBORDINATOR
+a	a	DT	FW
+nine	nine	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+days	day	NNS	CW	NOUN	ARGUMENT
+moms	mom	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+babies	baby	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+more	more	JJR	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+babysits	babysit	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+an	an	DT	FW
+nine	nine	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+do	do	VBP	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+prepare	prepare	VB	CW	VERB
+for	for	IN	FW
+projects	project	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+less	less	JJR	CW	ADJ
+then	then	RB	ADV	CW
+a	a	DT	FW
+normal	normal	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+seven	seven	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+affects	affect	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+model	model	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+a	a	DT	FW
+nine	nine	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+each	each	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+having	have	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+all	all	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+helpful	helpful	JJ	CW	ADJ
+for	for	IN	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+late	late	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+having	have	VBG	CW	VERB
+friday	friday	NNP	CW	NOUN	ARGUMENT
+off	off	RP	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+on	on	IN	FW
+fridays	fridays	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,512 @@
+word	lemma	POS	CW\FW	other categories
+"	"	``	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+"-by	"-by	LS	FW
+
+sentence break
+
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+demonstrate	demonstrate	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+need	need	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+accomplishment	accomplishment	JJ	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+another	another	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+became	become	VBD	CW	VERB
+more	more	RBR	ADV	CW
+independent	independent	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+greatest	great	JJS	CW	ADJ
+accomplish	accomplish	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+value	value	VB	CW	VERB
+for	for	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+demonstrate	demonstrate	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+without	without	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+be	be	VBP	CW	VERB
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+the	the	DT	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+value	value	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+those	those	DT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+decide	decide	VBP	CW	VERB
+to	to	TO	FW
+marry	marry	VB	CW	VERB
+and	and	CC	FW
+separate	separate	VB	CW	VERB
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+actual	actual	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+become	become	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+to	to	IN	FW
+how	how	WRB	FW
+survive	survive	VB	CW	VERB
+with	with	IN	FW
+out	out	RP	FW
+help	help	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+willing	willing	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+value	value	VB	CW	VERB
+for	for	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+demonstrate	demonstrate	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+independents	independent	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+ourselves	ourselves	PRP	FW	PRONOUN	ARGUMENT
+teach	teach	VB	CW	VERB
+as	as	IN	FW
+how	how	WRB	FW
+confront	confront	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+process	process	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+individual	individual	JJ	CW	ADJ
+make	make	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+believable	believable	JJ	CW	ADJ
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+thing	thing	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+positively	positively	RB	ADV	CW
+"	"	''	FW
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+better	well	JJR	CW	ADJ
+be	be	VB	FW	aux_or_cop
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+that	that	DT	FW	PRONOUN
+what	what	WP	FW
+the	the	DT	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+do	do	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VBP	CW	VERB
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+believable	believable	JJ	CW	ADJ
+for	for	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+believable	believable	JJ	CW	ADJ
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+truly	truly	RB	ADV	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+realize	realize	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+depending	depend	VBG	CW	VERB
+for	for	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+argue	argue	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+individual	individual	JJ	CW	ADJ
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+be	be	VBP	CW	VERB
+individual	individual	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+two	two	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW
+one	one	CD	FW
+
+sentence break
+
+however	however	RB	ADV	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+true	true	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+be	be	VB	FW	aux_or_cop
+individual	individual	JJ	CW	ADJ
+make	make	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplish	accomplish	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+believing	believe	VBG	CW	VERB
+than	than	IN	FW
+what	what	WP	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+believe	believe	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+believable	believable	JJ	CW	ADJ
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+selves	self	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+effort	effort	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+became	become	VBD	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+effort	effort	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+and	and	CC	FW
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+dependent	dependent	JJ	CW	ADJ
+for	for	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+need	need	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+with	with	IN	FW
+a	a	DT	FW
+partner	partner	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+demonstrate	demonstrate	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

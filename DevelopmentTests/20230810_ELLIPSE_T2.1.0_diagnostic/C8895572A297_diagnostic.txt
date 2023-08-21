@@ -1,0 +1,308 @@
+word	lemma	POS	CW\FW	other categories
+some	some	DT	FW
+schools	schools	NNPS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+pairs	pair	VBZ	CW	VERB
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+assist	assist	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+more	more	JJR	CW	ADJ
+apportions	apportion	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+helps	help	VBZ	CW	VERB
+both	both	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+both	both	DT	FW
+learn	learn	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+the	the	DT	FW
+oldest	old	JJS	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+tell	tell	VB	CW	VERB
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+these	these	DT	FW	PRONOUN
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+different	different	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+grades	grade	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+together	together	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+gather	gather	VB	CW	VERB
+more	more	JJR	CW	ADJ
+details	detail	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+notes	note	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+this	this	DT	FW	PRONOUN
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+gather	gather	VBP	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+notes	note	NNS	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+allow	allow	VB	CW	VERB
+younger	young	JJR	CW	ADJ
+and	and	CC	FW
+older	old	JJR	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+together	together	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+understands	understand	VBZ	CW	VERB
+what	what	WP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+of	of	IN	FW
+forgotten	forget	VBN	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+passed	pass	VBN	CW	VERB
+grades	grade	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+class	class	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+older	old	JJR	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+quite	quite	RB	ADV	FW
+understand	understand	VB	CW	VERB
+what	what	WP	FW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+prove	prove	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+prove	prove	VB	CW	VERB
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	IN	FW
+the	the	DT	FW
+young	young	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+prepare	prepare	VB	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+older	old	JJR	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+bit	bit	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+what	what	WP	FW
+'s	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+on	on	RP	FW
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+one	one	CD	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+young	young	JJ	CW	ADJ
+and	and	CC	FW
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+together	together	RB	ADV	CW
+ones	one	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+grades	grade	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+learning	learn	VBG	CW	VERB
+about	about	IN	FW
+passed	pass	VBN	CW	VERB
+history	history	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+as	as	RB	ADV	CW
+lost	lose	VBN	CW	VERB
+as	as	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+different	different	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+school	school	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+together	together	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+topic	topic	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+already	already	RB	ADV	CW
+have	have	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+mind	mind	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

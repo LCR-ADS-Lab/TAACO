@@ -1,0 +1,336 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+pursue	pursue	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+play	play	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+professional	professional	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+professional	professional	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+and	and	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+fun	fun	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+the	the	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+at	at	IN	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+letter	letter	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+send	send	VB	CW	VERB
+to	to	IN	FW
+any	any	DT	FW
+manager	manager	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+professional	professional	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+join	join	VB	CW	VERB
+a	a	DT	FW
+professional	professional	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+the	the	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+release	release	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+stress	stress	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+stress	stress	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+this	this	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+let	let	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+refresh	refresh	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+stress	stress	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+take	take	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+anger	anger	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+somene	somene	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+mad	mad	JJ	CW	ADJ
+at	at	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+mad	mad	JJ	CW	ADJ
+at	at	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+slide	slide	VB	CW	VERB
+tackle	tackle	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+shoot	shoot	VB	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+hard	hard	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+at	at	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+professional	professional	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+enjoyable	enjoyable	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+whenever	whenever	WRB	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+outside	outside	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+the	the	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	CW	VERB
+older	old	JJR	CW	ADJ
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+professional	professional	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opnion	opnion	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+sports	sport	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hopefully	hopefully	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+really	really	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

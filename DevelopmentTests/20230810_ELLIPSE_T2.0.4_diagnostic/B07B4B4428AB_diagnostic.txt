@@ -1,0 +1,606 @@
+word	lemma	POS	CW\FW	other categories
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+state	state	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+remember	remember	VB	CW	VERB
+walking	walk	VBG	CW	VERB
+under	under	IN	FW
+the	the	DT	FW
+trees	tree	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+wind	wind	NN	CW	NOUN	ARGUMENT
+blow	blow	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+shadow	shadow	NN	CW	NOUN	ARGUMENT
+made	make	VBN	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+trees	tree	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+kept	keep	VBD	CW	VERB
+walking	walk	VBG	CW	VERB
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+were	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+attacking	attack	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+animals	animal	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+were	be	VBD	FW	aux_or_cop
+frogs	frogs	NNPS	CW	NOUN	ARGUMENT
+turtle	turtle	NNP	CW	NOUN	ARGUMENT
+fish	fish	NN	CW	NOUN	ARGUMENT
+lobsters	lobster	NNS	CW	NOUN	ARGUMENT
+birds	birds	NNP	CW	NOUN	ARGUMENT
+snakes	snakes	NNP	CW	NOUN	ARGUMENT
+deer	deer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ducks	duck	NNS	CW	NOUN	ARGUMENT
+all	all	DT	FW
+over	over	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lastly	lastly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+river	river	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+fishing	fishing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+swimming	swim	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+river	river	NN	CW	NOUN	ARGUMENT
+water	water	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+hot	hot	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+outside	outside	IN	FW
+at	at	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+national	national	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+look	look	VB	CW	VERB
+at	at	IN	FW
+and	and	CC	FW
+visit	visit	VB	CW	VERB
+animals	animal	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+and	and	CC	FW
+visit	visit	VB	CW	VERB
+are	be	VBP	FW	aux_or_cop
+monkeys	monkeys	NNPS	CW	NOUN	ARGUMENT
+snakes	snakes	NNPS	CW	NOUN	ARGUMENT
+giraffes	giraffes	NNPS	CW	NOUN	ARGUMENT
+turtles	turtles	NNPS	CW	NOUN	ARGUMENT
+tigers	tigers	NNP	CW	NOUN	ARGUMENT
+pandas	pandas	NNP	CW	NOUN	ARGUMENT
+birds	birds	NNP	CW	NOUN	ARGUMENT
+frogs	frogs	NNP	CW	NOUN	ARGUMENT
+crocodiles	crocodiles	NNP	CW	NOUN	ARGUMENT
+gorillas	gorillas	NNP	CW	NOUN	ARGUMENT
+sea	sea	NNP	CW	NOUN	ARGUMENT
+lions	lions	NNPS	CW	NOUN	ARGUMENT
+donkeys	donkeys	NNPS	CW	NOUN	ARGUMENT
+horses	horse	NNS	CW	NOUN	ARGUMENT
+lions	lions	NNPS	CW	NOUN	ARGUMENT
+lizards	lizards	NNPS	CW	NOUN	ARGUMENT
+iguana	iguana	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+elephants	elephant	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+lastly	lastly	RB	ADV	CW
+the	the	DT	FW
+national	national	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+stands	stand	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+and	and	CC	FW
+buy	buy	VB	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+hungry	hungry	JJ	CW	ADJ
+at	at	IN	FW
+anytime	anytime	RB	ADV	FW
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+brakes	brake	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+tired	tire	VBN	CW	VERB
+of	of	IN	FW
+walking	walk	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+national	national	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sit	sit	VB	CW	VERB
+down	down	RP	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+the	the	DT	FW
+community	community	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+this	this	DT	FW
+big	big	JJ	CW	ADJ
+blue	blue	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+yellow	yellow	JJ	CW	ADJ
+playground	playground	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+running	run	VBG	CW	VERB
+up	up	RB	ADV	CW
+and	and	CC	FW
+down	down	RB	ADV	CW
+at	at	IN	FW
+the	the	DT	FW
+community	community	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+of	of	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+was	be	VBD	CW	VERB
+also	also	RB	ADV	CW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+playing	play	VBG	CW	VERB
+tag	tag	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lastly	lastly	RB	ADV	CW
+the	the	DT	FW
+community	community	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+equipment	equipment	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+like	like	IN	FW
+the	the	DT	FW
+swing	swing	NN	CW	NOUN	ARGUMENT
+slides	slide	NNS	CW	NOUN	ARGUMENT
+wall	wall	NN	CW	NOUN	ARGUMENT
+climbers	climber	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+monkey	monkey	NN	CW	NOUN	ARGUMENT
+bars	bar	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+were	be	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+so	so	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+wait	wait	VB	CW	VERB
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+turn	turn	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+use	use	VB	CW	VERB
+every	every	DT	FW
+equipment	equipment	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+community	community	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+remember	remember	VB	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+walk	walk	VBP	CW	VERB
+outside	outside	JJ	CW	ADJ
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+the	the	DT	FW
+outdoors	outdoors	NNS	CW	NOUN	ARGUMENT
+view	view	VBP	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+the	the	DT	FW
+nice	nice	JJ	CW	ADJ
+green	green	JJ	CW	ADJ
+grass	grass	NN	CW	NOUN	ARGUMENT
+moving	move	VBG	CW	VERB
+side	side	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+side	side	NN	CW	NOUN	ARGUMENT
+smell	smell	VBP	CW	VERB
+the	the	DT	FW
+fresh	fresh	JJ	CW	ADJ
+air	air	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+pretty	pretty	JJ	CW	ADJ
+nice	nice	JJ	CW	ADJ
+tall	tall	JJ	CW	ADJ
+green	green	JJ	CW	ADJ
+trees	tree	NNS	CW	NOUN	ARGUMENT
+giving	give	VBG	CW	VERB
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+long	long	JJ	CW	ADJ
+shadow	shadow	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+ground	ground	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+having	have	VBG	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+smiles	smile	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+by	by	IN	FW
+running	run	VBG	CW	VERB
+up	up	RB	ADV	CW
+and	and	CC	FW
+down	down	RB	ADV	CW
+the	the	DT	FW
+field	field	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VB	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+community	community	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+state	state	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+national	national	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+enjoying	enjoy	VBG	CW	VERB
+the	the	DT	FW
+outdoors	outdoors	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+fun	fun	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+and	and	CC	FW
+visit	visit	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+different	different	JJ	CW	ADJ
+parks	parks	NNPS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+forget	forget	VB	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+community	community	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+state	state	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+national	national	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+fun	fun	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+the	the	DT	FW
+outdoors	outdoors	NNS	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+forget	forget	VB	CW	VERB
+playing	play	VBG	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+community	community	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+playground	playground	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+forget	forget	VB	CW	VERB
+walking	walk	VBG	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+state	state	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+river	river	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lastly	lastly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+forget	forget	VB	CW	VERB
+looking	look	VBG	CW	VERB
+at	at	IN	FW
+does	do	VBZ	CW	VERB
+pretty	pretty	RB	ADV	CW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+national	national	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,273 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+brining	brine	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+
+sentence break
+
+also	also	RB	ADV	CW
+using	use	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+after	after	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+want	want	VB	CW	VERB
+to	to	TO	FW
+put	put	VB	CW	VERB
+there	there	RB	ADV	CW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+student	student	NN	CW	NOUN	ARGUMENT
+turn	turn	VB	CW	VERB
+off	off	RB	ADV	CW
+there	there	RB	ADV	CW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+there	there	RB	ADV	CW
+locker	locker	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+using	use	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+taken	take	VBN	CW	VERB
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+cheated	cheat	VBN	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+a	a	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+taken	take	VBN	CW	VERB
+picture	picture	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+to	to	TO	FW
+take	take	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	IN	FW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+know	know	VBP	CW	VERB
+what	what	WP	FW
+can	can	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+
+sentence break
+
+a	a	DT	FW
+other	other	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+bringing	bring	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+teaching	teach	VBG	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+and	and	CC	FW
+that	that	IN	FW	PRONOUN
+when	when	WRB	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+mad	mad	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+policy	policy	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+locker	locker	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+with	with	IN	FW
+there	there	EX	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+mad	mad	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+take	take	VB	CW	VERB
+the	the	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+
+sentence break
+
+some	some	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+there	there	RB	ADV	CW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+there	there	EX	FW
+jacket	jacket	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+turn	turn	VB	CW	VERB
+the	the	DT	FW
+volume	volume	NN	CW	NOUN	ARGUMENT
+down	down	RP	FW
+and	and	CC	FW
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+ringing	ring	VBG	CW	VERB
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

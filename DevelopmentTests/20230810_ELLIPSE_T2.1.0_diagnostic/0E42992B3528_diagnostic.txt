@@ -1,0 +1,217 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+statement	statement	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+mastered	master	VBD	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+less	less	JJR	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+what	what	WP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+pretty	pretty	RB	ADV	CW
+much	much	RB	ADV	CW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+of	of	IN	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+just	just	RB	ADV	CW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+
+sentence break
+
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wanna	wanna	VBP	CW	VERB
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wanna	wanna	VBP	CW	VERB
+do	do	VB	CW	VERB
+
+sentence break
+
+another	another	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+mastered	master	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+boring	boring	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+answer	answer	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+boring	boring	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+happens	happen	VBZ	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+what	what	WP	FW
+ever	ever	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+stick	stick	VB	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+mastered	master	VBD	CW	VERB
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+answer	answer	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ve	ve	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+

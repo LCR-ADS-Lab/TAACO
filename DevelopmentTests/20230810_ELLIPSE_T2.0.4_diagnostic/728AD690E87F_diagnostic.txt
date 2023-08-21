@@ -1,0 +1,406 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+think	think	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW
+new	new	JJ	CW	ADJ
+plan	plan	NN	CW	NOUN	ARGUMENT
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+into	into	IN	FW
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+healthier	healthier	JJR	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+fell	fall	VBD	CW	VERB
+into	into	IN	FW
+depression	depression	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+active	active	JJ	CW	ADJ
+
+sentence break
+
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+cafeteria	cafeteria	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+prevent	prevent	VB	CW	VERB
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+level	level	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+walk	walk	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+active	active	JJ	CW	ADJ
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+to	to	TO	FW
+heavy	heavy	JJ	CW	ADJ
+so	so	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+move	move	VB	CW	VERB
+faster	faster	RBR	ADV	CW
+than	than	IN	FW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+chunk	chunk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chunk	chunk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+stomach	stomach	NN	CW	NOUN	ARGUMENT
+heavier	heavier	JJR	CW	ADJ
+that	that	IN	FW	PRONOUN
+after	after	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+so	so	RB	ADV	CW
+lazy	lazy	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+activates	activate	VBZ	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+exercise	exercise	VB	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+activate	activate	VBP	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+dear	dear	NNP	CW	NOUN	ARGUMENT
+principal	principal	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+cafeteria	cafeteria	NN	CW	NOUN	ARGUMENT
+plans	plan	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+healthier	healthier	RBR	ADV	CW
+than	than	IN	FW
+chunk	chunk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+makes	make	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+obese	obese	JJ	CW	ADJ
+and	and	CC	FW
+fell	fall	VBD	CW	VERB
+into	into	IN	FW
+depression	depression	NN	CW	NOUN	ARGUMENT
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+active	active	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+does	do	VBZ	FW	aux_or_cop
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+healthier	healthier	JJR	CW	ADJ
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+makes	make	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+fell	fall	VBD	CW	VERB
+into	into	IN	FW
+depression	depression	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+chunk	chunk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+eat	eat	VB	CW	VERB
+any	any	DT	FW
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+fat	fat	JJ	CW	ADJ
+and	and	CC	FW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+eating	eat	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+go	go	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+level	level	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	FW	aux_or_cop
+obese	obese	JJ	CW	ADJ
+and	and	CC	FW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+obese	obese	JJ	CW	ADJ
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+fells	fell	NNS	CW	NOUN	ARGUMENT
+into	into	IN	FW
+depression	depression	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+after	after	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+weight	weight	VBP	CW	VERB
+increase	increase	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+healthier	healthier	JJR	CW	ADJ
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+eating	eat	VBG	CW	VERB
+chunk	chunk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+eat	eat	VB	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+easier	easier	JJR	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+any	any	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+chunk	chunk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+stomach	stomach	NN	CW	NOUN	ARGUMENT
+feels	feel	VBZ	CW	VERB
+heavier	heavier	JJR	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+professional	professional	JJ	CW	ADJ
+athletes	athlete	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+maintain	maintain	VBP	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+shape	shape	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+eat	eat	VBP	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

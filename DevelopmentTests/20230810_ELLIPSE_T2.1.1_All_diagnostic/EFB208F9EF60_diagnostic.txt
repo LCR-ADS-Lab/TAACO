@@ -1,0 +1,436 @@
+word	lemma	POS	CW\FW	other categories
+they	they	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+conserving	conserve	VBG	CW	VERB
+energy	energy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+resources	resource	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+buissness	buissness	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+four	four	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+consisting	consist	VBG	CW	VERB
+ten	ten	CD	FW
+houres	houre	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+extending	extend	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+houres	houre	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+four	four	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+ai	be	VBP	CW	VERB
+n't	not	RB	ADV	CW
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+need	need	VBP	CW	VERB
+'s	's	POS	FW
+more	more	JJR	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+are	be	VBP	FW	aux_or_cop
+focusing	focus	VBG	CW	VERB
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yes	yes	UH	FW
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+and	and	CC	FW
+getting	get	VBG	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+added	add	VBN	CW	VERB
+2	2	CD	FW
+more	more	JJR	CW	ADJ
+houres	houre	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+four	four	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+finished	finish	VBN	CW	VERB
+and	and	CC	FW
+learned	learn	VBN	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+fallow	fallow	VB	CW	VERB
+this	this	DT	FW
+model	model	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+scores	score	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+a	a	DT	FW
+greater	great	JJR	CW	ADJ
+improvement	improvement	NN	CW	NOUN	ARGUMENT
+over	over	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+four	four	CD	FW
+-	-	HYPH	FW
+day	day	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+exteded	exteded	JJ	CW	ADJ
+2	2	CD	FW
+houres	houre	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+many	many	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+explain	explain	VB	CW	VERB
+details	detail	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+deeper	deep	JJR	CW	ADJ
+nolige	nolige	RB	ADV	FW
+
+sentence break
+
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+practice	practice	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+before	before	IN	FW
+taking	take	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+using	use	VBG	CW	VERB
+websites	website	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+kahoot	kahoot	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+quizlit	quizlit	JJ	CW	ADJ
+
+sentence break
+
+live	live	JJ	CW	ADJ
+and	and	CC	FW
+notes	note	VBZ	CW	VERB
+so	so	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+confident	confident	JJ	CW	ADJ
+of	of	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+consiting	consite	VBG	CW	VERB
+longer	long	JJR	CW	ADJ
+periods	period	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+every	every	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+every	every	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+every	every	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+leave	leave	VB	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+grounds	ground	NNS	CW	NOUN	ARGUMENT
+successfuly	successfuly	RB	ADV	FW
+and	and	CC	FW
+informed	inform	VBN	CW	VERB
+of	of	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+that	that	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+being	be	VBG	FW	aux_or_cop
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+2	2	CD	FW
+more	more	JJR	CW	ADJ
+houres	houre	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+work	work	VB	CW	VERB
+smoothly	smoothly	RB	ADV	CW
+at	at	IN	FW
+every	every	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+plus	plus	CC	FW
+every	every	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+haveing	have	VBG	CW	VERB
+a	a	DT	FW
+three	three	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+weeknd	weeknd	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+friday	friday	NNP	CW	NOUN	ARGUMENT
+to	to	IN	FW
+sunday	sunday	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+rest	rest	VB	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+homeworks	homework	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+study	study	VB	CW	VERB
+for	for	IN	FW
+testes	testis	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+quizies	quizie	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+been	be	VBN	FW	aux_or_cop
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+sick	sick	JJ	CW	ADJ
+or	or	CC	FW
+on	on	IN	FW
+vacations	vacation	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+back	back	RB	ADV	CW
+on	on	IN	FW
+track	track	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+studies	study	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+great	great	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+becasue	becasue	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+any	any	DT	FW
+excuss	excuss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+loosing	loosing	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+not	not	RB	ADV	CW
+finishing	finish	VBG	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+a	a	DT	FW
+four	four	CD	FW
+-	-	HYPH	FW
+day	day	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+fantastic	fantastic	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+3	3	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+weeknd	weeknd	NN	CW	NOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+ways	way	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+ready	ready	JJ	CW	ADJ
+for	for	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+everytime	everytime	JJ	CW	ADJ
+with	with	IN	FW
+extra	extra	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

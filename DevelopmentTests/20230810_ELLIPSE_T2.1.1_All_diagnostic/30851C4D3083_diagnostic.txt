@@ -1,0 +1,500 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VB	CW	VERB
+alot	alot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+daily	daily	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VB	CW	VERB
+playing	play	VBG	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+an	an	DT	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+football	football	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+football	football	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+team	team	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+coordination	coordination	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+like	like	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+"	"	``	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+team	team	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+football	football	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+quarter	quarter	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+very	very	RB	ADV	CW
+good	good	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+offensive	offensive	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+work	work	VB	CW	VERB
+together	together	RB	ADV	CW
+to	to	TO	FW
+block	block	VB	CW	VERB
+the	the	DT	FW
+correct	correct	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+wide	wide	JJ	CW	ADJ
+receivers	receiver	NNS	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+game	game	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+qb	qb	NNP	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+football	football	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+an	an	DT	FW
+amazing	amazing	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+lear	lear	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+situations	situation	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+football	football	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+control	control	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+at	at	IN	FW
+reacting	react	VBG	CW	VERB
+to	to	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+come	come	VBP	CW	VERB
+at	at	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fast	fast	RB	ADV	CW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+"	"	``	FW
+think	think	VB	CW	VERB
+fast	fast	RB	ADV	CW
+"	"	''	FW
+
+sentence break
+
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW
+playing	play	VBG	CW	VERB
+football	football	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+an	an	DT	FW
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+catch	catch	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+probably	probably	RB	ADV	CW
+end	end	VB	CW	VERB
+up	up	RP	FW
+dropping	drop	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+close	close	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+hands	hand	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+played	play	VBD	CW	VERB
+football	football	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+got	get	VBD	CW	VERB
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+but	but	IN	FW
+of	of	IN	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+catch	catch	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+possibly	possibly	RB	ADV	FW
+impress	impress	VB	CW	VERB
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+booster	booster	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+playing	play	VBG	CW	VERB
+this	this	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+enjoyable	enjoyable	JJ	CW	ADJ
+and	and	CC	FW
+good	good	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+playing	play	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+watching	watch	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+in	in	IN	FW
+general	general	JJ	CW	ADJ
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+fan	fan	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+an	an	DT	FW
+nfl	nfl	NNP	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+understand	understand	VB	CW	VERB
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+mean	mean	VBP	CW	VERB
+when	when	WRB	FW
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+40	40	CD	FW
++	+	NN	CW	NOUN	ARGUMENT
+yard	yard	NN	CW	NOUN	ARGUMENT
+play	play	NN	CW	NOUN	ARGUMENT
+happens	happen	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+help	help	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+get	get	VB	CW	VERB
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+bit	bit	NN	CW	NOUN	ARGUMENT
+excited	excited	JJ	CW	ADJ
+
+sentence break
+
+playing	play	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+very	very	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+kicker	kicker	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+down	down	RB	ADV	CW
+by	by	IN	FW
+one	one	CD	FW
+with	with	IN	FW
+2	2	CD	FW
+seconds	second	NNS	CW	NOUN	ARGUMENT
+left	leave	VBN	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+the	the	DT	FW
+field	field	NN	CW	NOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+feel	feel	VBP	CW	VERB
+that	that	IN	FW
+joy	joy	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+winning	win	VBG	CW	VERB
+the	the	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+celebrate	celebrate	VB	CW	VERB
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+a	a	DT	FW
+very	very	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+rewatching	rewatche	VBG	CW	VERB
+the	the	DT	FW
+clip	clip	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+seeing	see	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+reactions	reaction	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hitting	hit	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+a	a	DT	FW
+very	very	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+injury	injury	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+football	football	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+football	football	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+an	an	DT	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+work	work	VB	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+much	much	RB	ADV	CW
+better	well	JJR	CW	ADJ
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+now	now	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+help	help	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+win	win	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

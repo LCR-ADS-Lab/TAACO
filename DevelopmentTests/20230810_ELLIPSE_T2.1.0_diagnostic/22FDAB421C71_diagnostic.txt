@@ -1,0 +1,419 @@
+word	lemma	POS	CW\FW	other categories
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+imagination	imagination	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+with	with	IN	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+form	form	VB	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+interesting	interesting	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fantasize	fantasize	VB	CW	VERB
+about	about	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+exciting	exciting	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+firstly	firstly	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+form	form	VB	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+creating	create	VBG	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+useful	useful	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+draw	draw	VB	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+sketching	sketch	VBG	CW	VERB
+a	a	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+form	form	VB	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+visualizing	visualize	VBG	CW	VERB
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+interesting	interesting	JJ	CW	ADJ
+like	like	IN	FW
+playing	play	VBG	CW	VERB
+a	a	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+virtual	virtual	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+interesting	interesting	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+to	to	TO	FW
+draw	draw	VB	CW	VERB
+picture	picture	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+using	use	VBG	CW	VERB
+a	a	DT	FW
+digital	digital	JJ	CW	ADJ
+art	art	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+create	create	VB	CW	VERB
+a	a	DT	FW
+picture	picture	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+thinking	think	VBG	CW	VERB
+an	an	DT	FW
+interesting	interesting	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+forming	form	VBG	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+interesting	interesting	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+attention	attention	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+creating	create	VBG	CW	VERB
+a	a	DT	FW
+fantasy	fantasy	NN	CW	NOUN	ARGUMENT
+book	book	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+wizards	wizards	NNPS	CW	NOUN	ARGUMENT
+vs	vs	IN	FW
+witches	witch	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+creative	creative	JJ	CW	ADJ
+by	by	IN	FW
+creating	create	VBG	CW	VERB
+interesting	interesting	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+unique	unique	JJ	CW	ADJ
+plans	plan	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+cool	cool	JJ	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+quotes	quote	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+
+sentence break
+
+
+paragraph break
+
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+interesting	interesting	JJ	CW	ADJ
+idea	idea	NNP	CW	NOUN	ARGUMENT
+about	about	IN	FW
+imagination	imagination	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+creating	create	VBG	CW	VERB
+interesting	interesting	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+unique	unique	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+fantasize	fantasize	VB	CW	VERB
+about	about	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+exciting	exciting	JJ	CW	ADJ
+
+sentence break
+
+fantasizing	fantasizing	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+exciting	exciting	JJ	CW	ADJ
+sometimes	sometimes	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+imagine	imagine	VB	CW	VERB
+an	an	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+real	real	JJ	CW	ADJ
+like	like	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+awesome	awesome	JJ	CW	ADJ
+superpower	superpower	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+by	by	IN	FW
+fantasizing	fantasize	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+playing	play	VBG	CW	VERB
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+do	do	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	CW	VERB
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+studying	study	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+awesome	awesome	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+building	build	VBG	CW	VERB
+a	a	DT	FW
+wooden	wooden	JJ	CW	ADJ
+car	car	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+painting	paint	VBG	CW	VERB
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+fantasizing	fantasize	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+conclude	conclude	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+forming	form	VBG	CW	VERB
+picture	picture	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+creating	create	VBG	CW	VERB
+interesting	interesting	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fantasizing	fantasize	VBG	CW	VERB
+about	about	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+exciting	exciting	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+these	these	DT	FW	PRONOUN
+three	three	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+imagination	imagination	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+imagination	imagination	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

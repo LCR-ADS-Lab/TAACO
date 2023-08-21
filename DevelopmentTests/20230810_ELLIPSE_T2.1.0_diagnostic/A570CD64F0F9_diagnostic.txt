@@ -1,0 +1,445 @@
+word	lemma	POS	CW\FW	other categories
+a	a	DT	FW
+single	single	JJ	CW	ADJ
+persons	person	NNS	CW	NOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+how	how	WRB	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+act	act	VBP	CW	VERB
+
+sentence break
+
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+philosopher	philosopher	NN	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+example	example	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+influencing	influence	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+statement	statement	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+believe	believe	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+true	true	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+up	up	RB	ADV	CW
+to	to	IN	FW
+and	and	CC	FW
+copy	copy	VB	CW	VERB
+whoever	whoever	WP	FW
+is	be	VBZ	FW	aux_or_cop
+currently	currently	RB	ADV	CW
+popular	popular	JJ	CW	ADJ
+on	on	IN	FW
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+like	like	VBP	CW	VERB
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+the	the	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+taught	teach	VBN	CW	VERB
+by	by	IN	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+essay	essay	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+how	how	WRB	FW
+setting	set	VBG	CW	VERB
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+into	into	IN	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+of	of	IN	FW
+all	all	DT	FW
+watching	watch	VBG	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+interests	interest	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+influence	influence	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+into	into	IN	FW
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+watch	watch	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+cook	cook	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+possibly	possibly	RB	ADV	FW
+persuade	persuade	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+into	into	IN	FW
+making	make	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+being	be	VBG	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+or	or	CC	FW
+persuaded	persuade	VBN	CW	VERB
+by	by	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+take	take	VB	CW	VERB
+juuling	juuling	NNP	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+do	do	VB	CW	VERB
+such	such	PDT	FW
+a	a	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+unless	unless	IN	FW	SUBORDINATOR
+being	be	VBG	FW	aux_or_cop
+persuaded	persuade	VBN	CW	VERB
+or	or	CC	FW
+peer	peer	NN	CW	NOUN	ARGUMENT
+pressured	pressure	VBN	CW	VERB
+by	by	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+teaching	teach	VBG	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+good	good	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+good	good	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+sets	set	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+down	down	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+path	path	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+most	most	JJS	CW	ADJ
+parents	parent	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+never	never	RB	ADV	CW
+taught	teach	VBN	CW	VERB
+or	or	CC	FW
+ever	ever	RB	ADV	CW
+learned	learn	VBN	CW	VERB
+so	so	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+to	to	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+look	look	VB	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+only	only	RB	ADV	CW
+by	by	IN	FW
+setting	set	VBG	CW	VERB
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+others	other	NNS	CW	NOUN	ARGUMENT
+follow	follow	VB	CW	VERB
+
+sentence break
+
+much	much	RB	ADV	CW
+like	like	IN	FW
+a	a	DT	FW
+pack	pack	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+wolves	wolf	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+leader	leader	NN	CW	NOUN	ARGUMENT
+sets	set	VBZ	CW	VERB
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+rest	rest	NN	CW	NOUN	ARGUMENT
+follow	follow	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+argued	argue	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+speech	speech	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+something	something	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+sort	sort	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+influence	influence	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+martin	martin	NNP	CW	NOUN	ARGUMENT
+luther	luther	NNP	CW	NOUN	ARGUMENT
+king	king	NNP	CW	NOUN	ARGUMENT
+jr	jr	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+"	"	``	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+dream	dream	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+speech	speech	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+might	might	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+in	in	IN	FW
+modern	modern	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+action	action	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+otherwise	otherwise	RB	ADV	CW
+why	why	WRB	FW
+would	would	MD	FW	aux_or_cop
+kids	kid	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+these	these	DT	FW	PRONOUN
+"	"	``	FW
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+"	"	''	FW
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hear	hear	VBP	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+news	news	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+other	other	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+examples	example	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+and	and	CC	FW
+most	most	RBS	ADV	CW
+effective	effective	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+into	into	IN	FW
+doing	do	VBG	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+setting	set	VBG	CW	VERB
+examples	example	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+into	into	IN	FW
+doing	do	VBG	CW	VERB
+all	all	DT	FW
+sorts	sort	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+whether	whether	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+or	or	CC	FW
+bad	bad	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+completely	completely	RB	ADV	CW
+subjective	subjective	JJ	CW	ADJ
+and	and	CC	FW
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+into	into	IN	FW
+doing	do	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+

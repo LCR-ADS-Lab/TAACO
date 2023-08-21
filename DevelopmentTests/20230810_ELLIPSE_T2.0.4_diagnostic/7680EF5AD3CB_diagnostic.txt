@@ -1,0 +1,336 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+required	require	VBN	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+a	a	DT	FW
+music	music	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+drama	drama	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+an	a	DT	FW
+art	art	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+an	a	DT	FW
+elective	elective	JJ	CW	ADJ
+
+sentence break
+
+not	not	RB	ADV	CW
+every	every	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+excellent	excellent	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+taking	take	VBG	CW	VERB
+a	a	DT	FW
+required	require	VBN	CW	VERB
+class	class	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+desire	desire	VB	CW	VERB
+or	or	CC	FW
+need	need	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+required	require	VBN	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+any	any	DT	FW
+of	of	IN	FW
+those	those	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+pointless	pointless	JJ	CW	ADJ
+unfair	unfair	JJ	CW	ADJ
+and	and	CC	FW
+not	not	RB	ADV	CW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+an	a	DT	FW
+elective	elective	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+every	every	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+any	any	DT	FW
+of	of	IN	FW
+those	those	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+succesful	succesful	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+dissimilar	dissimilar	JJ	CW	ADJ
+for	for	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+singing	singing	NN	CW	NOUN	ARGUMENT
+art	art	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+drama	drama	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+not	not	RB	ADV	CW
+helping	help	VBG	CW	VERB
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+smarter	smarter	RBR	ADV	FW
+or	or	CC	FW
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+more	more	RBR	ADV	CW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+no	no	DT	FW
+where	where	WRB	FW
+near	near	IN	FW
+educational	educational	JJ	CW	ADJ
+related	related	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+entertaining	entertaining	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+required	require	VBN	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+important	important	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+any	any	DT	FW
+of	of	IN	FW
+those	those	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+or	or	CC	FW
+provide	provide	VB	CW	VERB
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+majority	majority	NNP	CW	NOUN	ARGUMENT
+jobs	job	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+require	require	VB	CW	VERB
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+any	any	DT	FW
+of	of	IN	FW
+those	those	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+certainly	certainly	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+unfair	unfair	JJ	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+requirement	requirement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+and	and	CC	FW
+hold	hold	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+back	back	RB	ADV	CW
+from	from	IN	FW
+graduating	graduate	VBG	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+shouldnt	shouldnt	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+should	should	MD	FW	aux_or_cop
+hold	hold	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+back	back	RB	ADV	CW
+from	from	IN	FW
+moving	move	VBG	CW	VERB
+forward	forward	RB	ADV	CW
+on	on	IN	FW
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+as	as	IN	FW
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+pathetic	pathetic	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+repeat	repeat	VB	CW	VERB
+a	a	DT	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+over	over	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+useless	useless	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

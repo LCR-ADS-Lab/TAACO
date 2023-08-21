@@ -1,0 +1,553 @@
+word	lemma	POS	CW\FW	other categories
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+talent	talent	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+mine	mine	PRP	FW	PRONOUN	ARGUMENT
+'s	's	POS	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+singing	singing	NN	CW	NOUN	ARGUMENT
+dancing	dancing	NNP	CW	NOUN	ARGUMENT
+but	but	CC	FW
+nope	nope	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+about	about	IN	FW
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+effect	effect	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+energy	energy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+honest	honest	JJ	CW	ADJ
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+helps	help	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+a	a	DT	FW
+awful	awful	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+feel	feel	VB	CW	VERB
+better	well	JJR	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+having	have	VBG	CW	VERB
+a	a	DT	FW
+terrible	terrible	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+first	first	RB	ADV	CW
+started	start	VBD	CW	VERB
+playing	play	VBG	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+changed	change	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mine	mine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+do	do	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+any	any	DT	FW
+and	and	CC	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	FW	aux_or_cop
+finished	finish	VBN	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+some	some	DT	FW
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+
+sentence break
+
+well	well	UH	FW
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+belive	belive	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+let	let	VB	CW	VERB
+'s	us	PRP	FW	PRONOUN	ARGUMENT
+say	say	VB	CW	VERB
+fortnite	fortnite	JJ	CW	ADJ
+in	in	IN	FW
+every	every	DT	FW
+match	match	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+100	100	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+20	20	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	FW	aux_or_cop
+eliminated	eliminate	VBN	CW	VERB
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+left	leave	VBN	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+out	out	RP	FW
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+remaining	remain	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+match	match	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+videos	video	NNS	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+for	for	IN	FW
+about	about	RB	ADV	CW
+2	2	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+pretty	pretty	RB	ADV	CW
+much	much	RB	ADV	CW
+gives	give	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+this	this	DT	FW	PRONOUN
+game	game	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+playing	play	VBG	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+any	any	DT	FW
+better	well	JJR	CW	ADJ
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+pretty	pretty	RB	ADV	CW
+much	much	RB	ADV	CW
+a	a	DT	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+which	which	WDT	FW
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+trying	try	VBG	CW	VERB
+
+sentence break
+
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+mainly	mainly	RB	ADV	CW
+in	in	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+games	game	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+are	be	VBP	FW	aux_or_cop
+either	either	CC	FW
+about	about	IN	FW
+last	last	JJ	CW	ADJ
+standing	stand	VBG	CW	VERB
+games	game	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+nice	nice	JJ	CW	ADJ
+games	game	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+fighting	fighting	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+include	include	VBP	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+think	think	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+play	play	VB	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+pass	pass	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+smart	smart	JJ	CW	ADJ
+as	as	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+yea	yea	UH	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+language	language	NN	CW	NOUN	ARGUMENT
+arts	art	NNS	CW	NOUN	ARGUMENT
+math	math	NNP	CW	NOUN	ARGUMENT
+science	science	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+civics	civic	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+still	still	RB	ADV	CW
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+really	really	RB	ADV	CW
+help	help	VB	CW	VERB
+
+sentence break
+
+oh	oh	UH	FW
+!	!	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+did	do	VBD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+mention	mention	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+being	be	VBG	FW	aux_or_cop
+hungry	hungry	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+sounds	sound	VBZ	CW	VERB
+weird	weird	JJ	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+hungry	hungry	JJ	CW	ADJ
+and	and	CC	FW
+play	play	VBP	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+like	like	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+distracts	distract	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+hungry	hungry	JJ	CW	ADJ
+but	but	CC	FW
+then	then	RB	ADV	CW
+again	again	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+stop	stop	VBP	CW	VERB
+playing	play	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+stomach	stomach	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+start	start	VB	CW	VERB
+hurting	hurt	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+ate	eat	VBN	CW	VERB
+so	so	RB	ADV	CW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+recommend	recommend	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+hungry	hungry	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+talent	talent	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+are	be	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+want	want	VB	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+any	any	DT	FW
+more	more	RBR	ADV	CW
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+live	live	VB	CW	VERB
+with	with	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+reality	reality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thank	thank	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+reading	read	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+essay	essay	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+all	all	DT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+guys	guy	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+guys	guy	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

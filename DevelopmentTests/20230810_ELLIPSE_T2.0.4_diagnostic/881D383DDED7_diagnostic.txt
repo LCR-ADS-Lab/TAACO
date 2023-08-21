@@ -1,0 +1,457 @@
+word	lemma	POS	CW\FW	other categories
+inconclution	inconclution	NNP	CW	NOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+consist	consist	VBP	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+capable	capable	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+not	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+failures	failure	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+until	until	IN	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+third	third	NNP	CW	NOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+reach	reach	VB	CW	VERB
+the	the	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+until	until	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+hard	hard	JJ	CW	ADJ
+and	and	CC	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+tried	try	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+over	over	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+even	even	RB	ADV	CW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+everything	everything	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+lost	lose	VBN	CW	VERB
+
+sentence break
+
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+stop	stop	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+tried	try	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+
+sentence break
+
+working	work	VBG	CW	VERB
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+until	until	IN	FW
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+demostrate	demostrate	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+anyting	anyte	VBG	CW	VERB
+even	even	RB	ADV	CW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+reason	reason	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+wrong	wrong	JJ	CW	ADJ
+
+sentence break
+
+
+sentence break
+
+work	work	NN	CW	NOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	better	RBR	ADV	CW
+
+sentence break
+
+any	any	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+an	a	DT	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+gaing	gae	VBP	CW	VERB
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+dissapinting	dissapint	VBG	CW	VERB
+from	from	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+better	better	JJR	CW	ADJ
+and	and	CC	FW
+better	better	JJR	CW	ADJ
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+fall	fall	VBP	CW	VERB
+shakes	shake	VBZ	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+going	go	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+selfs	self	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+a	a	DT	FW
+stop	stop	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+good	good	JJ	CW	ADJ
+stop	stop	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+like	like	IN	FW	SUBORDINATOR
+i	i	FW	FW
+said	say	VBD	CW	VERB
+before	before	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+faith	faith	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+and	and	CC	FW
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+destroy	destroy	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+believe	believe	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+but	but	CC	FW
+never	never	RB	ADV	CW
+let	let	VB	CW	VERB
+the	the	DT	FW
+deseption	deseption	NN	CW	NOUN	ARGUMENT
+influence	influence	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+selfs	self	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+like	like	IN	FW
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+``	``	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consist	consist	VBP	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+out	out	JJ	CW	ADJ
+loss	loss	NN	CW	NOUN	ARGUMENT
+entusiasm	entusiasm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+inventors	inventor	NNS	CW	NOUN	ARGUMENT
+started	start	VBD	CW	VERB
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+until	until	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+stament	stament	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+dose	dose	NN	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+matter	matter	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+selfs	self	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+reach	reach	VB	CW	VERB
+the	the	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+many	many	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+until	until	IN	FW
+to	to	TO	FW
+gaing	gae	VB	CW	VERB
+the	the	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

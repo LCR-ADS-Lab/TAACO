@@ -1,0 +1,529 @@
+word	lemma	POS	CW\FW	other categories
+some	some	DT	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+live	live	VB	CW	VERB
+in	in	IN	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+trees	tree	NNS	CW	NOUN	ARGUMENT
+lakes	lake	NNS	CW	NOUN	ARGUMENT
+caves	cave	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+underground	underground	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+why	why	WRB	FW
+do	do	VBP	FW	aux_or_cop
+animals	animal	NNS	CW	NOUN	ARGUMENT
+live	live	VB	CW	VERB
+in	in	IN	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+and	and	CC	FW
+store	store	VB	CW	VERB
+to	to	TO	FW
+survive	survive	VB	CW	VERB
+the	the	DT	FW
+winter	winter	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW	SUBORDINATOR
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW	SUBORDINATOR
+there	there	EX	FW
+home	home	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+protection	protection	NN	CW	NOUN	ARGUMENT
+form	form	VBP	CW	VERB
+pochures	pochure	NNS	CW	NOUN	ARGUMENT
+pochures	pochure	NNS	CW	NOUN	ARGUMENT
+shoot	shoot	VBP	CW	VERB
+animals	animal	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+sell	sell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+there	there	EX	FW
+skin	skin	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+black	black	JJ	CW	ADJ
+market	market	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+guy	guy	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+but	but	CC	FW
+when	when	WRB	FW
+a	a	DT	FW
+pochure	pochure	NN	CW	NOUN	ARGUMENT
+try	try	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+shooting	shoot	VBG	CW	VERB
+a	a	DT	FW
+animal	animal	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+forest	forest	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	CW	VERB
+shot	shoot	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+not	not	RB	ADV	CW
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+shoot	shoot	VB	CW	VERB
+in	in	IN	FW
+that	that	DT	FW
+area	area	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+a	a	DT	FW
+fee	fee	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+jail	jail	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+community	community	NNP	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+national	national	JJ	CW	ADJ
+park	park	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+outside	outside	JJ	CW	ADJ
+for	for	IN	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+playing	play	VBG	CW	VERB
+while	while	IN	FW	SUBORDINATOR
+parent	parent	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+keeping	keep	VBG	CW	VERB
+watch	watch	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+there	there	RB	ADV	CW
+little	little	JJ	CW	ADJ
+ones	one	NNS	CW	NOUN	ARGUMENT
+picnics	picnic	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW	SUBORDINATOR
+there	there	EX	FW
+love	love	VBP	CW	VERB
+ones	one	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+also	also	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+clean	clean	JJ	CW	ADJ
+from	from	IN	FW
+trash	trash	NN	CW	NOUN	ARGUMENT
+please	please	VB	CW	VERB
+keep	keep	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+environment	environment	NN	CW	NOUN	ARGUMENT
+clean	clean	JJ	CW	ADJ
+throw	throw	VBP	CW	VERB
+trash	trash	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+trash	trash	NN	CW	NOUN	ARGUMENT
+throw	throw	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+trash	trash	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+environment	environment	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+some	some	DT	FW
+cleaning	cleaning	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+time	time	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+caught	catch	VBN	CW	VERB
+in	in	IN	FW
+trash	trash	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+choke	choke	VB	CW	VERB
+from	from	IN	FW
+trash	trash	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+throw	throw	VB	CW	VERB
+or	or	CC	FW
+there	there	EX	FW
+to	to	TO	FW
+lazy	lazy	JJ	CW	ADJ
+to	to	TO	FW
+throw	throw	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+trash	trash	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fish	fish	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+live	live	VBP	CW	VERB
+on	on	IN	FW
+dams	dam	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+lakes	lake	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+caught	catch	VBN	CW	VERB
+in	in	IN	FW
+trash	trash	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+the	the	DT	FW
+lake	lake	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+toxic	toxic	JJ	CW	ADJ
+so	so	RB	ADV	CW
+that	that	IN	FW	PRONOUN
+means	mean	VBZ	CW	VERB
+is	be	VBZ	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+toxic	toxic	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+kill	kill	VB	CW	VERB
+fish	fish	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+drink	drink	VB	CW	VERB
+the	the	DT	FW
+water	water	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+die	die	VBP	CW	VERB
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+littering	litter	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+get	get	VB	CW	VERB
+worse	worse	JJR	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+lake	lake	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+another	another	DT	FW
+sigh	sigh	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+caught	catch	VBN	CW	VERB
+littering	litter	VBG	CW	VERB
+some	some	DT	FW
+where	where	WRB	FW
+in	in	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+a	a	DT	FW
+fee	fee	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+the	the	DT	FW
+no	no	DT	FW
+hunting	hunting	NN	CW	NOUN	ARGUMENT
+sign	sign	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+small	small	JJ	CW	ADJ
+children	child	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+while	while	IN	FW	SUBORDINATOR
+gown	gown	NN	CW	NOUN	ARGUMENT
+ups	up	NNS	CW	NOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+watch	watch	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+playing	play	VBG	CW	VERB
+or	or	CC	FW
+day	day	NN	CW	NOUN	ARGUMENT
+dreaming	dream	VBG	CW	VERB
+but	but	CC	FW
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+plans	plan	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+go	go	VBP	CW	VERB
+fishing	fishing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+lake	lake	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+take	take	VB	CW	VERB
+a	a	DT	FW
+boat	boat	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fish	fish	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+yo	yo	FW	FW
+need	need	VBP	CW	VERB
+a	a	DT	FW
+license	license	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fish	fish	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+one	one	CD	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+fish	fish	RB	ADV	FW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+picnic	picnic	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+birthday	birthday	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+july	july	NNP	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+watch	watch	VB	CW	VERB
+the	the	DT	FW
+fire	fire	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+theres	theres	RB	ADV	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+voleenter	voleenter	NN	CW	NOUN	ARGUMENT
+helping	help	VBG	CW	VERB
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+so	so	IN	FW
+that	that	DT	FW	SUBORDINATOR	PRONOUN
+some	some	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+and	and	CC	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+safe	safe	JJ	CW	ADJ
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+animals	animal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+animals	animal	NNS	CW	NOUN	ARGUMENT
+safe	safe	JJ	CW	ADJ
+from	from	IN	FW
+pochures	pochure	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hunters	hunter	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+so	so	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+breaks	break	VBZ	CW	VERB
+those	those	DT	FW
+rules	rule	NNS	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+please	please	VB	CW	VERB
+recycle	recycle	VB	CW	VERB
+and	and	CC	FW
+throw	throw	VB	CW	VERB
+away	away	RP	FW
+trash	trash	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+trash	trash	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+park	park	NN	CW	NOUN	ARGUMENT
+clean	clean	JJ	CW	ADJ
+and	and	CC	FW
+the	the	DT	FW
+environment	environment	NN	CW	NOUN	ARGUMENT
+clean	clean	JJ	CW	ADJ
+and	and	CC	FW
+safe	safe	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

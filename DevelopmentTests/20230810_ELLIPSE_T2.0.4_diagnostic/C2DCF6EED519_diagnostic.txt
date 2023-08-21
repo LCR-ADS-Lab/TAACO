@@ -1,0 +1,358 @@
+word	lemma	POS	CW\FW	other categories
+after	after	IN	FW
+all	all	DT	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+every	every	DT	FW
+one	one	CD	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+help	help	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+low	low	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+up	up	RB	ADV	CW
+and	and	CC	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+any	any	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+is	be	VBZ	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+top	top	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+every	every	DT	FW
+one	one	CD	FW
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+wile	wile	IN	FW
+learning	learning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+every	every	DT	FW
+one	one	CD	FW
+need	need	VBP	CW	VERB
+some	some	DT	FW
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+cant	cant	FW	FW
+because	because	IN	FW
+on	on	IN	FW
+the	the	DT	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+going	go	VBG	CW	VERB
+to	to	TO	FW
+an	a	DT	FW
+after	after	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+finish	finish	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+fast	fast	RB	ADV	CW
+and	and	CC	FW
+also	also	RB	ADV	CW
+give	give	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+brother	brother	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+sister	sister	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+learning	learn	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+during	during	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ready	ready	JJ	CW	ADJ
+for	for	IN	FW
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+pop	pop	NN	CW	NOUN	ARGUMENT
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+any	any	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+up	up	RP	FW
+late	late	JJ	CW	ADJ
+to	to	TO	FW
+study	study	VB	CW	VERB
+or	or	CC	FW
+wake	wake	VB	CW	VERB
+up	up	RB	ADV	CW
+early	early	JJ	CW	ADJ
+int	int	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+morning	morning	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+review	review	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+get	get	VB	CW	VERB
+ahead	ahead	RB	ADV	FW
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+during	during	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+one	one	CD	FW
+or	or	CC	FW
+more	more	JJR	CW	ADJ
+subject	subject	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+over	over	IN	FW
+and	and	CC	FW
+student	student	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+gets	get	VBZ	CW	VERB
+started	start	VBN	CW	VERB
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+understand	understand	VB	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+`	`	``	FW
+er	er	FW	FW
+no	no	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+beginning	begin	VBG	CW	VERB
+an	a	DT	FW
+after	after	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+fast	fast	RB	ADV	CW
+learn	learn	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+having	have	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+every	every	DT	FW
+one	one	CD	FW
+need	need	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+out	out	RP	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+that	that	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+doing	do	VBG	CW	VERB
+dome	dome	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

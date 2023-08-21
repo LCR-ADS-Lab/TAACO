@@ -1,0 +1,373 @@
+word	lemma	POS	CW\FW	other categories
+following	follow	VBG	CW	VERB
+own	own	JJ	CW	ADJ
+instincts	instinct	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+what	what	WP	FW
+make	make	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+happy	happy	JJ	CW	ADJ
+remember	remember	VB	CW	VERB
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+what	what	WP	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+about	about	RB	ADV	CW
+''	''	''	FW
+hear	hear	VBP	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+take	take	VB	CW	VERB
+your	your	JJ	CW	ADJ
+own	own	NN	CW	NOUN	ARGUMENT
+decision	decision	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+the	the	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+study	study	NN	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+guys	guy	NNS	CW	NOUN	ARGUMENT
+voted	vote	VBD	CW	VERB
+for	for	IN	FW
+that	that	DT	FW
+one	one	CD	FW
+but	but	CC	FW
+why	why	WRB	FW
+
+sentence break
+
+just	just	RB	ADV	CW
+because	because	IN	FW
+for	for	IN	FW
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+how	how	WRB	FW
+each	each	DT	FW
+war	war	NN	CW	NOUN	ARGUMENT
+started	start	VBD	CW	VERB
+life	life	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+presindents	presindents	NNP	CW	NOUN	ARGUMENT
+etc.	etc.	FW	FW
+
+sentence break
+
+history	history	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+subject	subject	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+teach	teach	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+important	important	JJ	CW	ADJ
+events	event	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+even	even	RB	ADV	CW
+dont	dont	VBP	CW	VERB
+know	know	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+real	real	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+at	at	IN	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+waht	waht	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VB	CW	VERB
+and	and	CC	FW
+want	want	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+about	about	IN	FW
+choose	choose	VB	CW	VERB
+science	science	NNP	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+science	science	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+exist	exist	VB	CW	VERB
+important	important	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+created	create	VBD	CW	VERB
+tools	tool	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+availabe	availabe	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+save	save	VB	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+invented	invent	VBD	CW	VERB
+different	different	JJ	CW	ADJ
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+instruments	instrument	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+microscope	microscope	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+this	this	DT	FW
+tool	tool	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+this	this	DT	FW
+one	one	CD	FW
+help	help	NN	CW	NOUN	ARGUMENT
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+stars	star	NNS	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+close	close	JJ	CW	ADJ
+or	or	CC	FW
+any	any	DT	FW
+other	other	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	CW	VERB
+a	a	DT	FW
+far	far	RB	ADV	CW
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+why	why	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+the	the	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+choose	choose	VB	CW	VERB
+science	science	NNP	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+what	what	WP	FW
+the	the	DT	FW
+instructors	instructor	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+university	university	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+friday	friday	NNP	CW	NOUN	ARGUMENT
+march	march	NNP	CW	NOUN	ARGUMENT
+22	22	CD	FW
+2019	2019	CD	FW
+
+sentence break
+
+
+paragraph break
+
+should	should	MD	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+guiadance	guiadance	VB	CW	VERB
+from	from	IN	FW
+experts	expert	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+authorities	authority	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+important	important	JJ	CW	ADJ
+matter	matter	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+should	should	MD	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+why	why	WRB	FW
+make	make	VBP	CW	VERB
+own	own	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	better	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+career	career	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+for	for	IN	FW
+study	study	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+help	help	VBP	CW	VERB
+to	to	TO	FW
+select	select	VB	CW	VERB
+which	which	WDT	FW
+subject	subject	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	better	RBR	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+why	why	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+that	that	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hear	hear	VB	CW	VERB
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+sometime	sometime	RB	ADV	CW
+make	make	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+best	best	JJS	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

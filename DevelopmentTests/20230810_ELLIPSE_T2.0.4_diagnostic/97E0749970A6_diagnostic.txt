@@ -1,0 +1,401 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+other	other	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+repeat	repeat	VBP	CW	VERB
+the	the	DT	FW
+theme	theme	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+are	be	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+already	already	RB	ADV	CW
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+belated	belated	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+let	let	VB	CW	VERB
+said	say	VBD	CW	VERB
+a	a	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hers	hers	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+some	some	DT	FW
+questions	question	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+but	but	CC	FW
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+questions	question	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+understand	understand	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+pay	pay	NN	CW	NOUN	ARGUMENT
+attention	attention	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+theme	theme	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+teach	teach	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+wount	wount	JJ	CW	ADJ
+understand	understand	VB	CW	VERB
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+theme	theme	NN	CW	NOUN	ARGUMENT
+let	let	VB	CW	VERB
+said	say	VBD	CW	VERB
+that	that	IN	FW	PRONOUN
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+understand	understand	VB	CW	VERB
+the	the	DT	FW
+theme	theme	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+month	month	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+theacher	theacher	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+teaching	teach	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+hard	hard	JJ	CW	ADJ
+four	four	CD	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+than	than	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+somenthing	somenthing	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+agree	agree	VB	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+focus	focus	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+step	step	NN	CW	NOUN	ARGUMENT
+up	up	RB	ADV	CW
+to	to	TO	FW
+there	there	EX	FW
+team	team	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+learning	learn	VBG	CW	VERB
+about	about	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+but	but	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+other	other	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclution	conclution	NN	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+emerson	emerson	NN	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+``	``	``	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+mastered	master	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+''	''	''	FW
+in	in	IN	FW
+almost	almost	RB	ADV	FW
+true	true	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+other	other	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+history	history	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+let	let	VB	CW	VERB
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+1860	1860	CD	FW
+'s	's	POS	FW
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+that	that	DT	FW
+theme	theme	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+after	after	IN	FW
+a	a	DT	FW
+month	month	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+teaching	teach	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+1920	1920	CD	FW
+'s	's	POS	FW
+
+sentence break
+
+
+paragraph break
+
+``	``	``	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+mastered	master	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+``	``	``	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+mastered	master	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+other	other	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+repeat	repeat	VBP	CW	VERB
+the	the	DT	FW
+theme	theme	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+are	be	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+already	already	RB	ADV	CW
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+belated	belated	JJ	CW	ADJ
+and	and	CC	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+wont	wont	VBP	CW	VERB
+understand	understand	VB	CW	VERB
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+theme	theme	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

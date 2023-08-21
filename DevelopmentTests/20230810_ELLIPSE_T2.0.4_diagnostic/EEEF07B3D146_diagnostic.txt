@@ -1,0 +1,360 @@
+word	lemma	POS	CW\FW	other categories
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+inactivity	inactivity	NN	CW	NOUN	ARGUMENT
+serves	serve	VBZ	CW	VERB
+a	a	DT	FW
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+motivated	motivated	JJ	CW	ADJ
+experienced	experienced	JJ	CW	ADJ
+and	and	CC	FW
+makes	make	VBZ	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+habit	habit	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+less	less	RBR	ADV	CW
+useless	useless	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+like	like	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+and	and	CC	FW
+out	out	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+behind	behind	RB	ADV	CW
+on	on	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+habit	habit	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+long	long	JJ	CW	ADJ
+run	run	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+older	older	JJR	CW	ADJ
+and	and	CC	FW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+taxes	tax	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+bills	bill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+caught	catch	VBN	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+credit	credit	NN	CW	NOUN	ARGUMENT
+score	score	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+do	do	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+accomplish	accomplish	VB	CW	VERB
+more	more	RBR	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+keep	keep	VBP	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+busy	busy	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+this	this	DT	FW
+essay	essay	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+will	will	MD	FW	aux_or_cop
+argue	argue	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+keeping	keep	VBG	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+busy	busy	JJ	CW	ADJ
+serves	serve	VBZ	CW	VERB
+a	a	DT	FW
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+considered	consider	VBN	CW	VERB
+lazy	lazy	JJ	CW	ADJ
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+considered	consider	VBN	CW	VERB
+lazy	lazy	JJ	CW	ADJ
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+notice	notice	VB	CW	VERB
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+this	this	DT	FW
+habit	habit	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+definitely	definitely	RB	ADV	CW
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+no	no	DT	FW
+employer	employer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+lazy	lazy	JJ	CW	ADJ
+and	and	CC	FW
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+keeping	keep	VBG	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+busy	busy	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+therapeutic	therapeutic	JJ	CW	ADJ
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+to	to	TO	FW
+relive	relive	VB	CW	VERB
+stress	stress	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+useless	useless	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+take	take	VB	CW	VERB
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+new	new	JJ	CW	ADJ
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+experience	experience	VB	CW	VERB
+different	different	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+phenomenal	phenomenal	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+fun	fun	NN	CW	NOUN	ARGUMENT
+keeping	keep	VBG	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+busy	busy	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+great	great	JJ	CW	ADJ
+after	after	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+accomplished	accomplish	VBN	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+busy	busy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,279 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+capital	capital	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+
+sentence break
+
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+great	great	JJ	CW	ADJ
+players	player	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+stadium	stadium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+sesrched	sesrch	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+up	up	RP	FW
+and	and	CC	FW
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+looks	look	VBZ	CW	VERB
+so	so	RB	ADV	CW
+yummy	yummy	JJ	CW	ADJ
+and	and	CC	FW
+tasty	tasty	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+love	love	VB	CW	VERB
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+boat	boat	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+cruise	cruise	NN	CW	NOUN	ARGUMENT
+through	through	IN	FW
+the	the	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+hot	hot	JJ	CW	ADJ
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+over	over	IN	FW
+there	there	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+barcelona	barcelona	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+beautiful	beautiful	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+catalan	catalan	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+spanish	spanish	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+speak	speak	VB	CW	VERB
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+but	but	CC	FW
+with	with	IN	FW
+an	a	DT	FW
+accent	accent	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+barcelona	barcelona	NNP	CW	NOUN	ARGUMENT
+speaks	speak	VBZ	CW	VERB
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+catalan	catalan	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+would	would	MD	CW	VERB
+one	one	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+languages	language	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+spain	spain	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+alot	alot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+great	great	JJ	CW	ADJ
+cities	city	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+whole	whole	JJ	CW	ADJ
+bunch	bunch	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+each	each	DT	FW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+stadium	stadium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+once	once	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+arrive	arrive	VB	CW	VERB
+at	at	IN	FW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+heard	hear	VBD	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+sou	sou	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+spain	spain	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+beautiful	beautiful	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spain	spain	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+big	big	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+clubs	club	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+real	real	JJ	CW	ADJ
+madrid	madrid	NNP	CW	NOUN	ARGUMENT
+barcelona	barcelona	NNP	CW	NOUN	ARGUMENT
+athletico	athletico	NNP	CW	NOUN	ARGUMENT
+madrid	madrid	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+many	many	JJ	CW	ADJ
+more	more	JJR	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+big	big	JJ	CW	ADJ
+stadiums	stadium	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+whole	whole	JJ	CW	ADJ
+over	over	IN	FW
+100,000	100,000	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+even	even	RB	ADV	CW
+have	have	VBP	CW	VERB
+some	some	DT	FW
+nice	nice	JJ	CW	ADJ
+features	feature	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+have	have	VBP	CW	VERB
+restruants	restruant	NNS	CW	NOUN	ARGUMENT
+inside	inside	IN	FW
+the	the	DT	FW
+stadium	stadium	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+bedroom	bedroom	NN	CW	NOUN	ARGUMENT
+inside	inside	IN	FW
+
+sentence break
+
+
+paragraph break
+

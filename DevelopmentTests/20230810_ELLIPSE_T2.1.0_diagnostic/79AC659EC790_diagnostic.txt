@@ -1,0 +1,363 @@
+word	lemma	POS	CW\FW	other categories
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+failing	fail	VBG	CW	VERB
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+with	with	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+recognize	recognize	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+always	always	RB	ADV	CW
+like	like	VBP	CW	VERB
+to	to	TO	FW
+fight	fight	VB	CW	VERB
+with	with	IN	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+an	an	DT	FW
+achieve	achieve	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+negative	negative	JJ	CW	ADJ
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+going	go	VBG	CW	VERB
+and	and	CC	FW
+fight	fight	VB	CW	VERB
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+demonstrate	demonstrate	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WDT	FW
+obstacle	obstacle	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+life	life	NN	CW	NOUN	ARGUMENT
+put	put	VBD	CW	VERB
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+since	since	IN	FW	SUBORDINATOR
+the	the	DT	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+the	the	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+successful	successful	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+come	come	VB	CW	VERB
+over	over	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+something	something	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+come	come	VB	CW	VERB
+as	as	RB	ADV	CW
+fast	fast	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+comfortable	comfortable	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+take	take	VB	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+fear	fear	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+want	want	VBP	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+grab	grab	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+an	an	DT	FW
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+sometimes	sometimes	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+obtain	obtain	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+talent	talent	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+prove	prove	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+clearly	clearly	RB	ADV	CW
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+an	an	DT	FW
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+surely	surely	RB	ADV	CW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+beneficial	beneficial	JJ	CW	ADJ
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+effectively	effectively	RB	ADV	CW
+what	what	WP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+proposes	propose	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+trying	try	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+passions	passion	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+yours	your	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+talent	talent	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+the	the	DT	FW
+direction	direction	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+obviously	obviously	RB	ADV	CW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

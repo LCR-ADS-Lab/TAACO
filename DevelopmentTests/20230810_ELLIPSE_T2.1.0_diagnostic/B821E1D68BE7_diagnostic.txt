@@ -1,0 +1,478 @@
+word	lemma	POS	CW\FW	other categories
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+summer	summer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+season	season	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+very	very	RB	ADV	CW
+hot	hot	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+schools	school	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+whole	whole	JJ	CW	ADJ
+season	season	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+give	give	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+break	break	NN	CW	NOUN	ARGUMENT
+summer	summer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+2	2	CD	FW
+months	month	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+educators	educator	NNS	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+too	too	RB	ADV	CW
+long	long	JJ	CW	ADJ
+and	and	CC	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+year	year	NN	CW	NOUN	ARGUMENT
+round	round	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+which	which	WDT	FW
+mean	mean	VBP	CW	VERB
+schools	school	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+one	one	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+longer	long	JJR	CW	ADJ
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nevertheless	nevertheless	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+year	year	NN	CW	NOUN	ARGUMENT
+round	round	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+summer	summer	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+very	very	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+plan	plan	VB	CW	VERB
+some	some	DT	FW
+trip	trip	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+summer	summer	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+very	very	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+even	even	RB	ADV	CW
+think	think	VB	CW	VERB
+go	go	VB	CW	VERB
+to	to	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+to	to	IN	FW
+96c	96c	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+more	more	JJR	CW	ADJ
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+hot	hot	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+hot	hot	JJ	CW	ADJ
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+swearing	swear	VBG	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VB	CW	VERB
+very	very	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+head	head	NN	CW	NOUN	ARGUMENT
+hurt	hurt	VBN	CW	VERB
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+streets	street	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+increase	increase	VB	CW	VERB
+make	make	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+be	be	VB	FW	aux_or_cop
+angry	angry	JJ	CW	ADJ
+all	all	PDT	FW
+this	this	DT	FW	PRONOUN
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+work	work	VBP	CW	VERB
+in	in	IN	FW
+hot	hot	JJ	CW	ADJ
+areas	area	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+more	more	RBR	ADV	CW
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+a	a	DT	FW
+simple	simple	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+work	work	VBP	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+warm	warm	JJ	CW	ADJ
+area	area	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hot	hot	JJ	CW	ADJ
+areas	area	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+focus	focus	VB	CW	VERB
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+2	2	CD	FW
+months	month	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+make	make	VB	CW	VERB
+some	some	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+trip	trip	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+.some	.some	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+families	family	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+some	some	DT	FW
+big	big	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+plan	plan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+wait	wait	VBP	CW	VERB
+for	for	IN	FW
+this	this	DT	FW	PRONOUN
+time	time	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+vacations	vacation	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+summer	summer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+perfect	perfect	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+beach	beach	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+go	go	VB	CW	VERB
+outside	outside	IN	FW
+the	the	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+other	other	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+miss	miss	VB	CW	VERB
+any	any	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+trip	trip	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+perfect	perfect	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+in	in	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+enough	enough	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+focus	focus	NN	CW	NOUN	ARGUMENT
+making	make	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+so	so	CC	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+make	make	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+summer	summer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+hard	hard	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+some	some	DT	FW
+trip	trip	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+money	money	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+the	the	DT	FW
+government	government	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+cut	cut	VB	CW	VERB
+off	off	RP	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+summer	summer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+relax	relax	VB	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+very	very	RB	ADV	CW
+long	long	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+any	any	DT	FW
+preoccupation	preoccupation	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+summer	summer	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+happen	happen	VB	CW	VERB
+one	one	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+each	each	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+deserve	deserve	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+all	all	DT	FW
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

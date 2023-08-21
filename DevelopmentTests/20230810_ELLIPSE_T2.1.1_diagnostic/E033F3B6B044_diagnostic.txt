@@ -1,0 +1,403 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+depends	depend	VBZ	CW	VERB
+of	of	IN	FW
+each	each	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+each	each	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+after	after	IN	FW
+that	that	DT	FW	PRONOUN
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+each	each	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+reactions	reaction	NNS	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+after	after	IN	FW
+1	1	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+1	1	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+bored	bored	JJ	CW	ADJ
+but	but	CC	FW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+firsts	first	NNS	CW	NOUN	ARGUMENT
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+depends	depend	VBZ	CW	VERB
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+negative	negative	JJ	CW	ADJ
+too	too	RB	ADV	CW
+
+sentence break
+
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+react	react	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+what	what	WP	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+person	person	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+sometimes	sometimes	RB	ADV	CW
+impression	impression	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+many	many	JJ	CW	ADJ
+persons	person	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+change	change	VB	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+through	through	IN	FW
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+a	a	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+and	and	CC	FW
+fun	fun	VB	CW	VERB
+a	a	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+boss	boss	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+impression	impression	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+through	through	IN	FW
+about	about	IN	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+the	the	DT	FW
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+boss	boss	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+important	important	JJ	CW	ADJ
+moment	moment	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+thought	think	VBD	CW	VERB
+about	about	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+depends	depend	VBZ	CW	VERB
+of	of	IN	FW
+each	each	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+depends	depend	VBZ	CW	VERB
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+but	but	CC	FW
+no	no	UH	FW
+always	always	RB	ADV	CW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+many	many	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+chnage	chnage	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+imagine	imagine	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+change	change	VB	CW	VERB
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+impresions	impresion	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+change	change	VB	CW	VERB
+just	just	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+thing	thing	VBP	CW	VERB
+the	the	DT	FW
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+cool	cool	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+that	that	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

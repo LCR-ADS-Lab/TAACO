@@ -1,0 +1,443 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+a	a	DT	FW
+crucial	crucial	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+the	the	DT	FW
+persuit	persuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+sucess	sucess	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+inavoidable	inavoidable	JJ	CW	ADJ
+the	the	DT	FW
+path	path	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+straight	straight	JJ	CW	ADJ
+one	one	CD	FW
+
+sentence break
+
+
+paragraph break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+fails	fail	VBZ	CW	VERB
+sometime	sometime	RB	ADV	CW
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+walt	walt	NNP	CW	NOUN	ARGUMENT
+disney	disney	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+fired	fire	VBN	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+newspaper	newspaper	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+lacked	lack	VBD	CW	VERB
+creativity	creativity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+a	a	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+not	not	RB	ADV	CW
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+put	put	VB	CW	VERB
+an	an	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+lead	lead	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+other	other	JJ	CW	ADJ
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+used	use	VBD	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+draw	draw	VB	CW	VERB
+realistic	realistic	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+pensils	pensil	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+at	at	IN	FW
+zentangle	zentangle	NNP	CW	NOUN	ARGUMENT
+an	an	DT	FW
+art	art	NN	CW	NOUN	ARGUMENT
+style	style	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+repetitive	repetitive	JJ	CW	ADJ
+designs	design	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+patterns	pattern	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+end	end	VBP	CW	VERB
+up	up	RP	FW
+having	have	VBG	CW	VERB
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+originally	originally	RB	ADV	CW
+had	have	VBD	CW	VERB
+in	in	IN	FW
+mind	mind	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+failures	failure	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+into	into	IN	FW
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+entirely	entirely	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+leads	lead	VBZ	CW	VERB
+to	to	IN	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+getting	get	VBG	CW	VERB
+through	through	IN	FW
+difficult	difficult	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+smarter	smart	JJR	CW	ADJ
+and	and	CC	FW
+stronger	strong	JJR	CW	ADJ
+as	as	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+dealing	deal	VBG	CW	VERB
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+failures	failure	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+prepared	prepared	JJ	CW	ADJ
+and	and	CC	FW
+experienced	experience	VBN	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+fututre	fututre	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+strength	strength	NN	CW	NOUN	ARGUMENT
+intelligente	intelligente	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+solving	solve	VBG	CW	VERB
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+gained	gain	VBN	CW	VERB
+from	from	IN	FW
+faiture	faiture	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+faiture	faiture	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+faiture	faiture	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+faiture	faiture	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+a	a	DT	FW
+crucial	crucial	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+the	the	DT	FW
+pursuit	pursuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+were	be	VBD	CW	VERB
+not	not	RB	ADV	CW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+then	then	RB	ADV	CW
+
+sentence break
+
+faiture	faiture	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+unavoidable	unavoidable	JJ	CW	ADJ
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+useful	useful	JJ	CW	ADJ
+tool	tool	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+helps	help	VBZ	CW	VERB
+shape	shape	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+faiture	faiture	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+who	who	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+and	and	CC	FW
+what	what	WDT	FW
+path	path	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+on	on	RB	ADV	CW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+an	an	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+persuit	persuit	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+mistake	mistake	NNP	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+makes	make	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+smarter	smart	JJR	CW	ADJ
+and	and	CC	FW
+working	work	VBG	CW	VERB
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+makes	make	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+stronger	strong	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+without	without	IN	FW
+faiture	faiture	NN	CW	NOUN	ARGUMENT
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+sucessful	sucessful	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+vocabulary	vocabulary	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+-blunder	-blunder	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+-unavoidable	-unavoidable	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+-principal	-principal	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+prime	prime	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+-induce	-induce	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

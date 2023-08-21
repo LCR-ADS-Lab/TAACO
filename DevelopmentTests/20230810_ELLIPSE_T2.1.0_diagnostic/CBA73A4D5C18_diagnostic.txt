@@ -1,0 +1,693 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+create	create	VBP	CW	VERB
+a	a	DT	FW
+unique	unique	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+style	style	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+say	say	VBP	CW	VERB
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+a	a	DT	FW
+specific	specific	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+definitely	definitely	RB	ADV	CW
+argue	argue	VBP	CW	VERB
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+style	style	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+works	work	NNS	CW	NOUN	ARGUMENT
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+to	to	TO	FW
+change	change	VB	CW	VERB
+freely	freely	RB	ADV	CW
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+style	style	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+works	work	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dear	dear	JJ	CW	ADJ
+sister	sister	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+yesterday	yesterday	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+a	a	DT	FW
+phone	phone	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+with	with	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+answered	answer	VBD	CW	VERB
+the	the	DT	FW
+phone	phone	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+would	would	MD	FW	aux_or_cop
+come	come	VB	CW	VERB
+at	at	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+college	college	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+one	one	CD	FW
+at	at	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+got	got	VB	CW	VERB
+a	a	DT	FW
+higher	high	JJR	CW	ADJ
+score	score	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+creativity	creativity	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+unique	unique	JJ	CW	ADJ
+steps	step	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+following	follow	VBG	CW	VERB
+the	the	DT	FW
+steps	step	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+teaching	teach	VBG	CW	VERB
+daily	daily	RB	ADV	CW
+at	at	IN	FW
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+the	the	DT	FW
+fear	fear	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+or	or	CC	FW
+bad	bad	JJ	CW	ADJ
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+exploring	explore	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+making	make	VBG	CW	VERB
+great	great	JJ	CW	ADJ
+works	work	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+.this	.this	NNP	CW	NOUN	ARGUMENT
+explain	explain	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+being	be	VBG	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+one	one	CD	FW
+to	to	TO	FW
+did	do	VBD	CW	VERB
+the	the	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+the	the	DT	FW
+most	most	RBS	ADV	CW
+higher	high	JJR	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+every	every	DT	FW
+night	night	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+brush	brush	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+hair	hair	NN	CW	NOUN	ARGUMENT
+correctly	correctly	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+the	the	DT	FW
+hair	hair	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+a	a	DT	FW
+proper	proper	JJ	CW	ADJ
+care	care	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+brushing	brush	VBG	CW	VERB
+the	the	DT	FW
+hair	hair	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+at	at	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+brush	brush	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+slowly	slowly	RB	ADV	CW
+than	than	IN	FW	SUBORDINATOR
+mine	mine	PRP	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+brush	brush	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+hair	hair	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+every	every	DT	FW
+night	night	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+mad	mad	JJ	CW	ADJ
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+never	never	RB	ADV	CW
+use	use	VB	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+style	style	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+brush	brush	VB	CW	VERB
+the	the	DT	FW
+hair	hair	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+said	say	VBD	CW	VERB
+to	to	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+brush	brush	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+hair	hair	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+tell	tell	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+change	change	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+brushing	brush	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+beautiful	beautiful	JJ	CW	ADJ
+hair	hair	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+explain	explain	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+mad	mad	JJ	CW	ADJ
+for	for	IN	FW
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+opposite	opposite	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+style	style	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+to	to	TO	FW
+change	change	VB	CW	VERB
+at	at	IN	FW
+doing	do	VBG	CW	VERB
+any	any	DT	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+third	third	RB	ADV	CW
+freely	freely	RB	ADV	CW
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+"	"	``	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+"	"	``	FW
+project	project	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+making	make	VBG	CW	VERB
+a	a	DT	FW
+novel	novel	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+in	in	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+let	let	VBD	CW	VERB
+to	to	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+participate	participate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+that	that	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+winner	winner	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+being	be	VBG	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+iconic	iconic	JJ	CW	ADJ
+novel	novel	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+existed	exist	VBN	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+starting	start	VBG	CW	VERB
+to	to	IN	FW
+writing	write	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+each	each	DT	FW
+content	content	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+novel	novel	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+need	need	VB	CW	VERB
+a	a	DT	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+novel	novel	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+style	style	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+write	write	VB	CW	VERB
+down	down	RP	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+novel	novel	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+entertainment	entertainment	NN	CW	NOUN	ARGUMENT
+novel	novel	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+thinks	think	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+at	at	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+novels	novel	NNS	CW	NOUN	ARGUMENT
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+novel	novel	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+creativity	creativity	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+passion	passion	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+novel	novel	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+read	read	JJ	CW	ADJ
+novel	novel	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+explain	explain	VBP	CW	VERB
+free	free	JJ	CW	ADJ
+thinking	think	VBG	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+discovering	discover	VBG	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+special	special	JJ	CW	ADJ
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+style	style	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+works	work	NNS	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+than	than	IN	FW
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+free	free	JJ	CW	ADJ
+to	to	IN	FW
+choosing	choose	VBG	CW	VERB
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+s	s	VBZ	CW	VERB
+a	a	DT	FW
+perfect	perfect	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+express	express	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+real	real	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+says	say	VBZ	CW	VERB
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+selfish	selfish	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+ours	ours	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+a	a	DT	FW
+sense	sense	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+future	future	JJ	CW	ADJ
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+secret	secret	JJ	CW	ADJ
+tool	tool	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+different	different	JJ	CW	ADJ
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

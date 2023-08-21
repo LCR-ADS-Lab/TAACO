@@ -1,0 +1,982 @@
+word	lemma	POS	CW\FW	other categories
+there	there	EX	FW
+are	be	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+every	every	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+retract	retract	NN	CW	NOUN	ARGUMENT
+based	base	VBN	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+or	or	CC	FW
+on	on	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+result	result	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+acts	act	NNS	CW	NOUN	ARGUMENT
+giving	give	VBG	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+an	an	DT	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+hurt	hurt	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+feeling	feel	VBG	CW	VERB
+based	base	VBN	CW	VERB
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+think	think	VB	CW	VERB
+what	what	WP	FW
+adequate	adequate	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+
+sentence break
+
+and	and	CC	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+too	too	RB	ADV	CW
+late	late	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+hurt	hurt	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+cause	cause	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+change	change	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+hurt	hurt	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+yesterday	yesterday	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+wedding	wedding	NN	CW	NOUN	ARGUMENT
+yesterday	yesterday	NN	CW	NOUN	ARGUMENT
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+wedding	wedding	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+next	next	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+april	april	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+preparing	prepare	VBG	CW	VERB
+for	for	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+look	look	VB	CW	VERB
+for	for	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+dress	dress	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	PDT	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+for	for	IN	FW
+that	that	DT	FW	PRONOUN
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+mother	mother	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+she	she	PRP	FW	PRONOUN	ARGUMENT
+looks	look	VBZ	CW	VERB
+beautiful	beautiful	JJ	CW	ADJ
+on	on	IN	FW
+that	that	DT	FW	PRONOUN
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+while	while	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+and	and	CC	FW
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+dresses	dress	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+a	a	DT	FW
+wedding	wedding	NN	CW	NOUN	ARGUMENT
+dress	dress	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+like	like	IN	FW
+no	no	UH	FW
+that	that	DT	FW	PRONOUN
+dress	dress	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+ugly	ugly	JJ	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+look	look	VB	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+real	real	JJ	CW	ADJ
+skull	skull	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+dress	dress	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+skinny	skinny	JJ	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+thought	think	VBD	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+hurt	hurt	VB	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+dress	dress	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+ugly	ugly	JJ	CW	ADJ
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+liked	like	VBD	CW	VERB
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+her	she	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+pretties	prettie	NNS	CW	NOUN	ARGUMENT
+dress	dress	VBP	CW	VERB
+for	for	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+wedding	wedding	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+felt	feel	VBD	CW	VERB
+badly	badly	RB	ADV	CW
+for	for	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+think	think	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+words	word	NNS	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+to	to	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+sorry	sorry	JJ	CW	ADJ
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+little	little	RB	ADV	CW
+upset	upset	JJ	CW	ADJ
+about	about	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+to	to	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+say	say	VBP	CW	VERB
+what	what	WP	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+receive	receive	VBP	CW	VERB
+
+sentence break
+
+lately	lately	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+sad	sad	JJ	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+to	to	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+apologized	apologize	VBD	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+okay	okay	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+meant	mean	VBN	CW	VERB
+to	to	TO	FW
+said	said	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+now	now	RB	ADV	CW
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+following	following	JJ	CW	ADJ
+manner	manner	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+invited	invite	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+birthday	birthday	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+looking	look	VBG	CW	VERB
+ugly	ugly	JJ	CW	ADJ
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+ugly	ugly	JJ	CW	ADJ
+and	and	CC	FW
+slow	slow	JJ	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+hurt	hurt	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+retract	retract	VBP	CW	VERB
+based	base	VBN	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+too	too	RB	ADV	CW
+late	late	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+left	leave	VBD	CW	VERB
+from	from	IN	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+home	home	RB	ADV	CW
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+sad	sad	JJ	CW	ADJ
+the	the	DT	FW
+girl	girl	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+apologized	apologize	VBD	CW	VERB
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+hurt	hurt	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+fine	fine	JJ	CW	ADJ
+and	and	CC	FW
+gave	give	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+some	some	DT	FW
+advises	advise	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+left	leave	VBD	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+hurt	hurt	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+additionally	additionally	RB	ADV	CW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+change	change	VBP	CW	VERB
+as	as	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+an	an	DT	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+boyfriend	boyfriend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+love	love	VB	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+kissing	kiss	VBG	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+girl	girl	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+crazy	crazy	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+just	just	RB	ADV	CW
+jealous	jealous	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+the	the	DT	FW
+most	most	RBS	ADV	CW
+handsome	handsome	JJ	CW	ADJ
+boyfriend	boyfriend	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+matter	matter	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+cute	cute	JJ	CW	ADJ
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+just	just	RB	ADV	CW
+play	play	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+girls	girl	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+no	no	RB	ADV	CW
+more	more	RBR	ADV	CW
+
+sentence break
+
+about	about	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+lately	lately	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+realized	realize	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+twin	twin	JJ	CW	ADJ
+brother	brother	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+a	a	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+fatal	fatal	JJ	CW	ADJ
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	RB	ADV	FW
+all	all	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+apologize	apologize	VB	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+mad	mad	JJ	CW	ADJ
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+with	with	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+realize	realize	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+boyfriend	boyfriend	NN	CW	NOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+change	change	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friendship	friendship	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+today	today	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+talk	talk	VBP	CW	VERB
+rarely	rarely	RB	ADV	CW
+with	with	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+but	but	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friendship	friendship	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+changed	change	VBN	CW	VERB
+
+sentence break
+
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+cause	cause	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+change	change	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+immediately	immediately	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+deal	deal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+care	care	VB	CW	VERB
+about	about	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+case	case	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+get	get	VBP	FW	aux_or_cop
+hurt	hurt	VBN	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+receive	receive	VBP	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+change	change	VB	CW	VERB
+even	even	RB	ADV	CW
+with	with	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+big	big	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+thus	thus	RB	ADV	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+what	what	WP	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+retract	retract	VB	CW	VERB
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+correct	correct	VB	CW	VERB
+the	the	DT	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+correct	correct	VB	CW	VERB
+the	the	DT	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+meant	mean	VBN	CW	VERB
+say	say	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+thinking	think	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+apologized	apologize	VBD	CW	VERB
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+fine	fine	JJ	CW	ADJ
+but	but	CC	FW
+sometime	sometime	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+correct	correct	VB	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+hurt	hurt	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+feeling	feel	VBG	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+sensitive	sensitive	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+forgive	forgive	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+based	base	VBN	CW	VERB
+on	on	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+idea	idea	NN	CW	NOUN	ARGUMENT
+feeling	feel	VBG	CW	VERB
+and	and	CC	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

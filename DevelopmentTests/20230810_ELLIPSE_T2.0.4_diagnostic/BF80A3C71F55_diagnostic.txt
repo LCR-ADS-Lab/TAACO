@@ -1,0 +1,405 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+seacon	seacon	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+what	what	WP	FW
+are	be	VBP	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	FW	aux_or_cop
+throw	throw	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+mean	mean	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+even	even	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+cry	cry	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+feeling	feel	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+what	what	WDT	FW
+happend	happend	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+throw	throw	VB	CW	VERB
+some	some	DT	FW
+bad	bad	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+next	next	JJ	CW	ADJ
+to	to	TO	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+tell	tell	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+on	on	RP	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wan	wan	VBP	CW	VERB
+na	na	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+loyol	loyol	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+becaues	becaue	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wan	wan	VBP	CW	VERB
+na	na	TO	FW
+make	make	VB	CW	VERB
+there	there	EX	FW
+lifes	life	NNS	CW	NOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+not	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+somewhere	somewhere	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wan	wan	VBP	CW	VERB
+na	na	TO	FW
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+someone	someone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+be	be	VB	CW	VERB
+here	here	RB	ADV	CW
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+brother	brother	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+come	come	VB	CW	VERB
+over	over	RB	ADV	CW
+and	and	CC	FW
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+on	on	RP	FW
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wan	wan	VBP	CW	VERB
+na	na	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+loryol	loryol	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+becaues	becaue	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wan	wan	VBP	CW	VERB
+na	na	TO	FW
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+like	like	IN	FW
+seen	see	VBN	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+sad	sad	JJ	CW	ADJ
+or	or	CC	FW
+see	see	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+mad	mad	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wan	wan	VBP	CW	VERB
+na	na	TO	FW
+make	make	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+talk	talk	VB	CW	VERB
+about	about	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+like	like	IN	FW
+or	or	CC	FW
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+and	and	CC	FW
+also	also	RB	ADV	CW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+dress	dress	VBP	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+girl	girl	NN	CW	NOUN	ARGUMENT
+bestfriend	bestfriend	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+talk	talk	VB	CW	VERB
+about	about	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+look	look	VB	CW	VERB
+like	like	IN	FW
+or	or	CC	FW
+where	where	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+came	come	VBD	CW	VERB
+from	from	IN	FW
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+some	some	DT	FW
+bad	bad	JJ	CW	ADJ
+just	just	RB	ADV	CW
+becaues	becaue	NNS	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+about	about	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+bad	bad	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wan	wan	VBP	CW	VERB
+na	na	TO	FW
+let	let	VB	CW	VERB
+eveyone	eveyone	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+just	just	RB	ADV	CW
+becaues	becaue	NNS	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+some	some	DT	FW
+bad	bad	JJ	CW	ADJ
+about	about	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+mean	mean	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+those	those	DT	FW
+bad	bad	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+try	try	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+kill	kill	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+cut	cut	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+mad	mad	JJ	CW	ADJ
+becaues	becaue	NNS	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+cute	cute	JJ	CW	ADJ
+and	and	CC	FW
+pertty	pertty	JJ	CW	ADJ
+and	and	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+not	not	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+local	local	JJ	CW	ADJ
+companies	company	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+organization	organization	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+at	at	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+like	like	IN	FW
+working	work	VBG	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+loryol	loryol	NN	CW	NOUN	ARGUMENT
+becaues	becaue	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wan	wan	VBP	CW	VERB
+na	na	TO	FW
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+throw	throw	VB	CW	VERB
+and	and	CC	FW
+also	also	RB	ADV	CW
+make	make	VBP	CW	VERB
+there	there	EX	FW
+life	life	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+better	better	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+

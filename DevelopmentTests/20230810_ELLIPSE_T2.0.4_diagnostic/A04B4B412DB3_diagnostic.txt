@@ -1,0 +1,524 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+add	add	VB	CW	VERB
+one	one	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+each	each	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+three	three	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+should	should	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+are	be	VBP	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+much	much	JJ	CW	ADJ
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+add	add	VB	CW	VERB
+one	one	CD	FW
+more	more	JJR	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+elective	elective	JJ	CW	ADJ
+and	and	CC	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+make	make	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+happen	happen	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+add	add	VB	CW	VERB
+an	a	DT	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+much	much	JJ	CW	ADJ
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+responsibilities	responsibility	NNS	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+home	home	RB	ADV	CW
+from	from	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+have	have	VBP	CW	VERB
+responsibilities	responsibility	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+siblings	sibling	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+back	back	RB	ADV	CW
+from	from	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+a	a	DT	FW
+huge	huge	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+sports	sport	NNS	CW	NOUN	ARGUMENT
+either	either	CC	FW
+inside	inside	IN	FW
+or	or	CC	FW
+outside	outside	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+both	both	DT	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+add	add	VB	CW	VERB
+an	a	DT	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+each	each	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+three	three	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+add	add	VB	CW	VERB
+an	a	DT	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+much	much	JJ	CW	ADJ
+homework	homework	NN	CW	NOUN	ARGUMENT
+schools	school	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+add	add	VB	CW	VERB
+another	another	DT	FW
+elective	elective	JJ	CW	ADJ
+to	to	TO	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+teaching	teaching	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+add	add	VB	CW	VERB
+an	a	DT	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+half	half	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+each	each	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+schools	school	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+add	add	VB	CW	VERB
+one	one	CD	FW
+more	more	JJR	CW	ADJ
+elective	elective	JJ	CW	ADJ
+
+sentence break
+
+studies	study	NNS	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+become	become	VB	CW	VERB
+disinterested	disinterested	JJ	CW	ADJ
+in	in	IN	FW
+an	a	DT	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+within	within	IN	FW
+an	a	DT	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+schools	school	NNS	CW	NOUN	ARGUMENT
+added	add	VBD	CW	VERB
+one	one	CD	FW
+more	more	JJR	CW	ADJ
+elective	elective	JJ	CW	ADJ
+to	to	TO	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+on	on	IN	FW
+board	board	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+naturally	naturally	RB	ADV	CW
+like	like	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+the	the	DT	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+happen	happen	VB	CW	VERB
+
+sentence break
+
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+the	the	DT	FW
+elective	elective	JJ	CW	ADJ
+this	this	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+study	study	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+struggling	struggle	VBG	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+an	a	DT	FW
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+just	just	RB	ADV	CW
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+an	a	DT	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+added	add	VBN	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+more	more	JJR	CW	ADJ
+teaching	teaching	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+teachers	teachers	NNPS	CW	NOUN	ARGUMENT
+tend	tend	VBP	CW	VERB
+not	not	RB	ADV	CW
+to	to	TO	FW
+explain	explain	VB	CW	VERB
+some	some	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+run	run	VBP	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+ask	ask	VB	CW	VERB
+questions	question	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+usually	usually	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+run	run	VBP	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+the	the	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+explaining	explain	VBG	CW	VERB
+to	to	TO	FW
+another	another	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+n't	not	RB	ADV	CW
+quiet	quiet	JJ	CW	ADJ
+get	get	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+either	either	RB	ADV	CW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+made	make	VBD	CW	VERB
+an	a	DT	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+as	as	RB	ADV	CW
+fast	fast	RB	ADV	CW
+as	as	IN	FW
+possible	possible	JJ	CW	ADJ
+so	so	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+run	run	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

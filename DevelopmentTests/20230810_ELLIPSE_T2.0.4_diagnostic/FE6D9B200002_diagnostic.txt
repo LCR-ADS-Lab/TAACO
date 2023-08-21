@@ -1,0 +1,335 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+school	school	VB	CW	VERB
+all	all	DT	FW
+gloomy	gloomy	JJ	CW	ADJ
+or	or	CC	FW
+tared	tared	JJ	CW	ADJ
+because	because	IN	FW
+
+sentence break
+
+gloomy	gloomy	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+go	go	VB	CW	VERB
+out	out	RP	FW
+side	side	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+change	change	VB	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+considerate	considerate	VB	CW	VERB
+on	on	IN	FW
+there	there	EX	FW
+study	study	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+pr	pr	NN	CW	NOUN	ARGUMENT
+antes	ante	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+upset	upset	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+changed	change	VBD	CW	VERB
+
+sentence break
+
+tared	tare	VBN	CW	VERB
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+considerate	considerate	VB	CW	VERB
+on	on	IN	FW
+studies	study	NNS	CW	NOUN	ARGUMENT
+pr	pr	VBP	CW	VERB
+antes	ante	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+upset	upset	JJ	CW	ADJ
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+ends	end	VBZ	CW	VERB
+at	at	IN	FW
+4	4	CD	FW
+o'clock	o'clock	RB	ADV	FW
+and	and	CC	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+and	and	CC	FW
+home	home	NN	CW	NOUN	ARGUMENT
+4:30	4:30	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+to	to	TO	FW
+change	change	VB	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+ends	end	VBZ	CW	VERB
+at	at	IN	FW
+4	4	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+one	one	CD	FW
+and	and	CC	FW
+half	half	DT	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+arrive	arrive	VB	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+6	6	CD	FW
+o'clock	o'clock	RB	ADV	FW
+
+sentence break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+for	for	IN	FW
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+there	there	EX	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+2	2	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+mae	mae	NNP	CW	NOUN	ARGUMENT
+by	by	IN	FW	SUBORDINATOR
+there	there	EX	FW
+grades	grade	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+want	want	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+low	low	JJ	CW	ADJ
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+extra	extra	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+30	30	CD	FW
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+total	total	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+for	for	IN	FW
+studying	study	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+2	2	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+30	30	CD	FW
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+8:30	8:30	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+out	out	RP	FW
+side	side	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	CW	VERB
+n't	not	RB	ADV	CW
+
+sentence break
+
+know	know	NNP	CW	NOUN	ARGUMENT
+whey	whey	VBD	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+dose	dose	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+allow	allow	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+out	out	RP	FW
+side	side	JJ	CW	ADJ
+intel	intel	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+there	there	EX	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+chang	chang	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+him	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+out	out	RP	FW
+side	side	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+change	change	VB	CW	VERB
+the	the	DT	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+all	all	DT	FW
+batter	batter	VB	CW	VERB
+full	full	JJ	CW	ADJ
+consideration	consideration	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+no	no	DT	FW
+glommynis	glommyni	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+out	out	RP	FW
+side	side	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW	SUBORDINATOR
+there	there	EX	FW
+frindes	frinde	VBZ	CW	VERB
+no	no	DT	FW
+complantes	complante	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+student	student	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+sleep	sleep	VB	CW	VERB
+
+sentence break
+
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+change	change	VB	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

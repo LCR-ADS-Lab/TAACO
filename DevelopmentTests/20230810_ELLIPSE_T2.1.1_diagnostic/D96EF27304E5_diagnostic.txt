@@ -1,0 +1,499 @@
+word	lemma	POS	CW\FW	other categories
+should	should	MD	FW	aux_or_cop
+schools	school	NNS	CW	NOUN	ARGUMENT
+control	control	VB	CW	VERB
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+take	take	VBP	CW	VERB
+
+sentence break
+
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+extent	extent	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+when	when	WRB	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+control	control	VB	CW	VERB
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+out	out	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+in	in	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+deciding	decide	VBG	CW	VERB
+factor	factor	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+whether	whether	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	is	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+some	some	DT	FW
+or	or	CC	FW
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+attendance	attendance	NN	CW	NOUN	ARGUMENT
+towards	towards	IN	FW
+the	the	DT	FW
+meetings	meeting	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+then	then	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+decides	decide	VBZ	CW	VERB
+what	what	WP	FW
+happens	happen	VBZ	CW	VERB
+towards	towards	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+of	of	IN	FW
+all	all	DT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+extent	extent	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+enroll	enroll	VB	CW	VERB
+for	for	IN	FW
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+up	up	RB	ADV	CW
+to	to	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+major	major	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+inn	inn	NN	CW	NOUN	ARGUMENT
+deciding	decide	VBG	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+the	the	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+no	no	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+study	study	VB	CW	VERB
+for	for	IN	FW
+upcoming	upcoming	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+issue	issue	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hear	hear	VB	CW	VERB
+what	what	WP	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+decides	decide	VBZ	CW	VERB
+on	on	IN	FW
+letting	let	VBG	CW	VERB
+the	the	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+continue	continue	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+upon	upon	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+chose	choose	VBD	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+must	must	MD	FW	aux_or_cop
+notify	notify	VB	CW	VERB
+the	the	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+counselor	counselor	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+notify	notify	VB	CW	VERB
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+however	however	RB	ADV	FW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+starts	start	VBZ	CW	VERB
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+dropping	drop	VBG	CW	VERB
+the	the	DT	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+counselor	counselor	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+why	why	WRB	FW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+to	to	IN	FW
+many	many	JJ	CW	ADJ
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+talk	talk	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+which	which	WDT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+drop	drop	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+until	until	IN	FW	SUBORDINATOR
+the	the	DT	FW
+grades	grade	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+up	up	RB	ADV	CW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+should	should	MD	FW	aux_or_cop
+encourage	encourage	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+maintain	maintain	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+attendance	attendance	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+meetings	meeting	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+are	be	VBP	FW	aux_or_cop
+inconstant	inconstant	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+miss	miss	VB	CW	VERB
+up	up	IN	FW
+to	to	TO	FW
+five	five	CD	FW
+meetings	meeting	NNS	CW	NOUN	ARGUMENT
+per	per	IN	FW
+month	month	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+out	out	RP	FW
+any	any	DT	FW
+consequences	consequence	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+making	make	VBG	CW	VERB
+the	the	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+leave	leave	VB	CW	VERB
+the	the	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+notifying	notify	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+then	then	RB	ADV	CW
+should	should	MD	FW	aux_or_cop
+the	the	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+kicked	kick	VBN	CW	VERB
+out	out	RP	FW
+
+sentence break
+
+without	without	IN	FW
+furthermore	furthermore	RB	ADV	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+suspended	suspend	VBN	CW	VERB
+from	from	IN	FW
+coming	come	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+meetings	meeting	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+very	very	RB	ADV	CW
+little	little	JJ	CW	ADJ
+say	say	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+apart	apart	RB	ADV	FW
+of	of	IN	FW
+a	a	DT	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+or	or	CC	FW
+less	less	JJR	CW	ADJ
+said	say	VBD	CW	VERB
+the	the	DT	FW
+families	family	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+most	most	RBS	ADV	CW
+say	say	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+deciding	decide	VBG	CW	VERB
+factor	factor	NN	CW	NOUN	ARGUMENT
+unless	unless	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+dropping	drop	VBG	CW	VERB
+or	or	CC	FW
+starts	start	VBZ	CW	VERB
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+some	some	DT	FW
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+attendance	attendance	NN	CW	NOUN	ARGUMENT
+towards	towards	IN	FW
+meetings	meeting	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+or	or	CC	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+go	go	VB	CW	VERB
+to	to	IN	FW
+any	any	DT	FW
+meetings	meeting	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

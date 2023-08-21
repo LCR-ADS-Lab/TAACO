@@ -1,0 +1,313 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+change	change	VB	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+healthier	healthier	RBR	ADV	CW
+
+sentence break
+
+in	in	IN	FW
+this	this	DT	FW
+essays	essay	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+argue	argue	VB	CW	VERB
+how	how	WRB	FW
+a	a	DT	FW
+healthier	healthier	JJR	CW	ADJ
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+improve	improve	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+diet	diet	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+secure	secure	JJ	CW	ADJ
+of	of	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+eats	eat	VBZ	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+tend	tend	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+active	active	JJ	CW	ADJ
+and	and	CC	FW
+optimistic	optimistic	JJ	CW	ADJ
+like	like	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ever	ever	RB	ADV	CW
+since	since	IN	FW
+sher	sher	NN	CW	NOUN	ARGUMENT
+started	start	VBD	CW	VERB
+eating	eat	VBG	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+seen	see	VBN	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+ther	ther	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+has	have	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+moreover	moreover	RB	ADV	FW
+when	when	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+started	start	VBD	CW	VERB
+eating	eat	VBG	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+stopted	stopt	VBD	CW	VERB
+expending	expend	VBG	CW	VERB
+in	in	IN	FW
+junk	junk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eating	eating	NNP	CW	NOUN	ARGUMENT
+healthy	healthy	JJ	CW	ADJ
+helped	help	VBD	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+reduce	reduce	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+expenses	expense	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	PDT	FW
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+used	use	VBD	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+on	on	IN	FW
+junk	junk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+an	a	DT	FW
+index	index	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+used	use	VBN	CW	VERB
+once	once	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+finish	finish	VBP	CW	VERB
+highschool	highschool	RB	ADV	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+wiil	wiil	VBD	FW	aux_or_cop
+be	be	VB	CW	VERB
+used	use	VBN	CW	VERB
+to	to	TO	FW
+start	start	VB	CW	VERB
+a	a	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+eats	eat	VBZ	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+not	not	RB	ADV	CW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+diet	diet	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+uncle	uncle	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+one	one	CD	FW
+that	that	WDT	FW	PRONOUN
+started	start	VBD	CW	VERB
+eating	eat	VBG	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+shown	show	VBN	CW	VERB
+any	any	DT	FW
+results	result	VBZ	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+diet	diet	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+eats	eat	VBZ	CW	VERB
+junk	junk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+make	make	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+fat	fat	JJ	CW	ADJ
+and	and	CC	FW
+lazy	lazy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+eating	eat	VBG	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+anything	anything	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+because	because	IN	FW
+healthy	healthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+nutrient	nutrient	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+junk	junk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+healthy	healthy	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+very	very	RB	ADV	CW
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+change	change	VB	CW	VERB
+the	the	DT	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+healthy	healthy	JJ	CW	ADJ
+and	and	CC	FW
+active	active	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

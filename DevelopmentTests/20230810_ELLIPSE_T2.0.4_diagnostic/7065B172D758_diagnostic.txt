@@ -1,0 +1,637 @@
+word	lemma	POS	CW\FW	other categories
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+try	try	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+back	back	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+hole	hole	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+come	come	VB	CW	VERB
+back	back	RB	ADV	CW
+in	in	IN	FW
+to	to	TO	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+deal	deal	VB	CW	VERB
+with	with	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+first	first	NNP	CW	NOUN	ARGUMENT
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+about	about	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+younger	younger	JJR	CW	ADJ
+brother	brother	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+try	try	VB	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+got	get	VBD	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+made	make	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+retake	retake	VB	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+commit	commit	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+twice	twice	RB	ADV	CW
+
+sentence break
+
+finally	finally	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	IN	FW
+learning	learn	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+
+sentence break
+
+first	first	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+on	on	IN	FW
+
+sentence break
+
+one	one	CD	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+about	about	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+on	on	IN	FW
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+got	get	VBD	FW	aux_or_cop
+a	a	DT	FW
+82	82	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+in	in	IN	FW
+that	that	DT	FW
+subject	subject	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+when	when	WRB	FW
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+brother	brother	NN	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+race	race	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+lost	lose	VBD	CW	VERB
+which	which	WDT	FW
+made	make	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+train	train	VB	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+harder	harder	RBR	ADV	CW
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+speed	speed	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+overall	overall	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+improve	improve	VB	CW	VERB
+from	from	IN	FW
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+to	to	TO	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+this	this	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+american	american	JJ	CW	ADJ
+jazz	jazz	NN	CW	NOUN	ARGUMENT
+legend	legend	NN	CW	NOUN	ARGUMENT
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+``	``	``	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+''	''	''	FW
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+regretting	regret	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	IN	FW
+learning	learn	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+
+sentence break
+
+lastly	lastly	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+put	put	VB	CW	VERB
+any	any	DT	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+try	try	VB	CW	VERB
+to	to	TO	FW
+resolve	resolve	VB	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+back	back	RB	ADV	CW
+in	in	IN	FW
+that	that	DT	FW
+hole	hole	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+regretting	regret	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+amount	amount	NN	CW	NOUN	ARGUMENT
+effort	effort	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBP	CW	VERB
+in	in	IN	FW
+to	to	TO	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+one	one	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+about	about	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+professional	professional	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+try	try	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+on	on	IN	FW
+the	the	DT	FW
+tryout	tryout	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+made	make	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+the	the	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lastly	lastly	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+regret	regret	VB	CW	VERB
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+on	on	IN	FW
+to	to	TO	FW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+solve	solve	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+chance	chance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+show	show	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

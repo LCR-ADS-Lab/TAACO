@@ -1,0 +1,373 @@
+word	lemma	POS	CW\FW	other categories
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+story	story	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+living	live	VBG	CW	VERB
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+buy	buy	VB	CW	VERB
+somthing	somthing	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+from	from	IN	FW
+the	the	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+and	and	CC	FW
+after	after	IN	FW
+buying	buy	VBG	CW	VERB
+every	every	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+walking	walk	VBG	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+two	two	CD	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+stole	steal	VBD	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+walked	walk	VBD	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+shared	share	VBD	CW	VERB
+wisdom	wisdom	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+share	share	VB	CW	VERB
+wisdom	wisdom	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+share	share	VB	CW	VERB
+wisdom	wisdom	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+orther	orther	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+
+sentence break
+
+
+paragraph break
+
+then	then	RB	ADV	CW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+chased	chase	VBD	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+outside	outside	IN	FW
+
+sentence break
+
+then	then	RB	ADV	CW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+called	call	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+are	be	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+coming	come	VBG	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+back	back	RB	ADV	CW
+inside	inside	RB	ADV	CW
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+running	run	VBG	CW	VERB
+back	back	RB	ADV	CW
+inside	inside	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+looked	look	VBD	CW	VERB
+behind	behind	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+7	7	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+inside	inside	IN	FW	SUBORDINATOR
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+left	leave	VBD	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+picked	pick	VBN	CW	VERB
+up	up	RP	FW
+by	by	IN	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+mom	mom	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+mad	mad	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+told	tell	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parent	parent	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+what	what	WDT	FW
+happend	happend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+ever	ever	RB	ADV	CW
+happens	happen	VBZ	CW	VERB
+again	again	RB	ADV	CW
+
+sentence break
+
+to	to	TO	FW
+chase	chase	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+yell	yell	VB	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+stole	steal	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+so	so	RB	ADV	CW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+mall	mall	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+bought	buy	VBD	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	CW	VERB
+looken	looken	VBN	CW	VERB
+around	around	IN	FW
+to	to	TO	FW
+see	see	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+liked	like	VBD	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+sat	sit	VBD	CW	VERB
+down	down	RB	ADV	CW
+and	and	CC	FW
+two	two	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+walked	walk	VBD	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+one	one	CD	FW
+of	of	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+no	no	DT	FW
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+sure	sure	JJ	CW	ADJ
+and	and	CC	FW
+as	as	RB	ADV	CW
+soon	soon	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+phone	phone	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+ran	run	VBD	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+has	have	VBZ	CW	VERB
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+shared	share	VBN	CW	VERB
+wisdom	wisdom	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+vary	vary	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+'s	's	POS	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+story	story	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+shared	share	VBD	CW	VERB
+wisdom	wisdom	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousion	cousion	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+freind	freind	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+mall	mall	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,396 @@
+word	lemma	POS	CW\FW	other categories
+philosopher	philosopher	NNP	CW	NOUN	ARGUMENT
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+"	"	``	FW
+example	example	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+influencing	influence	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+meaning	mean	VBG	CW	VERB
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+say	say	VBP	CW	VERB
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+one	one	CD	FW
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+better	well	JJR	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+other	other	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+show	show	VB	CW	VERB
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+in	in	IN	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+accomplished	accomplish	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+major	major	JJ	CW	ADJ
+aspect	aspect	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+those	those	DT	FW	PRONOUN
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+or	or	CC	FW
+accomplish	accomplish	VB	CW	VERB
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+lose	lose	VB	CW	VERB
+weight	weight	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+better	well	JJR	CW	ADJ
+shape	shape	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+or	or	CC	FW
+a	a	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+feeling	feel	VBG	CW	VERB
+motivated	motivated	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+even	even	RB	ADV	CW
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+saying	say	VBG	CW	VERB
+"	"	``	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+tough	tough	JJ	CW	ADJ
+at	at	IN	FW
+the	the	DT	FW
+start	start	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+once	once	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+ask	ask	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+why	why	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+"	"	''	FW
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+moving	move	VBG	CW	VERB
+and	and	CC	FW
+determined	determine	VBD	CW	VERB
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+the	the	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+aimed	aim	VBN	CW	VERB
+for	for	IN	FW
+
+sentence break
+
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+motivation	motivation	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+huge	huge	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+influencing	influence	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+major	major	JJ	CW	ADJ
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+moving	move	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+influenced	influenced	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+write	write	VB	CW	VERB
+a	a	DT	FW
+song	song	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+just	just	RB	ADV	CW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+seem	seem	VB	CW	VERB
+to	to	TO	FW
+figure	figure	VB	CW	VERB
+out	out	RP	FW
+what	what	WP	FW
+or	or	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+write	write	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+stress	stress	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+anger	anger	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+taking	take	VBG	CW	VERB
+over	over	RP	FW
+but	but	CC	FW
+showing	show	VBG	CW	VERB
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+allow	allow	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+relax	relax	VB	CW	VERB
+and	and	CC	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+clear	clear	JJ	CW	ADJ
+mind	mind	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+knowing	know	VBG	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+write	write	VB	CW	VERB
+about	about	IN	FW
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+easily	easily	RB	ADV	FW
+affect	affect	VB	CW	VERB
+those	those	DT	FW	PRONOUN
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+around	around	RB	ADV	CW
+and	and	CC	FW
+by	by	IN	FW
+saying	say	VBG	CW	VERB
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+listening	listen	VBG	CW	VERB
+to	to	IN	FW
+positive	positive	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+can	can	MD	FW	aux_or_cop
+influence	influence	VB	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+millions	million	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+other	other	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+most	most	RBS	ADV	CW
+certainly	certainly	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+so	so	RB	ADV	CW
+
+sentence break
+
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+indeed	indeed	RB	ADV	CW
+help	help	VB	CW	VERB
+those	those	DT	FW	PRONOUN
+who	who	WP	FW
+need	need	VBP	CW	VERB
+the	the	DT	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+reach	reach	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+write	write	VB	CW	VERB
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+song	song	NN	CW	NOUN	ARGUMENT
+these	these	DT	FW	PRONOUN
+following	follow	VBG	CW	VERB
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+showed	show	VBN	CW	VERB
+how	how	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+and	and	CC	FW
+many	many	JJ	CW	ADJ
+more	more	JJR	CW	ADJ
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

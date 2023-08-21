@@ -1,0 +1,342 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+british	british	JJ	CW	ADJ
+naturalist	naturalist	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+politician	politician	NN	CW	NOUN	ARGUMENT
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+formed	form	VBN	CW	VERB
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+building	build	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+sometimes	sometimes	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hang	hang	VBP	CW	VERB
+around	around	RP	FW
+also	also	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+environment	environment	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+that	that	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+influences	influence	VBZ	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+treated	treat	VBN	CW	VERB
+by	by	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+change	change	VB	CW	VERB
+from	from	IN	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+younger	young	JJR	CW	ADJ
+to	to	IN	FW
+older	old	JJR	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+meet	meet	VB	CW	VERB
+new	new	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+act	act	VB	CW	VERB
+like	like	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+in	in	IN	FW
+that	that	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+environment	environment	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+can	can	MD	FW	aux_or_cop
+led	lead	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+or	or	CC	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+grew	grow	VBD	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+a	a	DT	FW
+horrible	horrible	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+started	start	VBD	CW	VERB
+making	make	VBG	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+influence	influence	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+wrong	wrong	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+grew	grow	VBD	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+a	a	DT	FW
+well	well	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+neighborhood	neighborhood	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lastly	lastly	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+treated	treat	VBN	CW	VERB
+by	by	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+treat	treat	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+poorly	poorly	RB	ADV	CW
+or	or	CC	FW
+bully	bully	RB	ADV	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+getting	get	VBG	CW	VERB
+depressed	depressed	JJ	CW	ADJ
+feeling	feel	VBG	CW	VERB
+suicidal	suicidal	JJ	CW	ADJ
+or	or	CC	FW
+dropping	drop	VBG	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eventually	eventually	RB	ADV	CW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+formed	form	VBN	CW	VERB
+and	and	CC	FW
+most	most	RBS	ADV	CW
+likely	likely	RB	ADV	CW
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+action	action	NN	CW	NOUN	ARGUMENT
+towards	towards	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+environment	environment	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+in	in	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+once	once	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+formed	form	VBN	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+pretty	pretty	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+hanging	hang	VBG	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+like	like	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+environment	environment	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+led	lead	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+either	either	CC	FW
+good	good	JJ	CW	ADJ
+or	or	CC	FW
+bad	bad	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+treat	treat	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+influences	influence	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+grew	grow	VBD	CW	VERB
+up	up	RP	FW
+or	or	CC	FW
+who	who	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+hang	hang	VBP	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+
+sentence break
+
+
+paragraph break
+

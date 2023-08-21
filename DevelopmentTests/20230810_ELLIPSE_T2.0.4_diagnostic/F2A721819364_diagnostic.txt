@@ -1,0 +1,461 @@
+word	lemma	POS	CW\FW	other categories
+as	as	IN	FW
+growing	grow	VBG	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+'ll	'll	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+energy	energy	NN	CW	NOUN	ARGUMENT
+through	through	IN	FW
+out	out	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+focused	focus	VBN	CW	VERB
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+current	current	JJ	CW	ADJ
+menu	menu	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+serving	serve	VBG	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+wrong	wrong	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+fruits	fruit	NNS	CW	NOUN	ARGUMENT
+vegetables	vegetable	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+good	good	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+options	option	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+enough	enough	RB	ADV	CW
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+meal	meal	NN	CW	NOUN	ARGUMENT
+main	main	JJ	CW	ADJ
+dish	dish	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+healthiest	healthiest	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+trays	tray	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+the	the	DT	FW
+side	side	NN	CW	NOUN	ARGUMENT
+dishes	dish	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+disappointed	disappoint	VBN	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+sudden	sudden	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+adjust	adjust	VB	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+healthier	healthier	JJR	CW	ADJ
+menu	menu	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+items	item	NNS	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+bit	bit	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+healthier	healthier	JJR	CW	ADJ
+but	but	CC	FW
+the	the	DT	FW
+side	side	NN	CW	NOUN	ARGUMENT
+options	option	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+side	side	NN	CW	NOUN	ARGUMENT
+options	option	NNS	CW	NOUN	ARGUMENT
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+currently	currently	RB	ADV	CW
+have	have	VBP	CW	VERB
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+fine	fine	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+the	the	DT	FW
+expatiation	expatiation	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+of	of	IN	FW
+a	a	DT	FW
+healthy	healthy	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+option	option	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+offer	offer	NN	CW	NOUN	ARGUMENT
+fruits	fruit	NNS	CW	NOUN	ARGUMENT
+vegetables	vegetable	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+occasional	occasional	JJ	CW	ADJ
+desert	desert	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+sensually	sensually	RB	ADV	CW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+health	health	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+peers	peer	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+and	and	CC	FW
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+starts	start	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBP	CW	VERB
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+please	please	VB	CW	VERB
+continue	continue	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+plan	plan	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+self	self	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+will	will	MD	FW	aux_or_cop
+deeply	deeply	RB	ADV	CW
+appreciate	appreciate	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+thank	thank	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+current	current	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+redeeming	redeeming	JJ	CW	ADJ
+qualities	quality	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+lose	lose	VBP	CW	VERB
+ends	end	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+serve	serve	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+pizza	pizza	NN	CW	NOUN	ARGUMENT
+burgers	burger	NNS	CW	NOUN	ARGUMENT
+rice	rice	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+chicken	chicken	NN	CW	NOUN	ARGUMENT
+nachos	nacho	NNS	CW	NOUN	ARGUMENT
+spaghetti	spaghetti	NNS	CW	NOUN	ARGUMENT
+pb	pb	NN	CW	NOUN	ARGUMENT
+&	&	CC	FW
+j	j	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+salad	salad	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+see	see	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+items	item	NNS	CW	NOUN	ARGUMENT
+listed	list	VBN	CW	VERB
+above	above	IN	FW
+
+sentence break
+
+99	99	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+levels	level	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fat	fat	JJ	CW	ADJ
+and	and	CC	FW
+carbohydrates	carbohydrate	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+proper	proper	JJ	CW	ADJ
+meal	meal	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+growing	grow	VBG	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+any	any	DT	FW
+human	human	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+seeing	see	VBG	CW	VERB
+posters	poster	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+pyramid	pyramid	NN	CW	NOUN	ARGUMENT
+posted	post	VBD	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+walls	wall	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+middle	middle	JJ	CW	ADJ
+and	and	CC	FW
+elementary	elementary	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+not	not	RB	ADV	CW
+once	once	RB	ADV	CW
+did	do	VBD	FW	aux_or_cop
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+lunches	lunch	NNS	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+expatiation	expatiation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+menus	menu	NNS	CW	NOUN	ARGUMENT
+all	all	DT	FW
+over	over	IN	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+serve	serve	VBP	CW	VERB
+fatty	fatty	JJ	CW	ADJ
+foods	food	NNS	CW	NOUN	ARGUMENT
+filled	fill	VBN	CW	VERB
+with	with	IN	FW
+carbohydrates	carbohydrate	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+fibers	fiber	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+good	good	JJ	CW	ADJ
+fats	fat	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+dear	dear	NNP	CW	NOUN	ARGUMENT
+mr	mr	NNP	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	CW	VERB
+in	in	IN	FW
+attendance	attendance	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+writhing	writhe	VBG	CW	VERB
+to	to	TO	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+changing	change	VBG	CW	VERB
+of	of	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+one	one	CD	FW
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+grate	grate	NN	CW	NOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+change	change	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+into	into	IN	FW
+a	a	DT	FW
+much	much	JJ	CW	ADJ
+healthier	healthier	JJR	CW	ADJ
+one	one	CD	FW
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+3/8/2020	3/8/2020	CD	FW
+
+sentence break
+
+
+paragraph break
+

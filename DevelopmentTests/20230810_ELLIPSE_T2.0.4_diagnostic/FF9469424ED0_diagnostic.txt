@@ -1,0 +1,796 @@
+word	lemma	POS	CW\FW	other categories
+when	when	WRB	FW
+playing	play	VBG	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+practice	practice	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+make	make	VB	CW	VERB
+perfect	perfect	JJ	CW	ADJ
+
+sentence break
+
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+playing	play	VBG	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+but	but	CC	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+put	put	VBD	CW	VERB
+into	into	IN	FW
+playing	play	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+pay	pay	VB	CW	VERB
+off	off	RP	FW
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+playing	play	VBG	CW	VERB
+well	well	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+proud	proud	JJ	CW	ADJ
+of	of	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+proud	proud	JJ	CW	ADJ
+of	of	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+proud	proud	JJ	CW	ADJ
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+privilege	privilege	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+not	not	RB	ADV	CW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+stop	stop	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+becoming	become	VBG	CW	VERB
+a	a	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+music	music	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+and	and	CC	FW
+go	go	VB	CW	VERB
+with	with	IN	FW
+to	to	TO	FW
+the	the	DT	FW
+exciting	exciting	JJ	CW	ADJ
+field	field	NN	CW	NOUN	ARGUMENT
+trips	trip	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+play	play	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+music	music	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ve	have	VBP	FW	aux_or_cop
+ever	ever	RB	ADV	CW
+wanted	want	VBN	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+everything	everything	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+in	in	IN	FW
+band	band	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+limitless	limitless	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+every	every	DT	FW
+movie	movie	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+show	show	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+soundtrack	soundtrack	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+search	search	VB	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+sheet	sheet	NN	CW	NOUN	ARGUMENT
+music	music	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+any	any	DT	FW
+song	song	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+make	make	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+sheet	sheet	NN	CW	NOUN	ARGUMENT
+music	music	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+play	play	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+every	every	DT	FW
+song	song	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+music	music	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'ve	have	VBP	FW	aux_or_cop
+wanted	want	VBN	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+since	since	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+first	first	RB	ADV	CW
+started	start	VBD	CW	VERB
+playing	play	VBG	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+movies	movie	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+love	love	VBP	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+that	that	DT	FW
+movies	movie	NNS	CW	NOUN	ARGUMENT
+theme	theme	NN	CW	NOUN	ARGUMENT
+song	song	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+a	a	DT	FW
+single	single	JJ	CW	ADJ
+song	song	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+put	put	VBN	CW	VERB
+in	in	IN	FW
+sheet	sheet	NN	CW	NOUN	ARGUMENT
+music	music	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+song	song	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+search	search	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+up	up	RP	FW
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+pop	pop	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+some	some	DT	FW
+songs	song	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+harder	harder	JJR	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+sheet	sheet	NN	CW	NOUN	ARGUMENT
+music	music	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+still	still	RB	ADV	CW
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+being	be	VBG	CW	VERB	SUBORDINATOR
+in	in	IN	FW
+band	band	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+orchestra	orchestra	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+on	on	IN	FW
+field	field	NN	CW	NOUN	ARGUMENT
+trips	trip	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+normally	normally	RB	ADV	CW
+go	go	VB	CW	VERB
+on	on	IN	FW
+field	field	NN	CW	NOUN	ARGUMENT
+trips	trip	NNS	CW	NOUN	ARGUMENT
+unless	unless	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+in	in	IN	FW
+band	band	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+orchestra	orchestra	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+the	the	DT	FW
+field	field	NN	CW	NOUN	ARGUMENT
+trips	trip	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+play	play	VBP	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+all	all	DT	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBP	CW	VERB
+into	into	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+all	all	PDT	FW
+the	the	DT	FW
+field	field	NN	CW	NOUN	ARGUMENT
+trips	trip	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+on	on	RP	FW
+are	be	VBP	FW	aux_or_cop
+enjoyable	enjoyable	JJ	CW	ADJ
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+make	make	VBP	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+whenever	whenever	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+join	join	VBP	CW	VERB
+band	band	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+orchestra	orchestra	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+include	include	VBP	CW	VERB
+more	more	RBR	ADV	CW
+field	field	NN	CW	NOUN	ARGUMENT
+trips	trip	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+every	every	DT	FW
+field	field	NN	CW	NOUN	ARGUMENT
+trip	trip	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+gift	gift	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+play	play	VBP	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+instruments	instrument	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+schools	school	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	TO	FW
+are	be	VBP	FW	aux_or_cop
+kings	kings	NNPS	CW	NOUN	ARGUMENT
+dominion	dominion	NNP	CW	NOUN	ARGUMENT
+busch	busch	NNP	CW	NOUN	ARGUMENT
+gardens	gardens	NNP	CW	NOUN	ARGUMENT
+hershey	hershey	NNP	CW	NOUN	ARGUMENT
+park	park	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+many	many	JJ	CW	ADJ
+more	more	JJR	CW	ADJ
+exciting	exciting	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+all	all	DT	FW
+have	have	VBP	CW	VERB
+roller	roller	NN	CW	NOUN	ARGUMENT
+coasters	coaster	NNS	CW	NOUN	ARGUMENT
+water	water	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+carnival	carnival	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+all	all	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+educational	educational	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+including	include	VBG	CW	VERB
+playing	play	VBG	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+seen	see	VBN	CW	VERB
+marching	march	VBG	CW	VERB
+bands	band	NNS	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+all	all	DT	FW
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+exciting	exciting	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+middle	middle	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+football	football	NN	CW	NOUN	ARGUMENT
+game	game	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+seen	see	VBN	CW	VERB
+the	the	DT	FW
+routines	routine	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+those	those	DT	FW	PRONOUN
+take	take	VB	CW	VERB
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+orchestras	orchestra	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+classical	classical	JJ	CW	ADJ
+music	music	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+sound	sound	NN	CW	NOUN	ARGUMENT
+flow	flow	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+room	room	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+play	play	VB	CW	VERB
+classical	classical	JJ	CW	ADJ
+music	music	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+play	play	VBP	CW	VERB
+loud	loud	JJ	CW	ADJ
+and	and	CC	FW
+exciting	exciting	JJ	CW	ADJ
+music	music	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everything	everything	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+while	while	IN	FW	SUBORDINATOR
+playing	play	VBG	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+enjoyable	enjoyable	JJ	CW	ADJ
+
+sentence break
+
+some	some	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+enjoyable	enjoyable	JJ	CW	ADJ
+than	than	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+to	to	TO	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+making	make	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+music	music	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+on	on	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+field	field	NN	CW	NOUN	ARGUMENT
+trips	trip	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+find	find	VB	CW	VERB
+all	all	DT	FW
+different	different	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+music	music	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+while	while	IN	FW	SUBORDINATOR
+playing	play	VBG	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+all	all	RB	ADV	CW
+different	different	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+music	music	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+pieces	piece	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+music	music	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hear	hear	VBP	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+play	play	VB	CW	VERB
+a	a	DT	FW
+song	song	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+a	a	DT	FW
+boost	boost	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hearing	hear	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+play	play	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+confident	confident	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+concert	concert	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+sound	sound	VB	CW	VERB
+great	great	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+feels	feel	VBZ	CW	VERB
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+know	know	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+capable	capable	JJ	CW	ADJ
+of	of	IN	FW
+playing	play	VBG	CW	VERB
+music	music	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+the	the	DT	FW
+amazing	amazing	JJ	CW	ADJ
+sound	sound	NN	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+
+sentence break
+
+whenever	whenever	NNP	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+normally	normally	RB	ADV	CW
+audition	audition	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+into	into	IN	FW
+and	and	CC	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+into	into	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+full	full	JJ	CW	ADJ
+of	of	IN	FW
+joy	joy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+nice	nice	JJ	CW	ADJ
+to	to	TO	FW
+know	know	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+the	the	DT	FW
+level	level	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+while	while	IN	FW	SUBORDINATOR
+playing	play	VBG	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+endless	endless	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,633 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+agree	agree	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+help	help	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+for	for	IN	FW
+been	be	VBN	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+on	on	IN	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+
+sentence break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+show	show	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+worker	worker	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+been	be	VBN	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+new	new	JJ	CW	ADJ
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+to	to	TO	FW
+ne	ne	NNP	CW	NOUN	ARGUMENT
+flexible	flexible	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+help	help	VB	CW	VERB
+to	to	TO	FW
+face	face	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+been	be	VBN	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+new	new	JJ	CW	ADJ
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+out	out	RB	ADV	CW
+there	there	RB	ADV	CW
+
+sentence break
+
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+experience	experience	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+came	come	VBD	CW	VERB
+to	to	IN	FW
+unite	unite	NNP	CW	NOUN	ARGUMENT
+state	state	NNP	CW	NOUN	ARGUMENT
+four	four	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+scare	scare	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+start	start	VB	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+afraid	afraid	JJ	CW	ADJ
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+english	english	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+learned	learn	VBD	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+have	have	VB	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+been	be	VBN	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+help	help	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+flexible	flexible	JJ	CW	ADJ
+
+sentence break
+
+been	be	VBN	FW	aux_or_cop
+flexible	flexible	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+how	how	WRB	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+put	put	VB	CW	VERB
+then	then	RB	ADV	CW
+self	self	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+situation	situation	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+do	do	VBP	CW	VERB
+well	well	RB	ADV	CW
+
+sentence break
+
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+one	one	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+argue	argue	VBP	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+costumer	costumer	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+cashier	cashier	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+restaurant	restaurant	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+mall	mall	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+mad	mad	JJ	CW	ADJ
+and	and	CC	FW
+start	start	VB	CW	VERB
+screaming	scream	VBG	CW	VERB
+at	at	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+put	put	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+screaming	scream	VBG	CW	VERB
+at	at	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+but	but	CC	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+realize	realize	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+argue	argue	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+costumer	costumer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+change	change	VBP	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+stop	stop	NN	CW	NOUN	ARGUMENT
+screaming	scream	VBG	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+costumer	costumer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+calm	calm	VBD	CW	VERB
+down	down	RP	FW
+after	after	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+change	change	VBP	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+haven	haven	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+face	face	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometime	sometime	JJ	CW	ADJ
+face	face	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+solution	solution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+solution	solution	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+always	always	RB	ADV	CW
+a	a	DT	FW
+solution	solution	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+a	a	DT	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+out	out	RP	FW
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+united	united	NNP	CW	NOUN	ARGUMENT
+state	state	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+pe2	pe2	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+really	really	RB	ADV	CW
+difficult	difficult	JJ	CW	ADJ
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+me	i	PRP	FW	PRONOUN	ARGUMENT
+english	english	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+face	face	VBP	CW	VERB
+that	that	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+and	and	CC	FW
+asking	ask	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+now	now	RB	ADV	CW
+
+sentence break
+
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+work	work	NN	CW	NOUN	ARGUMENT
+hart	hart	NNP	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+that	that	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+give	give	VB	CW	VERB
+new	new	JJ	CW	ADJ
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+flexible	flexible	JJ	CW	ADJ
+
+sentence break
+
+help	help	VB	CW	VERB
+to	to	TO	FW
+face	face	VB	CW	VERB
+the	the	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+been	be	VBN	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+work	work	VB	CW	VERB
+hart	hart	NNP	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+about	about	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

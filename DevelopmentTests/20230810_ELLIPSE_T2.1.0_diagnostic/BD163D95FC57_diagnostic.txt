@@ -1,0 +1,662 @@
+word	lemma	POS	CW\FW	other categories
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+right	right	JJ	CW	ADJ
+to	to	TO	FW
+chose	choose	VBD	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+one	one	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+formed	form	VBN	CW	VERB
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+chose	choose	VBD	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+is	be	VBZ	FW	aux_or_cop
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+formed	form	VBN	CW	VERB
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+formed	form	VBN	CW	VERB
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+family	family	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+influences	influence	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+who	who	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+influences	influence	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+proud	proud	JJ	CW	ADJ
+on	on	IN	FW
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+dad	dad	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influences	influence	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+who	who	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+and	and	CC	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+
+sentence break
+
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+sister	sister	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+influences	influence	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+influences	influence	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+taught	teach	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+car	car	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+know	know	VB	CW	VERB
+of	of	IN	FW
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+are	be	VBP	FW	aux_or_cop
+big	big	JJ	CW	ADJ
+influences	influence	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+influences	influence	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+box	box	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+to	to	TO	FW
+really	really	RB	ADV	CW
+like	like	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+stuck	stick	VBD	CW	VERB
+with	with	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+since	since	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+social	social	JJ	CW	ADJ
+media	media	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+really	really	RB	ADV	CW
+big	big	JJ	CW	ADJ
+influences	influence	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+s	s	VBZ	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+out	out	RB	ADV	CW
+there	there	RB	ADV	CW
+that	that	WDT	FW	PRONOUN
+influences	influence	VBZ	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+hard	hard	RB	ADV	CW
+for	for	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+or	or	CC	FW
+might	might	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+influences	influence	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+paint	paint	VB	CW	VERB
+or	or	CC	FW
+sell	sell	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+try	try	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+
+sentence break
+
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+influences	influence	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+harder	hard	RBR	ADV	CW
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+boxing	boxing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+punch	punch	VB	CW	VERB
+right	right	RB	ADV	CW
+how	how	WRB	FW
+to	to	TO	FW
+throw	throw	VB	CW	VERB
+a	a	DT	FW
+hook	hook	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+jab	jab	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+how	how	WRB	FW
+to	to	TO	FW
+jump	jump	VB	CW	VERB
+rope	rope	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+showed	show	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+to	to	TO	FW
+train	train	VB	CW	VERB
+or	or	CC	FW
+box	box	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+a	a	DT	FW
+speed	speed	NN	CW	NOUN	ARGUMENT
+bag	bag	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+some	some	DT	FW
+hand	hand	NN	CW	NOUN	ARGUMENT
+wrap	wrap	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+protect	protect	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+hands	hand	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+maybe	maybe	RB	ADV	FW
+find	find	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+paint	paint	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+youtube	youtube	NNP	CW	NOUN	ARGUMENT
+videos	video	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+to	to	TO	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+try	try	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+stick	stick	VBP	CW	VERB
+with	with	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+religion	religion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+believes	believe	VBZ	CW	VERB
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+influences	influence	VBZ	CW	VERB
+by	by	IN	FW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+religion	religion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+better	well	JJR	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+like	like	IN	FW
+the	the	DT	FW
+bible	bible	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influences	influence	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+the	the	DT	FW
+bible	bible	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+the	the	DT	FW
+bible	bible	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+about	about	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influences	influence	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+god	god	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+god	god	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+feel	feel	VBP	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+god	god	NNP	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+through	through	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+dying	die	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+god	god	NNP	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+and	and	CC	FW
+save	save	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+religion	religion	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+god	god	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+does	do	VBZ	FW	aux_or_cop
+nt	not	RB	ADV	CW
+influences	influence	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+to	to	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+deal	deal	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+influences	influence	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+religion	religion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+powerful	powerful	JJ	CW	ADJ
+influences	influence	NNS	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+together	together	RB	ADV	CW
+to	to	TO	FW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+and	and	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+out	out	RB	ADV	CW
+there	there	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influences	influence	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+
+sentence break
+
+
+paragraph break
+
+family	family	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+influences	influence	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+who	who	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+
+sentence break
+
+social	social	JJ	CW	ADJ
+media	media	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+really	really	RB	ADV	CW
+big	big	JJ	CW	ADJ
+influences	influence	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+religion	religion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+believes	believe	VBZ	CW	VERB
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+influences	influence	VBZ	CW	VERB
+by	by	IN	FW
+
+sentence break
+
+over	over	IN	FW
+all	all	DT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+form	form	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+some	some	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+religion	religion	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+big	big	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+influences	influence	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

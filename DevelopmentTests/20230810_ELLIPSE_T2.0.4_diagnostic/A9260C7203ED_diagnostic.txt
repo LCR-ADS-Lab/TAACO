@@ -1,0 +1,240 @@
+word	lemma	POS	CW\FW	other categories
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+distance	distance	NN	CW	NOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	a	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+safe	safe	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+take	take	VB	CW	VERB
+online	online	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+schools	school	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+protect	protect	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	schools	NNP	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+security	security	NN	CW	NOUN	ARGUMENT
+guards	guard	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+only	only	RB	ADV	CW
+one	one	CD	FW
+police	police	NN	CW	NOUN	ARGUMENT
+officer	officer	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+the	the	DT	FW
+security	security	NN	CW	NOUN	ARGUMENT
+recording	recording	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+video	video	NN	CW	NOUN	ARGUMENT
+recording	record	VBG	CW	VERB
+quality	quality	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+well	well	RB	ADV	CW
+located	located	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+stole	steal	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+backpack	backpack	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+cameras	camera	NNS	CW	NOUN	ARGUMENT
+recorded	record	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+see	see	VB	CW	VERB
+who	who	WP	FW
+stole	steal	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+bad	bad	JJ	CW	ADJ
+video	video	NN	CW	NOUN	ARGUMENT
+quality	quality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+normal	normal	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+for	for	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+online	online	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+better	better	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+from	from	IN	FW
+online	online	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+develop	develop	VB	CW	VERB
+technological	technological	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technological	technological	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+now	now	RB	ADV	CW
+days	day	NNS	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+likely	likely	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+necessary	necessary	JJ	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+everyday	everyday	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+online	online	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+option	option	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+technological	technological	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+safe	safe	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,574 @@
+word	lemma	POS	CW\FW	other categories
+technology	technology	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+changes	change	NNS	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+today	today	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+using	use	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+bad	bad	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+technology	technology	NN	CW	NOUN	ARGUMENT
+causing	cause	VBG	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+continue	continue	VB	CW	VERB
+using	use	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+limitation	limitation	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+humans	human	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+positive	positive	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+technology	technology	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+technology	technology	NN	CW	NOUN	ARGUMENT
+cause	cause	VB	CW	VERB
+addiction	addiction	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+addiction	addiction	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+cause	cause	VB	CW	VERB
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+true	true	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+technology	technology	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+does	do	VBZ	FW	aux_or_cop
+technology	technology	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+technology	technology	NN	CW	NOUN	ARGUMENT
+cause	cause	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+today	today	NN	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+specially	specially	RB	ADV	CW
+in	in	IN	FW
+adults	adult	NNS	CW	NOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+adolescents	adolescent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+using	use	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+using	use	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+start	start	VBP	CW	VERB
+using	use	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+have	have	VBP	CW	VERB
+4	4	CD	FW
+or	or	CC	FW
+5	5	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+positive	positive	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+learning	learn	VBG	CW	VERB
+but	but	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+creating	create	VBG	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+addiction	addiction	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+control	control	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+give	give	VB	CW	VERB
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+kids	kid	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+much	much	RB	ADV	CW
+
+sentence break
+
+kids	kid	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+or	or	CC	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+limitation	limitation	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+does	do	VBZ	FW	aux_or_cop
+technology	technology	NN	CW	NOUN	ARGUMENT
+cause	cause	VB	CW	VERB
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+adolescents	adolescent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+using	use	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+online	online	RB	ADV	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+causing	cause	VBG	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+addiction	addiction	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+some	some	DT	FW
+adolescents	adolescent	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+playing	playing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+washington	washington	NNP	CW	NOUN	ARGUMENT
+post	post	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+article	article	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+addiction	addiction	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+causing	cause	VBG	CW	VERB
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+article	article	NN	CW	NOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+online	online	RB	ADV	FW
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+banks	bank	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+online	online	RB	ADV	FW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+playing	play	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+addiction	addiction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+using	use	VBG	CW	VERB
+credits	credit	NNS	CW	NOUN	ARGUMENT
+card	card	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+create	create	VBP	CW	VERB
+debt	debt	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+banks	bank	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+negative	negative	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+supervision	supervision	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+causing	cause	VBG	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+positive	positive	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+stop	stop	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+want	want	VBP	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+addictions	addiction	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

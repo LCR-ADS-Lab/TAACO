@@ -1,0 +1,392 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+argue	argue	VB	CW	VERB
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+a	a	DT	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fist	fist	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+second	second	RB	ADV	CW
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+private	private	JJ	CW	ADJ
+with	with	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+so	so	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+study	study	VB	CW	VERB
+for	for	IN	FW
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+longer	long	RBR	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+stay	stay	VBP	CW	VERB
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+more	more	RBR	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+the	the	DT	FW
+easier	easy	JJR	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+get	get	VB	CW	VERB
+in	in	IN	FW
+collage	collage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+collage	collage	NN	CW	NOUN	ARGUMENT
+looks	look	VBZ	CW	VERB
+at	at	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+learn	learn	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+the	the	DT	FW
+after	after	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+learn	learn	VB	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ll	ll	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+tough	tough	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+about	about	IN	FW
+
+sentence break
+
+so	so	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+ahead	ahead	RB	ADV	FW
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+learning	learn	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+twenty	twenty	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+smarter	smart	JJR	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+
+sentence break
+
+learning	learn	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+always	always	RB	ADV	CW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+by	by	IN	FW
+going	go	VBG	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+study	study	VB	CW	VERB
+for	for	IN	FW
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+mostly	mostly	RB	ADV	CW
+all	all	DT	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+gon	go	NN	CW	NOUN	ARGUMENT
+na	to	TO	FW
+have	have	VB	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	WDT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+a	a	DT	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+quizzes	quiz	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+mini	mini	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+both	both	DT	FW
+are	be	VBP	FW	aux_or_cop
+huge	huge	JJ	CW	ADJ
+deals	deal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+passing	pass	VBG	CW	VERB
+test	test	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+a	a	DT	FW
+f	f	NNP	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+c+	c+	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+passing	pass	VBG	CW	VERB
+quizzes	quiz	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+a	a	DT	FW
+f	f	NNP	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+d+	d+	CD	FW
+
+sentence break
+
+so	so	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+bring	bring	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+a	a	DT	FW
+failing	fail	VBG	CW	VERB
+grade	grade	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+passing	pass	VBG	CW	VERB
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	students	NNPS	CW	NOUN	ARGUMENT
+volunteer	volunteer	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+meet	meet	VB	CW	VERB
+with	with	IN	FW
+those	those	DT	FW	PRONOUN
+who	who	WP	FW
+either	either	CC	FW
+have	have	VBP	CW	VERB
+difficulty	difficulty	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+subject	subject	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+wanna	wanna	NN	CW	NOUN	ARGUMENT
+finish	finish	VBP	CW	VERB
+there	there	RB	ADV	CW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+why	why	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

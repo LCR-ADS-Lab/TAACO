@@ -1,0 +1,242 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+what	what	WP	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+because	because	IN	FW	SUBORDINATOR
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+ever	ever	RB	ADV	CW
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+feel	feel	VB	CW	VERB
+wrong	wrong	JJ	CW	ADJ
+about	about	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+go	go	VB	CW	VERB
+head	head	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+come	come	VB	CW	VERB
+true	true	JJ	CW	ADJ
+or	or	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+nurse	nurse	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+go	go	VB	CW	VERB
+head	head	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+let	let	VB	CW	VERB
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+stop	stop	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+who	who	WP	FW
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+true	true	JJ	CW	ADJ
+and	and	CC	FW
+who	who	WP	FW
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+who	who	WP	FW
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+proud	proud	JJ	CW	ADJ
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+become	become	VBN	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+for	for	IN	FW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+nurse	nurse	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+really	really	RB	ADV	CW
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+study	study	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	IN	FW
+that	that	DT	FW
+level	level	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	IN	FW
+that	that	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+who	who	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+about	about	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+let	let	VB	CW	VERB
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+bring	bring	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+keep	keep	VBP	CW	VERB
+doing	do	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+prove	prove	VB	CW	VERB
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+need	need	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+better	well	RBR	ADV	CW
+without	without	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+because	because	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+wanna	wanna	VBP	CW	VERB
+say	say	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+behind	behind	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+back	back	NN	CW	NOUN	ARGUMENT
+igone	igone	NN	CW	NOUN	ARGUMENT
+them	they	PRP	FW	PRONOUN	ARGUMENT
+beacuse	beacuse	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+feel	feel	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+about	about	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,460 @@
+word	lemma	POS	CW\FW	other categories
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+employers	employer	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+hospitality	hospitality	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+good	good	JJ	CW	ADJ
+communication	communication	NN	CW	NOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+make	make	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+employee	employee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+show	show	VBP	CW	VERB
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+essential	essential	JJ	CW	ADJ
+because	because	IN	FW
+the	the	DT	FW
+harder	harder	JJR	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+done	do	VBN	CW	VERB
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+helpful	helpful	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+score	score	VB	CW	VERB
+a	a	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+just	just	RB	ADV	CW
+score	score	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+magically	magically	RB	ADV	CW
+while	while	IN	FW	SUBORDINATOR
+just	just	RB	ADV	CW
+standing	stand	VBG	CW	VERB
+there	there	RB	ADV	CW
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+score	score	VB	CW	VERB
+the	the	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+running	run	VBG	CW	VERB
+passing	pass	VBG	CW	VERB
+and	and	CC	FW
+communicating	communicate	VBG	CW	VERB
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	DT	FW
+of	of	IN	FW
+that	that	DT	FW	PRONOUN
+relates	relate	VBZ	CW	VERB
+to	to	TO	FW
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+show	show	VBP	CW	VERB
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+communication	communication	NN	CW	NOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+yet	yet	RB	ADV	CW
+another	another	DT	FW
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+characteristic	characteristic	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+as	as	IN	FW
+an	a	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+communicate	communicate	VB	CW	VERB
+well	well	RB	ADV	CW
+with	with	IN	FW
+a	a	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+really	really	RB	ADV	CW
+time	time	NN	CW	NOUN	ARGUMENT
+figuring	figure	VBG	CW	VERB
+out	out	RP	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+working	work	VBG	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+shop	shop	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+walks	walk	VBZ	CW	VERB
+in	in	IN	FW
+and	and	CC	FW
+asks	ask	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+specific	specific	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+nervous	nervous	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+say	say	VB	CW	VERB
+or	or	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+act	act	VB	CW	VERB
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+hard	hard	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+specific	specific	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+show	show	VBP	CW	VERB
+really	really	RB	ADV	CW
+great	great	JJ	CW	ADJ
+hospitality	hospitality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+more	more	RBR	ADV	CW
+comfortable	comfortable	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+enjoy	enjoy	VB	CW	VERB
+the	the	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+like	like	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+working	work	VBG	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+hotel	hotel	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+walks	walk	VBZ	CW	VERB
+in	in	IN	FW
+and	and	CC	FW
+right	right	RB	ADV	CW
+away	away	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+nice	nice	JJ	CW	ADJ
+to	to	TO	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+hating	hate	VBG	CW	VERB
+the	the	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+come	come	VB	CW	VERB
+back	back	RB	ADV	CW
+again	again	RB	ADV	CW
+
+sentence break
+
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+to	to	TO	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+enjoying	enjoy	VBG	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+the	the	DT	FW
+hotel	hotel	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+come	come	VB	CW	VERB
+back	back	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+why	why	WRB	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+employers	employer	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+of	of	IN	FW
+hiring	hire	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+hospitality	hospitality	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+good	good	JJ	CW	ADJ
+communication	communication	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+having	have	VBG	CW	VERB
+these	these	DT	FW
+three	three	CD	FW
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+an	a	DT	FW
+awesome	awesome	JJ	CW	ADJ
+employee	employee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	CW	VERB
+why	why	WRB	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

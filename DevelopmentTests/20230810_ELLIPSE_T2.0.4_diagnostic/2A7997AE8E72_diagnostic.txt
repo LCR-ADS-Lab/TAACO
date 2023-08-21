@@ -1,0 +1,220 @@
+word	lemma	POS	CW\FW	other categories
+a	a	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+what	what	WP	FW
+i	i	FW	FW
+think	think	VBP	CW	VERB
+a	a	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+presenting	present	VBG	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+applying	apply	VBG	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+the	the	DT	FW
+interviewer	interviewer	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+hired	hire	VBN	CW	VERB
+based	base	VBN	CW	VERB
+on	on	IN	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+for	for	IN	FW
+making	make	VBG	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+in	in	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+10	10	CD	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+a	a	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+and	and	CC	FW
+get	get	VB	CW	VERB
+interviewed	interview	VBN	CW	VERB
+i	i	FW	FW
+had	have	VBD	CW	VERB
+to	to	TO	FW
+shake	shake	VB	CW	VERB
+the	the	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+said	say	VBD	CW	VERB
+good	good	JJ	CW	ADJ
+morning	morning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+during	during	IN	FW
+the	the	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+asking	ask	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+question	question	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+answered	answer	VBD	CW	VERB
+the	the	DT	FW
+questions	question	NNS	CW	NOUN	ARGUMENT
+politely	politely	RB	ADV	CW
+and	and	CC	FW
+after	after	IN	FW
+the	the	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+got	get	VBD	CW	VERB
+a	a	DT	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+in	in	IN	FW
+an	a	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+hired	hire	VBN	CW	VERB
+for	for	IN	FW
+in	in	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+interview	interview	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+experience	experience	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+really	really	RB	ADV	CW
+well	well	RB	ADV	CW
+and	and	CC	FW
+now	now	RB	ADV	CW
+i	i	FW	FW
+know	know	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+i	i	FW	FW
+ever	ever	RB	ADV	CW
+apply	apply	VB	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+got	get	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+hired	hire	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+

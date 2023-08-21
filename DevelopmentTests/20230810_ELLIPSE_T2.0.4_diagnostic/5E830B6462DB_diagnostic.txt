@@ -1,0 +1,444 @@
+word	lemma	POS	CW\FW	other categories
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+believes	believe	VBZ	CW	VERB
+in	in	IN	FW
+that	that	DT	FW	SUBORDINATOR	PRONOUN
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+than	than	IN	FW
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+more	more	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+great	great	JJ	CW	ADJ
+accomplishments	accomplishment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+simple	simple	JJ	CW	ADJ
+accomplishments	accomplishment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+an	a	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	FW	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+how	how	WRB	FW
+
+sentence break
+
+let	let	VB	CW	VERB
+'s	's	PRP	FW	PRONOUN	ARGUMENT
+say	say	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+other	other	JJ	CW	ADJ
+dementions	demention	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+worlds	world	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+or	or	CC	FW
+go	go	VB	CW	VERB
+back	back	RB	ADV	CW
+in	in	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+build	build	VB	CW	VERB
+a	a	DT	FW
+machine	machine	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+cleaning	clean	VBG	CW	VERB
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+cooking	cooking	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+meal	meal	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+doing	do	VBG	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+accomplish	accomplish	VBP	CW	VERB
+more	more	RBR	ADV	CW
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+now	now	RB	ADV	CW
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+as	as	IN	FW
+a	a	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+individually	individually	RB	ADV	CW
+
+sentence break
+
+like	like	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+together	together	RB	ADV	CW
+to	to	TO	FW
+win	win	VB	CW	VERB
+
+sentence break
+
+a	a	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+these	these	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+together	together	RB	ADV	CW
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+a	a	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+together	together	RB	ADV	CW
+online	online	JJ	CW	ADJ
+to	to	TO	FW
+win	win	VB	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+individually	individually	RB	ADV	CW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+little	little	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+play	play	NN	CW	NOUN	ARGUMENT
+outside	outside	IN	FW
+hangout	hangout	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+inactivity	inactivity	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+own	own	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+resting	rest	VBG	CW	VERB
+or	or	CC	FW
+sleeping	sleep	VBG	CW	VERB
+relaxing	relax	VBG	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+let	let	VBP	CW	VERB
+out	out	RP	FW
+that	that	IN	FW	PRONOUN
+steam	steam	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+take	take	VBP	CW	VERB
+a	a	DT	FW
+break	break	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	IN	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+couple	couple	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+home	home	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+a	a	DT	FW
+nap	nap	NN	CW	NOUN	ARGUMENT
+eat	eat	VB	CW	VERB
+watch	watch	VB	CW	VERB
+a	a	DT	FW
+bit	bit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+tv	tv	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+sleep	sleep	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+motivated	motivate	VBN	CW	VERB
+to	to	TO	FW
+continue	continue	VB	CW	VERB
+doing	do	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+even	even	RB	ADV	CW
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+during	during	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'ve	have	VBP	FW	aux_or_cop
+accomplished	accomplish	VBN	CW	VERB
+like	like	IN	FW
+go	go	VB	CW	VERB
+out	out	RP	FW
+and	and	CC	FW
+buy	buy	VB	CW	VERB
+groceries	grocery	NNS	CW	NOUN	ARGUMENT
+clean	clean	JJ	CW	ADJ
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+cook	cook	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ve	have	VBP	FW	aux_or_cop
+accomplished	accomplish	VBN	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+sleep	sleep	VBP	CW	VERB
+all	all	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	CW	VERB
+lazy	lazy	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+lazy	lazy	JJ	CW	ADJ
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+the	the	DT	FW
+easy	easy	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+used	use	VBN	CW	VERB
+to	to	TO	FW
+at	at	IN	FW
+being	be	VBG	FW	aux_or_cop
+lazy	lazy	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+and	and	CC	FW
+motivted	motivted	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+so	so	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

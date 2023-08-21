@@ -1,0 +1,413 @@
+word	lemma	POS	CW\FW	other categories
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+millions	million	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spain	spain	NNP	CW	NOUN	ARGUMENT
+tropical	tropical	NNP	CW	NOUN	ARGUMENT
+rain	rain	NNP	CW	NOUN	ARGUMENT
+forest	forest	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+really	really	RB	ADV	CW
+beautiful	beautiful	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+animals	animal	NNS	CW	NOUN	ARGUMENT
+homeland	homeland	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+spain	spain	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+really	really	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+and	and	CC	FW
+attractive	attractive	JJ	CW	ADJ
+outdoors	outdoors	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+beautiful	beautiful	JJ	CW	ADJ
+tropical	tropical	JJ	CW	ADJ
+rain	rain	NN	CW	NOUN	ARGUMENT
+forest	forest	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+biggest	big	JJS	CW	ADJ
+tropical	tropical	JJ	CW	ADJ
+rain	rain	NN	CW	NOUN	ARGUMENT
+forest	forest	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+amazing	amazing	JJ	CW	ADJ
+animals	animal	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+seen	see	VBN	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+monkeys	monkey	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+seen	see	VBN	CW	VERB
+everyday	everyday	RB	ADV	CW
+hanging	hang	VBG	CW	VERB
+from	from	IN	FW
+tree	tree	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+tree	tree	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+animals	animal	NNS	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+talents	talent	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+visit	visit	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+homeland	homeland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+snakes	snake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+animals	animal	NNS	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+hide	hide	VB	CW	VERB
+and	and	CC	FW
+seek	seek	VB	CW	VERB
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+awesome	awesome	JJ	CW	ADJ
+talent	talent	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hide	hide	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+color	color	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+every	every	DT	FW
+creature	creature	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+unique	unique	JJ	CW	ADJ
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+homeland	homeland	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+color	color	NN	CW	NOUN	ARGUMENT
+lets	let	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+hide	hide	VB	CW	VERB
+from	from	IN	FW
+predators	predator	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+catch	catch	VB	CW	VERB
+pray	pray	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+though	though	RB	ADV	CW
+every	every	DT	FW
+creature	creature	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hide	hide	VB	CW	VERB
+except	except	IN	FW
+the	the	DT	FW
+spider	spider	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spiders	spider	NNS	CW	NOUN	ARGUMENT
+uses	use	VBZ	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+sticky	sticky	JJ	CW	ADJ
+web	web	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+to	to	TO	FW
+catch	catch	VB	CW	VERB
+pray	pray	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hides	hide	VBZ	CW	VERB
+in	in	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+own	own	JJ	CW	ADJ
+web	web	NN	CW	NOUN	ARGUMENT
+waiting	wait	VBG	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+victim	victim	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+come	come	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+beautiful	beautiful	JJ	CW	ADJ
+outdoor	outdoor	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+all	all	RB	ADV	CW
+around	around	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+tropical	tropical	JJ	CW	ADJ
+areas	area	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+spain	spain	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+riding	ride	VBG	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+sip	sip	NN	CW	NOUN	ARGUMENT
+line	line	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+tropical	tropical	JJ	CW	ADJ
+areas	area	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+jumping	jump	VBG	CW	VERB
+from	from	IN	FW
+a	a	DT	FW
+tall	tall	JJ	CW	ADJ
+mountain	mountain	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+diving	diving	NN	CW	NOUN	ARGUMENT
+straight	straight	RB	ADV	CW
+into	into	IN	FW
+the	the	DT	FW
+water	water	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+riding	ride	VBG	CW	VERB
+a	a	DT	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+all	all	RB	ADV	CW
+around	around	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+beautiful	beautiful	JJ	CW	ADJ
+cities	city	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tropical	tropical	JJ	CW	ADJ
+areas	area	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW
+a	a	DT	FW
+result	result	NN	CW	NOUN	ARGUMENT
+jumping	jump	VBG	CW	VERB
+from	from	IN	FW
+a	a	DT	FW
+helicopter	helicopter	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+pare	pare	JJ	CW	ADJ
+shoot	shoot	NN	CW	NOUN	ARGUMENT
+feeling	feel	VBG	CW	VERB
+the	the	DT	FW
+nice	nice	JJ	CW	ADJ
+blowing	blow	VBG	CW	VERB
+air	air	NN	CW	NOUN	ARGUMENT
+through	through	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+riding	ride	VBG	CW	VERB
+a	a	DT	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+mountains	mountain	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+discovering	discover	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+along	along	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+while	while	IN	FW	SUBORDINATOR
+visiting	visit	VBG	CW	VERB
+spain	spain	NNP	CW	NOUN	ARGUMENT
+amazing	amazing	JJ	CW	ADJ
+tropical	tropical	JJ	CW	ADJ
+areas	area	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+face	face	VB	CW	VERB
+with	with	IN	FW
+some	some	DT	FW
+amazing	amazing	JJ	CW	ADJ
+animals	animal	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+adventure	adventure	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	DT	FW
+of	of	IN	FW
+these	these	DT	FW	PRONOUN
+outdoors	outdoors	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+grants	grant	VBZ	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+relaxing	relax	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+spain	spain	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+biggest	big	JJS	CW	ADJ
+tropical	tropical	JJ	CW	ADJ
+rain	rain	NN	CW	NOUN	ARGUMENT
+forest	forest	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+
+sentence break
+
+a	a	DT	FW
+tropical	tropical	JJ	CW	ADJ
+jungle	jungle	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+homeland	homeland	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+thousands	thousand	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+different	different	JJ	CW	ADJ
+creatures	creature	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+just	just	RB	ADV	CW
+have	have	VB	CW	VERB
+amazing	amazing	JJ	CW	ADJ
+animals	animal	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+has	have	VBZ	CW	VERB
+amazing	amazing	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enjoy	enjoy	VB	CW	VERB
+the	the	DT	FW
+beauty	beauty	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+nature	nature	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

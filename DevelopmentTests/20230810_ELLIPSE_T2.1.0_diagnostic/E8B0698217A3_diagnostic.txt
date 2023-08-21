@@ -1,0 +1,848 @@
+word	lemma	POS	CW\FW	other categories
+they	they	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+the	the	DT	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+judge	judge	VB	CW	VERB
+a	a	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+cover	cover	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+especially	especially	RB	ADV	FW
+regarding	regard	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+true	true	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+case	case	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+cover	cover	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+necessary	necessary	JJ	CW	ADJ
+meaning	mean	VBG	CW	VERB
+the	the	DT	FW
+appearance	appearance	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	IN	FW
+the	the	DT	FW
+cover	cover	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+always	always	RB	ADV	CW
+as	as	RB	ADV	CW
+appealing	appealing	JJ	CW	ADJ
+as	as	IN	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+there	there	RB	ADV	CW
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+until	until	IN	FW
+after	after	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+"	"	``	FW
+reading	read	VBG	CW	VERB
+"	"	''	FW
+or	or	CC	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+find	find	VBP	CW	VERB
+out	out	RP	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+always	always	RB	ADV	CW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+several	several	JJ	CW	ADJ
+factors	factor	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+one	one	CD	FW
+receives	receive	VBZ	CW	VERB
+from	from	IN	FW
+another	another	DT	FW
+
+sentence break
+
+differing	differ	VBG	CW	VERB
+personality	personality	NN	CW	NOUN	ARGUMENT
+situations	situation	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+representation	representation	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+the	the	DT	FW
+worst	bad	JJS	CW	ADJ
+means	mean	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+judging	judge	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+personality	personality	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+emit	emit	VBP	CW	VERB
+
+sentence break
+
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+but	but	CC	FW
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+down	down	RP	FW
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+based	base	VBN	CW	VERB
+off	off	IN	FW
+of	of	IN	FW
+whether	whether	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+shy	shy	JJ	CW	ADJ
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+met	meet	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+moving	move	VBG	CW	VERB
+during	during	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+junior	junior	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+before	before	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+knew	know	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+said	say	VBD	CW	VERB
+a	a	DT	FW
+word	word	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+kind	kind	RB	ADV	CW
+of	of	RB	ADV	CW
+odd	odd	JJ	CW	ADJ
+but	but	CC	FW
+then	then	RB	ADV	CW
+realized	realize	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+either	either	CC	FW
+because	because	IN	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+personality	personality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+knew	know	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+shy	shy	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+after	after	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBD	CW	VERB
+down	down	RP	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+front	front	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+show	show	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+true	true	JJ	CW	ADJ
+colors	color	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+maybe	maybe	RB	ADV	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+same	same	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+starting	start	VBG	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+little	little	RB	ADV	CW
+more	more	JJR	CW	ADJ
+each	each	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+friendship	friendship	NN	CW	NOUN	ARGUMENT
+grew	grow	VBD	CW	VERB
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+odd	odd	JJ	CW	ADJ
+at	at	RB	ADV	FW
+all	all	RB	ADV	CW
+but	but	CC	FW
+just	just	RB	ADV	CW
+like	like	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+an	an	DT	FW
+outgoing	outgoing	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+hidden	hide	VBN	CW	VERB
+by	by	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+shyness	shyness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+shy	shy	JJ	CW	ADJ
+and	and	CC	FW
+put	put	VBD	CW	VERB
+up	up	RP	FW
+a	a	DT	FW
+reserved	reserved	JJ	CW	ADJ
+and	and	CC	FW
+quiet	quiet	JJ	CW	ADJ
+front	front	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+facing	face	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+based	base	VBN	CW	VERB
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+far	far	RB	ADV	CW
+from	from	IN	FW
+the	the	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+who	who	WP	FW
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+shy	shy	JJ	CW	ADJ
+personality	personality	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+in	in	IN	FW
+reality	reality	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+outgoing	outgoing	JJ	CW	ADJ
+but	but	CC	FW
+uncomfortable	uncomfortable	JJ	CW	ADJ
+showing	show	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+first	first	RB	ADV	CW
+making	make	VBG	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+mistaken	mistaken	JJ	CW	ADJ
+one	one	CD	FW
+
+sentence break
+
+
+paragraph break
+
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+suitable	suitable	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+the	the	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+
+sentence break
+
+when	when	WRB	FW
+seeing	see	VBG	CW	VERB
+or	or	CC	FW
+meeting	meet	VBG	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+no	no	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+difficulties	difficulty	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+disappointment	disappointment	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+experiencing	experience	VBG	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+recently	recently	RB	ADV	CW
+lost	lose	VBN	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+and	and	CC	FW
+yet	yet	RB	ADV	CW
+still	still	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+deal	deal	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+routines	routine	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+stresses	stress	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+through	through	RP	FW
+out	out	RP	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	DT	FW
+of	of	IN	FW
+these	these	DT	FW	PRONOUN
+situations	situation	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+a	a	DT	FW
+barrier	barrier	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+setting	set	VBG	CW	VERB
+of	of	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+not	not	RB	ADV	CW
+at	at	IN	FW
+the	the	DT	FW
+top	top	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+list	list	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+important	important	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+senior	senior	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+walked	walk	VBD	CW	VERB
+hurriedly	hurriedly	RB	ADV	CW
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+thought	think	VBD	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+plenty	plenty	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+walked	walk	VBD	CW	VERB
+into	into	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+seat	seat	NN	CW	NOUN	ARGUMENT
+right	right	RB	ADV	CW
+away	away	RB	ADV	CW
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+by	by	IN	FW
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+when	when	WRB	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+sat	sit	VBD	CW	VERB
+by	by	IN	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+ate	eat	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+quickly	quickly	RB	ADV	CW
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+proceed	proceed	VB	CW	VERB
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+so	so	RB	ADV	CW
+worried	worried	JJ	CW	ADJ
+about	about	IN	FW
+being	be	VBG	FW	aux_or_cop
+late	late	JJ	CW	ADJ
+for	for	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+finding	find	VBG	CW	VERB
+a	a	DT	FW
+seat	seat	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+just	just	RB	ADV	CW
+doing	do	VBG	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+right	right	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+leave	leave	VB	CW	VERB
+any	any	DT	FW
+good	good	JJ	CW	ADJ
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+any	any	DT	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+peers	peer	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+even	even	RB	ADV	CW
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+so	so	RB	ADV	CW
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+peers	peer	NNS	CW	NOUN	ARGUMENT
+received	receive	VBD	CW	VERB
+the	the	DT	FW
+impression	impression	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+nervous	nervous	JJ	CW	ADJ
+and	and	CC	FW
+not	not	RB	ADV	CW
+a	a	DT	FW
+sociable	sociable	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+really	really	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+acting	act	VBG	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+factors	factor	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+lead	lead	VBP	CW	VERB
+to	to	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+another	another	DT	FW
+
+sentence break
+
+someone;s	someone;s	NNP	CW	NOUN	ARGUMENT
+personality	personality	NN	CW	NOUN	ARGUMENT
+current	current	JJ	CW	ADJ
+situation	situation	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+happen	happen	VBP	CW	VERB
+to	to	TO	FW
+present	present	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+influences	influence	VBZ	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+about	about	IN	FW
+another	another	DT	FW
+when	when	WRB	FW
+seeing	see	VBG	CW	VERB
+or	or	CC	FW
+meeting	meet	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+since	since	IN	FW	SUBORDINATOR
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+based	base	VBN	CW	VERB
+off	off	IN	FW
+of	of	IN	FW
+these	these	DT	FW	PRONOUN
+judgments	judgment	NNS	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+usually	usually	RB	ADV	CW
+wrong	wrong	JJ	CW	ADJ
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+all	all	DT	FW
+friendships	friendship	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+based	base	VBN	CW	VERB
+on	on	IN	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+less	less	JJR	CW	ADJ
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+often	often	RB	ADV	FW
+worst	bad	JJS	CW	ADJ
+means	mean	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+judging	judge	VBG	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+until	until	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+really	really	RB	ADV	CW
+know	know	VB	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+better	well	RBR	ADV	CW
+equipped	equipped	JJ	CW	ADJ
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+what	what	WP	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+truly	truly	RB	ADV	FW
+are	be	VBP	FW	aux_or_cop
+and	and	CC	FW
+really	really	RB	ADV	CW
+know	know	VB	CW	VERB
+the	the	DT	FW
+individual	individual	NN	CW	NOUN	ARGUMENT
+based	base	VBN	CW	VERB
+on	on	IN	FW
+real	real	JJ	CW	ADJ
+values	value	NNS	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+than	than	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+"	"	``	FW
+book	book	NN	CW	NOUN	ARGUMENT
+cover	cover	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+

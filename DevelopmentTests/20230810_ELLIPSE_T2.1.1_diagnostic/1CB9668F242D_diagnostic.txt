@@ -1,0 +1,507 @@
+word	lemma	POS	CW\FW	other categories
+there	there	EX	FW
+are	be	VBP	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+enjoyable	enjoyable	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+outdoors	outdoors	RB	ADV	FW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+bike	bike	NN	CW	NOUN	ARGUMENT
+riding	riding	NN	CW	NOUN	ARGUMENT
+skateboarding	skateboard	VBG	CW	VERB
+rollerskating	rollerskate	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+surfing	surfing	NN	CW	NOUN	ARGUMENT
+scuba	scuba	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+diving	diving	NN	CW	NOUN	ARGUMENT
+camping	camping	NN	CW	NOUN	ARGUMENT
+hiking	hiking	NN	CW	NOUN	ARGUMENT
+rock	rock	NN	CW	NOUN	ARGUMENT
+climbing	climbing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+snow	snow	NN	CW	NOUN	ARGUMENT
+boarding	boarding	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+the	the	DT	FW
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+enjoy	enjoy	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+are	be	VBP	FW	aux_or_cop
+skateboarding	skateboard	VBG	CW	VERB
+and	and	CC	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+riding	riding	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mostly	mostly	RB	ADV	CW
+during	during	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+gather	gather	VBP	CW	VERB
+around	around	IN	FW
+the	the	DT	FW
+neighborhood	neighborhood	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teach	teach	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	IN	FW
+skateboard	skateboard	JJ	CW	ADJ
+and	and	CC	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+ride	ride	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+however	however	RB	ADV	FW
+most	most	JJS	CW	ADJ
+parents	parent	NNS	CW	NOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+having	have	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+ride	ride	VB	CW	VERB
+bikes	bike	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skateboard	skateboard	JJ	CW	ADJ
+
+sentence break
+
+most	most	JJS	CW	ADJ
+parents	parent	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	FW	aux_or_cop
+abducted	abduct	VBN	CW	VERB
+raped	rape	VBN	CW	VERB
+kidnapped	kidnap	VBN	CW	VERB
+or	or	CC	FW
+get	get	VB	FW	aux_or_cop
+hurt	hurt	VBN	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+skateboard	skateboard	JJ	CW	ADJ
+and	and	CC	FW
+ride	ride	VB	CW	VERB
+bikes	bike	NNS	CW	NOUN	ARGUMENT
+outdoors	outdoors	RB	ADV	FW
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cope	cope	VB	CW	VERB
+with	with	IN	FW
+talking	talk	VBG	CW	VERB
+to	to	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+well	well	UH	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+children	child	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+and	and	CC	FW
+skateboard	skateboard	RB	ADV	FW
+in	in	IN	FW
+the	the	DT	FW
+summer	summer	NNP	CW	NOUN	ARGUMENT
+alone	alone	RB	ADV	CW
+without	without	IN	FW
+parental	parental	JJ	CW	ADJ
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+training	training	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+focus	focus	VB	CW	VERB
+to	to	IN	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+ride	ride	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+skateboard	skateboard	RB	ADV	FW
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+even	even	RB	ADV	CW
+scuba	scuba	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+dive	dive	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+outdoors	outdoors	RB	ADV	FW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+invite	invite	VB	CW	VERB
+some	some	DT	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+over	over	RP	FW
+for	for	IN	FW
+some	some	DT	FW
+barbecue	barbecue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+outdoors	outdoors	RB	ADV	FW
+doing	do	VBG	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+snowboarding	snowboarding	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+snowboarding	snowboarding	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+cool	cool	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+spending	spend	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+outdoors	outdoors	RB	ADV	FW
+because	because	IN	FW	SUBORDINATOR
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+snow	snow	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+snowboarding	snowboarding	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+fun	fun	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+playing	play	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+snow	snow	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+outdoor	outdoor	JJ	CW	ADJ
+events	event	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+easter	easter	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+partying	partying	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+hunt	hunt	VB	CW	VERB
+for	for	IN	FW
+easter	easter	NNP	CW	NOUN	ARGUMENT
+eggs	egg	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+easter	easter	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+find	find	VBP	CW	VERB
+eggs	egg	NNS	CW	NOUN	ARGUMENT
+candy	candy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+so	so	RB	ADV	CW
+on	on	RB	ADV	CW
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+outdoor	outdoor	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+clubbing	club	VBG	CW	VERB
+to	to	TO	FW
+chill	chill	VB	CW	VERB
+relax	relax	VB	CW	VERB
+and	and	CC	FW
+relieve	relieve	VB	CW	VERB
+stress	stress	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+outdoors	outdoors	RB	ADV	FW
+during	during	IN	FW
+the	the	DT	FW
+night	night	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+either	either	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+mostly	mostly	RB	ADV	CW
+during	during	IN	FW
+the	the	DT	FW
+summer	summer	NNP	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+parents	parent	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+outdoors	outdoors	RB	ADV	FW
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+bikes	bike	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+eventually	eventually	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+the	the	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+mentioned	mention	VBN	CW	VERB
+above	above	IN	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+a	a	DT	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skateboard	skateboard	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+assist	assist	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+outdoors	outdoors	RB	ADV	FW
+with	with	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+stay	stay	VB	CW	VERB
+home	home	RB	ADV	CW
+alone	alone	RB	ADV	CW
+and	and	CC	FW
+do	do	VB	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+and	and	CC	FW
+teach	teach	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+bikes	bike	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+parents	parent	NNS	CW	NOUN	ARGUMENT
+stay	stay	VBP	CW	VERB
+outdoor	outdoor	JJ	CW	ADJ
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+campsite	campsite	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+smores	smore	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+campfire	campfire	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enjoy	enjoy	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+out	out	RP	FW
+more	more	RBR	ADV	CW
+often	often	RB	ADV	FW
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+snowboard	snowboard	VB	CW	VERB
+skateboard	skateboard	JJ	CW	ADJ
+bike	bike	NN	CW	NOUN	ARGUMENT
+ride	ride	NN	CW	NOUN	ARGUMENT
+rock	rock	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+climb	climb	NN	CW	NOUN	ARGUMENT
+roller	roller	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+skating	skating	NN	CW	NOUN	ARGUMENT
+surfing	surfing	NN	CW	NOUN	ARGUMENT
+camping	camping	NN	CW	NOUN	ARGUMENT
+hiking	hiking	NN	CW	NOUN	ARGUMENT
+scuba	scuba	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+diving	diving	JJ	CW	ADJ
+and	and	CC	FW
+jet	jet	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+skiing	skiing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,571 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+force	force	VB	CW	VERB
+those	those	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+a	a	DT	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+works	work	VBZ	CW	VERB
+so	so	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+force	force	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+like	like	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+classes	class	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+music	music	NN	CW	NOUN	ARGUMENT
+art	art	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+musics	music	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+extra	extra	JJ	CW	ADJ
+activites	activite	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+not	not	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+important	important	JJ	CW	ADJ
+where	where	WRB	FW
+studnets	studnet	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+forced	force	VBN	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+every	every	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+every	every	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+loose	loose	VB	CW	VERB
+interest	interest	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+that	that	DT	FW
+particular	particular	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+rights	rights	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+what	what	WP	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+
+sentence break
+
+schools	schools	NNP	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+are	be	VBP	FW	aux_or_cop
+likable	likable	JJ	CW	ADJ
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+that	that	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+prefer	prefer	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+those	those	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+forced	force	VBN	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+every	every	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+every	every	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+too	too	RB	ADV	CW
+much	much	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+handle	handle	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+elective	elective	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+classes	class	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+arts	art	NNS	CW	NOUN	ARGUMENT
+music	music	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+drama	drama	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+elective	elective	JJ	CW	ADJ
+to	to	TO	FW
+the	the	DT	FW
+studnets	studnet	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+not	not	RB	ADV	CW
+required	require	VBN	CW	VERB
+for	for	IN	FW
+every	every	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+every	every	DT	FW
+classe	classe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+rights	rights	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+what	what	WP	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+force	force	VB	CW	VERB
+those	those	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+
+sentence break
+
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+forcing	force	VBG	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+every	every	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+to	to	TO	FW
+give	give	VB	CW	VERB
+importance	importance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+that	that	DT	FW	PRONOUN
+one	one	CD	FW
+particular	particular	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+
+sentence break
+
+
+paragraph break
+
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+forcing	force	VBG	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+every	every	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+to	to	TO	FW
+give	give	VB	CW	VERB
+importance	importance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+that	that	DT	FW
+one	one	CD	FW
+particular	particular	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+studnet	studnet	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+
+sentence break
+
+studnets	studnet	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+only	only	RB	ADV	CW
+one	one	CD	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+talent	talent	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+that	that	DT	FW
+particular	particular	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+that	that	DT	FW
+particular	particular	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+other	other	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+in	in	IN	FW
+any	any	DT	FW
+particular	particular	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+force	force	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+those	those	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+not	not	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+classes	class	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+arts	art	NNS	CW	NOUN	ARGUMENT
+music	music	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+drama	drama	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+neglect	neglect	NN	CW	NOUN	ARGUMENT
+thoses	those	VBZ	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+the	the	DT	FW
+studnets	studnet	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+forced	force	VBN	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+every	every	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+rights	rights	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+what	what	WP	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+every	every	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+too	too	RB	ADV	CW
+much	much	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+handle	handle	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+to	to	TO	FW
+give	give	VB	CW	VERB
+importance	importance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+that	that	DT	FW	PRONOUN
+one	one	CD	FW
+particular	particular	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+than	than	IN	FW
+to	to	TO	FW
+force	force	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+every	every	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+both	both	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

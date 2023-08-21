@@ -1,0 +1,533 @@
+word	lemma	POS	CW\FW	other categories
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+check	check	VB	CW	VERB
+out	out	RP	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+shop	shop	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+play	play	VB	CW	VERB
+games	game	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+speaking	speak	VBG	CW	VERB
+to	to	TO	FW
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+an	a	DT	FW
+interesting	interesting	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+talking	talk	VBG	CW	VERB
+to	to	TO	FW
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ok	ok	NNP	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+imagine	imagine	VB	CW	VERB
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+let	let	VB	CW	VERB
+see	see	VB	CW	VERB
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+differents	different	NNS	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+medicine	medicine	NN	CW	NOUN	ARGUMENT
+machines	machine	NNS	CW	NOUN	ARGUMENT
+factories	factory	NNS	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+etc.	etc.	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+technology	technology	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+carry	carry	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+causes	cause	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+earth	earth	NNP	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+and	and	CC	FW
+that	that	IN	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+negative	negative	JJ	CW	ADJ
+to	to	TO	FW
+humans	human	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+build	build	VBP	CW	VERB
+factories	factory	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+made	make	VBN	CW	VERB
+more	more	RBR	ADV	CW
+easier	easier	JJR	CW	ADJ
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+those	those	DT	FW
+factories	factory	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+damage	damage	VB	CW	VERB
+the	the	DT	FW
+earth	earth	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+kill	kill	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+so	so	IN	FW	SUBORDINATOR
+the	the	DT	FW
+military	military	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+united	united	NNP	CW	NOUN	ARGUMENT
+states	states	NNPS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+russia	russia	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+potential	potential	JJ	CW	ADJ
+making	make	VBG	CW	VERB
+guns	gun	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+nuclear	nuclear	JJ	CW	ADJ
+bombs	bomb	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+all	all	PDT	FW
+that	that	DT	FW
+potential	potential	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+to	to	TO	FW
+the	the	DT	FW
+earth	earth	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+contamine	contamine	VBD	CW	VERB
+the	the	DT	FW
+air	air	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+toxic	toxic	JJ	CW	ADJ
+for	for	IN	FW
+humans	human	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+for	for	IN	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+scientific	scientific	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+chemicals	chemical	NNS	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+products	product	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+antifreezen	antifreezen	NN	CW	NOUN	ARGUMENT
+clorox	clorox	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+cars	car	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+clean	clean	VB	CW	VERB
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+damage	damage	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+allows	allow	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+many	many	JJ	CW	ADJ
+tasks	task	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+having	have	VBG	CW	VERB
+contact	contact	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+humans	human	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+energy	energy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+survive	survive	VB	CW	VERB
+at	at	IN	FW
+this	this	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+devices	device	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+cel	cel	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+ipod	ipod	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+entertein	entertein	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+during	during	IN	FW
+christmas	christmas	NNS	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+families	family	NNS	CW	NOUN	ARGUMENT
+share	share	VBP	CW	VERB
+special	special	JJ	CW	ADJ
+moments	moment	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	CW	VERB
+together	together	RB	ADV	CW
+one	one	CD	FW
+more	more	JJR	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+80	80	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+families	family	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+christmas	christmas	NNS	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+like	like	IN	FW
+using	use	VBG	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+cel	cel	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+no	no	DT	FW
+speaking	speaking	NN	CW	NOUN	ARGUMENT
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+hard	hard	JJ	CW	ADJ
+reality	reality	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+humans	human	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+have	have	VBP	CW	VERB
+at	at	IN	FW
+this	this	DT	FW
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+zone	zone	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+computers	computer	NNS	CW	NOUN	ARGUMENT
+machines	machine	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+tools	tool	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	CW	VERB
+made	make	VBN	CW	VERB
+as	as	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+easier	easier	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+technology	technology	NNP	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+humans	human	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+survive	survive	VB	CW	VERB
+at	at	IN	FW
+this	this	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+sick	sick	JJ	CW	ADJ
+firts	firt	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+uses	use	VBZ	CW	VERB
+some	some	DT	FW
+tools	tool	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+machines	machine	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+knows	know	VBZ	CW	VERB
+exactly	exactly	RB	ADV	CW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+health	health	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+so	so	RB	ADV	CW
+after	after	IN	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+a	a	DT	FW
+note	note	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+name	name	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+medicine	medicine	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+pharmacy	pharmacy	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+cvs	cv	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+againg	againg	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+sick	sick	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+this	this	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+help	help	VB	CW	VERB
+humas	huma	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+healthy	healthy	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+positive	positive	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

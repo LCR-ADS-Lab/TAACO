@@ -1,0 +1,438 @@
+word	lemma	POS	CW\FW	other categories
+after	after	IN	FW
+reading	read	VBG	CW	VERB
+about	about	IN	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+how	how	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+influences	influence	VBZ	CW	VERB
+other	other	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+on	on	IN	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+agree	agree	VBP	CW	VERB
+wit	wit	NN	CW	NOUN	ARGUMENT
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+lesrn	lesrn	VBP	CW	VERB
+from	from	IN	FW
+seen	see	VBN	CW	VERB
+someonelse	someonelse	NNP	CW	NOUN	ARGUMENT
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+caue	caue	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+got	get	VBN	CW	VERB
+and	and	CC	FW
+a	a	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+brother	brother	NN	CW	NOUN	ARGUMENT
+strived	strive	VBD	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+an	an	DT	FW
+a	a	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+bascilly	bascilly	RB	ADV	FW
+goes	go	VBZ	CW	VERB
+with	with	IN	FW
+alebert	alebert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+''	''	``	FW
+exmaple	exmaple	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+the	the	DT	FW
+in	in	IN	FW
+inflencing	inflence	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+alsot	alsot	VBP	CW	VERB
+hink	hink	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+always	always	RB	ADV	CW
+nned	nne	VBN	CW	VERB
+to	to	TO	FW
+set	set	VB	CW	VERB
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+influenced	influence	VBN	CW	VERB
+sometime	sometime	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+do	do	VB	CW	VERB
+good	good	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+willl	willl	RB	ADV	FW
+never	never	RB	ADV	CW
+know	know	VBP	CW	VERB
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+all	all	PDT	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+honestly	honestly	RB	ADV	CW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+a	a	DT	FW
+a	a	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+think	think	VB	CW	VERB
+about	about	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+brother	brother	NN	CW	NOUN	ARGUMENT
+beein	beein	NN	CW	NOUN	ARGUMENT
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+action	action	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+just	just	RB	ADV	CW
+think	think	VB	CW	VERB
+about	about	IN	FW
+doing	do	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+act	act	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+coming	come	VBG	CW	VERB
+home	home	RB	ADV	CW
+with	with	IN	FW
+an	an	DT	FW
+a	a	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+persaonaly	persaonaly	NNP	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+some	some	DT	FW
+on	on	IN	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+want	want	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+like	like	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+.i	.i	NNP	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+influnce	influnce	NN	CW	NOUN	ARGUMENT
+brings	bring	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+succsion	succsion	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+brings	bring	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+joy	joy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+happyness	happyness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+influnces	influnce	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+look	look	VB	CW	VERB
+mature	mature	JJ	CW	ADJ
+beacuse	beacuse	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+making	make	VBG	CW	VERB
+mature	mature	JJ	CW	ADJ
+decsion	decsion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+make	make	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+closer	close	JJR	CW	ADJ
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+beacuse	beacuse	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+mature	mature	JJ	CW	ADJ
+decison	decison	NNP	CW	NOUN	ARGUMENT
+eveyone	eveyone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+succed	succe	VBN	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+and	and	CC	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+bring	bring	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+name	name	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+instants	instant	NNS	CW	NOUN	ARGUMENT
+oprah	oprah	NNP	CW	NOUN	ARGUMENT
+sha	sha	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+very	very	RB	ADV	CW
+bing	bing	NN	CW	NOUN	ARGUMENT
+influence	influence	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+woman	woman	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+african	african	JJ	CW	ADJ
+american	american	JJ	CW	ADJ
+women	woman	NNS	CW	NOUN	ARGUMENT
+wto	wto	NNP	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+come	come	VBN	CW	VERB
+a	a	DT	FW
+million	million	CD	FW
+air	air	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+brought	bring	VBD	CW	VERB
+a	a	DT	FW
+greayt	greayt	NN	CW	NOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+fredrick	fredrick	JJ	CW	ADJ
+douglass	douglass	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+imnfluence	imnfluence	NN	CW	NOUN	ARGUMENT
+african	african	NNP	CW	NOUN	ARGUMENT
+american	american	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+late	late	JJ	CW	ADJ
+1800	1800	CD	FW
+'s	's	POS	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+african	african	NNP	CW	NOUN	ARGUMENT
+american	american	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+read	read	VB	CW	VERB
+and	and	CC	FW
+right	right	VB	CW	VERB
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+an	an	DT	FW
+office	office	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+before	before	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+agreed	agree	VBD	CW	VERB
+with	with	IN	FW
+mr	mr	NNP	CW	NOUN	ARGUMENT
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+this	this	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+good	good	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+set	set	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+kid	kid	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+hoping	hope	VBG	CW	VERB
+ot	ot	NNP	CW	NOUN	ARGUMENT
+becaome	becaome	VB	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+influencer	influencer	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+oprah	oprah	NNP	CW	NOUN	ARGUMENT
+fredrick	fredrick	VB	CW	VERB
+douglass	douglass	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+many	many	JJ	CW	ADJ
+more	more	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

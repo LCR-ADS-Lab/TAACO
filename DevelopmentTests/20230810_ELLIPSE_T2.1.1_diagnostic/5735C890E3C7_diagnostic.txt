@@ -1,0 +1,315 @@
+word	lemma	POS	CW\FW	other categories
+as	as	RB	ADV	CW
+much	much	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+lazy	lazy	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+support	support	VBP	CW	VERB
+the	the	DT	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+might	might	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+having	have	VBG	CW	VERB
+some	some	DT	FW
+rest	rest	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+but	but	CC	FW
+too	too	RB	ADV	CW
+much	much	JJ	CW	ADJ
+rest	rest	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+phrase	phrase	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+"	"	''	FW
+has	have	VBZ	CW	VERB
+different	different	JJ	CW	ADJ
+meaning	meaning	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+different	different	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+of	of	IN	FW
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+define	define	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+studying	study	VBG	CW	VERB
+or	or	CC	FW
+doing	do	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+doing	do	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+chores	chore	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+for	for	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+jobs	job	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+researching	research	VBG	CW	VERB
+or	or	CC	FW
+even	even	RB	ADV	CW
+helping	help	VBG	CW	VERB
+out	out	RP	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+has	have	VBZ	FW	aux_or_cop
+changed	change	VBN	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+time	time	NN	CW	NOUN	ARGUMENT
+changed	change	VBN	CW	VERB
+long	long	RB	ADV	CW
+before	before	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+worked	work	VBD	CW	VERB
+actively	actively	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+social	social	JJ	CW	ADJ
+medea	medea	NNP	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+computers	computer	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	JJ	CW	ADJ
+emails	email	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+hand	hand	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+nowadays	nowadays	RB	ADV	FW
+almost	almost	RB	ADV	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+sites	site	VBZ	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+let	let	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+has	have	VBZ	CW	VERB
+both	both	CC	FW
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+good	good	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+bad	bad	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+the	the	DT	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+effect	effect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW
+bad	bad	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+brought	bring	VBD	CW	VERB
+health	health	NN	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+diabetics	diabetic	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+so	so	RB	ADV	CW
+on	on	RB	ADV	CW
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+working	work	VBG	CW	VERB
+out	out	RP	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+works	work	VBZ	CW	VERB
+actively	actively	RB	ADV	CW
+towards	towards	IN	FW
+achieving	achieve	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want(if	want(if	MD	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+realistic	realistic	JJ	CW	ADJ
+of	of	IN	FW
+course	course	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+some	some	DT	FW
+famous	famous	JJ	CW	ADJ
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+stephen	stephen	NNP	CW	NOUN	ARGUMENT
+hawkins	hawkins	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+edison	edison	NNP	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+worked	work	VBD	CW	VERB
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+night	night	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+prove	prove	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+society	society	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+these	these	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+changed	change	VBD	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+living	live	VBG	CW	VERB
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+having	having	VBG	FW	aux_or_cop
+said	say	VBD	CW	VERB
+all	all	PDT	FW
+this	this	DT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+such	such	PDT	FW
+a	a	DT	FW
+lazy	lazy	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+completely	completely	RB	ADV	CW
+agrees	agree	VBZ	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+so	so	RB	ADV	CW	SUBORDINATOR
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+please	please	UH	FW
+do	do	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+lazy	lazy	JJ	CW	ADJ
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+so	so	RB	ADV	CW
+get	get	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

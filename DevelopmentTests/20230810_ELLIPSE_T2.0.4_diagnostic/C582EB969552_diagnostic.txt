@@ -1,0 +1,809 @@
+word	lemma	POS	CW\FW	other categories
+once	once	RB	ADV	CW
+i	i	FW	FW
+got	get	VBD	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+visiting	visit	VBG	CW	VERB
+the	the	DT	FW
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+what	what	WP	FW
+should	should	MD	FW	aux_or_cop
+i	i	FW	FW
+do	do	VBP	CW	VERB
+to	to	TO	FW
+cheer	cheer	VB	CW	VERB
+up	up	RP	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+full	full	JJ	CW	ADJ
+one	one	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+why	why	WRB	FW
+not	not	RB	ADV	CW
+buy	buy	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+presents	present	VBZ	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+on	on	IN	FW	SUBORDINATOR
+sunday	sunday	NNP	CW	NOUN	ARGUMENT
+i	i	FW	FW
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+nike	nike	NNP	CW	NOUN	ARGUMENT
+shoe	shoe	NN	CW	NOUN	ARGUMENT
+store	store	NN	CW	NOUN	ARGUMENT
+walmart	walmart	NNP	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+shoppers	shopper	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	FW	FW
+got	get	VBD	CW	VERB
+there	there	EX	FW
+at	at	IN	FW
+walmart	walmart	NNP	CW	NOUN	ARGUMENT
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+''	''	''	FW
+what	what	WP	FW
+should	should	MD	FW	aux_or_cop
+i	i	FW	FW
+get	get	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+mom	mom	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+dad	dad	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+while	while	IN	FW	SUBORDINATOR
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+i	i	FW	FW
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+nike	nike	NNP	CW	NOUN	ARGUMENT
+store	store	NN	CW	NOUN	ARGUMENT
+next	next	IN	FW
+to	to	TO	FW
+walmart	walmart	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+brother	brother	NN	CW	NOUN	ARGUMENT
+air	air	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+that	that	IN	FW	PRONOUN
+cost	cost	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+$	$	$	FW
+299	299	CD	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+why	why	WRB	FW
+am	am	RB	ADV	CW
+i	i	FW	FW
+spending	spend	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+expensive	expensive	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	FW	FW
+went	go	VBD	CW	VERB
+to	to	TO	FW
+target	target	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+$	$	$	FW
+50	50	CD	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+gift	gift	NN	CW	NOUN	ARGUMENT
+card	card	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+brother	brother	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+in	in	IN	FW
+total	total	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+cost	cost	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+$	$	$	FW
+100	100	CD	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	FW	FW
+went	go	VBD	CW	VERB
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+balloons	balloon	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+``	``	``	FW
+god	god	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+here	here	RB	ADV	CW
+to	to	TO	FW
+protect	protect	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+right	right	RB	ADV	CW
+after	after	IN	FW
+i	i	FW	FW
+went	go	VBD	CW	VERB
+back	back	RB	ADV	CW
+to	to	TO	FW
+walmart	walmart	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+a	a	DT	FW
+vase	vase	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+cost	cost	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+$	$	$	FW
+42	42	CD	FW
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	FW	FW
+went	go	VBD	CW	VERB
+to	to	TO	FW
+shoppers	shopper	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+flowers	flower	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+cost	cost	VBD	CW	VERB
+$	$	$	FW
+40	40	CD	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+got	get	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+flowers	flower	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+put	put	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+vase	vase	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+on	on	IN	FW
+monday	monday	NNP	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+give	give	VB	CW	VERB
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+gifts	gift	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	JJ	CW	ADJ
+i	i	FW	FW
+give	give	VB	CW	VERB
+the	the	DT	FW
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+older	older	JJR	CW	ADJ
+brother	brother	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+seems	seem	VBZ	CW	VERB
+really	really	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	FW	FW
+give	give	VB	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+gift	gift	NN	CW	NOUN	ARGUMENT
+card	card	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+as	as	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+brother	brother	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	FW	FW
+gave	give	VBD	CW	VERB
+the	the	DT	FW
+mom	mom	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+vase	vase	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+flowers	flower	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+was	be	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	LS	FW
+say	say	VBP	CW	VERB
+almost	almost	RB	ADV	FW
+about	about	RB	ADV	CW
+432	432	CD	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+felt	feel	VBD	CW	VERB
+bad	bad	JJ	CW	ADJ
+at	at	IN	FW
+first	first	JJ	CW	ADJ
+but	but	CC	FW
+i	i	FW	FW
+told	tell	VBD	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+i	i	FW	FW
+had	have	VBD	CW	VERB
+more	more	JJR	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	FW	FW
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+the	the	DT	FW
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+give	give	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+balloons	balloon	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+thank	thank	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+bless	bless	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+happy	happy	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+where	where	WRB	FW
+in	in	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+a	a	DT	FW
+act	act	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+closes	close	VBZ	CW	VERB
+friend	friend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+gon	gon	VBG	CW	VERB
+na	na	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+then	then	RB	ADV	CW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+called	call	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+front	front	JJ	CW	ADJ
+office	office	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pick	pick	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+up	up	RP	FW
+
+sentence break
+
+i	i	LS	FW
+said	say	VBD	CW	VERB
+to	to	TO	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+going	go	VBG	CW	VERB
+on	on	IN	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+``	``	``	FW
+i	i	FW	FW
+dont	dont	FW	FW
+know	know	VB	CW	VERB
+''	''	''	FW
+
+sentence break
+
+soon	soon	RB	ADV	CW
+after	after	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+didnt	didnt	VB	CW	VERB
+came	come	VBD	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+four	four	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+worried	worried	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+okay	okay	JJ	CW	ADJ
+
+sentence break
+
+i	i	LS	FW
+called	call	VBN	CW	VERB
+to	to	TO	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+answer	answer	VB	CW	VERB
+
+sentence break
+
+until	until	IN	FW
+monday	monday	NNP	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+came	come	VBD	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+looking	look	VBG	CW	VERB
+sad	sad	JJ	CW	ADJ
+i	i	FW	FW
+said	say	VBD	CW	VERB
+``	``	``	FW
+what	what	WP	FW
+happen	happen	VB	CW	VERB
+''	''	''	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+very	very	RB	ADV	CW
+ill	ill	JJ	CW	ADJ
+and	and	CC	FW
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+felt	feel	VBD	CW	VERB
+sad	sad	JJ	CW	ADJ
+too	too	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+was	be	VBD	CW	VERB
+like	like	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+been	be	VBN	FW	aux_or_cop
+treating	treat	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+grandson	grandson	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+soon	soon	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+took	take	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+okay	okay	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+believes	believe	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+act	act	VBP	CW	VERB
+of	of	IN	FW
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+happen	happen	VB	CW	VERB
+to	to	TO	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+once	once	RB	ADV	CW
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+in	in	IN	FW
+2017	2017	CD	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+ready	ready	JJ	CW	ADJ
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+middle	middle	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	CW	VERB
+excited	excite	VBN	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	CW	VERB
+excited	excite	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+moved	move	VBD	CW	VERB
+3	3	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+in	in	IN	FW
+third	third	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+sad	sad	JJ	CW	ADJ
+at	at	IN	FW
+first	first	JJ	CW	ADJ
+but	but	CC	FW
+until	until	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+move	move	VBP	CW	VERB
+not	not	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+far	far	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+weekends	weekend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+gon	gon	VBG	CW	VERB
+na	na	TO	FW
+see	see	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+
+sentence break
+
+when	when	WRB	FW
+i	i	FW	FW
+got	get	VBD	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+see	see	VB	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+far	far	RB	ADV	CW
+distance	distance	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+start	start	VB	CW	VERB
+running	run	VBG	CW	VERB
+to	to	TO	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+like	like	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+seen	see	VBN	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+before	before	IN	FW
+for	for	IN	FW
+a	a	DT	FW
+very	very	RB	ADV	CW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+learning	learn	VBG	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	LS	FW
+was	be	VBD	FW	aux_or_cop
+crying	cry	VBG	CW	VERB
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	PRONOUN
+
+sentence break
+
+so	so	RB	ADV	CW
+after	after	IN	FW	SUBORDINATOR
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+church	church	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pray	pray	VB	CW	VERB
+and	and	CC	FW
+pray	pray	VB	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+got	get	VBD	FW	aux_or_cop
+pick	pick	VB	CW	VERB
+up	up	RP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+news	news	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+live	live	VB	CW	VERB
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+party	party	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	FW	FW
+present	present	JJ	CW	ADJ
+the	the	DT	FW
+act	act	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+got	get	VBD	FW	aux_or_cop
+a	a	DT	FW
+easy	easy	JJ	CW	ADJ
+``	``	``	FW
+a	a	DT	FW
+``	``	``	FW
+so	so	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+story	story	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+act	act	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

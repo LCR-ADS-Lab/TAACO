@@ -1,0 +1,467 @@
+word	lemma	POS	CW\FW	other categories
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+leaning	lean	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+show	show	VB	CW	VERB
+manners	manners	NNS	CW	NOUN	ARGUMENT
+outside	outside	IN	FW
+and	and	CC	FW
+inside	inside	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+elementary	elementary	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+world	world	NN	CW	NOUN	ARGUMENT
+wide	wide	JJ	CW	ADJ
+so	so	RB	ADV	CW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+outside	outside	IN	FW
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+treating	treat	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+with	with	IN	FW
+respect	respect	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+when	when	WRB	FW
+i	i	FW	FW
+was	be	VBD	CW	VERB
+in	in	IN	FW
+elementary	elementary	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+treat	treat	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+respect	respect	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+respected	respect	VBN	CW	VERB
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+teachers	teachers	NNPS	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+tell	tell	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+this	this	DT	FW
+today	today	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+true	true	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+treated	treat	VBN	CW	VERB
+with	with	IN	FW
+respect	respect	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+treat	treat	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+in	in	IN	FW	SUBORDINATOR
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+call	call	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+names	name	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+fight	fight	VB	CW	VERB
+with	with	IN	FW
+one	one	CD	FW
+another	another	DT	FW
+
+sentence break
+
+make	make	VB	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+that	that	DT	FW
+new	new	JJ	CW	ADJ
+manners	manners	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+i	i	FW	FW
+bet	bet	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+have	have	VB	CW	VERB
+good	good	JJ	CW	ADJ
+manners	manners	NNS	CW	NOUN	ARGUMENT
+outside	outside	IN	FW
+and	and	CC	FW
+inside	inside	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+good	good	JJ	CW	ADJ
+manners	manners	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+helping	help	VBG	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+or	or	CC	FW
+younger	younger	JJR	CW	ADJ
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+struggle	struggle	VBP	CW	VERB
+with	with	IN	FW
+like	like	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+nice	nice	JJ	CW	ADJ
+to	to	TO	FW
+help	help	VB	CW	VERB
+an	a	DT	FW
+elder	elder	JJR	CW	ADJ
+carry	carry	VBP	CW	VERB
+there	there	EX	FW
+food	food	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+there	there	EX	FW
+car	car	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+house	house	NN	CW	NOUN	ARGUMENT
+making	make	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+grandparents	grandparent	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+breakfast	breakfast	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+going	go	VBG	CW	VERB
+out	out	RP	FW
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+grandparent	grandparent	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+grandparents	grandparent	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+paying	pay	VBG	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+kind	kind	JJ	CW	ADJ
+and	and	CC	FW
+shows	show	VBZ	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+manners	manners	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+saying	say	VBG	CW	VERB
+kind	kind	NN	CW	NOUN	ARGUMENT
+words	word	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+one	one	CD	FW
+another	another	DT	FW
+is	be	VBZ	FW	aux_or_cop
+another	another	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+show	show	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+manners	manners	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+saying	say	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+morning	morning	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+good	good	JJ	CW	ADJ
+afternoon	afternoon	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+making	make	VBG	CW	VERB
+friendly	friendly	JJ	CW	ADJ
+conversations	conversation	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+complementing	complement	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+saying	say	VBG	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+personality	personality	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+saying	say	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+spending	spending	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+dropped	drop	VBD	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+pencil	pencil	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+another	another	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+picks	pick	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+up	up	RP	FW
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+gives	give	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+manners	manners	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+by	by	IN	FW
+saying	say	VBG	CW	VERB
+thank	thank	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+buy	buy	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+candy	candy	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+whatever	whatever	WDT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+bought	buy	VBD	CW	VERB
+back	back	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+thank	thank	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+showing	show	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+manners	manners	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+imagine	imagine	VB	CW	VERB
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+invite	invite	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+anywhere	anywhere	RB	ADV	FW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+manners	manners	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+new	new	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+good	good	JJ	CW	ADJ
+manners	manners	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+manners	manners	NNS	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+expand	expand	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+memories	memory	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+elementary	elementary	NNP	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+\	\	IN	FW
+
+sentence break
+
+
+paragraph break
+

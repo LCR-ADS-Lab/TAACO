@@ -1,0 +1,363 @@
+word	lemma	POS	CW\FW	other categories
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+came	come	VBN	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+past	past	JJ	CW	ADJ
+hundreds	hundred	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+made	make	VBN	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+possible	possible	JJ	CW	ADJ
+for	for	IN	FW
+us	us	NNP	CW	NOUN	ARGUMENT
+humans	human	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+a	a	DT	FW
+man	man	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+moon	moon	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+has	have	VBZ	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+pros	pro	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+cons	con	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+us	us	NNP	CW	NOUN	ARGUMENT
+as	as	IN	FW
+humans	human	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+depending	depend	VBG	CW	VERB
+on	on	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+much	much	RB	ADV	CW
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+buy	buy	VB	CW	VERB
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+buying	buy	VBG	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+having	have	VBG	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+made	make	VBN	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+online	online	RB	ADV	FW
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+sitting	sit	VBG	CW	VERB
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+couch	couch	NN	CW	NOUN	ARGUMENT
+pull	pull	VB	CW	VERB
+out	out	RP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+order	order	NN	CW	NOUN	ARGUMENT
+bananas	banana	NNS	CW	NOUN	ARGUMENT
+hammers	hammer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+eagles	eagle	NNS	CW	NOUN	ARGUMENT
+beak	beak	VBP	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+drone	drone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+fly	fly	VB	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+deliver	deliver	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+right	right	RB	ADV	CW
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+door	door	NN	CW	NOUN	ARGUMENT
+step	step	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+leave	leave	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+houses	house	NNS	CW	NOUN	ARGUMENT
+anymore	anymore	RB	ADV	FW
+or	or	CC	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+because	because	IN	FW	SUBORDINATOR
+of	of	IN	FW
+the	the	DT	FW
+use	use	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+even	even	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+leave	leave	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+anymore	anymore	RB	ADV	FW
+to	to	TO	FW
+see	see	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+pull	pull	VB	CW	VERB
+out	out	RP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+live	live	JJ	CW	ADJ
+video	video	NN	CW	NOUN	ARGUMENT
+chat	chat	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+leave	leave	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+houses	house	NNS	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+but	but	CC	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+humans	human	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+human	human	JJ	CW	ADJ
+interaction	interaction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+without	without	IN	FW
+having	have	VBG	CW	VERB
+to	to	TO	FW
+leave	leave	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+houses	house	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+travel	travel	VB	CW	VERB
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+meet	meet	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+soul	soul	NN	CW	NOUN	ARGUMENT
+mate	mate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+sort	sort	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+making	make	VBG	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+ways	way	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+helping	help	VBG	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+transportation	transportation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+constructing	construct	VBG	CW	VERB
+buildings	building	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+the	the	DT	FW
+limitation	limitation	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+human	human	JJ	CW	ADJ
+contact	contact	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+due	due	JJ	CW	ADJ
+to	to	IN	FW
+the	the	DT	FW
+use	use	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+stop	stop	VB	CW	VERB
+depending	depend	VBG	CW	VERB
+on	on	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+simple	simple	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+stop	stop	VB	CW	VERB
+before	before	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+becomes	become	VBZ	CW	VERB
+normal	normal	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+these	these	DT	FW	PRONOUN
+sorts	sort	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

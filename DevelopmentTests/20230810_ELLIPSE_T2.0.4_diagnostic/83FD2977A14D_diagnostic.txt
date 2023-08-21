@@ -1,0 +1,282 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+prompt	prompt	VBP	CW	VERB
+on	on	IN	FW
+how	how	WRB	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+everyday	everyday	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+do	do	VB	CW	VERB
+new	new	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+task	task	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+tend	tend	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+gets	get	VBZ	CW	VERB
+hire	hire	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+mostly	mostly	RB	ADV	CW
+likely	likely	JJ	CW	ADJ
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+in	in	IN	FW
+that	that	DT	FW
+same	same	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+working	work	VBG	CW	VERB
+there	there	RB	ADV	CW
+for	for	IN	FW
+so	so	RB	ADV	CW
+long	long	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+master	master	NN	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+some	some	DT	FW
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+above	above	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+grow	grow	VB	CW	VERB
+and	and	CC	FW
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+a	a	DT	FW
+other	other	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+task	task	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+an	a	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+the	the	DT	FW
+name	name	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+``	``	``	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+''	''	''	FW
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+other	other	JJ	CW	ADJ
+do	do	VBP	CW	VERB
+n't	not	RB	ADV	CW
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+first	first	RB	ADV	CW
+start	start	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+pizza	pizza	NNP	CW	NOUN	ARGUMENT
+hut	hut	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+no	no	DT	FW
+clue	clue	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+coworker	coworker	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+teaching	teach	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+super	super	JJ	CW	ADJ
+fast	fast	JJ	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+a	a	DT	FW
+hang	hang	VB	CW	VERB
+of	of	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+months	month	NNS	CW	NOUN	ARGUMENT
+past	past	JJ	CW	ADJ
+by	by	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+to	to	TO	FW
+use	use	VB	CW	VERB
+the	the	DT	FW
+cash	cash	NN	CW	NOUN	ARGUMENT
+draw	draw	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+by	by	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+by	by	IN	FW
+seeing	see	VBG	CW	VERB
+how	how	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+coworker	coworker	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+mostly	mostly	RB	ADV	CW
+likey	likey	VB	CW	VERB
+the	the	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+tend	tend	VBP	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+everyday	everyday	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

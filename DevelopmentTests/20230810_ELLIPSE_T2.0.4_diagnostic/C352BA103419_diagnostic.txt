@@ -1,0 +1,482 @@
+word	lemma	POS	CW\FW	other categories
+lets	let	VBZ	CW	VERB
+see	see	VB	CW	VERB
+how	how	WRB	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+d	d	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+f	f	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+report	report	NN	CW	NOUN	ARGUMENT
+card	card	NN	CW	NOUN	ARGUMENT
+cover	cover	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+got	get	VBD	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	FW	aux_or_cop
+blow	blow	VB	CW	VERB
+the	the	DT	FW
+grades	grade	NNS	CW	NOUN	ARGUMENT
+theist	theist	IN	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+trues	true	VBZ	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+game	game	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	DT	FW
+if	if	IN	FW	SUBORDINATOR
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+talked	talk	VBN	CW	VERB
+to	to	TO	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+rs	r	VBZ	CW	VERB
+pones	pone	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	CW	VERB
+stat	stat	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+let	let	VB	CW	VERB
+harder	harder	JJR	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+now	now	RB	ADV	CW
+
+sentence break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+prensbol	prensbol	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+talk	talk	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+look	look	VB	CW	VERB
+a	a	DT	FW
+generic_name	generic_name	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+shod	shoe	VBD	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+god	god	NN	CW	NOUN	ARGUMENT
+gels	gel	NNS	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+but	but	CC	FW
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+talked	talk	VBD	CW	VERB
+to	to	TO	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+how	how	WRB	FW
+did	do	VBD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+this	this	DT	FW
+grades	grade	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+sad	sad	JJ	CW	ADJ
+by	by	IN	FW
+prate	prate	JJ	CW	ADJ
+sing	sing	VB	CW	VERB
+and	and	CC	FW
+working	work	VBG	CW	VERB
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+outside	outside	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+teach	teach	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+
+sentence break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+so	so	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+up	up	RB	ADV	CW
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+became	become	VBD	CW	VERB
+best	best	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+secssful	secssful	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+two	two	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+two	two	CD	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+all	all	DT	FW
+of	of	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+4	4	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+middle	middle	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+a	a	DT	FW
+roll	roll	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+semester	semester	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+4	4	CD	FW
+semesters	semester	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	JJ	CW	ADJ
+trues	true	NNS	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+hard	hard	RB	ADV	CW
+in	in	IN	FW
+all	all	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+care	care	VB	CW	VERB
+about	about	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+math	math	NN	CW	NOUN	ARGUMENT
+reading	reading	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+writhing	writhe	VBG	CW	VERB
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+prates	prate	VBZ	CW	VERB
+every	every	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+good	good	JJ	CW	ADJ
+actions	action	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+helpful	helpful	JJ	CW	ADJ
+in	in	IN	FW
+most	most	JJS	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+good	good	JJ	CW	ADJ
+altered	alter	VBN	CW	VERB
+can	can	MD	FW	aux_or_cop
+led	lead	VBD	CW	VERB
+to	to	TO	FW
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+relshenship	relshenship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+these	these	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+use	use	VB	CW	VERB
+thins	thin	NNS	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+there	there	EX	FW
+life	life	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+easel	easel	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+any	any	DT	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+seccuseful	seccuseful	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+for	for	IN	FW
+other	other	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+other	other	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+sowing	sowing	NN	CW	NOUN	ARGUMENT
+them	they	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+good	good	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+this	this	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

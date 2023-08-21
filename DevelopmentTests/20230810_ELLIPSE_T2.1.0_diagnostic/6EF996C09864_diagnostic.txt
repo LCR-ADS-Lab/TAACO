@@ -1,0 +1,378 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+cool	cool	JJ	CW	ADJ
+be	be	NN	CW	NOUN	ARGUMENT
+writer	writer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+th	th	JJS	CW	ADJ
+worl	worl	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+auhors	auhor	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+very	very	RB	ADV	CW
+much	much	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+exist	exist	VBP	CW	VERB
+much	much	JJ	CW	ADJ
+writers	writer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+having	have	VBG	CW	VERB
+books	book	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+to	to	TO	FW
+read	read	VB	CW	VERB
+all	all	DT	FW
+needs	need	VBZ	CW	VERB
+books	book	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+inspirations	inspiration	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+like	like	UH	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+luris	luris	NNP	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unique	unique	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+much	much	RB	ADV	CW
+think	think	VB	CW	VERB
+in	in	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+the	the	DT	FW
+else	else	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+built	build	VBN	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+fine	fine	VB	CW	VERB
+the	the	DT	FW
+happen	happen	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+try	try	VBP	CW	VERB
+to	to	TO	FW
+apply	apply	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+altogether	altogether	RB	ADV	FW
+with	with	IN	FW
+different	different	JJ	CW	ADJ
+expresion	expresion	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+happy	happy	JJ	CW	ADJ
+active	active	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+accurate	accurate	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+too	too	RB	ADV	CW
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+theme	theme	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+constanly	constanly	RB	ADV	FW
+triying	triying	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greastest	greastest	NN	CW	NOUN	ARGUMENT
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+theme	theme	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+for	for	IN	FW
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+much	much	JJ	CW	ADJ
+are	be	VBP	FW	aux_or_cop
+sentences	sentence	NNS	CW	NOUN	ARGUMENT
+small	small	JJ	CW	ADJ
+but	but	CC	FW
+is	be	VBZ	FW	aux_or_cop
+interesting	interesting	JJ	CW	ADJ
+are	be	VBP	FW	aux_or_cop
+word	word	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+go	go	NN	CW	NOUN	ARGUMENT
+ahead	ahead	RB	ADV	FW
+for	for	IN	FW
+demontrate	demontrate	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+energy	energy	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+all	all	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+theme	theme	NN	CW	NOUN	ARGUMENT
+muy	muy	NN	CW	NOUN	ARGUMENT
+interesting	interesting	JJ	CW	ADJ
+like	like	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+segment	segment	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+transmit	transmit	VBP	CW	VERB
+securiy	securiy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+joy	joy	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+soul	soul	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+persons	person	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+feel	feel	VBP	CW	VERB
+less	less	JJR	CW	ADJ
+than	than	IN	FW
+that	that	DT	FW	PRONOUN
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+agurmen	agurman	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+texbook	texbook	VBD	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+transmit	transmit	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+vibes	vibe	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+exist	exist	VBP	CW	VERB
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+understand	understand	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+care	care	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+theme	theme	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+video	video	NN	CW	NOUN	ARGUMENT
+game	game	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	DT	FW
+insignificant	insignificant	JJ	CW	ADJ
+over	over	RB	ADV	CW
+there	there	RB	ADV	CW
+take	take	VB	CW	VERB
+a	a	DT	FW
+very	very	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+conduct	conduct	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+to	to	TO	FW
+read	read	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+to	to	TO	FW
+silence	silence	VB	CW	VERB
+after	after	IN	FW	SUBORDINATOR
+to	to	TO	FW
+know	know	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+and	and	CC	FW
+counsel	counsel	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+circle	circle	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+all	all	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+to	to	IN	FW
+living	living	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+good	good	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

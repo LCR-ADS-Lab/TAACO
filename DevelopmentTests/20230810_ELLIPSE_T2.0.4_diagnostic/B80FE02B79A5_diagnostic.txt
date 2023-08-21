@@ -1,0 +1,565 @@
+word	lemma	POS	CW\FW	other categories
+dear	dear	NNP	CW	NOUN	ARGUMENT
+manager	manager	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+hospital	hospital	NNP	CW	NOUN	ARGUMENT
+a	a	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+doctors	doctor	NNS	CW	NOUN	ARGUMENT
+surgeons	surgeon	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+nurses	nurse	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+occupations	occupation	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+hospitals	hospital	NNS	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+save	save	VB	CW	VERB
+many	many	JJ	CW	ADJ
+lives	life	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+desired	desire	VBN	CW	VERB
+by	by	IN	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	CW	VERB
+partnerships	partnership	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+a	a	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+selected	select	VBN	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+hospital	hospital	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+through	through	IN	FW
+an	a	DT	FW
+internships	internship	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+shadowing	shadow	VBG	CW	VERB
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+surgeon	surgeon	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+leader	leader	NN	CW	NOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+under	under	IN	FW
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+becoming	become	VBG	CW	VERB
+a	a	DT	FW
+surgeon	surgeon	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+motivates	motivate	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+to	to	TO	FW
+mention	mention	VB	CW	VERB
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+excellent	excellent	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+confident	confident	JJ	CW	ADJ
+and	and	CC	FW
+ambitious	ambitious	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+how	how	WRB	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+surgeon	surgeon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+good	good	JJ	CW	ADJ
+projects	project	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+wishing	wish	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+hired	hire	VBN	CW	VERB
+by	by	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+hospitals	hospital	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+required	require	VBN	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+surgeon	surgeon	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+required	require	VBD	CW	VERB
+skills	skill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+doctors	doctor	NNS	CW	NOUN	ARGUMENT
+surgeons	surgeon	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+nurses	nurse	NNS	CW	NOUN	ARGUMENT
+required	require	VBD	CW	VERB
+a	a	DT	FW
+large	large	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+dedications	dedication	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hard	hard	JJ	CW	ADJ
+works	work	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	CW	VERB
+in	in	IN	FW
+this	this	DT	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+select	select	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+in	in	IN	FW
+here	here	RB	ADV	CW
+without	without	IN	FW
+examine	examine	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+profiles	profile	NNS	CW	NOUN	ARGUMENT
+carefully	carefully	RB	ADV	CW
+
+sentence break
+
+however	however	RB	ADV	FW
+this	this	DT	FW
+internship	internship	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+provide	provide	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+an	a	DT	FW
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+surgeon	surgeon	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+save	save	VB	CW	VERB
+a	a	DT	FW
+million	million	CD	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+student	student	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+overall	overall	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+desire	desire	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+surgeon	surgeon	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+cooperative	cooperative	JJ	CW	ADJ
+and	and	CC	FW
+a	a	DT	FW
+personality	personality	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+helps	help	VBZ	CW	VERB
+to	to	TO	FW
+figure	figure	VB	CW	VERB
+out	out	RP	FW
+the	the	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+needed	need	VBN	CW	VERB
+are	be	VBP	CW	VERB
+hoped	hope	VBN	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+selected	select	VBN	CW	VERB
+by	by	IN	FW
+manager	manager	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+a	a	NN	CW	NOUN	ARGUMENT
+through	through	IN	FW
+an	a	DT	FW
+internship	internship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wish	wish	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+consider	consider	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+right	right	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+select	select	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+though	though	NNP	CW	NOUN	ARGUMENT
+surgeons	surgeon	NNS	CW	NOUN	ARGUMENT
+require	require	VBP	CW	VERB
+skills	skill	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+normal	normal	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+train	train	VB	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+however	however	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+confident	confident	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+leadership	leadership	NN	CW	NOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+master	master	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+partners	partner	NNS	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+leadership	leadership	NN	CW	NOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+cooperation	cooperation	NN	CW	NOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+master	master	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+easily	easily	RB	ADV	FW
+control	control	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+being	be	VBG	FW	aux_or_cop
+cooperative	cooperative	JJ	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+addressed	address	VBD	CW	VERB
+the	the	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+above	above	IN	FW
+this	this	DT	FW
+internship	internship	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+before	before	IN	FW
+become	become	VBN	CW	VERB
+a	a	DT	FW
+surgeon	surgeon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+surgeon	surgeon	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+and	and	CC	FW
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+cases	case	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+up	up	RP	FW
+to	to	TO	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW
+a	a	DT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+under	under	IN	FW
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+used	use	VBN	CW	VERB
+to	to	TO	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+adapting	adapt	VBG	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+environment	environment	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+only	only	RB	ADV	CW
+a	a	DT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+young	young	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+used	use	VBD	CW	VERB
+to	to	TO	FW
+mess	mess	NN	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+up	up	RP	FW
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hesitated	hesitate	VBD	CW	VERB
+and	and	CC	FW
+felt	feel	VBD	CW	VERB
+stressed	stressed	JJ	CW	ADJ
+about	about	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	CD	FW
+understand	understand	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+being	be	VBG	FW	aux_or_cop
+calm	calm	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+deal	deal	VB	CW	VERB
+with	with	IN	FW
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

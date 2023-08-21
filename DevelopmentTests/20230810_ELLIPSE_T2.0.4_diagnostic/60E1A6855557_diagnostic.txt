@@ -1,0 +1,166 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+at	at	IN	FW
+school_name	school_name	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+perform	perform	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+out	out	RP	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+for	for	IN	FW
+extra	extra	JJ	CW	ADJ
+credit	credit	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+how	how	WRB	FW
+responsible	responsible	JJ	CW	ADJ
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+
+sentence break
+
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+many	many	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+cities	city	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+part	part	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	FW	FW
+know	know	VBP	CW	VERB
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+from	from	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+getting	get	VBG	CW	VERB
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+joining	join	VBG	CW	VERB
+gangs	gang	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+hurt	hurt	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+that	that	DT	FW
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+live	live	VBP	CW	VERB
+here	here	RB	ADV	CW
+at	at	IN	FW
+school_name	school_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+strong	strong	JJ	CW	ADJ
+and	and	CC	FW
+good	good	JJ	CW	ADJ
+impacts	impact	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+location_name	location_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+teacher_name	teacher_name	NNP	CW	NOUN	ARGUMENT
+_	_	CD	FW
+x000d	x000d	NN	CW	NOUN	ARGUMENT
+_	_	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+_	_	NN	CW	NOUN	ARGUMENT
+x000d	x000d	NN	CW	NOUN	ARGUMENT
+_	_	CD	FW
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,601 @@
+word	lemma	POS	CW\FW	other categories
+many	many	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+partnerships	partnership	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+local	local	JJ	CW	ADJ
+companies	company	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+explore	explore	VB	CW	VERB
+certain	certain	JJ	CW	ADJ
+professions	profession	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+qualities	quality	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+business	business	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+helping	help	VBG	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+give	give	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+brains	brain	NNS	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+having	have	VBG	CW	VERB
+a	a	DT	FW
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+much	much	RB	ADV	CW
+easier	easy	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+members	member	NNS	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+when	when	WRB	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+needed	need	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easier	easy	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+business	business	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+work	work	VB	CW	VERB
+out	out	RP	FW
+then	then	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+the	the	DT	FW
+risk	risk	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+taking	take	VBG	CW	VERB
+the	the	DT	FW
+risk	risk	NN	CW	NOUN	ARGUMENT
+alone	alone	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+as	as	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+as	as	IN	FW
+touching	touch	VBG	CW	VERB
+the	the	DT	FW
+clouds	cloud	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+risk	risk	NN	CW	NOUN	ARGUMENT
+alone	alone	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+horrible	horrible	JJ	CW	ADJ
+for	for	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+causes	cause	VBZ	CW	VERB
+living	live	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+street	street	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+losing	lose	VBG	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+live	live	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+so	so	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+risk	risk	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+lose	lose	VB	CW	VERB
+all	all	PDT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+
+sentence break
+
+plus	plus	CC	FW
+not	not	RB	ADV	CW
+working	work	VBG	CW	VERB
+alone	alone	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+alone	alone	RB	ADV	CW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+
+paragraph break
+
+sharing	share	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+about	about	IN	FW
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+sharing	share	VBG	CW	VERB
+the	the	DT	FW
+risks	risk	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+sharing	share	VBG	CW	VERB
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+sharing	share	VBG	CW	VERB
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+profit	profit	NN	CW	NOUN	ARGUMENT
+better	well	RBR	ADV	CW
+
+sentence break
+
+sharing	share	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+the	the	DT	FW
+business	business	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yes	yes	UH	FW
+sharing	sharing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+business	business	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+about	about	IN	FW
+loneliness	loneliness	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+about	about	IN	FW
+happiness	happiness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+alone	alone	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+boring	boring	JJ	CW	ADJ
+but	but	CC	FW
+by	by	IN	FW
+talking	talk	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+members	member	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+really	really	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+
+sentence break
+
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+members	member	NNS	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+much	much	RB	ADV	CW
+more	more	JJR	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+all	all	DT	FW
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+about	about	IN	FW
+is	be	VBZ	FW	aux_or_cop
+trust	trust	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+happiness	happiness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+thinks	think	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+business	business	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+helpful	helpful	JJ	CW	ADJ
+at	at	RB	ADV	FW
+all	all	RB	ADV	CW
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+helpful	helpful	JJ	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+members	member	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+along	along	RP	FW
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+and	and	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+business	business	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+break	break	VB	CW	VERB
+down	down	RP	FW
+
+sentence break
+
+getting	get	VBG	CW	VERB
+along	along	RP	FW
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+takes	take	VBZ	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+picking	pick	VBG	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+business	business	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+needed	need	VBN	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+thinks	think	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+wrong	wrong	JJ	CW	ADJ
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+points	point	NNS	CW	NOUN	ARGUMENT
+though	though	RB	ADV	CW
+
+sentence break
+
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+about	about	IN	FW
+learning	learn	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+business	business	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+a	a	DT	FW
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+local	local	JJ	CW	ADJ
+companies	company	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+plus	plus	CC	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+partnership	partnership	NN	CW	NOUN	ARGUMENT
+business	business	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+much	much	RB	ADV	CW
+easier	easy	JJR	CW	ADJ
+and	and	CC	FW
+
+sentence break
+
+
+paragraph break
+
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+the	the	DT	FW
+risk	risk	NN	CW	NOUN	ARGUMENT
+alone	alone	RB	ADV	CW
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+qualities	quality	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

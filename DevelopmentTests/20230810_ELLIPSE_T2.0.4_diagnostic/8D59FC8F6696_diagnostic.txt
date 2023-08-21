@@ -1,0 +1,539 @@
+word	lemma	POS	CW\FW	other categories
+secondary	secondary	JJ	CW	ADJ
+detail	detail	NN	CW	NOUN	ARGUMENT
+extra	extra	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+environment	environment	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+all	all	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+all	all	DT	FW
+look	look	VB	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+living	living	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+older	older	JJR	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+not	not	RB	ADV	CW
+all	all	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	CW	VERB
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+come	come	VBP	CW	VERB
+for	for	IN	FW
+social	social	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+was	be	VBD	CW	VERB
+added	add	VBN	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+mean	mean	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+socialize	socialize	VB	CW	VERB
+with	with	IN	FW
+all	all	DT	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+every	every	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+hand	hand	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+makers	maker	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+likely	likely	JJ	CW	ADJ
+to	to	TO	FW
+cause	cause	VB	CW	VERB
+more	more	JJR	CW	ADJ
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+make	make	VBP	CW	VERB
+in	in	IN	FW
+regular	regular	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+already	already	RB	ADV	CW
+dont	dont	VBP	CW	VERB
+like	like	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+protest	protest	VB	CW	VERB
+against	against	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+final	final	JJ	CW	ADJ
+detail	detail	NN	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+extra	extra	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+could	could	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+up	up	RP	FW
+frying	frying	JJ	CW	ADJ
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+brains	brain	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+get	get	VB	CW	VERB
+really	really	RB	ADV	CW
+tiered	tier	VBN	CW	VERB
+by	by	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+need	need	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thinking	think	VBG	CW	VERB
+specially	specially	RB	ADV	CW
+in	in	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+mean	mean	VB	CW	VERB
+more	more	RBR	ADV	CW
+mental	mental	JJ	CW	ADJ
+usage	usage	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+frustrated	frustrated	JJ	CW	ADJ
+easily	easily	RB	ADV	FW
+
+sentence break
+
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+frustrate	frustrate	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+start	start	VBP	CW	VERB
+to	to	TO	FW
+lose	lose	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+focus	focus	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+which	which	WDT	FW
+would	would	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+affect	affect	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+academics	academic	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+frustrated	frustrated	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+cant	cant	VBP	CW	VERB
+even	even	RB	ADV	CW
+think	think	VB	CW	VERB
+anymore	anymore	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+
+primary	primary	JJ	CW	ADJ
+detail	detail	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+stop	stop	VB	CW	VERB
+coming	come	VBG	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+coming	come	VBG	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+already	already	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+long	long	RB	ADV	CW
+
+sentence break
+
+adding	add	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	TO	FW
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+avoid	avoid	VB	CW	VERB
+this	this	DT	FW
+extra	extra	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+staying	stay	VBG	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+getting	get	VBG	CW	VERB
+more	more	RBR	ADV	CW
+sleep	sleep	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+making	make	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+tardy	tardy	JJ	CW	ADJ
+for	for	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+to	to	TO	FW
+start	start	VB	CW	VERB
+working	work	VBG	CW	VERB
+at	at	IN	FW
+young	young	JJ	CW	ADJ
+ages	age	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+means	mean	VBZ	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+quick	quick	JJ	CW	ADJ
+as	as	IN	FW
+possible	possible	JJ	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+one	one	CD	FW
+and	and	CC	FW
+a	a	DT	FW
+half	half	JJ	CW	ADJ
+hour	hour	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+added	add	VBN	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+stop	stop	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+getting	get	VBG	CW	VERB
+into	into	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+more	more	RBR	ADV	CW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+valuable	valuable	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+add	add	VB	CW	VERB
+any	any	DT	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+have	have	VBP	CW	VERB
+
+sentence break
+
+adding	add	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	TO	FW
+many	many	JJ	CW	ADJ
+bad	bad	JJ	CW	ADJ
+results	result	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+bad	bad	JJ	CW	ADJ
+results	result	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+stop	stop	VBP	CW	VERB
+attending	attend	VBG	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+environment	environment	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+fry	fry	NN	CW	NOUN	ARGUMENT
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+brains	brain	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+already	already	RB	ADV	CW
+more	more	RBR	ADV	CW
+then	then	RB	ADV	CW
+enough	enough	RB	ADV	CW
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+more	more	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+does	do	VBZ	CW	VERB
+n't	not	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+as	as	RB	ADV	CW
+is	be	VBZ	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+add	add	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+have	have	VBP	CW	VERB
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+good	good	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

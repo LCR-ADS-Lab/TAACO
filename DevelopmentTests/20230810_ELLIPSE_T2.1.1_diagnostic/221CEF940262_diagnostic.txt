@@ -1,0 +1,586 @@
+word	lemma	POS	CW\FW	other categories
+career	career	NN	CW	NOUN	ARGUMENT
+choices	choice	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+basic	basic	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+from	from	IN	FW
+teen	teen	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+choices	choice	NNS	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VB	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+teen	teen	JJ	CW	ADJ
+years	year	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+and	and	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+commit	commit	VB	CW	VERB
+to	to	IN	FW
+career	career	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+based	base	VBN	CW	VERB
+on	on	IN	FW
+that	that	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+rather	rather	RB	ADV	FW
+just	just	RB	ADV	CW
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+better	well	RBR	ADV	CW
+thinking	think	VBG	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+choosing	choose	VBG	CW	VERB
+careers	career	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+kind	kind	RB	ADV	CW
+of	of	RB	ADV	CW
+excited	excited	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+stressful	stressful	JJ	CW	ADJ
+and	and	CC	FW
+frustrating	frustrating	JJ	CW	ADJ
+at	at	IN	FW
+sometime	sometime	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+let	let	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+say	say	VB	CW	VERB
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+teenage	teenage	JJ	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+thought	thought	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+an	an	DT	FW
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+teen	teen	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+enter	enter	VB	CW	VERB
+this	this	DT	FW
+field	field	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+career	career	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+eventually	eventually	RB	ADV	CW
+gives	give	VBZ	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+at	at	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+kind	kind	RB	ADV	CW
+of	of	RB	ADV	CW
+sets	set	VBZ	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+back	back	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+all	all	DT	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+but	but	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+career	career	NN	CW	NOUN	ARGUMENT
+choices	choice	NNS	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+planned	plan	VBN	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+multiple	multiple	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+choices	choice	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+work	work	VB	CW	VERB
+through	through	IN	FW
+and	and	CC	FW
+finish	finish	VB	CW	VERB
+all	all	DT	FW
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+required	require	VBN	CW	VERB
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+basically	basically	RB	ADV	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+rather	rather	RB	ADV	FW
+choose	choose	VB	CW	VERB
+based	base	VBN	CW	VERB
+on	on	IN	FW
+how	how	WRB	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+tricked	trick	VBN	CW	VERB
+into	into	IN	FW
+making	make	VBG	CW	VERB
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+based	base	VBN	CW	VERB
+on	on	IN	FW
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+view	view	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+not	not	RB	ADV	CW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+or	or	CC	FW
+will	will	MD	FW	aux_or_cop
+turn	turn	VB	CW	VERB
+out	out	RP	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+precise	precise	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+kind	kind	RB	ADV	CW
+of	of	RB	ADV	CW
+devastating	devastating	JJ	CW	ADJ
+to	to	TO	FW
+think	think	VB	CW	VERB
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+mindset	mindset	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+on	on	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+courses	course	NNS	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+tricks	trick	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+into	into	IN	FW
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+specific	specific	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+career	career	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+great	great	RB	ADV	CW
+in	in	IN	FW
+those	those	DT	FW
+courses	course	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+later	later	RB	ADV	CW
+turns	turn	VBZ	CW	VERB
+out	out	RP	FW
+not	not	RB	ADV	CW
+to	to	TO	FW
+work	work	VB	CW	VERB
+out	out	RP	FW
+and	and	CC	FW
+later	later	RB	ADV	CW
+on	on	RB	ADV	CW
+after	after	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+reconsider	reconsider	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+choices	choice	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+change	change	VB	CW	VERB
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+too	too	RB	ADV	CW
+late	late	JJ	CW	ADJ
+to	to	TO	FW
+go	go	VB	CW	VERB
+back	back	RB	ADV	CW
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+pondering	ponder	VBG	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+choices	choice	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+and	and	CC	FW
+wished	wish	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+never	never	RB	ADV	CW
+even	even	RB	ADV	CW
+thought	think	VBN	CW	VERB
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+struggles	struggle	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+planned	plan	VBN	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+suppose	suppose	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+all	all	RB	ADV	CW
+because	because	IN	FW
+of	of	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+choices	choice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+greater	great	JJR	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+careers	career	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+teen	teen	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+want	want	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+only	only	RB	ADV	CW
+but	but	IN	FW
+teens	teen	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+future	future	NN	CW	NOUN	ARGUMENT
+holds	hold	VBZ	CW	VERB
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+great	great	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+guide	guide	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+into	into	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+choices	choice	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+shape	shape	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tell	tell	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+suppose	suppose	VBN	CW	VERB
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+and	and	CC	FW
+support	support	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+choices	choice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+have	have	VBP	CW	VERB
+the	the	DT	FW
+choices	choice	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+deciding	decide	VBG	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+counts	count	VBZ	CW	VERB
+not	not	RB	ADV	CW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+thinking	think	VBG	CW	VERB
+of	of	IN	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+starting	start	VBG	CW	VERB
+a	a	DT	FW
+journey	journey	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+working	work	VBG	CW	VERB
+upon	upon	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+getting	get	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+done	do	VBN	CW	VERB
+marks	mark	VBZ	CW	VERB
+the	the	DT	FW
+destination	destination	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teens	teen	NNS	CW	NOUN	ARGUMENT
+lack	lack	VBP	CW	VERB
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thinking	think	VBG	CW	VERB
+about	about	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+getting	get	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+done	do	VBN	CW	VERB
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+commit	commit	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,798 @@
+word	lemma	POS	CW\FW	other categories
+people	people	NNS	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+working	work	VBG	CW	VERB
+make	make	VB	CW	VERB
+better	better	JJR	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+now	now	RB	ADV	CW
+days	day	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+self-reliance	self-reliance	NN	CW	NOUN	ARGUMENT
+define	define	VB	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+instincts	instinct	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+usually	usually	RB	ADV	CW
+follow	follow	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+both	both	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+working	work	VBG	CW	VERB
+ways	way	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	CW	VERB
+preferred	prefer	VBN	CW	VERB
+to	to	TO	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+seek	seek	VB	CW	VERB
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+experts	expert	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+authorities	authority	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+important	important	JJ	CW	ADJ
+matters	matter	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+easier	easier	JJR	CW	ADJ
+and	and	CC	FW
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+troubles	trouble	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+cloud	cloud	VBP	CW	VERB
+talk	talk	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+asking	ask	VBG	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+two	two	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+story	story	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+about	about	IN	FW
+and	and	CC	FW
+made	make	VBN	CW	VERB
+peoples	people	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+easier	easier	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+true	true	JJ	CW	ADJ
+story	story	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+happened	happen	VBD	CW	VERB
+to	to	TO	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+young	young	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+2010	2010	CD	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+camp	camp	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+generic_city	generic_city	NNP	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+practices	practice	NNS	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+so	so	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+finally	finally	RB	ADV	CW
+start	start	VB	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+real	real	JJ	CW	ADJ
+training	training	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+that	that	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+private	private	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+no	no	DT	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+so	so	IN	FW
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+cloud	cloud	VBP	FW	aux_or_cop
+play	play	VB	CW	VERB
+sport	sport	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+camp	camp	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+well	well	RB	ADV	CW
+that	that	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+middle	middle	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+practice	practice	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hurt	hurt	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+ankle	ankle	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+teammate	teammate	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+in	in	IN	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+sport	sport	NN	CW	NOUN	ARGUMENT
+anymore	anymore	RB	ADV	FW
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+really	really	RB	ADV	CW
+upset	upset	JJ	CW	ADJ
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+about	about	IN	FW
+that	that	DT	FW	PRONOUN
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+father	father	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+and	and	CC	FW
+hard	hard	RB	ADV	CW
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+life	life	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+follow	follow	VB	CW	VERB
+the	the	DT	FW
+step	step	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+stronger	stronger	JJR	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+control	control	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+follow	follow	VB	CW	VERB
+the	the	DT	FW
+step	step	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+after	after	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+father	father	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+realize	realize	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+life	life	NN	CW	NOUN	ARGUMENT
+ai	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+way	way	RB	ADV	CW
+more	more	RBR	ADV	CW
+stronger	stronger	JJR	CW	ADJ
+than	than	IN	FW
+before	before	RB	ADV	CW
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+me	i	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+future	future	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+happened	happen	VBD	CW	VERB
+now	now	RB	ADV	CW
+so	so	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+peoples	people	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+way	way	RB	ADV	CW
+easier	easier	JJR	CW	ADJ
+than	than	IN	FW
+before	before	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+decide	decide	VB	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+seek	seek	VB	CW	VERB
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+experts	expert	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+authorities	authority	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+form	form	NN	CW	NOUN	ARGUMENT
+expert	expert	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+authorities	authority	NNS	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+life	life	NN	CW	NOUN	ARGUMENT
+easier	easier	JJR	CW	ADJ
+and	and	CC	FW
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+there	there	EX	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+helped	help	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+having	have	VBG	CW	VERB
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+story	story	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+story	story	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+hammer	hammer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+winter	winter	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+there	there	EX	FW
+was	be	VBD	CW	VERB
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+live	live	VBP	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+really	really	RB	ADV	CW
+old	old	JJ	CW	ADJ
+house	house	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+hammer	hammer	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	IN	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+traveled	travel	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+perfect	perfect	JJ	CW	ADJ
+iron	iron	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+that	that	DT	FW
+hammer	hammer	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+perfect	perfect	JJ	CW	ADJ
+iron	iron	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+iron	iron	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+perfect	perfect	JJ	CW	ADJ
+in	in	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+eyes	eye	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+in	in	IN	FW
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+a	a	DT	FW
+old	old	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+making	make	VBG	CW	VERB
+a	a	DT	FW
+hammer	hammer	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+young	young	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+close	close	RB	ADV	CW
+to	to	TO	FW
+old	old	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+out	out	RP	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+perfect	perfect	JJ	CW	ADJ
+iron	iron	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+finding	find	VBG	CW	VERB
+all	all	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+long	long	RB	ADV	CW
+so	so	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+old	old	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+did	do	VBD	FW	aux_or_cop
+he	he	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+the	the	DT	FW
+iron	iron	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+old	old	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+heard	hear	VBD	CW	VERB
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+laughed	laugh	VBD	CW	VERB
+and	and	CC	FW
+said	say	VBD	CW	VERB
+''	''	''	FW
+young	young	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+hammer	hammer	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+equally	equally	RB	ADV	CW
+and	and	CC	FW
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+on	on	IN	FW
+lest	lest	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+treat	treat	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+perfect	perfect	JJ	CW	ADJ
+''	''	''	FW
+
+sentence break
+
+after	after	IN	FW	SUBORDINATOR
+old	old	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+young	young	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+realized	realize	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+iron	iron	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+perfect	perfect	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+treated	treat	VBN	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+nicely	nicely	RB	ADV	CW
+and	and	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+a	a	DT	FW
+normal	normal	JJ	CW	ADJ
+hammer	hammer	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+really	really	RB	ADV	CW
+help	help	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+this	this	DT	FW
+story	story	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+realized	realize	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+with	with	IN	FW
+older	older	JJR	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+knew	know	VBD	CW	VERB
+before	before	RB	ADV	CW
+and	and	CC	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+with	with	IN	FW
+experts	expert	NNS	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+before	before	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,440 @@
+word	lemma	POS	CW\FW	other categories
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+in	in	IN	FW
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+manage	manage	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+responsible	responsible	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+about	about	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+acts	act	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+every	every	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+every	every	DT	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+committed	commit	VBN	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+until	until	IN	FW
+now	now	RB	ADV	CW
+
+sentence break
+
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+and	and	CC	FW
+better	well	RBR	ADV	CW
+until	until	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+the	the	DT	FW
+concept	concept	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+by	by	IN	FW
+making	make	VBG	CW	VERB
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+notes	note	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+results	result	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+everyday	everyday	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+perfect	perfect	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+in	in	IN	FW
+these	these	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+look	look	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+manage	manage	VB	CW	VERB
+or	or	CC	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+forward	forward	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+looking	look	VBG	CW	VERB
+forward	forward	RB	ADV	CW
+in	in	IN	FW
+these	these	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+progress	progress	VBP	CW	VERB
+to	to	TO	FW
+became	become	VBD	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+these	these	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+learning	learn	VBG	CW	VERB
+and	and	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+solution	solution	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+continue	continue	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+an	an	DT	FW
+stop	stop	NN	CW	NOUN	ARGUMENT
+sign	sign	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+let	let	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+looking	look	VBG	CW	VERB
+forward	forward	RB	ADV	CW
+but	but	CC	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+a	a	DT	FW
+process	process	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+which	which	WDT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+advance	advance	VBP	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+results	result	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+survive	survive	VB	CW	VERB
+in	in	IN	FW
+these	these	DT	FW	PRONOUN
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+stop	stop	VBP	CW	VERB
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+keep	keep	VB	CW	VERB
+going	go	VBG	CW	VERB
+forward	forward	RB	ADV	CW
+just	just	RB	ADV	CW
+for	for	IN	FW
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+committed	commit	VBN	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+give	give	VBP	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+the	the	DT	FW
+word	word	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+stop	stop	VB	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+strong	strong	JJ	CW	ADJ
+word	word	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+teach	teach	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+up	up	RP	FW
+find	find	VB	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+results	result	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+living	live	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+progress	progress	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+which	which	WDT	FW
+every	every	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+create	create	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+failing	fail	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+analyzed	analyze	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+learning	learn	VBG	CW	VERB
+and	and	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+creating	create	VBG	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+which	which	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+better	well	JJR	CW	ADJ
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+word	word	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+maintain	maintain	VB	CW	VERB
+the	the	DT	FW
+resistance	resistance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+fighting	fight	VBG	CW	VERB
+for	for	IN	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+reached	reach	VBN	CW	VERB
+that	that	WDT	FW	PRONOUN
+help	help	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+living	live	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+

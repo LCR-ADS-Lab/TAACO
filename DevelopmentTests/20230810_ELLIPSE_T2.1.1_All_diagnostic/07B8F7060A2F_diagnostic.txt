@@ -1,0 +1,379 @@
+word	lemma	POS	CW\FW	other categories
+there	there	EX	FW
+are	be	VBP	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+venezuela	venezuela	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+full	full	JJ	CW	ADJ
+cultural	cultural	JJ	CW	ADJ
+interesting	interesting	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+some	some	DT	FW
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+beautiful	beautiful	JJ	CW	ADJ
+and	and	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+venezuela	venezuela	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+located	locate	VBN	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+north	north	NN	CW	NOUN	ARGUMENT
+coast	coast	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+south	south	NNP	CW	NOUN	ARGUMENT
+america	america	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+shares	share	VBZ	CW	VERB
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+colombia	colombia	NNP	CW	NOUN	ARGUMENT
+brazil	brazil	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+suriname	suriname	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+venezuela	venezuela	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+of	of	IN	FW
+history	history	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+colonized	colonize	VBN	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+empire	empire	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+19th	19th	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+cultural	cultural	JJ	CW	ADJ
+and	and	CC	FW
+important	important	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+are	be	VBP	FW	aux_or_cop
+angel	angel	NNP	CW	NOUN	ARGUMENT
+falls	falls	NNP	CW	NOUN	ARGUMENT
+simon	simon	NNP	CW	NOUN	ARGUMENT
+bolivar	bolivar	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+tomb	tomb	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+mount	mount	NNP	CW	NOUN	ARGUMENT
+bolivar	bolivar	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+simon	simon	NNP	CW	NOUN	ARGUMENT
+bolivar	bolivar	NNP	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+called	call	VBD	CW	VERB
+the	the	DT	FW
+liberator	liberator	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+venezuela	venezuela	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+freed	free	VBD	CW	VERB
+venezuela	venezuela	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+important	important	JJ	CW	ADJ
+countries	country	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+south	south	NNP	CW	NOUN	ARGUMENT
+america	america	NNP	CW	NOUN	ARGUMENT
+by	by	IN	FW
+fighting	fight	VBG	CW	VERB
+the	the	DT	FW
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+empire	empire	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+venezuela	venezuela	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+caribbean	caribbean	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	CW	VERB
+beautiful	beautiful	JJ	CW	ADJ
+beaches	beach	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+angel	angel	NNP	CW	NOUN	ARGUMENT
+falls	falls	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+tallest	tall	JJS	CW	ADJ
+waterfall	waterfall	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+800	800	CD	FW
+meters	meter	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+mount	mount	NNP	CW	NOUN	ARGUMENT
+bolivar	bolivar	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+another	another	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+tallest	tall	JJS	CW	ADJ
+mountain	mountain	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+venezuela	venezuela	NNP	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+snow	snow	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+venezuela	venezuela	NNP	CW	NOUN	ARGUMENT
+shares	share	VBZ	CW	VERB
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+amazons	amazons	NNPS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+colombia	colombia	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+brazil	brazil	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+amazons	amazons	NNPS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+beautiful	beautiful	JJ	CW	ADJ
+jungle	jungle	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+an	an	DT	FW
+expanded	expand	VBN	CW	VERB
+biodiversity	biodiversity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+then	then	RB	ADV	CW
+venezuelan	venezuelan	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+traditional	traditional	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+pabellon	pabellon	NNP	CW	NOUN	ARGUMENT
+arepas	arepas	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enpanadas	enpanadas	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+cacao	cacao	NNP	CW	NOUN	ARGUMENT
+seeds	seed	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+produce	produce	VB	CW	VERB
+coffee	coffee	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+chocolate	chocolate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+chocolate	chocolate	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+from	from	IN	FW
+venezuela	venezuela	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+cheese	cheese	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+countries	country	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+venezuela	venezuela	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+on	on	IN	FW
+the	the	DT	FW
+most	most	JJS	CW	ADJ
+countries	country	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+amazing	amazing	JJ	CW	ADJ
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+fought	fight	VBD	CW	VERB
+for	for	IN	FW
+liberty	liberty	NN	CW	NOUN	ARGUMENT
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+delicious	delicious	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,775 @@
+word	lemma	POS	CW\FW	other categories
+selecting	select	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+and	and	CC	FW
+explore	explore	VB	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+interest	interest	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+select	select	JJ	CW	ADJ
+as	as	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+about	about	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+interesting	interesting	JJ	CW	ADJ
+on	on	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+what	what	WDT	FW
+steps	step	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+where	where	WRB	FW
+am	be	VBP	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+working	work	VBG	CW	VERB
+on	on	IN	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+should	should	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+select	select	JJ	CW	ADJ
+as	as	IN	FW
+one	one	CD	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+about	about	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+interesting	interesting	JJ	CW	ADJ
+on	on	IN	FW
+
+sentence break
+
+knowing	know	VBG	CW	VERB
+more	more	RBR	ADV	CW
+about	about	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+interesting	interesting	JJ	CW	ADJ
+on	on	IN	FW
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+ready	ready	JJ	CW	ADJ
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+and	and	CC	FW
+not	not	RB	ADV	CW
+knowing	know	VBG	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+the	the	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+some	some	DT	FW
+issues	issue	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+read	read	VBD	CW	VERB
+recently	recently	RB	ADV	CW
+about	about	IN	FW
+an	an	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+was	be	VBD	FW	aux_or_cop
+working	work	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+know	know	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+much	much	JJ	CW	ADJ
+about	about	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+causing	cause	VBG	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+issues	issue	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+result	result	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+got	got	VBD	FW	aux_or_cop
+fired	fire	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+knowing	know	VBG	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+nevertheless	nevertheless	RB	ADV	FW
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+select	select	JJ	CW	ADJ
+as	as	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+and	and	CC	FW
+explore	explore	VB	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+and	and	CC	FW
+while	while	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+working	work	VBG	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+what	what	WP	FW
+am	be	VBP	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+should	should	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+select	select	JJ	CW	ADJ
+as	as	IN	FW
+one	one	CD	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+what	what	WDT	FW
+steps	step	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+knowing	know	VBG	CW	VERB
+more	more	RBR	ADV	CW
+about	about	IN	FW
+what	what	WDT	FW
+steps	step	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+choosing	choose	VBG	CW	VERB
+what	what	WP	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+high	high	NNP	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+a	a	DT	FW
+small	small	JJ	CW	ADJ
+company	company	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+applying	apply	VBG	CW	VERB
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+requiring	require	VBG	CW	VERB
+at	at	RB	ADV	FW
+least	least	JJS	CW	ADJ
+3	3	CD	FW
+math	math	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+took	take	VBD	CW	VERB
+only	only	RB	ADV	CW
+2	2	CD	FW
+math	math	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+high	high	NNP	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+at	at	RB	ADV	FW
+least	least	JJS	CW	ADJ
+3	3	CD	FW
+math	math	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+select	select	JJ	CW	ADJ
+as	as	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+and	and	CC	FW
+visit	visit	VB	CW	VERB
+and	and	CC	FW
+explore	explore	VB	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+what	what	WDT	FW
+steps	step	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+apply	apply	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+final	final	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+should	should	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+select	select	JJ	CW	ADJ
+as	as	IN	FW
+one	one	CD	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+and	and	CC	FW
+explore	explore	VB	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+where	where	WRB	FW
+am	be	VBP	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+working	work	VBG	CW	VERB
+on	on	IN	FW
+
+sentence break
+
+knowing	know	VBG	CW	VERB
+where	where	WRB	FW
+are	be	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+working	work	VBG	CW	VERB
+on	on	IN	FW
+is	be	VBZ	FW	aux_or_cop
+an	an	DT	FW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+depending	depend	VBG	CW	VERB
+on	on	IN	FW
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+apply	apply	VB	CW	VERB
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+applied	apply	VBD	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+zoo	zoo	NNP	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+without	without	IN	FW
+knowing	know	VBG	CW	VERB
+where	where	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+working	work	VBG	CW	VERB
+on	on	RP	FW
+got	get	VBD	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+after	after	IN	FW
+a	a	DT	FW
+couple	couple	NN	CW	NOUN	ARGUMENT
+weeks	week	NNS	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+quit	quit	VBD	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+fit	fit	VB	CW	VERB
+the	the	DT	FW
+shark	shark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+select	select	JJ	CW	ADJ
+as	as	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+and	and	CC	FW
+explore	explore	VB	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+where	where	WRB	FW
+am	be	VBP	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+working	work	VBG	CW	VERB
+on	on	IN	FW
+
+sentence break
+
+working	work	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+unhappy	unhappy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+visiting	visit	VBG	CW	VERB
+and	and	CC	FW
+exploring	explore	VBG	CW	VERB
+companies	company	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+wasting	wasting	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+apply	apply	VBP	CW	VERB
+for	for	IN	FW
+any	any	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+gives	give	VBZ	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+working	work	VBG	CW	VERB
+in	in	IN	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+like	like	VB	CW	VERB
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+stay	stay	VB	CW	VERB
+that	that	RB	ADV	CW	PRONOUN
+long	long	RB	ADV	CW
+
+sentence break
+
+however	however	RB	ADV	FW
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+select	select	JJ	CW	ADJ
+as	as	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+and	and	CC	FW
+explore	explore	VB	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+am	be	VBP	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+like	like	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+about	about	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+the	the	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+am	be	VBP	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+working	work	VBG	CW	VERB
+on	on	IN	FW
+and	and	CC	FW
+whether	whether	IN	FW	SUBORDINATOR
+should	should	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+try	try	VB	CW	VERB
+to	to	TO	FW
+apply	apply	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+select	select	JJ	CW	ADJ
+as	as	IN	FW
+one	one	CD	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+and	and	CC	FW
+explore	explore	VB	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+about	about	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+interests	interest	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+what	what	WDT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+steps	step	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+where	where	WRB	FW
+am	be	VBP	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+working	work	VBG	CW	VERB
+on	on	IN	FW
+
+sentence break
+
+
+paragraph break
+

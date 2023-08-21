@@ -1,0 +1,276 @@
+word	lemma	POS	CW\FW	other categories
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+"	"	``	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greater	great	JJR	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+personally	personally	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+only	only	RB	ADV	CW
+cause	cause	VBP	CW	VERB
+now	now	RB	ADV	CW
+a	a	DT	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+young	young	JJ	CW	ADJ
+adults	adult	NNS	CW	NOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teens	teen	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+around	around	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+individuals	individual	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+act	act	VBP	CW	VERB
+talk	talk	VBP	CW	VERB
+and	and	CC	FW
+basically	basically	RB	ADV	FW
+does	do	VBZ	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+exact	exact	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+creepy	creepy	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+all	all	DT	FW
+honesty	honesty	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+live	live	VBP	CW	VERB
+in	in	IN	FW
+where	where	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+wanna	wanna	NNP	CW	NOUN	ARGUMENT
+fit	fit	VBP	CW	VERB
+in	in	RP	FW
+and	and	CC	FW
+act	act	VB	CW	VERB
+normal	normal	JJ	CW	ADJ
+to	to	TO	FW
+seek	seek	VB	CW	VERB
+comfort	comfort	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+approval	approval	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+even	even	RB	ADV	CW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+need	need	VB	CW	VERB
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+agree	agree	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+cause	cause	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+generation	generation	NN	CW	NOUN	ARGUMENT
+prefers	prefer	VBZ	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+over	over	IN	FW
+human	human	JJ	CW	ADJ
+contact	contact	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+see	see	VB	CW	VERB
+why	why	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+go	go	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+path	path	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+instead	instead	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+just	just	RB	ADV	CW
+follow	follow	VB	CW	VERB
+the	the	DT	FW
+crowd	crowd	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+follow	follow	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+blowing	blow	VBG	CW	VERB
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+ta	to	TO	FW
+take	take	VB	CW	VERB
+an	an	DT	FW
+sol	sol	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+just	just	RB	ADV	CW
+to	to	TO	FW
+see	see	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+smart	smart	JJ	CW	ADJ
+when	when	WRB	FW
+all	all	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+sit	sit	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+listen	listen	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+smart	smart	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+without	without	IN	FW
+a	a	DT	FW
+dummy	dummy	JJ	CW	ADJ
+boy	boy	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	CW	VERB
+just	just	RB	ADV	CW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+s	s	VBZ	FW	aux_or_cop
+following	follow	VBG	CW	VERB
+the	the	DT	FW
+crowd	crowd	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+diploma	diploma	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+tho	tho	VBZ	CW	VERB
+at	at	IN	FW
+this	this	DT	FW	PRONOUN
+point	point	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+diploma	diploma	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+barley	barley	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+far	far	RB	ADV	CW
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+looks	look	VBZ	CW	VERB
+good	good	JJ	CW	ADJ
+on	on	IN	FW
+resume	resume	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+exact	exact	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+the	the	DT	FW
+crowd	crowd	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+dead	dead	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+even	even	RB	ADV	CW
+care	care	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	CW	VERB
+dead	dead	JJ	CW	ADJ
+or	or	CC	FW
+alive	alive	JJ	CW	ADJ
+as	as	RB	ADV	CW
+long	long	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+a	a	DT	FW
+diploma	diploma	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

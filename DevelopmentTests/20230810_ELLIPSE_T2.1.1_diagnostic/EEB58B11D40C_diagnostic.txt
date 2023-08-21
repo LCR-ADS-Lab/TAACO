@@ -1,0 +1,195 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+principal	principal	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+decided	decide	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+in	in	IN	FW
+at	at	RB	ADV	FW
+least	least	RBS	ADV	CW
+one	one	CD	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+cause	cause	VBP	CW	VERB	SUBORDINATOR
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+have	have	VBP	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+of	of	IN	FW
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+like	like	UH	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+chours	chour	NNS	CW	NOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+etc	etc	FW	FW
+
+sentence break
+
+these	these	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+handle	handle	VB	CW	VERB
+
+sentence break
+
+adding	add	VBG	CW	VERB
+a	a	DT	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+in	in	IN	FW
+would	would	MD	FW	aux_or_cop
+increase	increase	VB	CW	VERB
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+stress	stress	VBP	CW	VERB
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+to	to	TO	FW
+do	do	VB	CW	VERB
+and	and	CC	FW
+complete	complete	VB	CW	VERB
+
+sentence break
+
+finaly	finaly	NNP	CW	NOUN	ARGUMENT
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+beause	beause	JJ	CW	ADJ
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+finish	finish	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+and	and	CC	FW
+talk	talk	VB	CW	VERB
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+forced	force	VBD	CW	VERB
+into	into	IN	FW
+participating	participate	VBG	CW	VERB
+in	in	IN	FW
+at	at	RB	ADV	FW
+least	least	RBS	ADV	CW
+one	one	CD	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+decrease	decrease	VB	CW	VERB
+the	the	DT	FW
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+each	each	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+spending	spend	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+what	what	WP	FW
+the	the	DT	FW
+principal	principal	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+very	very	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

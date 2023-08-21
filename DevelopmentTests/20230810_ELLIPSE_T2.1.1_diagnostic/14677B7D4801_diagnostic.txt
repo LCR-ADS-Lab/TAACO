@@ -1,0 +1,378 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+elementary	elementary	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+sharing	share	VBG	CW	VERB
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+elementary	elementary	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+share	share	VBP	CW	VERB
+about	about	IN	FW
+algebra	algebra	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+show	show	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+write	write	VB	CW	VERB
+and	and	CC	FW
+solve	solve	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+into	into	IN	FW
+algebra	algebra	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+already	already	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+algebra	algebra	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+everyday	everyday	RB	ADV	CW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+algebra	algebra	NNS	CW	NOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+
+sentence break
+
+algebra	algebra	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+fancy	fancy	JJ	CW	ADJ
+word	word	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+basically	basically	RB	ADV	FW
+learn	learn	VBP	CW	VERB
+the	the	DT	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+elementary	elementary	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+more	more	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+math	math	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+everywhere	everywhere	RB	ADV	CW
+counting	count	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+angles	angle	NNS	CW	NOUN	ARGUMENT
+positioning	positioning	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+nervous	nervous	JJ	CW	ADJ
+about	about	IN	FW
+algebra	algebra	NNP	CW	NOUN	ARGUMENT
+but	but	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+like	like	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+once	once	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+into	into	IN	FW
+algebra	algebra	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+about	about	RB	ADV	CW
+a	a	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+two	two	CD	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	CW	VERB
+sure	sure	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+nervous	nervous	JJ	CW	ADJ
+anymore	anymore	RB	ADV	FW
+this	this	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+boost	boost	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+start	start	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+shared	share	VBN	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+algebra	algebra	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+share	share	VB	CW	VERB
+there	there	EX	FW
+are	be	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+lessons	lesson	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+civics	civic	NNS	CW	NOUN	ARGUMENT
+engineering	engineering	NN	CW	NOUN	ARGUMENT
+cooking	cooking	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+never	never	RB	ADV	CW
+said	say	VBN	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+nervous	nervous	JJ	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+got	got	VBP	CW	VERB
+ta	to	TO	FW
+have	have	VB	CW	VERB
+bravery	bravery	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+boost	boost	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+take	take	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+rush	rush	VB	CW	VERB
+over	over	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+presentation	presentation	NN	CW	NOUN	ARGUMENT
+speech	speech	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+talking	talk	VBG	CW	VERB
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+sharing	sharing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+share	share	VB	CW	VERB
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+lessons	lesson	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+this	this	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+share	share	VB	CW	VERB
+one	one	CD	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+chooses	choose	VBZ	CW	VERB
+and	and	CC	FW
+teach	teach	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

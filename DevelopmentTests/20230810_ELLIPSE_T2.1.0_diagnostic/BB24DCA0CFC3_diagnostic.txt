@@ -1,0 +1,481 @@
+word	lemma	POS	CW\FW	other categories
+"	"	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+the	the	DT	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+the	the	DT	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+showing	show	VBG	CW	VERB
+appreciation	appreciation	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+achieving	achieve	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+through	through	IN	FW
+disappointments	disappointment	NNS	CW	NOUN	ARGUMENT
+rejections	rejection	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+pain	pain	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+prove	prove	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+better	well	RBR	ADV	CW
+
+sentence break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+inspired	inspire	VBN	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+great	great	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+relatives	relative	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+great	great	JJ	CW	ADJ
+intrigue	intrigue	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+an	an	DT	FW
+inventor	inventor	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+capable	capable	JJ	CW	ADJ
+of	of	IN	FW
+doing	do	VBG	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+going	go	VBG	CW	VERB
+through	through	IN	FW
+a	a	DT	FW
+difficult	difficult	JJ	CW	ADJ
+path	path	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+intention	intention	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+knowing	know	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+prove	prove	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+multiple	multiple	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+show	show	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+willing	willing	JJ	CW	ADJ
+and	and	CC	FW
+very	very	RB	ADV	CW
+much	much	RB	ADV	CW
+determine	determine	VB	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+wealthy	wealthy	JJ	CW	ADJ
+background	background	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+how	how	WRB	FW
+inspired	inspire	VBN	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+great	great	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+are	be	VBP	FW	aux_or_cop
+determined	determined	JJ	CW	ADJ
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+footsteps	footstep	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+how	how	WRB	FW
+well	well	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+raised	raise	VBN	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+may	may	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+wealthy	wealthy	JJ	CW	ADJ
+background	background	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+inspired	inspire	VBN	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+great	great	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+raised	raise	VBN	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+leaders	leader	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+to	to	TO	FW
+live	live	VB	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+according	accord	VBG	CW	VERB
+to	to	IN	FW
+how	how	WRB	FW
+far	far	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+good	good	JJ	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+sometimes	sometimes	RB	ADV	CW
+not	not	RB	ADV	CW
+motivated	motivate	VBN	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+great	great	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+live	live	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+wealthy	wealthy	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+good	good	JJ	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+poor	poor	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+background	background	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+inspired	inspired	JJ	CW	ADJ
+and	and	CC	FW
+intrigued	intrigue	VBN	CW	VERB
+to	to	TO	FW
+pursue	pursue	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+through	through	IN	FW
+difficult	difficult	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+personality	personality	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+much	much	RB	ADV	CW
+capable	capable	JJ	CW	ADJ
+of	of	IN	FW
+making	make	VBG	CW	VERB
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+sacrifice	sacrifice	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+good	good	JJ	CW	ADJ
+or	or	CC	FW
+great	great	JJ	CW	ADJ
+personality	personality	NN	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+accept	accept	VB	CW	VERB
+the	the	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+wrongs	wrong	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+generation	generation	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+determine	determine	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+great	great	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+yet	yet	RB	ADV	CW
+not	not	RB	ADV	CW
+willing	willing	JJ	CW	ADJ
+to	to	TO	FW
+sacrifice	sacrifice	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+energy	energy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+but	but	IN	FW
+disappointments	disappointment	NNS	CW	NOUN	ARGUMENT
+rejections	rejection	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+complete	complete	JJ	CW	ADJ
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+energy	energy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+taking	take	VBG	CW	VERB
+responsibilities	responsibility	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+difficulties	difficulty	NNS	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+one	one	CD	FW
+in	in	IN	FW
+the	the	DT	FW
+process	process	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+wanting	want	VBG	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+"	"	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+determination	determination	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+personality	personality	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+background	background	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+an	an	DT	FW
+individual	individual	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+through	through	IN	FW
+difficult	difficult	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+disappointments	disappointment	NNS	CW	NOUN	ARGUMENT
+rejections	rejection	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+become	become	VB	CW	VERB
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+lifetime	lifetime	NN	CW	NOUN	ARGUMENT
+one	one	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+accept	accept	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+part	part	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+one	one	CD	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

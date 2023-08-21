@@ -1,0 +1,522 @@
+word	lemma	POS	CW\FW	other categories
+american	american	JJ	CW	ADJ
+jazz	jazz	NN	CW	NOUN	ARGUMENT
+legend	legend	NN	CW	NOUN	ARGUMENT
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+achance	achance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+"	"	''	FW
+
+sentence break
+
+the	the	DT	FW
+meaning	meaning	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a.	a.	NN	CW	NOUN	ARGUMENT
+problem	problem	NNP	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+anything	anything	NN	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+even	even	RB	ADV	CW
+worse	bad	JJR	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+always	always	RB	ADV	CW
+
+sentence break
+
+fix	fix	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+resolve	resolve	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+and	and	CC	FW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+doen't	doen't	NNP	CW	NOUN	ARGUMENT
+work	work	VB	CW	VERB
+out	out	RP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+worse	bad	JJR	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+before	before	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+s	s	VBZ	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+sink	sink	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	CC	FW
+what	what	WP	FW
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+call	call	VB	CW	VERB
+a	a	DT	FW
+plumer	plumer	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+sink	sink	NN	CW	NOUN	ARGUMENT
+pipes	pipe	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+plumer	plumer	NN	CW	NOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+away	away	RB	ADV	CW
+to	to	TO	FW
+do	do	VB	CW	VERB
+another	another	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+.your	.your	NN	CW	NOUN	ARGUMENT
+sink	sink	NN	CW	NOUN	ARGUMENT
+starts	start	VBZ	CW	VERB
+to	to	TO	FW
+spit	spit	VB	CW	VERB
+out	out	RP	FW
+water	water	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+where	where	WRB	FW
+watching	watch	VBG	CW	VERB
+the	the	DT	FW
+plumer	plumer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+water	water	NN	CW	NOUN	ARGUMENT
+leak	leak	NN	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+worse	bad	JJR	CW	ADJ
+and	and	CC	FW
+starts	start	VBZ	CW	VERB
+to	to	TO	FW
+flood	flood	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+now	now	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	CW	VERB
+to	to	TO	FW
+call	call	VB	CW	VERB
+the	the	DT	FW
+plumer	plumer	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+and	and	CC	FW
+pay	pay	VB	CW	VERB
+again	again	RB	ADV	CW
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+havea	havea	NNP	CW	NOUN	ARGUMENT
+called	call	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+leaking	leak	VBG	CW	VERB
+again	again	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+walked	walk	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+threw	throw	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+pets	pet	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+those	those	DT	FW	PRONOUN
+pets	pet	NNS	CW	NOUN	ARGUMENT
+pass	pass	VBP	CW	VERB
+away	away	RB	ADV	CW
+and	and	CC	FW
+there	there	RB	ADV	CW
+
+sentence break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+replace	replace	VB	CW	VERB
+the	the	DT	FW
+pet	pet	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+another	another	DT	FW
+pet	pet	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+eat	eat	VB	CW	VERB
+sleep	sleep	VB	CW	VERB
+or	or	CC	FW
+even	even	RB	ADV	CW
+talk	talk	VB	CW	VERB
+for	for	IN	FW
+along	along	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dog	dog	NN	CW	NOUN	ARGUMENT
+lucky	lucky	NN	CW	NOUN	ARGUMENT
+died	die	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+barly	barly	RB	ADV	FW
+ate	eat	VBD	CW	VERB
+or	or	CC	FW
+talked	talk	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+tried	try	VBN	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+other	other	JJ	CW	ADJ
+dog	dog	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+both	both	DT	FW
+knew	know	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+sad	sad	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+"	"	``	FW
+what	what	WP	FW
+s	s	VBZ	CW	VERB
+worng	worng	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+doen't	doen't	NNP	CW	NOUN	ARGUMENT
+say	say	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+coming	come	VBG	CW	VERB
+over	over	RP	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+project	project	VB	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+"	"	''	FW
+ask	ask	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+come	come	VB	CW	VERB
+over	over	RP	FW
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+then	then	RB	ADV	CW
+the	the	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+starts	start	VBZ	CW	VERB
+to	to	TO	FW
+cry	cry	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+passed	pass	VBD	CW	VERB
+
+sentence break
+
+away	away	RB	ADV	CW
+in	in	IN	FW
+a	a	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+accident	accident	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+night	night	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+tells	tell	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+died	die	VBD	CW	VERB
+last	last	JJ	CW	ADJ
+night	night	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+worse	bad	JJR	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+20	20	CD	FW
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+just	just	RB	ADV	CW
+from	from	IN	FW
+saying	say	VBG	CW	VERB
+one	one	CD	FW
+simple	simple	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+so	so	RB	ADV	CW
+american	american	JJ	CW	ADJ
+jazz	jazz	NN	CW	NOUN	ARGUMENT
+legend	legend	NN	CW	NOUN	ARGUMENT
+duke	duke	NNP	CW	NOUN	ARGUMENT
+elllington	elllington	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+that	that	DT	FW	PRONOUN
+becasue	becasue	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+way	way	RB	ADV	CW
+worse	bad	JJR	CW	ADJ
+than	than	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+ways	way	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+doing	do	VBG	CW	VERB
+one	one	CD	FW
+think	think	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+the	the	DT	FW
+sink	sink	NN	CW	NOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+replace	replace	VB	CW	VERB
+a	a	DT	FW
+passed	pass	VBN	CW	VERB
+away	away	RB	ADV	CW
+pet	pet	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+happy	happy	JJ	CW	ADJ
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

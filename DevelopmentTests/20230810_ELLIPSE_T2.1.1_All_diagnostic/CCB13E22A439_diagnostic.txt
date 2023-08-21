@@ -1,0 +1,470 @@
+word	lemma	POS	CW\FW	other categories
+technology	technology	NN	CW	NOUN	ARGUMENT
+allows	allow	VBZ	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+positive	positive	JJ	CW	ADJ
+or	or	CC	FW
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+systematic	systematic	JJ	CW	ADJ
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+application	application	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+knowles	knowles	NNP	CW	NOUN	ARGUMENT
+esp	esp	RB	ADV	FW
+
+sentence break
+
+second	second	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+need	need	VBP	CW	VERB
+for	for	IN	FW
+job	job	NN	CW	NOUN	ARGUMENT
+communicates	communicate	NNS	CW	NOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+online	online	JJ	CW	ADJ
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+third	third	RB	ADV	CW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+uses	use	VBZ	CW	VERB
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+good	good	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+"	"	``	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+check	check	VB	CW	VERB
+out	out	RP	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+shop	shop	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+play	play	VB	CW	VERB
+games	game	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+speaking	speak	VBG	CW	VERB
+to	to	IN	FW
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+explains	explain	VBZ	CW	VERB
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+promote	promote	VB	CW	VERB
+more	more	RBR	ADV	CW
+easy	easy	JJ	CW	ADJ
+lives	life	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+had	have	VBN	CW	VERB
+negatives	negative	NNS	CW	NOUN	ARGUMENT
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+ban	ban	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+cyber	cyber	NN	CW	NOUN	ARGUMENT
+bullying	bullying	NN	CW	NOUN	ARGUMENT
+steal	steal	JJ	CW	ADJ
+id	id	NNP	CW	NOUN	ARGUMENT
+form	form	VB	CW	VERB
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+to	to	TO	FW
+trick	trick	VB	CW	VERB
+the	the	DT	FW
+young	young	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+communicates	communicate	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+lives	live	VBZ	CW	VERB
+far	far	RB	ADV	CW
+away	away	RB	ADV	CW
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+furthermore	furthermore	RB	ADV	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+good	good	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+essential	essential	JJ	CW	ADJ
+for	for	IN	FW
+young	young	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+no	no	DT	FW
+all	all	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+usable	usable	VBP	CW	VERB
+good	good	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+young	young	JJ	CW	ADJ
+uses	use	VBZ	CW	VERB
+sometime	sometime	RB	ADV	CW
+only	only	RB	ADV	CW
+for	for	IN	FW
+play	play	NN	CW	NOUN	ARGUMENT
+game	game	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+post	post	NN	CW	NOUN	ARGUMENT
+ban	ban	NN	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+social	social	JJ	CW	ADJ
+minded	minded	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+technology	technology	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+has	have	VBZ	CW	VERB
+positive	positive	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+live	live	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+use	use	VB	CW	VERB
+right	right	RB	ADV	CW
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+technology	technology	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+used	use	VBD	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+ban	ban	NN	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometime	sometime	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+effects	effect	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+used	use	VBD	CW	VERB
+social	social	JJ	CW	ADJ
+minded	minded	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+make	make	NN	CW	NOUN	ARGUMENT
+bullying	bullying	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+effects	effect	NNS	CW	NOUN	ARGUMENT
+emotionally	emotionally	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+was	be	VBD	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+for	for	IN	FW
+communicates	communicate	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+buy	buy	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+for	for	IN	FW
+to	to	IN	FW
+looking	look	VBG	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+pay	pay	VB	CW	VERB
+in	in	IN	FW
+online	online	JJ	CW	ADJ
+reading	read	VBG	CW	VERB
+book	book	NN	CW	NOUN	ARGUMENT
+communicates	communicate	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NNP	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+"	"	``	FW
+in	in	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+to	to	IN	FW
+communicates	communicate	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+did't	did't	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+telephone	telephone	NN	CW	NOUN	ARGUMENT
+table	table	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+before	before	IN	FW	SUBORDINATOR
+use	use	NN	CW	NOUN	ARGUMENT
+letter	letter	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+to	to	TO	FW
+take	take	VB	CW	VERB
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+cellphone	cellphone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+now	now	UH	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+chances	chance	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+technology	technology	NN	CW	NOUN	ARGUMENT
+increase	increase	VBP	CW	VERB
+more	more	RBR	ADV	CW
+better	well	JJR	CW	ADJ
+and	and	CC	FW
+more	more	RBR	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+increase	increase	VBP	CW	VERB
+each	each	DT	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+put	put	VBD	CW	VERB
+new	new	JJ	CW	ADJ
+cellphone	cellphone	NN	CW	NOUN	ARGUMENT
+computer	computer	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+now	now	RB	ADV	CW
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+all	all	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+cellphone	cellphone	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+cellphone	cellphone	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+year	year	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+expensive	expensive	JJ	CW	ADJ
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

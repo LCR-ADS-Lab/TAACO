@@ -1,0 +1,497 @@
+word	lemma	POS	CW\FW	other categories
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+frequently	frequently	RB	ADV	CW
+debated	debate	VBN	CW	VERB
+questions	question	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+today	today	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+society	society	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+whether	whether	IN	FW	SUBORDINATOR
+or	or	CC	FW
+not	not	RB	ADV	CW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+argue	argue	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+possible	possible	JJ	CW	ADJ
+and	and	CC	FW
+inevitable	inevitable	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+changed	change	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+judge	judge	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+by	by	IN	FW
+looking	look	VBG	CW	VERB
+at	at	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+different	different	JJ	CW	ADJ
+viewpoints	viewpoint	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+know	know	VB	CW	VERB
+the	the	DT	FW
+struggles	struggle	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+through	through	RB	ADV	CW
+
+sentence break
+
+words	word	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+hurt	hurt	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+to	to	IN	FW
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+judge	judge	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+act	act	VBP	CW	VERB
+or	or	CC	FW
+interact	interact	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+essential	essential	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+intellectual	intellectual	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+capacity	capacity	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+those	those	DT	FW
+individuals	individual	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+judge	judge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+famous	famous	JJ	CW	ADJ
+quote	quote	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+says	say	VBZ	CW	VERB
+"	"	``	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+words	word	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+sometimes	sometimes	RB	ADV	CW
+hurt	hurt	VB	CW	VERB
+even	even	RB	ADV	CW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+a	a	DT	FW
+punch	punch	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+can	can	MD	FW	aux_or_cop
+relate	relate	VB	CW	VERB
+to	to	IN	FW
+this	this	DT	FW	PRONOUN
+sometimes	sometimes	RB	ADV	CW
+the	the	DT	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+to	to	TO	FW
+express	express	VB	CW	VERB
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+damaging	damaging	JJ	CW	ADJ
+and	and	CC	FW
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+even	even	RB	ADV	CW
+when	when	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+a	a	DT	FW
+silly	silly	JJ	CW	ADJ
+joke	joke	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+one	one	CD	FW
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+saying	say	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+nevertheless	nevertheless	RB	ADV	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+different	different	JJ	CW	ADJ
+perspectives	perspective	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+view	view	VB	CW	VERB
+points	point	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+just	just	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+differently	differently	RB	ADV	CW
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	FW	aux_or_cop
+driven	drive	VBN	CW	VERB
+by	by	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+perceptions	perception	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+speculations	speculation	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+millions	million	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+planet	planet	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+every	every	DT	FW
+single	single	JJ	CW	ADJ
+one	one	CD	FW
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+and	and	CC	FW
+look	look	VB	CW	VERB
+different	different	JJ	CW	ADJ
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+all	all	RB	ADV	CW
+not	not	RB	ADV	CW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+complementary	complementary	JJ	CW	ADJ
+diversity	diversity	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+nowadays	nowadays	RB	ADV	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+range	range	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+diversity	diversity	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+race	race	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+come	come	VBP	CW	VERB
+from	from	IN	FW
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+define	define	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+nor	nor	CC	FW
+the	the	DT	FW
+judgments	judgment	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+from	from	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+and	and	CC	FW
+final	final	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+the	the	DT	FW
+struggles	struggle	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+through	through	RB	ADV	CW
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+look	look	VB	CW	VERB
+tired	tired	JJ	CW	ADJ
+weary	weary	JJ	CW	ADJ
+or	or	CC	FW
+even	even	RB	ADV	CW
+depressed	depressed	JJ	CW	ADJ
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+with	with	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+selves	self	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+judgments	judgment	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+can	can	MD	FW	aux_or_cop
+potentially	potentially	RB	ADV	CW
+affect	affect	VB	CW	VERB
+those	those	DT	FW
+individuals	individual	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometime	sometime	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+thinking	think	VBG	CW	VERB
+about	about	IN	FW
+consequences	consequence	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+how	how	WRB	FW
+those	those	DT	FW
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+impact	impact	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+the	the	DT	FW
+judgments	judgment	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+different	different	JJ	CW	ADJ
+speculations	speculation	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+read	read	VBN	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+judgment	judgment	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+inevitable	inevitable	JJ	CW	ADJ
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+capable	capable	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+perception	perception	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+potentially	potentially	RB	ADV	CW
+affect	affect	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+throughout	throughout	IN	FW
+the	the	DT	FW
+struggles	struggle	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+facing	face	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+

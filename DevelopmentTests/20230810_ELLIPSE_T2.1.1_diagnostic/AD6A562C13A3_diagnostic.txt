@@ -1,0 +1,320 @@
+word	lemma	POS	CW\FW	other categories
+when	when	WRB	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+working	work	VBG	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+by	by	IN	FW
+working	work	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+work	work	NN	CW	NOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+saying	say	VBG	CW	VERB
+about	about	IN	FW
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+working	work	VBG	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+there	there	RB	ADV	CW
+just	just	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+lazy	lazy	JJ	CW	ADJ
+and	and	CC	FW
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+always	always	RB	ADV	CW
+working	work	VBG	CW	VERB
+can	can	MD	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+little	little	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+always	always	RB	ADV	CW
+working	work	VBG	CW	VERB
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+set	set	VBN	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+3	3	CD	FW
+goals	goal	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW
+goals	goal	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+lose	lose	VB	CW	VERB
+weight	weight	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+manager	manager	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+visit	visit	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+working	work	VBG	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+lose	lose	VB	CW	VERB
+weight	weight	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+manager	manager	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+patients	patient	NNS	CW	NOUN	ARGUMENT
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+worked	work	VBD	CW	VERB
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+never	never	RB	ADV	CW
+stopped	stop	VBD	CW	VERB
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	IN	FW
+acheive	acheive	JJ	CW	ADJ
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+later	later	RB	ADV	CW
+on	on	IN	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+pursuing	pursue	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+dream	dream	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+come	come	VB	CW	VERB
+true	true	JJ	CW	ADJ
+but	but	CC	FW
+with	with	IN	FW	SUBORDINATOR
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+achieved	achieve	VBN	CW	VERB
+
+sentence break
+
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+and	and	CC	FW
+hard	hard	RB	ADV	CW
+
+sentence break
+
+little	little	JJ	CW	ADJ
+by	by	IN	FW
+little	little	JJ	CW	ADJ
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+small	small	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+finish	finish	VB	CW	VERB
+doing	do	VBG	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VBP	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+eventually	eventually	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+due	due	JJ	CW	ADJ
+to	to	IN	FW
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+lazy	lazy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+always	always	RB	ADV	CW
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+always	always	RB	ADV	CW
+pays	pay	VBZ	CW	VERB
+off	off	RP	FW
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,492 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+british	british	JJ	CW	ADJ
+and	and	CC	FW
+politician	politician	NN	CW	NOUN	ARGUMENT
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+that	that	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+character	character	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+to	to	TO	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+character	character	NNP	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+are	be	VBP	FW	aux_or_cop
+control	control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+are	be	VBP	FW	aux_or_cop
+character	character	NNP	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+are	be	VBP	FW	aux_or_cop
+parent	parent	NN	CW	NOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+peers	peer	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+are	be	VBP	FW	aux_or_cop
+parent	parent	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+are	be	VBP	FW	aux_or_cop
+parent	parent	NN	CW	NOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+do	do	VBP	FW	aux_or_cop
+parent	parent	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+tell	tell	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+good	good	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+bad	bad	JJ	CW	ADJ
+in	in	IN	FW	SUBORDINATOR
+are	be	VBP	FW	aux_or_cop
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+always	always	RB	ADV	CW
+want	want	VBP	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+out	out	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+good	good	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+school	school	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+make	make	VB	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+are	be	VBP	FW	aux_or_cop
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+encourage	encourage	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+trying	try	VBG	CW	VERB
+more	more	RBR	ADV	CW
+hard	hard	RB	ADV	CW
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+rich	rich	JJ	CW	ADJ
+and	and	CC	FW
+accomplish	accomplish	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+are	be	VBP	FW	aux_or_cop
+society	society	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+society	society	NN	CW	NOUN	ARGUMENT
+surround	surround	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+happening	happen	VBG	CW	VERB
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+move	move	VBP	CW	VERB
+forward	forward	RB	ADV	CW
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+move	move	VB	CW	VERB
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VB	CW	VERB
+good	good	JJ	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+third	third	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+character	character	NNP	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+are	be	VBP	FW	aux_or_cop
+peers	peer	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+are	be	VBP	FW	aux_or_cop
+peers	peer	NNS	CW	NOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+bad	bad	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+so	so	RB	ADV	CW
+post	post	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+peers	peer	NNS	CW	NOUN	ARGUMENT
+influence	influence	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+going	go	VBG	CW	VERB
+the	the	DT	FW
+wrong	wrong	JJ	CW	ADJ
+direction	direction	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+take	take	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+bad	bad	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+never	never	RB	ADV	CW
+done	do	VBN	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+peers	peer	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+take	take	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VB	CW	VERB
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+do	do	VBP	CW	VERB
+the	the	DT	FW
+bad	bad	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+peers	peer	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VB	CW	VERB
+the	the	DT	FW
+wrong	wrong	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+that	that	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+character	character	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+to	to	IN	FW
+this	this	DT	FW	PRONOUN
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+influence	influence	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parent	parent	NN	CW	NOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+peers	peer	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+character	character	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+character	character	NNP	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+formed	form	VBN	CW	VERB
+by	by	IN	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+control	control	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+are	be	VBP	FW	aux_or_cop
+parent	parent	NN	CW	NOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+peers	peer	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+choose	choose	VB	CW	VERB
+are	be	VBP	FW	aux_or_cop
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+control	control	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+some	some	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+influence	influence	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+control	control	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+character	character	NNP	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

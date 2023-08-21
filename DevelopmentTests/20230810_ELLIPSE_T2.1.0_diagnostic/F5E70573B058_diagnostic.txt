@@ -1,0 +1,586 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+prompt	prompt	JJ	CW	ADJ
+talk	talk	VBP	CW	VERB
+about	about	IN	FW
+who	who	WP	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+own	own	JJ	CW	ADJ
+instincts	instinct	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+instincts	instinct	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+own	own	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+or	or	CC	FW
+ruin	ruin	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+about	about	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+want	want	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+out	out	RP	FW
+but	but	CC	FW
+sometime	sometime	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+solve	solve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+there	there	RB	ADV	CW
+own	own	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+live	live	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+make	make	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+good	good	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+bad	bad	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+real	real	VBP	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+again	again	RB	ADV	CW
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+live	live	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+good	good	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+make	make	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+always	always	RB	ADV	CW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+make	make	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+sometime	sometime	RB	ADV	CW
+at	at	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+
+sentence break
+
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+with	with	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometime	sometime	RB	ADV	CW
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+own	own	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+back	back	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometime	sometime	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+choice	choice	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+happy	happy	JJ	CW	ADJ
+or	or	CC	FW
+live	live	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+family	family	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+wrong	wrong	VB	CW	VERB
+about	about	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometime	sometime	RB	ADV	CW
+good	good	JJ	CW	ADJ
+to	to	IN	FW
+listing	list	VBG	CW	VERB
+to	to	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+understand	understand	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+about	about	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+be	be	VB	FW	aux_or_cop
+noise	noise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+who	who	WP	FW
+makes	make	VBZ	CW	VERB
+decision	decision	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+adults	adult	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+not	not	RB	ADV	CW
+the	the	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+make	make	VB	CW	VERB
+decision	decision	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+teenager	teenager	NNP	CW	NOUN	ARGUMENT
+sometime	sometime	RB	ADV	CW
+make	make	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+the	the	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+make	make	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+to	to	TO	FW
+not	not	RB	ADV	CW
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

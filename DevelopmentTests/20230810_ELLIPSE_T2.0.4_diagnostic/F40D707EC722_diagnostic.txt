@@ -1,0 +1,689 @@
+word	lemma	POS	CW\FW	other categories
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+have	have	VBP	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+accomplished	accomplish	VBN	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+maybe	maybe	RB	ADV	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+change	change	VB	CW	VERB
+plans	plan	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+i	i	FW	FW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+degree	degree	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+brothers	brother	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+general	general	JJ	CW	ADJ
+
+sentence break
+
+going	go	VBG	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+a	a	DT	FW
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+live	live	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+get	get	VB	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+and	and	CC	FW
+some	some	DT	FW
+do	do	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+first	first	NNP	CW	NOUN	ARGUMENT
+of	of	IN	FW
+all	all	DT	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+the	the	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+game	game	NN	CW	NOUN	ARGUMENT
+designing	design	VBG	CW	VERB
+
+sentence break
+
+game	game	NN	CW	NOUN	ARGUMENT
+designing	design	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+wanted	want	VBN	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+since	since	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+turned	turn	VBD	CW	VERB
+twelve	twelve	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+first	first	RB	ADV	CW
+started	start	VBD	CW	VERB
+playing	play	VBG	CW	VERB
+minecraft	minecraft	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+minecfrat	minecfrat	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+an	a	DT	FW
+awesome	awesome	JJ	CW	ADJ
+game	game	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+build	build	VB	CW	VERB
+really	really	RB	ADV	CW
+cool	cool	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+come	come	VBP	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+yo	yo	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+a	a	DT	FW
+whole	whole	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+entire	entire	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+there	there	RB	ADV	CW
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+turned	turn	VBD	CW	VERB
+twelve	twelve	CD	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+wonder	wonder	VBP	CW	VERB
+how	how	WRB	FW
+did	do	VBD	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+games	game	NNS	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+so	so	RB	ADV	CW
+real	real	JJ	CW	ADJ
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+reading	read	VBG	CW	VERB
+articles	article	NNS	CW	NOUN	ARGUMENT
+books	book	NNS	CW	NOUN	ARGUMENT
+etc.	etc.	FW	FW
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+stared	stare	VBD	CW	VERB
+playing	play	VBG	CW	VERB
+more	more	RBR	ADV	CW
+games	game	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+incredible	incredible	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+games	game	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+playing	play	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+gaming	gaming	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+around	around	IN	FW
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+do	do	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+by	by	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+college	college	NN	CW	NOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+have	have	VBP	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+goals	goal	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+perhaps	perhaps	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+want	want	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+changed	change	VBN	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+plans	plan	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+personally	personally	RB	ADV	CW
+want	want	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+accomplished	accomplish	VBN	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+one	one	CD	FW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	FW	aux_or_cop
+gone	go	VBN	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+united	united	NNP	CW	NOUN	ARGUMENT
+states	states	NNPS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+drop	drop	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+dropped	drop	VBD	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+really	really	RB	ADV	CW
+low	low	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+degree	degree	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+personally	personally	RB	ADV	CW
+want	want	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+smart	smart	JJ	CW	ADJ
+just	just	RB	ADV	CW
+by	by	IN	FW
+looking	look	VBG	CW	VERB
+at	at	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+record	record	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+u	u	FW	FW
+completed	complete	VBN	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+graduate	graduate	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+offer	offer	VB	CW	VERB
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+jobs	job	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+salary	salary	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+what	what	WP	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'ve	have	VBP	FW	aux_or_cop
+taught	teach	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+in	in	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+but	but	CC	FW
+not	not	RB	ADV	CW
+least	least	JJS	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+one	one	CD	FW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+gone	go	VBN	CW	VERB
+completed	complete	VBN	CW	VERB
+and	and	CC	FW
+graduate	graduate	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+poor	poor	JJ	CW	ADJ
+nor	nor	CC	FW
+is	be	VBZ	FW	aux_or_cop
+rich	rich	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+middle	middle	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+why	why	WRB	FW
+some	some	DT	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+actually	actually	RB	ADV	CW
+afford	afford	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+has	have	VBZ	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+di	di	FW	FW
+n't	not	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+live	live	VB	CW	VERB
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+excuse	excuse	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+living	live	VBG	CW	VERB
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+working	work	VBG	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+pizza	pizza	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+mcdonald	mcdonald	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+demonstrate	demonstrate	VB	CW	VERB
+to	to	TO	FW
+all	all	DT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+actually	actually	RB	ADV	CW
+had	have	VBD	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+di	di	FW	FW
+n't	not	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+living	live	VBG	CW	VERB
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+even	even	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+still	still	RB	ADV	CW
+live	live	VB	CW	VERB
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+probably	probably	RB	ADV	CW
+even	even	RB	ADV	CW
+better	better	JJR	CW	ADJ
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+actually	actually	RB	ADV	CW
+graduate	graduate	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+two	two	CD	FW
+little	little	JJ	CW	ADJ
+brothers	brother	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+proud	proud	JJ	CW	ADJ
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+steps	step	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+live	live	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

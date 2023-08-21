@@ -1,0 +1,388 @@
+word	lemma	POS	CW\FW	other categories
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+or	or	CC	FW
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+and	and	CC	FW
+disagree	disagree	VB	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+all	all	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+wrong	wrong	JJ	CW	ADJ
+and	and	CC	FW
+get	get	VB	CW	VERB
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+care	care	VB	CW	VERB
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+what	what	WP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+are	be	VBP	FW	aux_or_cop
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+from	from	IN	FW
+what	what	WP	FW
+'s	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+ok	ok	JJ	CW	ADJ
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+much	much	JJ	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+theirs	theirs	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+the	the	DT	FW
+wrong	wrong	JJ	CW	ADJ
+path	path	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+do	do	VBP	CW	VERB
+n't	not	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+take	take	VBP	CW	VERB
+the	the	DT	FW
+wrong	wrong	JJ	CW	ADJ
+path	path	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+though	though	RB	ADV	CW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+change	change	VB	CW	VERB
+but	but	CC	FW
+just	just	RB	ADV	CW
+cause	cause	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	DT	FW
+path	path	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+change	change	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+living	live	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+though	though	IN	FW
+some	some	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+so	so	RB	ADV	CW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+would	would	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+work	work	VB	CW	VERB
+out	out	RP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+one	one	CD	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+is	be	VBZ	FW	aux_or_cop
+stopping	stop	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+the	the	DT	FW
+wrong	wrong	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+mest	mest	VBP	CW	VERB
+up	up	RP	FW
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+and	and	CC	FW
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	FW	aux_or_cop
+form	form	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+want	want	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+what	what	WP	FW
+s	s	VBZ	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+from	from	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+
+sentence break
+
+
+paragraph break
+

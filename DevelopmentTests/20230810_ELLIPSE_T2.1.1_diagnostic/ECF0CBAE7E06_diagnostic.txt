@@ -1,0 +1,410 @@
+word	lemma	POS	CW\FW	other categories
+author	author	NN	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+''	''	''	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+growing	grow	VBG	CW	VERB
+by	by	IN	FW
+trying	try	VBG	CW	VERB
+and	and	CC	FW
+trying	try	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+on	on	IN	FW
+whatever	whatever	WDT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+however	however	RB	ADV	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+trying	try	VBG	CW	VERB
+somehting	somehting	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+more	more	RBR	ADV	CW
+and	and	CC	FW
+more	more	RBR	ADV	CW
+each	each	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+additionaly	additionaly	NNP	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+more	more	RBR	ADV	CW
+with	with	IN	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+already	already	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+become	become	VBP	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+more	more	RBR	ADV	CW
+greatful	greatful	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+primaly	primaly	NNP	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+by	by	IN	FW
+trying	try	VBG	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+better	well	RBR	ADV	CW
+each	each	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+made	make	VBD	CW	VERB
+a	a	DT	FW
+survey	survey	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+all	all	DT	FW
+seniors	senior	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+''	''	``	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyod	beyod	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+mastered	master	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+''	''	''	FW
+
+sentence break
+
+sevendy	sevendy	JJ	CW	ADJ
+five	five	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+desagree	desagree	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learnd	learnd	VBP	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+of	of	IN	FW
+what	what	WP	FW
+ever	ever	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+expecience	expecience	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+become	become	VBN	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+more	more	RBR	ADV	CW
+good	good	JJ	CW	ADJ
+of	of	IN	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+therefore	therefore	RB	ADV	FW
+knowing	know	VBG	CW	VERB
+more	more	RBR	ADV	CW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+better	well	JJR	CW	ADJ
+and	and	CC	FW
+better	well	RBR	ADV	CW
+each	each	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+
+sentence break
+
+
+paragraph break
+
+secondary	secondary	JJ	CW	ADJ
+expericences	expericence	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+learnd	learnd	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+of	of	IN	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+of	of	IN	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+capable	capable	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+the	the	DT	FW
+the	the	DT	FW
+juniors	junior	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+seniors	senior	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+fifty	fifty	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+fifty	fifty	CD	FW
+persent	persent	JJ	CW	ADJ
+desagree	desagree	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+more	more	RBR	ADV	CW
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+succesing	succese	VBG	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+still	still	RB	ADV	CW
+seccess	seccess	VB	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+i	i	NNP	CW	NOUN	ARGUMENT
+totaly	totaly	NNP	CW	NOUN	ARGUMENT
+desagree	desagree	VBP	CW	VERB
+sometimes	sometimes	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+trying	try	VBG	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+either	either	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+become	become	VBP	CW	VERB
+better	well	JJR	CW	ADJ
+or	or	CC	FW
+just	just	RB	ADV	CW
+fail	fail	VB	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+therefore	therefore	RB	ADV	FW
+trying	try	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+and	and	CC	FW
+working	work	VBG	CW	VERB
+hard	hard	JJ	CW	ADJ
+base	base	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+more	more	RBR	ADV	CW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

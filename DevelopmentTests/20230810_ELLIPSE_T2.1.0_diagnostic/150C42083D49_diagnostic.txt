@@ -1,0 +1,505 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+foods	food	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+brightens	brighten	VBZ	CW	VERB
+up	up	RP	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+having	have	VBG	CW	VERB
+a	a	DT	FW
+healthier	healthy	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+lets	let	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+become	become	VB	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+cafeteria	cafeteria	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+change	change	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+healthier	healthy	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+effects	effect	VBZ	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+pay	pay	VBP	CW	VERB
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+used	use	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+healthier	healthy	JJR	CW	ADJ
+menu	menu	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+effected	effect	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+to	to	TO	FW
+motivate	motivate	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+treated	treat	VBN	CW	VERB
+with	with	IN	FW
+right	right	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+cafeteria	cafeteria	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+serving	serve	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+menus	menu	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+mood	mood	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+give	give	VB	CW	VERB
+and	and	CC	FW
+treat	treat	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+being	be	VBG	FW	aux_or_cop
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+just	just	RB	ADV	CW
+paying	pay	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+kid	kid	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+paying	pay	VBG	CW	VERB
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+school	school	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+enjoy	enjoy	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+social	social	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+meal	meal	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+used	use	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+healthier	healthy	JJR	CW	ADJ
+menu	menu	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+hate	hate	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+eating	eat	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+meals	meal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+make	make	VB	CW	VERB
+parents	parent	NNS	CW	NOUN	ARGUMENT
+stop	stop	VB	CW	VERB
+paying	pay	VBG	CW	VERB
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+school	school	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+eating	eat	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+footsteps	footstep	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+moreover	moreover	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+not	not	RB	ADV	CW
+change	change	VB	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+menu	menu	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	FW	aux_or_cop
+used	use	VBN	CW	VERB
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+healthier	healthy	JJR	CW	ADJ
+menu	menu	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+effect	effect	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+get	get	VB	FW	aux_or_cop
+used	use	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+menu	menu	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+paying	pay	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+and	and	CC	FW
+social	social	JJ	CW	ADJ
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+essentially	essentially	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+stick	stick	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+menu	menu	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+all	all	DT	FW
+means	mean	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+changing	change	VBG	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+permission	permission	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+all	all	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+agree	agree	VB	CW	VERB
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+bring	bring	VB	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+healthier	healthy	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

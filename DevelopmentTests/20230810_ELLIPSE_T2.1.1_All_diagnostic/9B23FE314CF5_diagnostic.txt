@@ -1,0 +1,388 @@
+word	lemma	POS	CW\FW	other categories
+people	people	NNS	CW	NOUN	ARGUMENT
+discussing	discuss	VBG	CW	VERB
+that	that	IN	FW	PRONOUN
+by	by	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+are	be	VBP	FW	aux_or_cop
+there	there	EX	FW
+better	well	JJR	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+to	to	IN	FW
+brethren	brother	NNS	CW	NOUN	ARGUMENT
+thing	thing	VB	CW	VERB
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+bad	bad	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+thing	thing	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+in	in	IN	FW
+yours	yours	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+older	old	JJR	CW	ADJ
+and	and	CC	FW
+have	have	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+record	record	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+yours	yours	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+children	child	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+older	old	JJR	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+a	a	DT	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+to	to	IN	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+smoking	smoking	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+drunk	drunk	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+the	the	DT	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+parents	parent	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+bad	bad	JJ	CW	ADJ
+behave	behave	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+since	since	IN	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+the	the	DT	FW
+educate	educate	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+not	not	RB	ADV	CW
+the	the	DT	FW
+learn	learn	VB	CW	VERB
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+have	have	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+record	record	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+prison	prison	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+when	when	WRB	FW
+to	to	TO	FW
+commit	commit	VB	CW	VERB
+a	a	DT	FW
+crime	crime	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+no	no	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+escape	escape	VB	CW	VERB
+to	to	IN	FW
+other	other	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+already	already	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+register	register	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+system	system	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+other	other	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+record	record	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+no	no	RB	ADV	CW
+es	es	RB	ADV	FW
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+affect	affect	VBP	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+remainder	remainder	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+yours	yours	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+commit	commit	VBP	CW	VERB
+ofensa	ofensa	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+person	person	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+good	good	JJ	CW	ADJ
+manners	manner	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+too	too	RB	ADV	CW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+children	child	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+good	good	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+that	that	WDT	FW	PRONOUN
+teach	teach	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+that	that	DT	FW	PRONOUN
+teach	teach	VB	CW	VERB
+good	good	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teach	teach	VB	CW	VERB
+good	good	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+priority	priority	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+every	every	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+a	a	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+person	person	NN	CW	NOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+good	good	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+humanity	humanity	NN	CW	NOUN	ARGUMENT
+outside	outside	RB	ADV	CW
+better	well	RBR	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+crime	crime	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+delinquency	delinquency	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+learn	learn	VB	CW	VERB
+the	the	DT	FW
+good	good	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teach	teach	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+teach	teach	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+wreck	wreck	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

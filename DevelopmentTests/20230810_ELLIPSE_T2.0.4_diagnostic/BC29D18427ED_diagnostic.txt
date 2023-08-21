@@ -1,0 +1,374 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+true	true	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+these	these	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+do	do	VB	CW	VERB
+
+sentence break
+
+see	see	VB	CW	VERB
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+was	be	VBD	FW	aux_or_cop
+french	french	JJ	CW	ADJ
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+past	past	RB	ADV	CW
+away	away	RB	ADV	CW
+not	not	RB	ADV	CW
+recently	recently	RB	ADV	CW
+but	but	CC	FW
+a	a	DT	FW
+while	while	NN	CW	NOUN	ARGUMENT
+ago	ago	IN	FW
+though	though	IN	FW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+examples	example	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+and	and	CC	FW
+how	how	WRB	FW
+
+sentence break
+
+
+paragraph break
+
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wish	wish	VBP	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+leaning	lean	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+speech	speech	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+
+sentence break
+
+so	so	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	TO	FW
+pairs	pair	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+about	about	IN	FW
+pairs	pair	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+culture	culture	NN	CW	NOUN	ARGUMENT
+fashion	fashion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+art	art	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+the	the	DT	FW
+many	many	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+well	well	RB	ADV	CW
+see	see	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+started	start	VBD	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+watch	watch	VB	CW	VERB
+all	all	PDT	FW
+these	these	DT	FW
+different	different	JJ	CW	ADJ
+movies	movie	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+this	this	DT	FW
+one	one	CD	FW
+movie	movie	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+called	call	VBN	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+movie	movie	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+named	name	VBN	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+after	after	IN	FW
+but	but	CC	FW
+besides	besides	IN	FW	SUBORDINATOR
+that	that	DT	FW
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+movie	movie	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+a	a	DT	FW
+girl	girl	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+work	work	VBP	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+designer	designer	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+pairs	pair	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+comes	come	VBZ	CW	VERB
+to	to	TO	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+happeneds	happened	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+about	about	IN	FW
+going	go	VBG	CW	VERB
+back	back	RB	ADV	CW
+but	but	CC	FW
+then	then	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+falls	fall	VBZ	CW	VERB
+in	in	IN	FW
+love	love	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+this	this	DT	FW
+guy	guy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+goes	go	VBZ	CW	VERB
+to	to	TO	FW
+pairs	pair	NNS	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+movie	movie	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+inspired	inspire	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+love	love	VB	CW	VERB
+pairs	pair	NNS	CW	NOUN	ARGUMENT
+ans	an	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+lean	lean	JJ	CW	ADJ
+french	french	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+draw	draw	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+do	do	VBP	CW	VERB
+but	but	CC	FW
+this	this	DT	FW	PRONOUN
+carried	carry	VBN	CW	VERB
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+until	until	IN	FW
+now	now	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+fall	fall	VB	CW	VERB
+in	in	IN	FW
+love	love	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+culture	culture	NN	CW	NOUN	ARGUMENT
+fashion	fashion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+art	art	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+fell	fall	VBD	CW	VERB
+in	in	IN	FW
+love	love	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+languish	languish	VBP	CW	VERB
+and	and	CC	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+spoke	speak	VBD	CW	VERB
+too	too	RB	ADV	CW
+
+sentence break
+
+but	but	CC	FW
+let	let	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+let	let	VB	CW	VERB
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+different	different	JJ	CW	ADJ
+but	but	CC	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+
+sentence break
+
+oh	oh	UH	FW
+and	and	CC	FW
+like	like	IN	FW
+the	the	DT	FW
+art	art	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+the	the	DT	FW
+art	art	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+
+sentence break
+
+art	art	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+been	be	VBN	CW	VERB
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+paint	paint	VBP	CW	VERB
+sketch	sketch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+or	or	CC	FW
+draw	draw	VB	CW	VERB
+
+sentence break
+
+see	see	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+inspired	inspired	JJ	CW	ADJ
+or	or	CC	FW
+in	in	IN	FW
+a	a	DT	FW
+mood	mood	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+also	also	RB	ADV	CW
+started	start	VBN	CW	VERB
+when	when	WRB	FW
+
+sentence break
+
+
+paragraph break
+

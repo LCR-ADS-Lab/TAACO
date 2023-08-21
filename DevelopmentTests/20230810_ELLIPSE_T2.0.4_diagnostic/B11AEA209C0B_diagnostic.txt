@@ -1,0 +1,459 @@
+word	lemma	POS	CW\FW	other categories
+overall	overall	RB	ADV	CW
+success	success	NN	CW	NOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+with	with	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+losing	lose	VBG	CW	VERB
+enthusiasms	enthusiasm	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+being	be	VBG	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+working	working	NN	CW	NOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+motivations	motivation	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+determinations	determination	NNS	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+experience	experience	VB	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+furthermore	furthermore	RB	ADV	FW
+success	success	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+with	with	IN	FW
+obstacles	obstacle	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+road	road	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+fail	fail	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+math	math	NN	CW	NOUN	ARGUMENT
+exams	exam	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+retake	retake	VB	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+yeah	yeah	RB	ADV	CW
+
+sentence break
+
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+
+sentence break
+
+later	later	RB	ADV	CW
+that	that	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+boy	boy	NN	CW	NOUN	ARGUMENT
+took	take	VBD	CW	VERB
+the	the	DT	FW
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ace	ace	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+95	95	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+math	math	NN	CW	NOUN	ARGUMENT
+retake	retake	NN	CW	NOUN	ARGUMENT
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+being	be	VBG	FW	aux_or_cop
+self	self	NN	CW	NOUN	ARGUMENT
+motivations	motivation	NNS	CW	NOUN	ARGUMENT
+positive	positive	JJ	CW	ADJ
+mind	mind	NN	CW	NOUN	ARGUMENT
+set	set	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hard	hard	JJ	CW	ADJ
+working	working	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+road	road	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+college	college	NN	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+out	out	RP	FW
+for	for	IN	FW
+a	a	DT	FW
+professional	professional	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+worked	work	VBN	CW	VERB
+on	on	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+ball	ball	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+finishing	finish	VBG	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+come	come	VB	CW	VERB
+back	back	RB	ADV	CW
+in	in	IN	FW
+two	two	CD	FW
+weeks	week	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+tryout	tryout	VB	CW	VERB
+again	again	RB	ADV	CW
+
+sentence break
+
+after	after	IN	FW
+that	that	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+college	college	NN	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+practicing	practice	VBG	CW	VERB
+everyday	everyday	JJ	CW	ADJ
+working	work	VBG	CW	VERB
+on	on	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+main	main	JJ	CW	ADJ
+weakness	weakness	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+then	then	RB	ADV	CW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+tryout	tryout	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+to	to	TO	FW
+prove	prove	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+worked	work	VBN	CW	VERB
+on	on	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+weaknesses	weakness	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+played	play	VBD	CW	VERB
+a	a	DT	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+match	match	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+some	some	DT	FW
+unbelievable	unbelievable	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+impress	impress	VB	CW	VERB
+with	with	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+performance	performance	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+the	the	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+was	be	VBD	CW	VERB
+over	over	RB	ADV	CW
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+passed	pass	VBN	CW	VERB
+the	the	DT	FW
+tryout	tryout	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+ready	ready	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+``	``	``	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+loser	loser	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+having	have	VBG	CW	VERB
+to	to	TO	FW
+experience	experience	VB	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+over	over	IN	FW
+come	come	VBN	CW	VERB
+those	those	DT	FW
+obstacles	obstacle	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+come	come	VBN	CW	VERB
+with	with	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+losing	lose	VBG	CW	VERB
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+nevertheless	nevertheless	RB	ADV	FW
+success	success	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+comes	come	VBZ	CW	VERB
+with	with	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+losing	lose	VBG	CW	VERB
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+being	be	VBG	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+working	working	NN	CW	NOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+motivated	motivate	VBN	CW	VERB
+determinations	determination	NNS	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+reach	reach	VBP	CW	VERB
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+all	all	PDT	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+working	working	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+self	self	NN	CW	NOUN	ARGUMENT
+determinations	determination	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+come	come	VBN	CW	VERB
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+motivating	motivate	VBG	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+being	be	VBG	FW	aux_or_cop
+self	self	NN	CW	NOUN	ARGUMENT
+motivated	motivated	JJ	CW	ADJ
+and	and	CC	FW
+determined	determine	VBN	CW	VERB
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+working	working	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+clearly	clearly	RB	ADV	CW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+mind	mind	NN	CW	NOUN	ARGUMENT
+set	set	NN	CW	NOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

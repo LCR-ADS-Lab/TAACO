@@ -1,0 +1,570 @@
+word	lemma	POS	CW\FW	other categories
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+"	"	``	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+"	"	''	FW
+
+sentence break
+
+well	well	UH	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+every	every	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+a	a	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+fail	fail	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+thought	thought	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+agreeing	agree	VBG	CW	VERB
+to	to	IN	FW
+this	this	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+told	tell	VBN	CW	VERB
+in	in	IN	FW
+different	different	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+from	from	IN	FW
+each	each	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+from	from	IN	FW
+failing	fail	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+much	much	RB	ADV	CW
+bigger	big	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+looking	look	VBG	CW	VERB
+at	at	IN	FW
+those	those	DT	FW	PRONOUN
+words	word	NNS	CW	NOUN	ARGUMENT
+"	"	``	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+"	"	''	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+why	why	WRB	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+comes	come	VBZ	CW	VERB
+by	by	IN	FW
+so	so	RB	ADV	CW
+fast	fast	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+just	just	RB	ADV	CW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+told	tell	VBN	CW	VERB
+a	a	DT	FW
+displayed	display	VBN	CW	VERB
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+meaning	meaning	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+just	just	RB	ADV	CW
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+"	"	``	FW
+from	from	IN	FW
+each	each	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+a	a	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+these	these	DT	FW	PRONOUN
+words	word	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+relate	relate	VB	CW	VERB
+to	to	IN	FW
+what	what	WP	FW
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+both	both	DT	FW
+target	target	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+think	think	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+a	a	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+fail	fail	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+but	but	CC	FW
+at	at	IN	FW
+that	that	DT	FW	PRONOUN
+right	right	JJ	CW	ADJ
+moment	moment	NN	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+well	well	UH	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+those	those	DT	FW	PRONOUN
+words	word	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+come	come	VB	CW	VERB
+in	in	RP	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+from	from	IN	FW
+those	those	DT	FW	PRONOUN
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+achieve	achieve	VB	CW	VERB
+more	more	JJR	CW	ADJ
+from	from	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+when	when	WRB	FW
+the	the	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+when	when	WRB	FW
+doing	do	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+error	error	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+'s	's	POS	FW
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+try	try	VB	CW	VERB
+harder	hard	RBR	ADV	CW
+and	and	CC	FW
+only	only	RB	ADV	CW
+do	do	VB	CW	VERB
+better	well	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+"	"	``	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+look	look	VB	CW	VERB
+back	back	RB	ADV	CW
+at	at	IN	FW
+those	those	DT	FW	PRONOUN
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+"	"	''	FW
+when	when	WRB	FW
+looking	look	VBG	CW	VERB
+back	back	RB	ADV	CW
+at	at	IN	FW
+a	a	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+before	before	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+mostly	mostly	RB	ADV	CW
+say	say	VBP	CW	VERB
+"	"	``	FW
+oh	oh	UH	FW
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+better	well	RBR	ADV	CW
+"	"	''	FW
+or	or	CC	FW
+"	"	``	FW
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+this	this	DT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+better	well	RBR	ADV	CW
+"	"	''	FW
+those	those	DT	FW	PRONOUN
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+change	change	VB	CW	VERB
+or	or	CC	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+different	different	JJ	CW	ADJ
+about	about	IN	FW
+that	that	DT	FW	PRONOUN
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+happen	happen	VBP	CW	VERB
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+there	there	RB	ADV	CW
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+look	look	VB	CW	VERB
+back	back	RB	ADV	CW
+and	and	CC	FW
+do	do	VB	CW	VERB
+better	well	RBR	ADV	CW
+then	then	RB	ADV	CW
+before	before	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+why	why	WRB	FW
+after	after	IN	FW
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+think	think	VBP	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+till	till	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+better	well	RBR	ADV	CW
+or	or	CC	FW
+achieved	achieve	VBD	CW	VERB
+even	even	RB	ADV	CW
+bigger	big	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+"	"	``	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+happen	happen	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+happen	happen	VB	CW	VERB
+everywhere	everywhere	RB	ADV	CW
+and	and	CC	FW
+at	at	IN	FW
+anytime	anytime	RB	ADV	FW
+no	no	RB	ADV	CW
+matter	matter	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+age	age	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+gender	gender	NN	CW	NOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+happen	happen	VB	CW	VERB
+to	to	IN	FW
+all	all	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+happen	happen	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+going	go	VBG	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+happen	happen	VB	CW	VERB
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+there	there	RB	ADV	CW
+reasons	reason	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+to	to	TO	FW
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+worse	bad	JJR	CW	ADJ
+or	or	CC	FW
+to	to	TO	FW
+put	put	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+and	and	CC	FW
+just	just	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+
+paragraph break
+
+no	no	UH	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+happen	happen	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+push	push	VB	CW	VERB
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+to	to	TO	FW
+look	look	VB	CW	VERB
+back	back	RB	ADV	CW
+and	and	CC	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+get	get	VB	CW	VERB
+a	a	DT	FW
+plan	plan	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+bigger	big	JJR	CW	ADJ
+and	and	CC	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+and	and	CC	FW
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mistakes	mistake	VBZ	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+word	word	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+describe	describe	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+at	at	IN	FW
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+those	those	DT	FW	PRONOUN
+words	word	NNS	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+once	once	RB	ADV	CW
+by	by	IN	FW
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+"	"	``	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+"	"	''	FW
+
+sentence break
+
+always	always	RB	ADV	CW
+look	look	VB	CW	VERB
+back	back	RB	ADV	CW
+at	at	IN	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+those	those	DT	FW	PRONOUN
+words	word	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+those	those	DT	FW	PRONOUN
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+become	become	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+and	and	CC	FW
+bigger	big	JJR	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+without	without	IN	FW
+that	that	DT	FW	PRONOUN
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+think	think	VB	CW	VERB
+of	of	IN	FW
+achieving	achieve	VBG	CW	VERB
+so	so	RB	ADV	CW
+high	high	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

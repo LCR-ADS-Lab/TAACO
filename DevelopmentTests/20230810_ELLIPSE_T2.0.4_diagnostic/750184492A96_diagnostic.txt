@@ -1,0 +1,738 @@
+word	lemma	POS	CW\FW	other categories
+finally	finally	RB	ADV	CW
+if	if	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+only	only	RB	ADV	CW
+video	video	JJ	CW	ADJ
+games	game	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+plays	play	NNS	CW	NOUN	ARGUMENT
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+to	to	TO	FW
+an	a	DT	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+english	english	NNP	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+on	on	IN	FW
+wednesday	wednesday	NNP	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+practice	practice	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+the	the	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+to	to	TO	FW
+practice	practice	VB	CW	VERB
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+five	five	CD	FW
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+late	late	RB	ADV	CW
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+tells	tell	VBZ	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+strike	strike	VB	CW	VERB
+one	one	CD	FW
+
+sentence break
+
+proper_name	proper_name	NN	CW	NOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+to	to	TO	FW
+convince	convince	VB	CW	VERB
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+''	''	''	FW
+``	``	``	FW
+is	be	VBZ	CW	VERB
+either	either	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+kicked	kick	VBN	CW	VERB
+form	form	VBP	CW	VERB
+the	the	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+strike	strike	VB	CW	VERB
+three	three	CD	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+proves	prove	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+the	the	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+kicked	kick	VBN	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+loved	love	VBD	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+though	though	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+on	on	IN	FW
+the	the	DT	FW
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+take	take	VB	CW	VERB
+this	this	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+come	come	VB	CW	VERB
+late	late	RB	ADV	CW
+from	from	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+means	mean	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+gamer	gamer	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+youtube	youtube	NNP	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+streams	stream	NNS	CW	NOUN	ARGUMENT
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+plays	play	VBZ	CW	VERB
+games	game	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+youtube	youtube	NNP	CW	NOUN	ARGUMENT
+but	but	CC	FW
+now	now	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+stream	stream	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+days	day	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+6:30	6:30	CD	FW
+and	and	CC	FW
+the	the	DT	FW
+drive	drive	NN	CW	NOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+30	30	CD	FW
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+7:00	7:00	CD	FW
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+home	home	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+got	get	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+late	late	JJ	CW	ADJ
+for	for	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+bought	buy	VBD	CW	VERB
+a	a	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+play	play	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+weekends	weekend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+lost	lose	VBD	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+were	be	VBD	FW	aux_or_cop
+following	follow	VBG	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+youtube	youtube	NNP	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+for	for	IN	FW
+youtube	youtube	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+had	have	VBD	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+stream	stream	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+lost	lose	VBD	CW	VERB
+half	half	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+just	just	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	CW	VERB
+in	in	IN	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+in	in	IN	FW
+a	a	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+late	late	JJ	CW	ADJ
+for	for	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+sport	sport	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+two	two	CD	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+once	once	RB	ADV	CW
+so	so	RB	ADV	CW
+do	do	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+doing	do	VBG	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+more	more	JJR	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+extra	extra	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	NNP	CW	NOUN	ARGUMENT
+of	of	IN	FW
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+youre	youre	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+planning	plan	VBG	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+eat	eat	VB	CW	VERB
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+over	over	IN	FW
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+call	call	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+told	tell	VBD	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+''	''	''	FW
+mom	mom	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+but	but	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+``	``	``	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+restaurant	restaurant	NN	CW	NOUN	ARGUMENT
+red	red	NNP	CW	NOUN	ARGUMENT
+lobster	lobster	NNP	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+upset	upset	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+wont	wont	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+restaurant	restaurant	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+proves	prove	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+on	on	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+missed	miss	VBD	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+restaurant	restaurant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+do	do	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+board	board	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+extra	extra	JJ	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	PDT	FW
+the	the	DT	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+ruined	ruin	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+spent	spend	VBN	CW	VERB
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+there	there	RB	ADV	CW
+favorite	favorite	JJ	CW	ADJ
+sports	sport	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+sport	sport	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

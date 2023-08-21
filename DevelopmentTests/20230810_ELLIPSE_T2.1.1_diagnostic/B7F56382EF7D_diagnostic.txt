@@ -1,0 +1,516 @@
+word	lemma	POS	CW\FW	other categories
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+important	important	JJ	CW	ADJ
+matters	matter	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+profitable	profitable	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+second	second	RB	ADV	CW
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+unhealthy	unhealthy	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+among	among	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+third	third	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+through	through	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+profitable	profitable	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+healthier	healthy	JJR	CW	ADJ
+than	than	IN	FW
+a	a	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+make	make	VB	CW	VERB
+an	an	DT	FW
+unhealthy	unhealthy	JJ	CW	ADJ
+or	or	CC	FW
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+at	at	IN	FW
+first	first	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+profitable	profitable	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+save	save	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+money	money	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+asks	ask	VBZ	CW	VERB
+for	for	IN	FW
+
+sentence break
+
+also	also	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+save	save	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+much	much	RB	ADV	CW
+more	more	RBR	ADV	CW
+healthier	healthy	JJR	CW	ADJ
+among	among	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+selves	self	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+healthy	healthy	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+profitable	profitable	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+financing	financing	NN	CW	NOUN	ARGUMENT
+decision	decision	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+life	life	NN	CW	NOUN	ARGUMENT
+better	well	RBR	ADV	CW
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+away	away	RB	ADV	CW
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+bankrupt	bankrupt	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+an	an	DT	FW
+unhealthy	unhealthy	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+among	among	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+important	important	JJ	CW	ADJ
+matters	matter	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+financing	financing	NN	CW	NOUN	ARGUMENT
+decision	decision	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+result	result	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+bankruptcy	bankruptcy	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+destroy	destroy	VB	CW	VERB
+a	a	DT	FW
+whole	whole	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+the	the	DT	FW
+advises	advise	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+authorities	authority	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+experts	expert	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+enjoy	enjoy	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+the	the	DT	FW
+get	get	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+result	result	VB	CW	VERB
+in	in	IN	FW
+depression	depression	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+an	an	DT	FW
+authority	authority	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+care	care	VB	CW	VERB
+enough	enough	RB	ADV	CW
+about	about	IN	FW
+some	some	DT	FW
+one	one	CD	FW
+else	else	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+third	third	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+every	every	DT	FW
+individual	individual	NN	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+make	make	VB	CW	VERB
+the	the	DT	FW
+healthiest	healthy	JJS	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+among	among	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+comfortable	comfortable	JJ	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+every	every	DT	FW
+individual	individual	NN	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+knows	know	VBZ	CW	VERB
+those	those	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+healthy	healthy	JJ	CW	ADJ
+and	and	CC	FW
+a	a	DT	FW
+save	save	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+important	important	JJ	CW	ADJ
+matters	matter	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+said	say	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+every	every	DT	FW
+individual	individual	NN	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+good	good	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+go	go	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+healthiest	healthy	JJS	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+profitable	profitable	JJ	CW	ADJ
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+and	and	CC	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+trust	trust	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+selves	self	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+making	make	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

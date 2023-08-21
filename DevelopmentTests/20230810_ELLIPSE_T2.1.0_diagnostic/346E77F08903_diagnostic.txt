@@ -1,0 +1,250 @@
+word	lemma	POS	CW\FW	other categories
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+to	to	TO	FW
+make	make	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+for	for	IN	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+for	for	IN	FW
+to	to	TO	FW
+receive	receive	VB	CW	VERB
+better	well	JJR	CW	ADJ
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+all	all	PDT	FW
+the	the	DT	FW
+doctors	doctor	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+aux	aux	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+have	have	VB	FW	aux_or_cop
+that	that	DT	FW	PRONOUN
+to	to	TO	FW
+rest	rest	VB	CW	VERB
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+being	be	VBG	FW	aux_or_cop
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+easy	easy	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+run	run	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+beautiful	beautiful	JJ	CW	ADJ
+of	of	IN	FW
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+dedication	dedication	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+love	love	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+good	good	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+recieve	recieve	VBP	CW	VERB
+two	two	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+work	work	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+sufficiently	sufficiently	RB	ADV	CW
+the	the	DT	FW
+legal	legal	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+7	7	CD	FW
+at	at	IN	FW
+8	8	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+conserve	conserve	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+energy	energy	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+that	that	DT	FW	PRONOUN
+eat	eat	VB	CW	VERB
+good	good	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+four	four	CD	FW
+-	-	HYPH	FW
+day	day	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+so	so	RB	ADV	CW
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+preparation	preparation	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+in	in	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+disposed	dispose	VBN	CW	VERB
+the	the	DT	FW
+24	24	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+for	for	IN	FW
+the	the	DT	FW
+emergency	emergency	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+in	in	RP	FW
+on	on	IN	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+so	so	RB	ADV	CW
+how	how	WRB	FW
+for	for	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+for	for	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+patient	patient	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW	SUBORDINATOR
+the	the	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+disposed	dispose	VBN	CW	VERB
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+more	more	RBR	ADV	CW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

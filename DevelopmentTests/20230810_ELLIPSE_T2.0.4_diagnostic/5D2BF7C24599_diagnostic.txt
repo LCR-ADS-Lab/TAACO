@@ -1,0 +1,525 @@
+word	lemma	POS	CW\FW	other categories
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NNP	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educationl	educationl	NNP	CW	NOUN	ARGUMENT
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+phones	phone	NNS	CW	NOUN	ARGUMENT
+used	use	VBN	CW	VERB
+within	within	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+a	a	DT	FW
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+tend	tend	VBP	CW	VERB
+to	to	TO	FW
+isolate	isolate	VB	CW	VERB
+within	within	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+spending	spend	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+interact	interact	VB	CW	VERB
+with	with	IN	FW
+anybody	anybody	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+phones	phone	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	CW	VERB
+used	use	VBN	CW	VERB
+to	to	TO	FW
+replace	replace	VB	CW	VERB
+chrombooks	chrombook	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+typing	typing	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+essays	essay	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+much	much	RB	ADV	CW
+more	more	RBR	ADV	CW
+difficult	difficult	JJ	CW	ADJ
+
+sentence break
+
+also	also	RB	ADV	CW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+regulated	regulate	VBN	CW	VERB
+throughout	throughout	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+making	make	VBG	CW	VERB
+sure	sure	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+stay	stay	VBP	CW	VERB
+away	away	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+bags	bag	NN	CW	NOUN	ARGUMENT
+until	until	IN	FW	SUBORDINATOR
+needed	need	VBN	CW	VERB
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+apps	app	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+typing	typing	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+essays	essay	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+resources	resource	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+succeed	succeed	VB	CW	VERB
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+intruduction	intruduction	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+paragraph	paragraph	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+resorted	resort	VBN	CW	VERB
+to	to	TO	FW
+using	use	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+throughout	throughout	IN	FW
+classrooms	classroom	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+argue	argue	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+cellphones	cellphone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+adsadvantage	adsadvantage	JJ	CW	ADJ
+and	and	CC	FW
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+used	use	VBN	CW	VERB
+due	due	JJ	CW	ADJ
+to	to	TO	FW
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+every	every	DT	FW
+resourcefulway	resourcefulway	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+and	and	CC	FW
+do	do	VB	CW	VERB
+research	research	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+using	use	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+smart	smart	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+counter-argument	counter-argument	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+beneficial	beneficial	JJ	CW	ADJ
+to	to	TO	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+costy	costy	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+since	since	IN	FW	SUBORDINATOR
+most	most	JJS	CW	ADJ
+teens	teens	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+smartphone	smartphone	VBN	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+every	every	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+one	one	CD	FW
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+towards	towards	IN	FW
+chargers	charger	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+classrooms	classroom	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+the	the	DT	FW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+ipods	ipod	NNS	CW	NOUN	ARGUMENT
+reached	reach	VBD	CW	VERB
+low	low	JJ	CW	ADJ
+porcentage	porcentage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+money	money	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	CW	VERB
+used	use	VBN	CW	VERB
+ofr	ofr	NN	CW	NOUN	ARGUMENT
+extra	extra	JJ	CW	ADJ
+curricular	curricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+clubs	club	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+teams	team	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+may	may	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+new	new	JJ	CW	ADJ
+equipment	equipment	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+materials	material	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+chrombook	chrombook	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+use	use	VB	CW	VERB
+chrombooks	chrombook	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+teh	teh	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+used	use	VBN	CW	VERB
+for	for	IN	FW
+many	many	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+generation	generation	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+cellphones	cellphone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+mostly	mostly	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+in	in	IN	FW
+contact	contact	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+on	on	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+check	check	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+do	do	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+advancement	advancement	NN	CW	NOUN	ARGUMENT
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+educational	educational	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+throughout	throughout	IN	FW
+the	the	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+begun	begin	VBN	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+cellphones	cellphone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classrooms	classroom	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+aid	aid	VB	CW	VERB
+learning	learning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+having	have	VBG	CW	VERB
+cellphones	cellphone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+advantages	advantage	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+useful	useful	JJ	CW	ADJ
+because	because	IN	FW
+the	the	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+communicate	communicate	VBP	CW	VERB
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+easier	easier	JJR	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+'	'	''	FW
+t	t	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+expensive	expensive	JJ	CW	ADJ
+and	and	CC	FW
+take	take	VB	CW	VERB
+up	up	RP	FW
+less	less	JJR	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+computers	computer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+set	set	VB	CW	VERB
+reminders	reminder	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+unlike	unlike	IN	FW
+a	a	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+paragraph	paragraph	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+
+paragraph break
+

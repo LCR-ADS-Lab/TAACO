@@ -1,0 +1,687 @@
+word	lemma	POS	CW\FW	other categories
+seeking	seek	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+better	well	JJR	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+different	different	JJ	CW	ADJ
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+option	option	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+from	from	IN	FW
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+solve	solve	VB	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+things	thing	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+really	really	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+sometimes	sometimes	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+ask	ask	VB	CW	VERB
+for	for	IN	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+one	one	CD	FW
+option	option	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+from	from	IN	FW
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+of	of	IN	FW
+all	all	DT	FW
+getting	get	VBG	CW	VERB
+different	different	JJ	CW	ADJ
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+anther	anther	NN	CW	NOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+for	for	IN	FW
+multiple	multiple	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+let	let	VB	CW	VERB
+'s	us	PRP	FW	PRONOUN	ARGUMENT
+say	say	VB	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+mall	mall	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+there	there	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+where	where	WRB	FW
+this	this	DT	FW	PRONOUN
+on	on	IN	FW
+store	store	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+was	be	VBD	FW	aux_or_cop
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+a	a	DT	FW
+dude	dude	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+and	and	CC	FW
+the	the	DT	FW
+dude	dude	NN	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+in	in	IN	FW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+floor	floor	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+floor	floor	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+find	find	VB	CW	VERB
+the	the	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+on	on	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+floor	floor	NN	CW	NOUN	ARGUMENT
+next	next	RB	ADV	CW
+to	to	IN	FW
+the	the	DT	FW
+ice	ice	NN	CW	NOUN	ARGUMENT
+cream	cream	NN	CW	NOUN	ARGUMENT
+shop	shop	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+down	down	RP	FW
+to	to	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+floor	floor	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+went	go	VBD	CW	VERB
+next	next	RB	ADV	CW
+to	to	IN	FW
+the	the	DT	FW
+ice	ice	NN	CW	NOUN	ARGUMENT
+cream	cream	NN	CW	NOUN	ARGUMENT
+shop	shop	NN	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+an	an	DT	FW
+ice	ice	NN	CW	NOUN	ARGUMENT
+cream	cream	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+found	find	VBD	CW	VERB
+the	the	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+so	so	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+she	she	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+that	that	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBN	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+had	have	VBD	FW	aux_or_cop
+found	find	VBN	CW	VERB
+the	the	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+of	of	IN	FW
+all	all	DT	FW
+having	have	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+one	one	CD	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	well	RBR	ADV	CW
+right	right	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VB	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+moved	move	VBD	CW	VERB
+to	to	IN	FW
+new	new	NNP	CW	NOUN	ARGUMENT
+york	york	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+know	know	VBP	CW	VERB
+clue	clue	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+nether	nether	NN	CW	NOUN	ARGUMENT
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+just	just	RB	ADV	CW
+walk	walk	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+where	where	WRB	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+going	go	VBG	CW	VERB
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+this	this	DT	FW
+girl	girl	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+blue	blue	JJ	CW	ADJ
+eyes	eye	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+brown	brown	JJ	CW	ADJ
+hair	hair	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+"	"	``	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+looks	look	VBZ	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+so	so	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+ran	run	VBD	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+the	the	DT	FW
+girl	girl	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+asked	ask	VBD	CW	VERB
+"	"	``	FW
+hey	hey	UH	FW
+what	what	WP	FW
+'s	be	VBZ	FW	aux_or_cop
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+generic_name	generic_name	NNPS	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+about	about	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+"	"	''	FW
+"	"	``	FW
+oh	oh	UH	FW
+same	same	JJ	CW	ADJ
+"	"	''	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+complete	complete	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+complete	complete	JJ	CW	ADJ
+lost	lose	VBN	CW	VERB
+again	again	RB	ADV	CW
+
+sentence break
+
+however	however	RB	ADV	FW
+while	while	IN	FW	SUBORDINATOR
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+walking	walk	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+hallway	hallway	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+asking	ask	VBG	CW	VERB
+a	a	DT	FW
+bunch	bunch	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+where	where	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+answers	answer	NNS	CW	NOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+see	see	VB	CW	VERB
+asking	ask	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+than	than	IN	FW
+one	one	CD	FW
+because	because	IN	FW	SUBORDINATOR
+what	what	WP	FW
+happen	happen	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+had	have	VBD	FW	aux_or_cop
+asked	ask	VBN	CW	VERB
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+had	have	VBD	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+room	room	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+had	have	VBD	FW	aux_or_cop
+gone	go	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+wrong	wrong	JJ	CW	ADJ
+room	room	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+seeking	seek	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+solve	solve	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+having	have	VBG	CW	VERB
+a	a	DT	FW
+sleepover	sleepover	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+two	two	CD	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+making	make	VBG	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+kitchen	kitchen	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+to	to	TO	FW
+
+sentence break
+
+while	while	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+having	have	VBG	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+cooking	cook	VBG	CW	VERB
+the	the	DT	FW
+oven	oven	NNP	CW	NOUN	ARGUMENT
+caught	catch	VBN	CW	VERB
+on	on	IN	FW
+fire	fire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+finking	fink	VBG	CW	VERB
+out	out	RP	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+"	"	``	FW
+ahhhhhh	ahhhhhh	NNP	CW	NOUN	ARGUMENT
+what	what	WP	FW
+should	should	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VB	CW	VERB
+"	"	''	FW
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+freaking	freak	VBG	CW	VERB
+out	out	RP	FW
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+call	call	VBP	CW	VERB
+911	911	CD	FW
+while	while	IN	FW
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+find	find	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+trow	trow	JJ	CW	ADJ
+water	water	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fine	fine	JJ	CW	ADJ
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+dramatic	dramatic	JJ	CW	ADJ
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+calling	call	VBG	CW	VERB
+911	911	CD	FW
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+smartest	smart	JJS	CW	ADJ
+or	or	CC	FW
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VB	CW	VERB
+better	well	JJR	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+911	911	CD	FW
+came	come	VBD	CW	VERB
+and	and	CC	FW
+solved	solve	VBD	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+overall	overall	RB	ADV	CW
+seeking	seek	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+options	option	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+better	well	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+getting	get	VBG	CW	VERB
+different	different	JJ	CW	ADJ
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+options	option	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+chose	choose	VBD	CW	VERB
+from	from	IN	FW
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+solve	solve	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+found	find	VBD	CW	VERB
+the	the	DT	FW
+mall	mall	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+the	the	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+and	and	CC	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+burn	burn	VB	CW	VERB
+down	down	RP	FW
+
+sentence break
+
+let	let	VB	CW	VERB
+'s	us	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+say	say	VB	CW	VERB
+somethings	something	NNS	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+could	could	MD	FW	aux_or_cop
+had	have	VBD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+ask	ask	VB	CW	VERB
+for	for	IN	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+one	one	CD	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

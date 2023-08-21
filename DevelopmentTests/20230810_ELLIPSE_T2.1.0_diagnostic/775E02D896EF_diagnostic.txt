@@ -1,0 +1,264 @@
+word	lemma	POS	CW\FW	other categories
+community	community	NN	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+parks	park	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+intersting	interste	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+have	have	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+find	find	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+fun	fun	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+at	at	IN	FW
+
+sentence break
+
+community	community	NN	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+smell	smell	VB	CW	VERB
+the	the	DT	FW
+fresh	fresh	JJ	CW	ADJ
+air	air	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+state	state	NN	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+national	national	JJ	CW	ADJ
+parks	park	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+cool	cool	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+outside	outside	RB	ADV	CW
+than	than	IN	FW
+staying	stay	VBG	CW	VERB
+inside	inside	RB	ADV	CW
+all	all	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+some	some	DT	FW
+fresh	fresh	JJ	CW	ADJ
+air	air	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+
+sentence break
+
+in	in	IN	FW
+all	all	PDT	FW
+these	these	DT	FW	PRONOUN
+three	three	CD	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+outside	outside	RB	ADV	CW
+go	go	VBP	FW	aux_or_cop
+run	run	VB	CW	VERB
+around	around	RB	ADV	CW
+and	and	CC	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+out	out	RP	FW
+skate	skate	JJ	CW	ADJ
+run	run	VBN	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+list	list	NN	CW	NOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+on	on	RB	ADV	CW
+and	and	CC	FW
+on	on	RB	ADV	CW
+
+sentence break
+
+next	next	JJ	CW	ADJ
+going	go	VBG	CW	VERB
+outside	outside	RB	ADV	CW
+on	on	IN	FW
+a	a	DT	FW
+amazing	amazing	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+relaxing	relax	VBG	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+staying	stay	VBG	CW	VERB
+inside	inside	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+sometimes	sometimes	RB	ADV	CW
+good	good	JJ	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+some	some	DT	FW
+fresh	fresh	JJ	CW	ADJ
+air	air	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	DT	FW
+three	three	CD	FW
+of	of	IN	FW
+these	these	DT	FW	PRONOUN
+parks	park	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+activitys	activity	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+intersted	interste	VBN	CW	VERB
+in	in	IN	FW
+
+sentence break
+
+parks	park	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+getting	getting	VBG	FW	aux_or_cop
+started	start	VBN	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+out	out	RP	FW
+for	for	IN	FW
+a	a	DT	FW
+run	run	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+ride	ride	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+skate	skate	JJ	CW	ADJ
+bording	borde	VBG	CW	VERB
+going	go	VBG	CW	VERB
+out	out	RP	FW
+for	for	IN	FW
+a	a	DT	FW
+walk	walk	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+list	list	NN	CW	NOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+on	on	RB	ADV	CW
+and	and	CC	FW
+on	on	RB	ADV	CW
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+parks	park	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+diffrent	diffrent	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+and	and	CC	FW
+there	there	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+amout	amout	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+some	some	DT	FW
+of	of	IN	FW
+these	these	DT	FW	PRONOUN
+parks	park	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+these	these	DT	FW	PRONOUN
+parks	park	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+start	start	VB	CW	VERB
+of	of	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+some	some	DT	FW
+fresh	fresh	JJ	CW	ADJ
+air	air	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+spend	spend	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

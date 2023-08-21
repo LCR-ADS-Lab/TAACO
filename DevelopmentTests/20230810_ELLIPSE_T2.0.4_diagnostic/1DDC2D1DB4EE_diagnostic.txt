@@ -1,0 +1,492 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+change	change	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+into	into	IN	FW
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+healthier	healthier	JJR	CW	ADJ
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+consume	consume	VB	CW	VERB
+less	less	JJR	CW	ADJ
+unhealthy	unhealthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+encourage	encourage	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+make	make	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+this	this	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+this	this	DT	FW
+letter	letter	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+implement	implement	VB	CW	VERB
+this	this	DT	FW
+plan	plan	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+change	change	VB	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+better	better	JJR	CW	ADJ
+
+sentence break
+
+thank	thank	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+dear	dear	RB	ADV	FW
+principal	principal	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+even	even	RB	ADV	CW
+thougth	thougth	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+migth	migth	VB	CW	VERB
+think	think	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+eliminate	eliminate	VB	CW	VERB
+some	some	DT	FW
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+helpful	helpful	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+encourage	encourage	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+now	now	RB	ADV	CW
+and	and	CC	FW
+on	on	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+encourage	encourage	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+covince	covince	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+healty	healty	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+prevent	prevent	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+disease	disease	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+for	for	IN	FW
+eating	eat	VBG	CW	VERB
+unhealthy	unhealthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+by	by	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+healthier	healthier	JJR	CW	ADJ
+menu	menu	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+eating	eat	VBG	CW	VERB
+the	the	DT	FW
+proteins	protein	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+to	to	TO	FW
+develped	develp	VB	CW	VERB
+better	better	JJR	CW	ADJ
+
+sentence break
+
+also	also	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+better	better	JJR	CW	ADJ
+in	in	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+respectives	respective	NNS	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW
+menu	menu	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+try	try	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+having	have	VBG	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+had	have	VBD	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+having	have	VBG	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+over	over	IN	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+migth	migth	VB	CW	VERB
+make	make	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+realize	realize	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+having	have	VBG	CW	VERB
+this	this	DT	FW
+menu	menu	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+to	to	TO	FW
+force	force	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+instead	instead	RB	ADV	FW
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+and	and	CC	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+stay	stay	VBP	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+dear	dear	NNP	CW	NOUN	ARGUMENT
+principal	principal	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+writting	writt	VBG	CW	VERB
+this	this	DT	FW
+letter	letter	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+let	let	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+change	change	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+into	into	IN	FW
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+healthier	healthier	JJR	CW	ADJ
+menu	menu	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+change	change	VB	CW	VERB
+the	the	DT	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+healthy	healthy	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+consume	consume	VB	CW	VERB
+less	less	JJR	CW	ADJ
+unhealthy	unhealthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+encourage	encourage	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+eat	eat	VB	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+consume	consume	VBP	CW	VERB
+unhealthy	unhealthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+alsmost	alsmost	IN	FW
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+change	change	VB	CW	VERB
+the	the	DT	FW
+menu	menu	NN	CW	NOUN	ARGUMENT
+into	into	IN	FW
+a	a	DT	FW
+healthier	healthier	JJR	CW	ADJ
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+consume	consume	VB	CW	VERB
+less	less	JJR	CW	ADJ
+unhealthy	unhealthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eating	eating	NNP	CW	NOUN	ARGUMENT
+unhealthy	unhealthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+daily	daily	RB	ADV	CW
+could	could	MD	FW	aux_or_cop
+damage	damage	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+differents	different	NNS	CW	NOUN	ARGUMENT
+ways	way	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+this	this	DT	FW
+ways	way	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+diseases	disease	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+heart	heart	NN	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+could	could	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+additionally	additionally	RB	ADV	CW
+change	change	VB	CW	VERB
+the	the	DT	FW
+menu	menu	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+benefical	benefical	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+personal	personal	JJ	CW	ADJ
+staff	staff	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+to	to	TO	FW
+consume	consume	VB	CW	VERB
+less	less	JJR	CW	ADJ
+unhealthy	unhealthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+daily	daily	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

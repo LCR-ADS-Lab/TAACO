@@ -1,0 +1,286 @@
+word	lemma	POS	CW\FW	other categories
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+outcomes	outcome	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+with	with	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+always	always	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+outcomes	outcome	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+have	have	VBP	CW	VERB
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+persons	person	NNS	CW	NOUN	ARGUMENT
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+negative	negative	JJ	CW	ADJ
+attitudes	attitude	NNS	CW	NOUN	ARGUMENT
+all	all	DT	FW
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+difference	difference	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+there	there	EX	FW
+personality	personality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+negative	negative	JJ	CW	ADJ
+attitudes	attitude	NNS	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+difficult	difficult	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+negative	negative	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+with	with	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+good	good	JJ	CW	ADJ
+miracles	miracle	NNS	CW	NOUN	ARGUMENT
+happen	happen	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+were	be	VBD	CW	VERB
+more	more	RBR	ADV	CW
+succesful	succesful	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+atitude	atitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+mixtures	mixture	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+both	both	DT	FW
+atitudes	atitude	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+attitudes	attitude	NNS	CW	NOUN	ARGUMENT
+affect	affect	VBP	CW	VERB
+peoples	people	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+on	on	IN	FW
+which	which	WDT	FW
+atitude	atitude	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+brings	bring	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+positive	positive	JJ	CW	ADJ
+vibes	vibe	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+ever	ever	RB	ADV	CW
+enjoy	enjoy	VB	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+fullest	full	JJS	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+outcomes	outcome	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+with	with	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

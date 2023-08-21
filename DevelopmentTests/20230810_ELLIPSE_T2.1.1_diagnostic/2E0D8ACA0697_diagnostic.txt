@@ -1,0 +1,292 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+shoud	shoud	VBP	CW	VERB
+think	think	VBP	CW	VERB
+about	about	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+decide	decide	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+or	or	CC	FW
+wrong	wrong	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+other	other	JJ	CW	ADJ
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+help	help	VBP	CW	VERB
+'s	's	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+express	express	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+capable	capable	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+to	to	TO	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+second	second	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+what	what	WP	FW
+'s	be	VBZ	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+and	and	CC	FW
+what	what	WP	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+right	right	JJ	CW	ADJ
+what	what	WP	FW
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+and	and	CC	FW
+decide	decide	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+right	right	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+third	third	RB	ADV	CW
+follow	follow	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mindset	mindset	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+'s	's	POS	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+deciding	decide	VBG	CW	VERB
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+'s	's	POS	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+mindset	mindset	VBP	CW	VERB
+
+sentence break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+mindsets	mindset	NNS	CW	NOUN	ARGUMENT
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+follow	follow	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+gon	go	VBP	CW	VERB
+na	to	TO	FW
+talk	talk	VB	CW	VERB
+about	about	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+how	how	WRB	FW
+well	well	RB	ADV	CW
+or	or	CC	FW
+wrong	wrong	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+deciding	decide	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+and	and	CC	FW
+not	not	RB	ADV	CW
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+'s	's	POS	FW
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+ask	ask	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+trust	trust	VBP	CW	VERB
+like	like	IN	FW
+an	an	DT	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+listen	listen	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+analize	analize	VB	CW	VERB
+and	and	CC	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+decide	decide	VB	CW	VERB
+what	what	WP	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+but	but	CC	FW
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+resolve	resolve	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+dealing	deal	VBG	CW	VERB
+with	with	IN	FW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+listen	listen	VB	CW	VERB
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+not	not	RB	ADV	CW
+following	follow	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+thought	thought	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

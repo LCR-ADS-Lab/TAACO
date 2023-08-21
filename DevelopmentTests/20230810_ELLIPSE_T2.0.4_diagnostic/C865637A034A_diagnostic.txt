@@ -1,0 +1,259 @@
+word	lemma	POS	CW\FW	other categories
+better	better	RBR	ADV	CW
+sleeping	sleep	VBG	CW	VERB
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+kids	kid	NNS	CW	NOUN	ARGUMENT
+focus	focus	VB	CW	VERB
+more	more	RBR	ADV	CW
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+up	up	RP	FW
+whens	when	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+dont	dont	JJ	CW	ADJ
+sleep	sleep	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+the	the	DT	FW
+tend	tend	VB	CW	VERB
+for	for	IN	FW
+fall	fall	NN	CW	NOUN	ARGUMENT
+asleep	asleep	RB	ADV	FW
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+falling	fall	VBG	CW	VERB
+asleep	asleep	RB	ADV	FW
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+student	student	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+less	less	JJR	CW	ADJ
+attention	attention	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+to	to	TO	FW
+wake	wake	VB	CW	VERB
+up	up	RB	ADV	CW
+early	early	RB	ADV	CW
+and	and	CC	FW
+get	get	VB	CW	VERB
+ready	ready	JJ	CW	ADJ
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+making	make	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+just	just	RB	ADV	CW
+having	have	VBG	CW	VERB
+online	online	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+better	better	RBR	ADV	CW
+for	for	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+general	general	JJ	CW	ADJ
+would	would	MD	FW	aux_or_cop
+honestly	honestly	RB	ADV	CW
+make	make	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+much	much	RB	ADV	CW
+more	more	RBR	ADV	CW
+easier	easier	JJR	CW	ADJ
+
+sentence break
+
+online	online	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+less	less	JJR	CW	ADJ
+stressful	stressful	JJ	CW	ADJ
+and	and	CC	FW
+much	much	JJ	CW	ADJ
+easier	easier	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+attending	attend	VBG	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+work	work	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+quiet	quiet	JJ	CW	ADJ
+environment	environment	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+no	no	DT	FW
+distractions	distraction	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+would	would	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+because	because	RB	ADV	CW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+speed	speed	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	CW	VERB
+worried	worry	VBN	CW	VERB
+about	about	IN	FW
+how	how	WRB	FW
+fast	fast	JJ	CW	ADJ
+others	other	NNS	CW	NOUN	ARGUMENT
+finish	finish	VBP	CW	VERB
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+more	more	RBR	ADV	CW
+focused	focus	VBN	CW	VERB
+on	on	IN	FW
+who	who	WP	FW
+finishes	finish	VBZ	CW	VERB
+first	first	RB	ADV	CW
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+think	think	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+race	race	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+working	work	VBG	CW	VERB
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	CW	VERB
+like	like	IN	FW
+that	that	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+proprobly	proprobly	RB	ADV	FW
+finish	finish	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+faster	faster	RBR	ADV	CW
+
+sentence break
+
+online	online	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+sleep	sleep	VBP	CW	VERB
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+that	that	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+more	more	RBR	ADV	CW
+rested	rest	VBN	CW	VERB
+and	and	CC	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+focus	focus	VB	CW	VERB
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,500 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+france	france	NNP	CW	NOUN	ARGUMENT
+generic_city	generic_city	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+see	see	VB	CW	VERB
+culture	culture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+food	food	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+are	be	VBP	FW	aux_or_cop
+there	there	RB	ADV	CW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+the	the	DT	FW
+most	most	RBS	ADV	CW
+what	what	WP	FW
+do	do	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+see	see	VB	CW	VERB
+the	the	DT	FW
+famous	famous	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+saint	saint	NN	CW	NOUN	ARGUMENT
+germin	germin	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+what	what	WDT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activates	activate	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+doing	do	VBG	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+first	first	RB	ADV	CW
+get	get	VBP	CW	VERB
+there	there	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+look	look	VB	CW	VERB
+and	and	CC	FW
+walk	walk	VB	CW	VERB
+around	around	IN	FW
+the	the	DT	FW
+cities	city	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+town	town	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+explore	explore	VB	CW	VERB
+the	the	DT	FW
+eiffel	eiffel	NNP	CW	NOUN	ARGUMENT
+tower	tower	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+what	what	WP	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+
+sentence break
+
+next	next	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+what	what	WDT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+religion	religion	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wanna	wanna	VBP	CW	VERB
+know	know	VB	CW	VERB
+what	what	WDT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+holiday	holiday	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+and	and	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+act	act	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+nice	nice	VBP	CW	VERB
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+see	see	VB	CW	VERB
+a	a	DT	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+saint	saint	NN	CW	NOUN	ARGUMENT
+germin	germin	NN	CW	NOUN	ARGUMENT
+game	game	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+meet	meet	VB	CW	VERB
+nice	nice	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+then	then	RB	ADV	CW
+and	and	CC	FW
+now	now	RB	ADV	CW
+gotten	get	VBD	CW	VERB
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+better	well	RBR	ADV	CW
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+french	french	NNP	CW	NOUN	ARGUMENT
+since	since	IN	FW
+now	now	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+french	french	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+iv'e	iv'e	CD	FW
+worked	work	VBD	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+speak	speak	VB	CW	VERB
+french	french	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+bet	bet	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+french	french	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+to	to	TO	FW
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+talk	talk	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+there	there	EX	FW
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wear	wear	VBP	CW	VERB
+to	to	TO	FW
+fit	fit	VB	CW	VERB
+in	in	RP	FW
+with	with	IN	FW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+see	see	VB	CW	VERB
+what	what	WDT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+like	like	IN	FW
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+were	be	VBD	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+town	town	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+to	to	IN	FW
+the	the	DT	FW
+big	big	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+france	france	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+got	got	VB	CW	VERB
+church	church	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+what	what	WDT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+religion	religion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+for	for	IN	FW
+religion	religion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+check	check	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+even	even	RB	ADV	CW
+live	live	VB	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+would'ent	would'ent	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+gone	go	VBN	CW	VERB
+yet	yet	RB	ADV	CW
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+bet	bet	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+wonderful	wonderful	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+try	try	VB	CW	VERB
+going	go	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+to	to	TO	FW
+observe	observe	VB	CW	VERB
+and	and	CC	FW
+try	try	VB	CW	VERB
+learning	learn	VBG	CW	VERB
+the	the	DT	FW
+language	language	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+next	next	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+speck	speck	VB	CW	VERB
+fluently	fluently	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+problobly	problobly	RB	ADV	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+for	for	IN	FW
+an	an	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+other	other	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+languages	language	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+two	two	CD	FW
+more	more	JJR	CW	ADJ
+languages	language	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+even	even	RB	ADV	CW
+listento	listento	VB	CW	VERB
+there	there	EX	FW
+music	music	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+good	good	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+better	well	RBR	ADV	CW
+going	go	VBG	CW	VERB
+to	to	IN	FW
+new	new	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+said	say	VBN	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+oneof	oneof	JJR	CW	ADJ
+the	the	DT	FW
+nicest	nice	JJS	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+fmaily	fmaily	JJ	CW	ADJ
+becuase	becuase	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+pretty	pretty	RB	ADV	CW
+friendly	friendly	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+bet	bet	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+

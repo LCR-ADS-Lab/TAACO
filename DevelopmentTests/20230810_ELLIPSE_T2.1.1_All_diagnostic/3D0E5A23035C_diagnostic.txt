@@ -1,0 +1,263 @@
+word	lemma	POS	CW\FW	other categories
+technology	technology	NN	CW	NOUN	ARGUMENT
+affected	affect	VBD	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+forever	forever	RB	ADV	FW
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+affected	affect	VBN	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+play	play	VB	CW	VERB
+as	as	RB	ADV	CW
+much	much	JJ	CW	ADJ
+sports	sport	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+used	use	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+played	play	VBN	CW	VERB
+
+sentence break
+
+kids	kid	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+home	home	RB	ADV	CW
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+gaming	gaming	NN	CW	NOUN	ARGUMENT
+platforms	platform	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+that	that	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+and	and	CC	FW
+helpfull	helpfull	JJ	CW	ADJ
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+ruined	ruin	VBN	CW	VERB
+kids	kid	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+creates	create	VBZ	CW	VERB
+bullying	bully	VBG	CW	VERB
+depression	depression	NNP	CW	NOUN	ARGUMENT
+sadness	sadness	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+mad	mad	JJ	CW	ADJ
+
+sentence break
+
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+takes	take	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+suciede	suciede	VB	CW	VERB
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+outside	outside	RB	ADV	CW
+and	and	CC	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+no	no	DT	FW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+no	no	DT	FW
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	DT	FW
+does	do	VBZ	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+outside	outside	RB	ADV	CW
+with	with	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+9	9	CD	FW
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+till	till	IN	FW
+9	9	CD	FW
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+sport	sport	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+baseball	baseball	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+play	play	VB	CW	VERB
+kids	kid	NNS	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+hide	hide	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sick	sick	JJ	CW	ADJ
+or	or	CC	FW
+tag	tag	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+productive	productive	JJ	CW	ADJ
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+just	just	RB	ADV	CW
+staying	stay	VBG	CW	VERB
+home	home	RB	ADV	CW
+and	and	CC	FW
+playing	play	VBG	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+being	be	VBG	FW	aux_or_cop
+on	on	IN	FW
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+affected	affect	VBN	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+eyes	eye	NNS	CW	NOUN	ARGUMENT
+cousing	couse	VBG	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+wear	wear	VB	CW	VERB
+glasses	glass	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+glasses	glass	NNS	CW	NOUN	ARGUMENT
+ratio	ratio	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+gone	go	VBN	CW	VERB
+up	up	RP	FW
+over	over	IN	FW
+the	the	DT	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+affected	affect	VBN	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+priorities	priority	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+kids	kid	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	FW	aux_or_cop
+distrated	distrate	VBN	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+pay	pay	VB	CW	VERB
+attention	attention	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+texting	texting	NN	CW	NOUN	ARGUMENT
+devices	device	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+technology	technology	NNP	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+exist	exist	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+more	more	RBR	ADV	CW
+productive	productive	JJ	CW	ADJ
+on	on	IN	FW
+the	the	DT	FW
+everyday	everyday	JJ	CW	ADJ
+basics	basic	NNS	CW	NOUN	ARGUMENT
+no	no	DT	FW
+lazyness	lazyness	NN	CW	NOUN	ARGUMENT
+no	no	DT	FW
+distractions	distraction	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+no	no	DT	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

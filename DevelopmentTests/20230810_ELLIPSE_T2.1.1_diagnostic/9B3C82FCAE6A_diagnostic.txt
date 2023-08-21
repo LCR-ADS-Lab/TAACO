@@ -1,0 +1,832 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+the	the	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+style	style	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+where	where	WRB	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+from	from	IN	FW
+
+sentence break
+
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+where	where	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+to	to	TO	FW
+cook	cook	VB	CW	VERB
+and	and	CC	FW
+make	make	VB	CW	VERB
+different	different	JJ	CW	ADJ
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+for	for	IN	FW
+making	make	VBG	CW	VERB
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+all	all	PDT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+here	here	RB	ADV	CW
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+u.s	u.s	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+mostly	mostly	RB	ADV	CW
+all	all	DT	FW
+live	live	VBP	CW	VERB
+in	in	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+style	style	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+great	great	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+really	really	RB	ADV	CW
+have	have	VBP	CW	VERB
+this	this	DT	FW
+different	different	JJ	CW	ADJ
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+style	style	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+style	style	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+ten	ten	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+teach	teach	VBP	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+cook	cook	VB	CW	VERB
+
+sentence break
+
+since	since	IN	FW
+that	that	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+started	start	VBD	CW	VERB
+making	make	VBG	CW	VERB
+here	here	RB	ADV	CW
+own	own	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+herself	herself	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+home	home	RB	ADV	CW
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+dad	dad	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+cook	cook	VB	CW	VERB
+for	for	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+teach	teach	VBP	CW	VERB
+herself	herself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+and	and	CC	FW
+what	what	WP	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+used	use	VBD	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+
+sentence break
+
+to	to	TO	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+different	different	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+mexicans	mexicans	NNPS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+than	than	IN	FW
+americans	americans	NNPS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+make	make	VB	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+with	with	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+used	use	VBD	CW	VERB
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+lucky	lucky	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+here	here	RB	ADV	CW
+because	because	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+cook	cook	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+in	in	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+fire	fire	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+cook	cook	VB	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sure	sure	UH	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+'ve	've	VB	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+buy	buy	VBN	CW	VERB
+a	a	DT	FW
+oven	oven	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+live	live	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+u.s	u.s	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+gramother	gramother	NN	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+in	in	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+have	have	VBP	FW	aux_or_cop
+never	never	RB	ADV	CW
+met	meet	VBN	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+met	meet	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandfather	grandfather	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+six	six	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+seen	see	VBN	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+since	since	IN	FW
+then	then	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+cousins	cousin	NNS	CW	NOUN	ARGUMENT
+aunts	aunt	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+aunts	aunt	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+even	even	RB	ADV	CW
+met	meet	VBN	CW	VERB
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+look	look	VB	CW	VERB
+out	out	RP	FW
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+u.s	u.s	NNP	CW	NOUN	ARGUMENT
+like	like	IN	FW
+with	with	IN	FW
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+then	then	RB	ADV	CW
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+"	"	``	FW
+thank	thank	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+big	big	JJ	CW	ADJ
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousins	cousin	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+seen	see	VBN	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+also	also	RB	ADV	CW
+meet	meet	VB	CW	VERB
+new	new	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+met	meet	VBN	CW	VERB
+or	or	CC	FW
+just	just	RB	ADV	CW
+came	come	VBD	CW	VERB
+into	into	IN	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+since	since	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+born	bear	VBN	CW	VERB
+here	here	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+u.s	u.s	NNP	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+style	style	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+see	see	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+or	or	CC	FW
+to	to	TO	FW
+wear	wear	VB	CW	VERB
+for	for	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+let	let	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wear	wear	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+wear	wear	VB	CW	VERB
+the	the	DT	FW
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+and	and	CC	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+dress	dress	VB	CW	VERB
+and	and	CC	FW
+what	what	WDT	FW
+other	other	JJ	CW	ADJ
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+wear	wear	VB	CW	VERB
+for	for	IN	FW
+outside	outside	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+mostly	mostly	RB	ADV	CW
+wear	wear	VBP	CW	VERB
+n	n	NN	CW	NOUN	ARGUMENT
+skits	skit	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+hot	hot	JJ	CW	ADJ
+and	and	CC	FW
+for	for	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+even	even	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+pants	pant	NNS	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+for	for	IN	FW
+girls	girl	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+lived	live	VBD	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+wear	wear	VBP	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+wear	wear	VB	CW	VERB
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+for	for	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+outside	outside	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+dressed	dress	VBD	CW	VERB
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+list	list	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+family	family	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+live	live	VBP	CW	VERB
+there	there	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+still	still	RB	ADV	CW
+see	see	VB	CW	VERB
+the	the	DT	FW
+different	different	JJ	CW	ADJ
+style	style	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+and	and	CC	FW
+try	try	VB	CW	VERB
+different	different	JJ	CW	ADJ
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+
+sentence break
+
+or	or	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+knows	know	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+young	young	JJ	CW	ADJ
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+in	in	IN	FW
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+mexico	mexico	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+county	county	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+anywhere	anywhere	RB	ADV	FW
+and	and	CC	FW
+still	still	RB	ADV	CW
+find	find	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

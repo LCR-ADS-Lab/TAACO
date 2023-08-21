@@ -1,0 +1,651 @@
+word	lemma	POS	CW\FW	other categories
+a	a	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+debating	debate	VBG	CW	VERB
+the	the	DT	FW
+adoption	adoption	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+10	10	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+weekday	weekday	NNP	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+does	do	VBZ	FW	aux_or_cop
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+curfew	curfew	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+weekday	weekday	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+the	the	DT	FW
+weekends	weekend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+tops	top	NNS	CW	NOUN	ARGUMENT
+three	three	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+out	out	RP	FW
+more	more	RBR	ADV	CW
+sink	sink	VB	CW	VERB
+in	in	IN	FW
+out	out	RP	FW
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+stay	stay	VBP	CW	VERB
+out	out	RP	FW
+more	more	RBR	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+hang	hang	VBP	CW	VERB
+more	more	RBR	ADV	CW
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hang	hang	VBP	CW	VERB
+out	out	RP	FW
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+smoke	smoke	VBP	CW	VERB
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+11	11	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+check	check	VB	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+past	past	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+one	one	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+ride	ride	NN	CW	NOUN	ARGUMENT
+home	home	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+keys	key	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+drop	drop	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+off	off	RP	FW
+at	at	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+open	open	VBP	CW	VERB
+door	door	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+sleeping	sleep	VBG	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+came	come	VBD	CW	VERB
+back	back	RB	ADV	CW
+to	to	IN	FW
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+yes	yes	UH	FW
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+always	always	RB	ADV	CW
+with	with	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+sink	sink	VBP	CW	VERB
+in	in	IN	FW
+out	out	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+home	home	RB	ADV	CW
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+most	most	JJS	CW	ADJ
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+sink	sink	VBP	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+bed	bed	NN	CW	NOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+window	window	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+night	night	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+four	four	CD	FW
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+sleep	sleep	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+heard	hear	VBD	CW	VERB
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+noise	noise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+up	up	RP	FW
+from	from	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+bed	bed	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+sink	sink	VB	CW	VERB
+in	in	RP	FW
+from	from	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+bed	bed	NN	CW	NOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+window	window	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+so	so	RB	ADV	CW
+help	help	VB	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+around	around	IN	FW
+that	that	DT	FW	PRONOUN
+time	time	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+sharing	share	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+room	room	NN	CW	NOUN	ARGUMENT
+met	meet	VBN	CW	VERB
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+both	both	DT	FW
+went	go	VBD	CW	VERB
+back	back	RB	ADV	CW
+to	to	IN	FW
+bed	bed	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+about	about	IN	FW
+this	this	DT	FW	PRONOUN
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+why	why	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+sink	sink	VBP	CW	VERB
+out	out	RP	FW
+the	the	DT	FW
+room	room	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+think	think	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+over	over	RP	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+could't	could't	VBP	CW	VERB
+sleep	sleep	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+go	go	VB	CW	VERB
+outside	outside	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+happened	happen	VBD	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+take	take	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+what	what	WP	FW
+happened	happen	VBD	CW	VERB
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+well	well	UH	FW
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+yeah	yeah	UH	FW
+
+sentence break
+
+thank	thank	VBP	CW	VERB
+god	god	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+n't	not	RB	ADV	CW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+most	most	JJS	CW	ADJ
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+mostly	mostly	RB	ADV	CW
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+most	most	JJS	CW	ADJ
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+strict	strict	JJ	CW	ADJ
+
+sentence break
+
+when	when	WRB	FW
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+strict	strict	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+what	what	WP	FW
+best	good	JJS	CW	ADJ
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+running	run	VBG	CW	VERB
+to	to	IN	FW
+is	be	VBZ	FW	aux_or_cop
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+and	and	CC	FW
+now	now	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+on	on	IN	FW
+a	a	DT	FW
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+weed	weed	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+basement	basement	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+catch	catch	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+weed	weed	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+home	home	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+table	table	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+talk	talk	VBP	CW	VERB
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+stop	stop	VB	CW	VERB
+doing	do	VBG	CW	VERB
+weed	weed	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+but	but	CC	FW
+few	few	JJ	CW	ADJ
+years	year	NNS	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+weed	weed	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+and	and	CC	FW
+again	again	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+out	out	RP	FW
+somehow	somehow	RB	ADV	FW
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+now	now	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+stop	stop	VBP	CW	VERB
+doing	do	VBG	CW	VERB
+weed	weed	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+good	good	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+weekday	weekday	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+weekends	weekend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+weekdays	weekday	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+weekends	weekend	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+out	out	RP	FW
+more	more	RBR	ADV	CW
+sink	sink	VB	CW	VERB
+in	in	IN	FW
+out	out	RP	FW
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+all	all	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+tops	top	NNS	CW	NOUN	ARGUMENT
+three	three	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,510 @@
+word	lemma	POS	CW\FW	other categories
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+"	"	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+agree	agree	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	RBR	ADV	CW
+better	well	JJR	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+the	the	DT	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+have	have	VBN	CW	VERB
+bad	bad	JJ	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+amigos	amigo	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+decision	decision	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+yours	yours	PRP$	FW	PRONOUN	ARGUMENT
+son	son	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+son	son	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+the	the	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+family	family	NN	CW	NOUN	ARGUMENT
+talk	talk	VB	CW	VERB
+hem	hem	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+son	son	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+in	in	RP	FW
+other	other	JJ	CW	ADJ
+bad	bad	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+problem	problem	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+accident	accident	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+son	son	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+in	in	IN	FW
+take	take	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+bad	bad	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+including	include	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+the	the	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+almost	almost	RB	ADV	FW
+all	all	PDT	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+exam	exam	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+esl	esl	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	IN	FW
+learning	learn	VBG	CW	VERB
+or	or	CC	FW
+studying	study	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+motive	motive	JJ	CW	ADJ
+failure	failure	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+other	other	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+the	the	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+a	a	DT	FW
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+peoples	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+moment	moment	NN	CW	NOUN	ARGUMENT
+existed	exist	VBD	CW	VERB
+good	good	JJ	CW	ADJ
+president	president	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+make	make	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+all	all	DT	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+loss	loss	VB	CW	VERB
+the	the	DT	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+or	or	CC	FW
+take	take	VB	CW	VERB
+a	a	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+dangerous	dangerous	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+barack	barack	NNP	CW	NOUN	ARGUMENT
+obama	obama	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+president	president	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+unite	unite	NNP	CW	NOUN	ARGUMENT
+states	states	NNP	CW	NOUN	ARGUMENT
+hem	hem	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+take	take	VB	CW	VERB
+dangerous	dangerous	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+action	action	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+hem	hem	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stare	stare	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+election	election	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+color	color	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+attack	attack	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+hem	hem	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+break	break	VB	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+beat	beat	VB	CW	VERB
+for	for	IN	FW
+president	president	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+help	help	VB	CW	VERB
+the	the	DT	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+moment	moment	NN	CW	NOUN	ARGUMENT
+hem	hem	NNP	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+presidency	presidency	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+after	after	IN	FW	SUBORDINATOR
+hem	hem	NNP	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+good	good	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+however	however	RB	ADV	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+peoples	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+disagree	disagree	VB	CW	VERB
+whit	whit	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+to	to	IN	FW
+continuity	continuity	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+take	take	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+action	action	NN	CW	NOUN	ARGUMENT
+hover	hover	VBP	CW	VERB
+the	the	DT	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+agree	agree	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+in	in	IN	FW
+have	have	VBP	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+collage	collage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+talk	talk	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+"	"	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loos	loo	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+in	in	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+take	take	VB	CW	VERB
+more	more	RBR	ADV	CW
+good	good	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+for	for	IN	FW
+that	that	DT	FW	PRONOUN
+point	point	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+moment	moment	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+excellent	excellent	JJ	CW	ADJ
+workers	worker	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

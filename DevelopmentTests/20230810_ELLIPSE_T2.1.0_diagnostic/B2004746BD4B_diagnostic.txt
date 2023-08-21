@@ -1,0 +1,235 @@
+word	lemma	POS	CW\FW	other categories
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+''	''	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+threw	throw	VBD	CW	VERB
+the	the	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+stress	stress	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+
+sentence break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+telling	tell	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+wrong	wrong	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+a	a	DT	FW
+siren	siren	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hang	hang	VBP	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+and	and	CC	FW
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+noise	noise	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+away	away	RB	ADV	CW
+from	from	IN	FW
+bad	bad	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+end	end	VB	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+telling	tell	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+''	''	``	FW
+get	get	VB	CW	VERB
+to	to	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+study	study	VB	CW	VERB
+for	for	IN	FW
+that	that	DT	FW	PRONOUN
+test	test	NN	CW	NOUN	ARGUMENT
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+sol	sol	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+etc	etc	FW	FW
+.	.	FW	FW
+as	as	RB	ADV	CW
+much	much	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+stop	stop	VB	CW	VERB
+and	and	CC	FW
+listen	listen	VB	CW	VERB
+to	to	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+all	all	DT	FW
+there	there	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+complete	complete	VB	CW	VERB
+all	all	PDT	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+from	from	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+there	there	EX	FW
+s	s	VBZ	CW	VERB
+a	a	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+stop	stop	VB	CW	VERB
+and	and	CC	FW
+think	think	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+through	through	RP	FW
+and	and	CC	FW
+see	see	VB	CW	VERB
+what	what	WP	FW
+were	be	VBD	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+wrong	wrong	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+improve	improve	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+whatever	whatever	WDT	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

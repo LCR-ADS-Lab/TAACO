@@ -1,0 +1,366 @@
+word	lemma	POS	CW\FW	other categories
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+dreamed	dream	VBN	CW	VERB
+of	of	IN	FW
+visiting	visit	VBG	CW	VERB
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	's	POS	FW
+culture	culture	NN	CW	NOUN	ARGUMENT
+traditions	tradition	NNS	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+advanced	advanced	JJ	CW	ADJ
+cities	city	NNS	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+.	.	FW	FW
+
+sentence break
+
+well	well	UH	FW
+japan	japan	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+famous	famous	JJ	CW	ADJ
+for	for	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+mentioned	mention	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+japan	japan	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+culture	culture	NN	CW	NOUN	ARGUMENT
+tradition	tradition	NN	CW	NOUN	ARGUMENT
+advanced	advanced	JJ	CW	ADJ
+cities	city	NNS	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+japan	japan	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+all	all	DT	FW
+animes	anime	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+created	create	VBN	CW	VERB
+
+sentence break
+
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+sushi	sushi	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+an	an	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+japan	japan	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+liked	like	VBN	CW	VERB
+by	by	IN	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+all	all	RB	ADV	CW
+over	over	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+once	once	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VBP	CW	VERB
+there	there	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+explore	explore	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+major	major	JJ	CW	ADJ
+cities	city	NNS	CW	NOUN	ARGUMENT
+eat	eat	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+dishes	dish	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+watch	watch	VB	CW	VERB
+the	the	DT	FW
+anime	anime	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+famous	famous	JJ	CW	ADJ
+over	over	IN	FW
+there	there	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+japanese	japanese	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+understand	understand	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+tradition	tradition	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+culture	culture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+japan	japan	NNP	CW	NOUN	ARGUMENT
+ranks	rank	VBZ	CW	VERB
+at	at	IN	FW
+top	top	NNP	CW	NOUN	ARGUMENT
+10	10	CD	FW
+for	for	IN	FW
+having	have	VBG	CW	VERB
+low	low	JJ	CW	ADJ
+crime	crime	NN	CW	NOUN	ARGUMENT
+rates	rate	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+japan	japan	NNP	CW	NOUN	ARGUMENT
+ranks	rank	VBZ	CW	VERB
+top	top	NNP	CW	NOUN	ARGUMENT
+5	5	CD	FW
+for	for	IN	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+busiest	busy	JJS	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+seen	see	VBN	CW	VERB
+many	many	JJ	CW	ADJ
+youtubers	youtubers	NNPS	CW	NOUN	ARGUMENT
+making	make	VBG	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+stay	stay	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+japan	japan	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+enjoyed	enjoyed	VBD	FW	aux_or_cop
+staying	stay	VBG	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+those	those	DT	FW
+videos	video	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+an	an	DT	FW
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+japan	japan	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+those	those	DT	FW
+amazing	amazing	JJ	CW	ADJ
+moments	moment	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+japan	japan	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+because	because	IN	FW
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+culture	culture	NN	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+busiest	busy	JJS	CW	ADJ
+cities	city	NNS	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	PDT	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+videos	video	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+makes	make	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+japan	japan	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+japan	japan	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+at	at	IN	FW
+top	top	NNP	CW	NOUN	ARGUMENT
+10	10	CD	FW
+for	for	IN	FW
+having	have	VBG	CW	VERB
+lowest	low	JJS	CW	ADJ
+crime	crime	NN	CW	NOUN	ARGUMENT
+rates	rate	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+japan	japan	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+been	be	VBN	FW	aux_or_cop
+ranked	rank	VBN	CW	VERB
+at	at	IN	FW
+top	top	NNP	CW	NOUN	ARGUMENT
+5	5	CD	FW
+for	for	IN	FW
+being	be	VBG	FW	aux_or_cop
+busiest	busy	JJS	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+once	once	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VBP	CW	VERB
+there	there	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+eat	eat	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+dishes	dish	NNS	CW	NOUN	ARGUMENT
+explore	explore	VB	CW	VERB
+the	the	DT	FW
+major	major	JJ	CW	ADJ
+cities	city	NNS	CW	NOUN	ARGUMENT
+meet	meet	VB	CW	VERB
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+watch	watch	VB	CW	VERB
+animes	anime	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

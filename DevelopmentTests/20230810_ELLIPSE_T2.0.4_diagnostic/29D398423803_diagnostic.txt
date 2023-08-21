@@ -1,0 +1,311 @@
+word	lemma	POS	CW\FW	other categories
+be	be	VB	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+
+sentence break
+
+stay	stay	NNP	CW	NOUN	ARGUMENT
+hydrated	hydrate	VBD	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+elementary	elementary	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+important	important	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+exercising	exercise	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+cardio	cardio	NNP	CW	NOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+blood	blood	NN	CW	NOUN	ARGUMENT
+flowing	flow	VBG	CW	VERB
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VB	CW	VERB
+better	better	RBR	ADV	CW
+health	health	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+and	and	CC	FW
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+at	at	IN	FW
+running	run	VBG	CW	VERB
+jumping	jump	VBG	CW	VERB
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+active	active	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+athletes	athlete	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+better	better	JJR	CW	ADJ
+at	at	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+better	better	JJR	CW	ADJ
+at	at	IN	FW
+shooting	shooting	NN	CW	NOUN	ARGUMENT
+running	run	VBG	CW	VERB
+playing	play	VBG	CW	VERB
+defense	defense	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+offense	offense	NN	CW	NOUN	ARGUMENT
+dribbling	dribble	VBG	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+lots	lot	NNS	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+
+sentence break
+
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+over	over	IN	FW
+weighted	weighted	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+possibly	possibly	RB	ADV	FW
+die	die	VB	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+older	older	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+sick	sick	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+recover	recover	VB	CW	VERB
+easy	easy	JJ	CW	ADJ
+because	because	IN	FW
+of	of	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+in	in	IN	FW
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+another	another	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+called	call	VBN	CW	VERB
+fle	fle	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+works	work	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+better	better	JJR	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+losing	lose	VBG	CW	VERB
+weight	weight	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+active	active	JJ	CW	ADJ
+and	and	CC	FW
+lots	lot	NNS	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+not	not	RB	ADV	CW
+any	any	DT	FW
+negative	negative	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+not	not	RB	ADV	CW
+any	any	DT	FW
+negative	negative	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+being	be	VBG	CW	VERB
+tired	tire	VBN	CW	VERB
+and	and	CC	FW
+just	just	RB	ADV	CW
+little	little	JJ	CW	ADJ
+marks	mark	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+gym	gym	NN	CW	NOUN	ARGUMENT
+running	run	VBG	CW	VERB
+everyday	everyday	JJ	CW	ADJ
+try	try	VB	CW	VERB
+playing	play	VBG	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+eating	eat	VBG	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+and	and	CC	FW
+lots	lot	NNS	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+
+sentence break
+
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+are	be	VBP	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+all	all	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+eating	eat	VBG	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+unhealthy	unhealthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+watching	watch	VBG	CW	VERB
+tv	tv	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+p.e	p.e	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+becuase	becuase	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+sick	sick	JJ	CW	ADJ
+and	and	CC	FW
+p.e.	p.e.	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+stay	stay	VB	CW	VERB
+strong	strong	JJ	CW	ADJ
+stay	stay	VB	CW	VERB
+active	active	JJ	CW	ADJ
+stay	stay	VB	CW	VERB
+fit	fit	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+live	live	VB	CW	VERB
+longer	longer	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+

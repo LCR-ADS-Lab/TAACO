@@ -1,0 +1,408 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+working	work	VBG	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+working	work	VBG	CW	VERB
+alone	alone	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+same	same	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+strongly	strongly	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+like	like	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+alone	alone	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+very	very	RB	ADV	CW
+boring	boring	JJ	CW	ADJ
+and	and	CC	FW
+takes	take	VBZ	CW	VERB
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+experience	experience	VB	CW	VERB
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+working	work	VBG	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+work	work	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+laugh	laugh	VB	CW	VERB
+so	so	RB	ADV	CW
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fun	fun	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+togethor	togethor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+works	work	VBZ	CW	VERB
+well	well	RB	ADV	CW
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+games	game	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+team	team	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+play	play	VB	CW	VERB
+against	against	IN	FW
+another	another	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+every	every	DT	FW
+single	single	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+win	win	VB	CW	VERB
+game	game	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+working	work	VBG	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+interaction	interaction	VB	CW	VERB
+and	and	CC	FW
+feel	feel	VB	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+like	like	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+mates	mate	NNS	CW	NOUN	ARGUMENT
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+support	support	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+way	way	RB	ADV	CW
+better	well	JJR	CW	ADJ
+than	than	IN	FW
+working	work	VBG	CW	VERB
+by	by	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+english	english	NNP	CW	NOUN	ARGUMENT
+by	by	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+very	very	RB	ADV	CW
+hard	hard	RB	ADV	CW
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+much	much	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+quickly	quickly	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+quickly	quickly	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+'s	's	POS	FW
+clean	clean	JJ	CW	ADJ
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+clean	clean	VB	CW	VERB
+entire	entire	JJ	CW	ADJ
+house	house	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+clean	clean	VBP	CW	VERB
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+sister	sister	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+quite	quite	RB	ADV	FW
+faster	fast	RBR	ADV	CW
+than	than	IN	FW	SUBORDINATOR
+clean	clean	JJ	CW	ADJ
+by	by	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+experience	experience	VB	CW	VERB
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

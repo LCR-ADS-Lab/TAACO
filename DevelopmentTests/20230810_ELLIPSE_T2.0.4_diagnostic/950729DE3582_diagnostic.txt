@@ -1,0 +1,269 @@
+word	lemma	POS	CW\FW	other categories
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+jazz	jazz	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+was	be	VBD	FW	aux_or_cop
+also	also	RB	ADV	CW
+so	so	RB	ADV	CW
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW
+something	something	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+turn	turn	VB	CW	VERB
+to	to	TO	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+modevation	modevation	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+very	very	RB	ADV	CW
+much	much	JJ	CW	ADJ
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+jazz	jazz	NN	CW	NOUN	ARGUMENT
+legend	legend	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+''	''	''	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+''	''	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+explain	explain	VB	CW	VERB
+the	the	DT	FW
+meaning	meaning	NN	CW	NOUN	ARGUMENT
+behind	behind	IN	FW
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+i	i	FW	FW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+or	or	CC	FW
+disagree	disagree	VBP	CW	VERB
+
+sentence break
+
+let	let	VB	CW	VERB
+'s	's	PRP	FW	PRONOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+meaning	meaning	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+meaning	meaning	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+saying	say	VBG	CW	VERB
+is	be	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+form	form	NN	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	better	RBR	ADV	CW
+for	for	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+see	see	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+better	better	JJR	CW	ADJ
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+not	not	RB	ADV	CW
+to	to	TO	FW
+give	give	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW
+something	something	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+turn	turn	VB	CW	VERB
+good	good	JJ	CW	ADJ
+
+sentence break
+
+this	this	DT	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+modevant	modevant	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+as	as	RB	ADV	CW
+long	long	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+turn	turn	VB	CW	VERB
+out	out	RP	FW
+good	good	JJ	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+so	so	RB	ADV	CW
+
+sentence break
+
+duke	duke	NNP	CW	NOUN	ARGUMENT
+ellington	ellington	NNP	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+may	may	MD	CW	VERB
+of	of	IN	FW
+had	have	VBD	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+something	something	NN	CW	NOUN	ARGUMENT
+bad	bad	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+turn	turn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+
+sentence break
+
+not	not	RB	ADV	CW
+all	all	DT	FW
+bad	bad	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+turn	turn	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,334 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+up	up	RP	FW
+some	some	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+missing	miss	VBG	CW	VERB
+
+sentence break
+
+now	now	RB	ADV	CW
+let	let	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+good	good	JJ	CW	ADJ
+first	first	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+focus	focus	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+even	even	RB	ADV	CW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+solo	solo	NN	CW	NOUN	ARGUMENT
+pairs	pair	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+after	after	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+for	for	IN	FW
+all	all	PDT	FW
+those	those	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+raises	raise	VBZ	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+up	up	RP	FW
+
+sentence break
+
+
+paragraph break
+
+all	all	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+1)ask	1)ask	CD	FW
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+permission	permission	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+join	join	VB	CW	VERB
+the	the	DT	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+2	2	LS	FW
+try	try	VB	CW	VERB
+and	and	CC	FW
+finish	finish	VB	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+done	do	VBN	CW	VERB
+yet	yet	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+now	now	RB	ADV	CW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+even	even	RB	ADV	CW
+helps	help	VBZ	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+making	make	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+any	any	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+all	all	DT	FW
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+homework	homework	NN	CW	NOUN	ARGUMENT
+clubs	club	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+help	help	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+release	release	VB	CW	VERB
+that	that	DT	FW
+stress	stress	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+from	from	IN	FW
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+sometimes	sometimes	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+days	day	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+in	in	IN	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+join	join	VB	CW	VERB
+a	a	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+important	important	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+missing	miss	VBG	CW	VERB
+then	then	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+choose	choose	VB	CW	VERB
+other	other	JJ	CW	ADJ
+electives	elective	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+choose	choose	VBP	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+the	the	DT	FW
+elective	elective	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+and	and	CC	FW
+with	with	IN	FW
+that	that	DT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+all	all	RB	ADV	CW
+have	have	VB	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+clubs	club	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+each	each	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,654 @@
+word	lemma	POS	CW\FW	other categories
+is	be	VBZ	FW	aux_or_cop
+nt	not	RB	ADV	CW
+technology	technology	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+great	great	JJ	CW	ADJ
+
+sentence break
+
+through	through	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+advancing	advance	VBG	CW	VERB
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+getting	get	VBG	CW	VERB
+better	well	JJR	CW	ADJ
+but	but	CC	FW
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+minimizing	minimize	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+connections	connection	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+human	human	JJ	CW	ADJ
+contact	contact	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+
+sentence break
+
+see	see	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+this	this	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+like	like	IN	FW
+buildings	building	NNS	CW	NOUN	ARGUMENT
+cars	car	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+airplanes	airplane	NNS	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+taken	take	VBN	CW	VERB
+over	over	RP	FW
+restaurants	restaurant	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+such	such	PDT	FW
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+no	no	RB	ADV	CW
+longer	long	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+tip	tip	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+stores	store	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+mix	mix	VB	CW	VERB
+and	and	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+speeding	speed	VBG	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+process	process	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW	SUBORDINATOR
+technology	technology	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+taking	take	VBG	CW	VERB
+hundreds	hundred	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ford	ford	NNP	CW	NOUN	ARGUMENT
+industry	industry	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cars	car	NNS	CW	NOUN	ARGUMENT
+using	use	VBG	CW	VERB
+robotic	robotic	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+using	use	VBG	CW	VERB
+these	these	DT	FW
+big	big	JJ	CW	ADJ
+instruments	instrument	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+ten	ten	CD	FW
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+incredible	incredible	JJ	CW	ADJ
+and	and	CC	FW
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+capacity	capacity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+sell	sell	VB	CW	VERB
+trucks	truck	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+specking	speck	VBG	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+representative	representative	VB	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+online	online	NN	CW	NOUN	ARGUMENT
+no	no	DT	FW
+need	need	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+parts	part	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+never	never	RB	ADV	CW
+been	be	VBN	FW	aux_or_cop
+easier	easy	JJR	CW	ADJ
+thanks	thank	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+ford	ford	NNP	CW	NOUN	ARGUMENT
+store	store	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+org	org	NNP	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+the	the	DT	FW
+piece	piece	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+near	near	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+ford	ford	NN	CW	NOUN	ARGUMENT
+dealer	dealer	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+restaurant	restaurant	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+utilize	utilize	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+who	who	WP	FW
+would	would	MD	FW	aux_or_cop
+'ve	've	VB	FW	aux_or_cop
+known	know	VBN	CW	VERB
+by	by	IN	FW
+using	use	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+restaurants	restaurant	NNS	CW	NOUN	ARGUMENT
+everything	everything	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+run	run	VB	CW	VERB
+much	much	RB	ADV	CW
+smoother	smooth	JJR	CW	ADJ
+by	by	IN	FW
+using	use	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+ordering	order	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+meal	meal	NN	CW	NOUN	ARGUMENT
+off	off	IN	FW
+a	a	DT	FW
+tablet	tablet	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+never	never	RB	ADV	CW
+this	this	DT	FW
+cool	cool	JJ	CW	ADJ
+
+sentence break
+
+yes	yes	UH	FW
+that	that	DT	FW	PRONOUN
+means	mean	VBZ	CW	VERB
+there	there	EX	FW
+would	would	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+employed	employ	VBN	CW	VERB
+and	and	CC	FW
+less	less	JJR	CW	ADJ
+contact	contact	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+waiters	waiter	NNS	CW	NOUN	ARGUMENT
+staff	staff	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+no	no	DT	FW
+need	need	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+tip	tip	NN	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+no	no	DT	FW
+human	human	JJ	CW	ADJ
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+order	order	VB	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+off	off	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+finger	finger	NN	CW	NOUN	ARGUMENT
+tips	tip	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+while	while	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+enjoying	enjoy	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+meal	meal	NN	CW	NOUN	ARGUMENT
+staff	staff	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+somethings	something	NNS	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+unless	unless	IN	FW	SUBORDINATOR
+called	call	VBN	CW	VERB
+by	by	IN	FW
+a	a	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+seen	see	VBN	CW	VERB
+how	how	WRB	FW
+long	long	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+to	to	TO	FW
+check	check	VB	CW	VERB
+out	out	RP	FW
+in	in	IN	FW
+walmart	walmart	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+thanks	thank	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+and	and	CC	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+experienced	experience	VBN	CW	VERB
+or	or	CC	FW
+seen	see	VBN	CW	VERB
+a	a	DT	FW
+cashier	cashier	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+a	a	DT	FW
+billion	billion	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+to	to	TO	FW
+scan	scan	VB	CW	VERB
+the	the	DT	FW
+chicken	chicken	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+considering	consider	VBG	CW	VERB
+purchasing	purchasing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+
+sentence break
+
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+devastating	devastating	JJ	CW	ADJ
+to	to	TO	FW
+watch	watch	VB	CW	VERB
+
+sentence break
+
+or	or	CC	FW
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+witnessed	witness	VBN	CW	VERB
+a	a	DT	FW
+wrong	wrong	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+this	this	DT	FW	PRONOUN
+happen	happen	VBP	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+often	often	RB	ADV	FW
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+noticed	notice	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+receipt	receipt	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+lost	lose	VBD	CW	VERB
+some	some	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+invented	invent	VBD	CW	VERB
+self	self	NN	CW	NOUN	ARGUMENT
+checkouts	checkout	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+speed	speed	VB	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+process	process	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+purchasing	purchasing	NN	CW	NOUN	ARGUMENT
+thanks	thank	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+these	these	DT	FW
+great	great	JJ	CW	ADJ
+machines	machine	NNS	CW	NOUN	ARGUMENT
+leaving	leave	VBG	CW	VERB
+walmart	walmart	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+never	never	RB	ADV	CW
+easier	easy	JJR	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+just	just	RB	ADV	CW
+scan	scan	VB	CW	VERB
+and	and	CC	FW
+go	go	VB	CW	VERB
+
+sentence break
+
+sooner	soon	RB	ADV	CW
+or	or	CC	FW
+later	later	RBR	ADV	CW
+every	every	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+these	these	DT	FW
+great	great	JJ	CW	ADJ
+machines	machine	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+yes	yes	UH	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+once	once	RB	ADV	CW
+in	in	IN	FW
+a	a	DT	FW
+while	while	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+some	some	DT	FW
+bad	bad	JJ	CW	ADJ
+performance	performance	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+really	really	RB	ADV	CW
+reliable	reliable	JJ	CW	ADJ
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+weird	weird	JJ	CW	ADJ
+not	not	RB	ADV	CW
+seeing	see	VBG	CW	VERB
+a	a	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+cash	cash	NN	CW	NOUN	ARGUMENT
+register	register	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yes	yes	UH	FW
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+time	time	NN	CW	NOUN	ARGUMENT
+continues	continue	VBZ	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+having	have	VBG	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+side	side	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+made	make	VBN	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+better	well	RBR	ADV	CW
+and	and	CC	FW
+has	have	VBZ	FW	aux_or_cop
+lighten	lighten	VBN	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+sense	sense	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+technology	technology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+so	so	RB	ADV	CW
+good	good	JJ	CW	ADJ
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+brought	bring	VBN	CW	VERB
+positivists	positivist	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+how	how	WRB	FW
+stressful	stressful	JJ	CW	ADJ
+would	would	MD	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+for	for	IN	FW	SUBORDINATOR
+ford	ford	NNP	CW	NOUN	ARGUMENT
+junior	junior	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hire	hire	VB	CW	VERB
+millions	million	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+workers	worker	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+finish	finish	VB	CW	VERB
+one	one	CD	FW
+car	car	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+five	five	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+or	or	CC	FW
+opening	open	VBG	CW	VERB
+up	up	RP	FW
+a	a	DT	FW
+restaurant	restaurant	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hire	hire	VB	CW	VERB
+twenty	twenty	CD	FW
+workers	worker	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+rude	rude	JJ	CW	ADJ
+lazy	lazy	JJ	CW	ADJ
+to	to	IN	FW
+there	there	EX	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+last	last	JJ	CW	ADJ
+but	but	CC	FW
+certainly	certainly	RB	ADV	CW
+not	not	RB	ADV	CW
+least	least	JJS	CW	ADJ
+walmart	walmart	NNP	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+hundreds	hundred	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+workers	worker	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+take	take	VBP	CW	VERB
+forever	forever	RB	ADV	FW
+to	to	TO	FW
+scan	scan	VB	CW	VERB
+and	and	CC	FW
+pack	pack	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+items	item	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	DT	FW
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+stink	stink	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+such	such	JJ	CW	ADJ
+great	great	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+hands	hand	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,406 @@
+word	lemma	POS	CW\FW	other categories
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+this	this	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+any	any	DT	FW
+artist	artist	NN	CW	NOUN	ARGUMENT
+artists	artist	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+based	base	VBN	CW	VERB
+all	all	DT	FW
+around	around	IN	FW
+the	the	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+are	be	VBP	FW	aux_or_cop
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+hate	hate	VB	CW	VERB
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+theres	theres	RB	ADV	FW
+true	true	JJ	CW	ADJ
+improvement	improvement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+praised	praise	VBN	CW	VERB
+but	but	CC	FW
+thats	that	VBZ	CW	VERB
+not	not	RB	ADV	CW
+what	what	WP	FW
+drives	drive	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+better	better	JJR	CW	ADJ
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+hatred	hatred	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+gives	give	VBZ	CW	VERB
+the	the	DT	FW
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+and	and	CC	FW
+even	even	RB	ADV	CW
+take	take	VB	CW	VERB
+criticism	criticism	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+grain	grain	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+salt	salt	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+use	use	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+better	better	JJR	CW	ADJ
+
+sentence break
+
+using	use	VBG	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+from	from	IN	FW
+any	any	DT	FW
+artist	artist	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+`	`	``	FW
+d	d	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+terrible	terrible	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+the	the	DT	FW
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+use	use	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+theres	there	VBZ	CW	VERB
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+criticize	criticize	VBP	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+cant	cant	VBP	CW	VERB
+take	take	VB	CW	VERB
+that	that	DT	FW
+criticism	criticism	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+`	`	``	FW
+re	re	VB	CW	VERB
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+gon	gon	VBG	CW	VERB
+na	na	TO	FW
+get	get	VB	CW	VERB
+fired	fire	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+should	should	MD	CW	VERB
+a	a	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+be	be	VB	CW	VERB
+praised	praise	VBN	CW	VERB
+no	no	DT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+bad	bad	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+sounds	sound	VBZ	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+theory	theory	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+of	of	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+educational	educational	JJ	CW	ADJ
+field	field	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+a	a	DT	FW
+terrible	terrible	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+as	as	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+praised	praise	VBN	CW	VERB
+for	for	IN	FW
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+get	get	VB	CW	VERB
+better	better	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+practice	practice	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+over	over	IN	FW
+and	and	CC	FW
+over	over	IN	FW
+and	and	CC	FW
+over	over	IN	FW
+again	again	RB	ADV	CW
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+if	if	IN	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+`	`	``	FW
+re	re	VB	CW	VERB
+happy	happy	JJ	CW	ADJ
+with	with	IN	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+`	`	``	FW
+re	re	VB	CW	VERB
+practicing	practice	VBG	CW	VERB
+and	and	CC	FW
+happiness	happiness	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+with	with	IN	FW
+every	every	DT	FW
+praise	praise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+all	all	DT	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+while	while	IN	FW	SUBORDINATOR
+learning	learn	VBG	CW	VERB
+was	be	VBD	FW	aux_or_cop
+praise	praise	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+on	on	IN	FW
+then	then	RB	ADV	CW
+what	what	WP	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+continue	continue	VB	CW	VERB
+learning	learn	VBG	CW	VERB
+if	if	IN	FW
+all	all	DT	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+``	``	``	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+amazing	amazing	JJ	CW	ADJ
+''	''	''	FW
+or	or	CC	FW
+an	a	DT	FW
+a	a	NN	CW	NOUN	ARGUMENT
++	+	CC	FW
+on	on	IN	FW
+every	every	DT	FW
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+improve	improve	VB	CW	VERB
+but	but	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+develop	develop	VBP	CW	VERB
+zero	zero	CD	FW
+tolerance	tolerance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+any	any	DT	FW
+criticism	criticism	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+probably	probably	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+want	want	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+attention	attention	NN	CW	NOUN	ARGUMENT
+focused	focus	VBD	CW	VERB
+at	at	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+saying	say	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+praising	praise	VBG	CW	VERB
+to	to	TO	FW
+much	much	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+not	not	RB	ADV	CW
+saying	say	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+hate	hate	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+`	`	``	FW
+re	re	VB	CW	VERB
+doing	do	VBG	CW	VERB
+
+sentence break
+
+but	but	CC	FW
+i	i	FW	FW
+am	be	VBP	FW	aux_or_cop
+saying	say	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+with	with	IN	FW
+every	every	DT	FW
+praise	praise	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+criticism	criticism	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+to	to	TO	FW
+balance	balance	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+and	and	CC	FW
+show	show	VBP	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+with	with	IN	FW
+every	every	DT	FW
+positive	positive	JJ	CW	ADJ
+comes	come	VBZ	CW	VERB
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+worlds	world	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+all	all	DT	FW
+praise	praise	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

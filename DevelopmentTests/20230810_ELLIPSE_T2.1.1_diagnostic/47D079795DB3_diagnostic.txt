@@ -1,0 +1,808 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+michelangelo	michelangelo	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+not	not	RB	ADV	CW
+in	in	IN	FW
+setting	set	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+falling	fall	VBG	CW	VERB
+short	short	JJ	CW	ADJ
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+setting	set	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+the	the	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+in	in	IN	FW
+the	the	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thinking	think	VBG	CW	VERB
+and	and	CC	FW
+managing	manage	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+the	the	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+managing	manage	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+going	go	VBG	CW	VERB
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+works	work	VBZ	CW	VERB
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+worked	work	VBD	CW	VERB
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+for	for	IN	FW
+accomplishing	accomplish	VBG	CW	VERB
+a	a	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieve	achieve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+setting	set	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+all	all	DT	FW
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wanna	wanna	VBP	CW	VERB
+achieve	achieve	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+setting	set	VBG	CW	VERB
+your'e	your'e	RP	FW
+aim	aim	VB	CW	VERB
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+too	too	RB	ADV	CW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+re	re	VBP	CW	VERB
+self	self	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+achieve	achieve	VB	CW	VERB
+that	that	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+actually	actually	RB	ADV	CW
+go	go	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+sitting	sit	VBG	CW	VERB
+around	around	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+somewhere	somewhere	RB	ADV	CW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+all	all	RB	ADV	CW
+about	about	IN	FW
+going	go	VBG	CW	VERB
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+putting	put	VBG	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieve	achieve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	UH	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+had	have	VBN	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+achieved	achieve	VBD	CW	VERB
+whatever	whatever	WDT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+all	all	DT	FW
+in	in	IN	FW
+the	the	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+put	put	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+re	re	VBP	CW	VERB
+aim	aim	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+head	head	VB	CW	VERB
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+achieve	achieve	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+obstacles	obstacle	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+too	too	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+always	always	RB	ADV	CW
+put	put	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+re	re	VBP	CW	VERB
+mind	mind	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+till	till	IN	FW
+this	this	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ve	ve	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+had	have	VBN	FW	aux_or_cop
+that	that	WDT	FW	PRONOUN
+implanted	implant	VBN	CW	VERB
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+remember	remember	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+those	those	DT	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+setting	set	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+was	be	VBD	CW	VERB
+this	this	DT	FW
+one	one	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+competition	competition	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+too	too	RB	ADV	CW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+re	re	VBP	CW	VERB
+head	head	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+first	first	JJ	CW	ADJ
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+too	too	RB	ADV	CW
+think	think	VB	CW	VERB
+too	too	RB	ADV	CW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+too	too	RB	ADV	CW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+jesus	jesus	NNP	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+put	put	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+re	re	VBP	CW	VERB
+aim	aim	VB	CW	VERB
+too	too	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+first	first	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+put	put	VBN	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+first	first	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+surpassed	surpass	VBD	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+became	become	VBD	CW	VERB
+first	first	RB	ADV	CW
+out	out	IN	FW
+of	of	IN	FW
+10	10	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+were	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+competition	competition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+simple	simple	JJ	CW	ADJ
+putting	put	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+actually	actually	RB	ADV	CW
+getting	get	VBG	CW	VERB
+too	too	RB	ADV	CW
+that	that	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+wanted	want	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+all	all	DT	FW
+in	in	IN	FW
+your'e	your'e	NNP	CW	NOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wanna	wanna	VBP	CW	VERB
+achieve	achieve	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+setting	set	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+re	re	VBP	CW	VERB
+aim	aim	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+that	that	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+said	say	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+accomplish	accomplish	VB	CW	VERB
+or	or	CC	FW
+achieve	achieve	VB	CW	VERB
+that	that	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+just	just	RB	ADV	CW
+by	by	IN	FW
+putting	put	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+actually	actually	RB	ADV	CW
+strive	strive	VB	CW	VERB
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+re	re	VBP	FW	aux_or_cop
+ever	ever	RB	ADV	CW
+stuck	stick	VBN	CW	VERB
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+put	put	VBN	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+think	think	VB	CW	VERB
+and	and	CC	FW
+then	then	RB	ADV	CW
+accomplish	accomplish	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+achieve	achieve	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+setting	set	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+all	all	DT	FW
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wanna	wanna	VBP	CW	VERB
+achieve	achieve	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+setting	set	VBG	CW	VERB
+your'e	your'e	RP	FW
+aim	aim	VB	CW	VERB
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+too	too	RB	ADV	CW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+re	re	VBP	CW	VERB
+self	self	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+achieve	achieve	VB	CW	VERB
+that	that	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+actually	actually	RB	ADV	CW
+go	go	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+managing	manage	VBG	CW	VERB
+too	too	RB	ADV	CW
+complete	complete	JJ	CW	ADJ
+the	the	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+actually	actually	RB	ADV	CW
+going	go	VBG	CW	VERB
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+sitting	sit	VBG	CW	VERB
+down	down	RP	FW
+in	in	IN	FW
+a	a	DT	FW
+couch	couch	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+however	however	RB	ADV	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+set	set	VBD	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+often	often	RB	ADV	FW
+end	end	VBP	CW	VERB
+up	up	RP	FW
+achieving	achieve	VBG	CW	VERB
+the	the	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	FW	aux_or_cop
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+admit	admit	VB	CW	VERB
+there	there	EX	FW
+were	be	VBD	CW	VERB
+times	time	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+set	set	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+or	or	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+ended	end	VBD	CW	VERB
+up	up	RP	FW
+achieving	achieve	VBG	CW	VERB
+the	the	DT	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+basically	basically	RB	ADV	FW
+luck	luck	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+set	set	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+end	end	VB	CW	VERB
+up	up	RP	FW
+achieving	achieve	VBG	CW	VERB
+the	the	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wanna	wanna	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+setting	set	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+low	low	JJ	CW	ADJ
+will	will	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+50/50	50/50	CD	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+get	get	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+times	time	NNS	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+set	set	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+way	way	RB	ADV	CW
+too	too	RB	ADV	CW
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+end	end	VB	CW	VERB
+up	up	RP	FW
+falling	fall	VBG	CW	VERB
+short	short	JJ	CW	ADJ
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,514 @@
+word	lemma	POS	CW\FW	other categories
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+season	season	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+which	which	WDT	FW
+the	the	DT	FW
+sun	sun	NN	CW	NOUN	ARGUMENT
+shines	shine	VBZ	CW	VERB
+most	most	RBS	ADV	CW
+directly;it	directly;it	JJ	CW	ADJ
+commences	commence	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+early	early	JJ	CW	ADJ
+september	september	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ends	end	VBZ	CW	VERB
+in	in	IN	FW
+sometimes	sometimes	RB	ADV	CW
+october	october	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+early	early	JJ	CW	ADJ
+november	november	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+educators	educator	NNS	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+too	too	RB	ADV	CW
+long	long	JJ	CW	ADJ
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+retain	retain	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+easily	easily	RB	ADV	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+return	return	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+fall	fall	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+because;during	because;dure	VBG	CW	VERB
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+quality	quality	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+relatives	relative	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+moreover	moreover	RB	ADV	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+exciting	exciting	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+disneyland	disneyland	NNP	CW	NOUN	ARGUMENT
+eiffel	eiffel	NNP	CW	NOUN	ARGUMENT
+tower	tower	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+situated	situate	VBN	CW	VERB
+in	in	IN	FW
+france	france	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+interesting	interesting	JJ	CW	ADJ
+and	and	CC	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+during	during	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+lost	lose	VBD	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+credits	credit	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+or	or	CC	FW
+who	who	WP	FW
+fail	fail	VBP	CW	VERB
+certain	certain	JJ	CW	ADJ
+courses	course	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+might	might	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+failed	fail	VBN	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+sol	sol	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+during	during	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+the	the	DT	FW
+privilege	privilege	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+and	and	CC	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+certified	certify	VBN	CW	VERB
+credits	credit	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+firstly	firstly	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+used	use	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+saying	saying	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+family	family	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+everything	everything	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+so	so	RB	ADV	CW
+basically	basically	RB	ADV	FW
+if	if	IN	FW	SUBORDINATOR
+one	one	CD	FW
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+lost	lose	VBN	CW	VERB
+almost	almost	RB	ADV	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+summer	summer	NN	CW	NOUN	ARGUMENT
+breaks	break	NNS	CW	NOUN	ARGUMENT
+enables	enable	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+quality	quality	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+wake	wake	VB	CW	VERB
+up	up	RP	FW
+at	at	IN	FW
+5:30am	5:30am	CD	FW
+every	every	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+home	home	RB	ADV	CW
+around	around	IN	FW
+3:00pm	3:00pm	CD	FW
+
+sentence break
+
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+by	by	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+home	home	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+around	around	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+means	mean	VBZ	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+so	so	RB	ADV	CW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+summer	summer	NNP	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+longer	long	JJR	CW	ADJ
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+appropriate	appropriate	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+with	with	IN	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+during	during	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+exciting	exciting	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+mentioned	mention	VBN	CW	VERB
+above	above	RB	ADV	CW
+
+sentence break
+
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+visit	visit	VBP	CW	VERB
+tourist	tourist	NN	CW	NOUN	ARGUMENT
+sites	site	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+broadens	broaden	VBZ	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+minds	mind	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+give	give	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+perspectives	perspective	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+culture	culture	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+so	so	RB	ADV	CW
+long	long	RB	ADV	CW
+ago	ago	RB	ADV	CW
+last	last	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+cruise	cruise	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+memorable	memorable	JJ	CW	ADJ
+moment	moment	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+stayed	stay	VBD	CW	VERB
+for	for	IN	FW
+barely	barely	RB	ADV	CW
+three	three	CD	FW
+3	3	CD	FW
+weeks	week	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+very	very	RB	ADV	CW
+ecstatic	ecstatic	JJ	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+trip	trip	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+courses	course	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+others	other	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+pass	pass	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+sol	sol	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+enough	enough	JJ	CW	ADJ
+or	or	CC	FW
+the	the	DT	FW
+certified	certify	VBN	CW	VERB
+credits	credit	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+during	during	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+granted	grant	VBN	CW	VERB
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+re	re	VB	CW	VERB
+-	-	VB	CW	VERB
+take	take	VB	CW	VERB
+whatever	whatever	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+missed	miss	VBD	CW	VERB
+during	during	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+with	with	IN	FW
+flying	fly	VBG	CW	VERB
+colors	color	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+longer	long	JJR	CW	ADJ
+than	than	IN	FW
+any	any	DT	FW
+other	other	JJ	CW	ADJ
+breaks	break	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+enjoyable	enjoyable	JJ	CW	ADJ
+season	season	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+practically	practically	RB	ADV	CW
+almost	almost	RB	ADV	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+out	out	RB	ADV	CW
+there	there	RB	ADV	CW
+and	and	CC	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+summer	summer	NNP	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+longest	long	JJS	CW	ADJ
+break	break	NN	CW	NOUN	ARGUMENT
+among	among	IN	FW
+the	the	DT	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

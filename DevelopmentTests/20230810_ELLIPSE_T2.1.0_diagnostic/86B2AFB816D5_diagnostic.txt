@@ -1,0 +1,431 @@
+word	lemma	POS	CW\FW	other categories
+most	most	JJS	CW	ADJ
+employers	employer	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+specific	specific	JJ	CW	ADJ
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+potential	potential	JJ	CW	ADJ
+employee	employee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+responsible	responsible	JJ	CW	ADJ
+and	and	CC	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+many	many	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+those	those	DT	FW	PRONOUN
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+have	have	VBP	FW	aux_or_cop
+experience	experience	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learning	learn	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+lots	lot	NNS	CW	NOUN	ARGUMENT
+places	place	NNS	CW	NOUN	ARGUMENT
+taking	take	VBG	CW	VERB
+decision	decision	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+giving	give	VBG	CW	VERB
+job	job	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+study	study	VB	CW	VERB
+by	by	IN	FW
+cause	cause	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+working	work	VBG	CW	VERB
+by	by	IN	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+pay	pay	VB	CW	VERB
+the	the	DT	FW
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+giving	give	VBG	CW	VERB
+news	news	NN	CW	NOUN	ARGUMENT
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+working	work	VBG	CW	VERB
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+have	have	VB	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+anyhow	anyhow	RB	ADV	FW
+the	the	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+hard	hard	RB	ADV	CW
+-	-	HYPH	FW
+working	working	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+be	be	VBP	CW	VERB
+glad	glad	JJ	CW	ADJ
+
+sentence break
+
+when	when	WRB	FW
+the	the	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+hard	hard	RB	ADV	CW
+-	-	HYPH	FW
+working	work	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+for	for	IN	FW
+news	news	NN	CW	NOUN	ARGUMENT
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+nevertheless	nevertheless	RB	ADV	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+may	may	MD	FW	aux_or_cop
+-	-	HYPH	FW
+be	be	VB	FW	aux_or_cop
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+employers	employer	NNS	CW	NOUN	ARGUMENT
+giving	give	VBG	CW	VERB
+a	a	DT	FW
+raise	raise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+employee	employee	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+for	for	IN	FW
+letter	letter	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+recommend	recommend	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+ability	ability	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+more	more	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+requisite	requisite	JJ	CW	ADJ
+by	by	IN	FW
+working	work	VBG	CW	VERB
+although	although	IN	FW	SUBORDINATOR
+needing	need	VBG	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+can	can	MD	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+
+sentence break
+
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+respect	respect	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+manners	manner	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+manners	manner	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+potential	potential	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+too	too	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+evaluate	evaluate	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+which	which	WDT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+working	work	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+thinking	think	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+persons	person	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+conduct	conduct	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+employers	employer	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+which	which	WDT	FW	SUBORDINATOR
+the	the	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+following	follow	VBG	CW	VERB
+the	the	DT	FW
+rules	rule	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+the	the	DT	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+misjudge	misjudge	VBP	CW	VERB
+a	a	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+because	because	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+remove	remove	VB	CW	VERB
+the	the	DT	FW
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+reality	reality	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+and	and	CC	FW
+have	have	VB	CW	VERB
+the	the	DT	FW
+privilege	privilege	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+working	work	VBG	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+learning	learn	VBG	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+more	more	JJR	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+a	a	DT	FW
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+show	show	VB	CW	VERB
+off	off	RP	FW
+the	the	DT	FW
+potential	potential	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i'am	i'am	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+working	work	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+manners	manner	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learning	learn	VBG	CW	VERB
+fast	fast	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+reality	reality	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+which	which	WDT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+giving	give	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+word	word	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+the	the	DT	FW
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+working	work	VBG	CW	VERB
+and	and	CC	FW
+general	general	JJ	CW	ADJ
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

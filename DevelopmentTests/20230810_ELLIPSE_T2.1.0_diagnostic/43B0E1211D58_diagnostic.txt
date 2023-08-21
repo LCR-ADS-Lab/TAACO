@@ -1,0 +1,595 @@
+word	lemma	POS	CW\FW	other categories
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+life	life	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+away	away	RB	ADV	CW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+a	a	DT	FW
+normal	normal	JJ	CW	ADJ
+public	public	JJ	CW	ADJ
+middle	middle	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+maryland	maryland	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+starts	start	VBZ	CW	VERB
+at	at	IN	FW
+8:15	8:15	CD	FW
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+ends	end	VBZ	CW	VERB
+at	at	IN	FW
+3:00	3:00	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+which	which	WDT	FW
+means	mean	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+spends	spend	VBZ	CW	VERB
+7	7	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+25	25	CD	FW
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+receiving	receive	VBG	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+nonstop	nonstop	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+extend	extend	VB	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+from	from	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+or	or	CC	FW
+will	will	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+study	study	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+in	in	RB	ADV	CW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+wouldl	wouldl	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+volunteer	volunteer	VB	CW	VERB
+in	in	IN	FW
+community	community	NN	CW	NOUN	ARGUMENT
+events	event	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+study	study	VB	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+already	already	RB	ADV	CW
+spends	spend	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+seven	seven	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+usually	usually	RB	ADV	CW
+has	have	VBZ	CW	VERB
+6	6	CD	FW
+8	8	CD	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+last	last	JJ	CW	ADJ
+45	45	CD	FW
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+each	each	DT	FW
+from	from	IN	FW
+those	those	DT	FW	PRONOUN
+6	6	CD	FW
+8	8	CD	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+3	3	CD	FW
+would	would	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+assigned	assign	VBN	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+means	mean	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+accuracy	accuracy	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+days	day	NNS	CW	NOUN	ARGUMENT
+werre	werre	NNP	CW	NOUN	ARGUMENT
+extended	extended	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+means	mean	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+grade	grade	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+decrease	decrease	RB	ADV	FW
+for	for	IN	FW
+missing	miss	VBG	CW	VERB
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+in	in	RB	ADV	CW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+clubs	club	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+every	every	DT	FW
+healthy	healthy	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+exercise	exercise	VB	CW	VERB
+for	for	IN	FW
+at	at	RB	ADV	FW
+least	least	JJS	CW	ADJ
+1	1	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+per	per	IN	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+every	every	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+physical	physical	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+course	course	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+leads	lead	VBZ	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+thought	thought	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+the	the	DT	FW
+necessary	necessary	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+exercise	exercise	NN	CW	NOUN	ARGUMENT
+per	per	IN	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+take	take	VB	CW	VERB
+p.e.	p.e.	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+normal	normal	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+lasts	last	VBZ	CW	VERB
+45	45	CD	FW
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+for	for	IN	FW
+a	a	DT	FW
+healthy	healthy	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+to	to	TO	FW
+add	add	VB	CW	VERB
+one	one	CD	FW
+and	and	CC	FW
+a	a	DT	FW
+half	half	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+practice	practice	VB	CW	VERB
+in	in	IN	FW
+an	an	DT	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+clubs	club	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+like	like	IN	FW	SUBORDINATOR
+sports	sport	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+big	big	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+clubs	club	NNS	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+to	to	TO	FW
+extend	extend	VB	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+parts	part	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+clubs	club	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+get	get	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+those	those	DT	FW	PRONOUN
+clubs	club	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+volunteer	volunteer	VB	CW	VERB
+in	in	IN	FW
+community	community	NN	CW	NOUN	ARGUMENT
+events	event	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+usually	usually	RB	ADV	CW
+a	a	DT	FW
+requirement	requirement	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+most	most	JJS	CW	ADJ
+curiculums	curiculum	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+past	past	JJ	CW	ADJ
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+had	have	VBN	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+75	75	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+those	those	DT	FW	PRONOUN
+hours	hour	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+earned	earn	VBN	CW	VERB
+for	for	IN	FW
+volunteer	volunteer	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+helping	help	VBG	CW	VERB
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+helping	help	VBG	CW	VERB
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+organize	organize	VB	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+.	.	FW	FW
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+acts	act	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+usually	usually	RB	ADV	CW
+done	do	VBN	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+usually	usually	RB	ADV	CW
+took	take	VBD	CW	VERB
+around	around	RB	ADV	CW
+2	2	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+to	to	TO	FW
+extend	extend	VB	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+srudents	srudent	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+eventually	eventually	RB	ADV	CW
+fail	fail	VB	CW	VERB
+beacause	beacause	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+not	not	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+volunteering	volunteering	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+overall	overall	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+more	more	RBR	ADV	CW
+convienient	convienient	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+add	add	VB	CW	VERB
+anymore	anymore	JJ	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+clubs	club	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

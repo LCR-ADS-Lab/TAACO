@@ -1,0 +1,261 @@
+word	lemma	POS	CW\FW	other categories
+some	some	DT	FW
+businesses	business	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+adopted	adopt	VBN	CW	VERB
+a	a	DT	FW
+four	four	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+week	week	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+many	many	JJ	CW	ADJ
+preference	preference	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+work	work	VB	CW	VERB
+two	two	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+work	work	VBP	CW	VERB
+two	two	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+any	any	DT	FW
+responsible	responsible	JJ	CW	ADJ
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+in	in	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+becuase	becuase	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+boyfriend	boyfriend	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+go	go	VBP	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+more	more	JJR	CW	ADJ
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+reponsible	reponsible	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+preference	preference	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+work	work	VB	CW	VERB
+two	two	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+preference	preference	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+collage	collage	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+work	work	VB	CW	VERB
+four	four	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+proper_name	proper_name	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+consentrate	consentrate	VB	CW	VERB
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+to	to	TO	FW
+work	work	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+prefenrence	prefenrence	VBP	CW	VERB
+go	go	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+work	work	VB	CW	VERB
+two	two	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+businesses	business	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+adopted	adopt	VBN	CW	VERB
+a	a	DT	FW
+four	four	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

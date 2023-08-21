@@ -1,0 +1,317 @@
+word	lemma	POS	CW\FW	other categories
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+wrote	wrote	NNP	CW	NOUN	ARGUMENT
+''	''	''	FW
+determine	determine	VBP	CW	VERB
+never	never	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+idle	idle	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wonderful	wonderful	JJ	CW	ADJ
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+logical	logical	JJ	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+personal	personal	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+share	share	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+that	that	IN	FW	PRONOUN
+why	why	WRB	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+to	to	TO	FW
+find	find	VB	CW	VERB
+out	out	RP	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+but	but	CC	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+but	but	CC	FW
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+does't	does't	NNP	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+about	about	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+to	to	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+about	about	IN	FW
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+personal	personal	JJ	CW	ADJ
+story	story	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+share	share	VB	CW	VERB
+about	about	IN	FW
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+determine	determine	VBP	CW	VERB
+to	to	IN	FW
+never	never	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+idle	idle	JJ	CW	ADJ
+and	and	CC	FW
+how	how	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+talks	talk	VBZ	CW	VERB
+about	about	IN	FW
+accomplish	accomplish	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+more	more	JJR	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+alse	alse	RB	ADV	FW
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+why	why	WRB	FW
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+10	10	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+live	live	JJ	CW	ADJ
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+this	this	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+about	about	IN	FW
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+to	to	TO	FW
+study	study	VB	CW	VERB
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+prepare	prepare	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+and	and	CC	FW
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+prepare	prepare	VB	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	FW	aux_or_cop
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+out	out	RP	FW
+all	all	DT	FW
+that	that	WDT	FW	PRONOUN
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+shared	share	VBN	CW	VERB
+this	this	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+all	all	PDT	FW
+the	the	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+about	about	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+determine	determine	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+idle	idle	JJ	CW	ADJ
+and	and	CC	FW
+also	also	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wonderful	wonderful	JJ	CW	ADJ
+how	how	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+accomplish	accomplish	VBP	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+copare	copare	VB	CW	VERB
+when	when	WRB	FW
+not	not	RB	ADV	CW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

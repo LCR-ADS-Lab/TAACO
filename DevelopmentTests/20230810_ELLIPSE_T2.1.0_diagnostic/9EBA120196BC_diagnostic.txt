@@ -1,0 +1,203 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+decision	decision	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+kids	kid	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+bored	bored	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+activities	activity	NNS	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+or	or	CC	FW
+learn	learn	VB	CW	VERB
+different	different	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+the	the	DT	FW
+principal	principal	NN	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+book	book	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+those	those	DT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+finishing	finish	VBG	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+left	leave	VBN	CW	VERB
+
+sentence break
+
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+participate	participate	VBP	CW	VERB
+on	on	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+exercise	exercise	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+play	play	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+sport	sport	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+serve	serve	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+after	after	IN	FW
+trying	try	VBG	CW	VERB
+one	one	CD	FW
+of	of	IN	FW
+those	those	DT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+join	join	VB	CW	VERB
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+or	or	CC	FW
+there	there	EX	FW
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+one	one	CD	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+
+sentence break
+
+"	"	``	FW
+so	so	RB	ADV	CW
+go	go	VB	CW	VERB
+try	try	VB	CW	VERB
+the	the	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+those	those	DT	FW	PRONOUN
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+sure	sure	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+maybe	maybe	RB	ADV	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+join	join	VB	CW	VERB
+one	one	CD	FW
+of	of	IN	FW
+those	those	DT	FW	PRONOUN
+activities	activity	NNS	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+even	even	RB	ADV	CW
+fo	fo	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+might	might	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

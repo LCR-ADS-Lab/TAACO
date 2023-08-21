@@ -1,0 +1,325 @@
+word	lemma	POS	CW\FW	other categories
+firstly	firstly	RB	ADV	CW
+tech	tech	NNP	CW	NOUN	ARGUMENT
+engineer	engineer	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+future	future	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+around	around	RP	FW
+with	with	IN	FW
+robots	robot	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+move	move	VB	CW	VERB
+by	by	IN	FW
+using	use	VBG	CW	VERB
+a	a	DT	FW
+controller	controller	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+around	around	RP	FW
+with	with	IN	FW
+machine	machine	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+3d	3d	NN	CW	NOUN	ARGUMENT
+printer	printer	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+a	a	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+print	print	VB	CW	VERB
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+tech	tech	NNP	CW	NOUN	ARGUMENT
+engineer	engineer	NNP	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+cool	cool	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+may	may	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	JJ	CW	ADJ
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+tech	tech	NNP	CW	NOUN	ARGUMENT
+engineer	engineer	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+future	future	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+interesting	interesting	JJ	CW	ADJ
+and	and	CC	FW
+very	very	RB	ADV	CW
+creative	creative	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	FW	aux_or_cop
+paid	pay	VBN	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+tech	tech	NNP	CW	NOUN	ARGUMENT
+engineer	engineer	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+future	future	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+interesting	interesting	JJ	CW	ADJ
+
+sentence break
+
+one	one	CD	FW
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+interesting	interesting	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+work	work	VBP	CW	VERB
+may	may	MD	FW	aux_or_cop
+hide	hide	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	FW	aux_or_cop
+know	know	VB	CW	VERB
+yet	yet	RB	ADV	CW
+and	and	CC	FW
+want	want	VB	CW	VERB
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+secret	secret	NN	CW	NOUN	ARGUMENT
+until	until	IN	FW	SUBORDINATOR
+new	new	JJ	CW	ADJ
+generation	generation	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+objects	object	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+floating	float	VBG	CW	VERB
+vehicles	vehicle	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+invisible	invisible	JJ	CW	ADJ
+blankets	blanket	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+tech	tech	NNP	CW	NOUN	ARGUMENT
+engineer	engineer	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+future	future	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+accomplish	accomplish	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+creative	creative	JJ	CW	ADJ
+
+sentence break
+
+one	one	CD	FW
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+creative	creative	JJ	CW	ADJ
+is	be	VBZ	CW	VERB
+by	by	IN	FW
+making	make	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+robot	robot	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+hack	hack	VB	CW	VERB
+into	into	IN	FW
+other	other	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+into	into	IN	FW
+bank	bank	NN	CW	NOUN	ARGUMENT
+accounts	account	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+only	only	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+giving	give	VBG	CW	VERB
+permission	permission	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+the	the	DT	FW
+manager	manager	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+owns	own	VBZ	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+tech	tech	NNP	CW	NOUN	ARGUMENT
+engineer	engineer	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+future	future	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+interesting	interesting	JJ	CW	ADJ
+and	and	CC	FW
+also	also	RB	ADV	CW
+very	very	RB	ADV	CW
+creative	creative	JJ	CW	ADJ
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	FW	aux_or_cop
+paid	pay	VBN	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

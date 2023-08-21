@@ -1,0 +1,380 @@
+word	lemma	POS	CW\FW	other categories
+"	"	``	FW
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+effects	effect	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+allowing	allow	VBG	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+and	and	CC	FW
+use	use	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+study	study	VB	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+high	high	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+every	every	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+debating	debate	VBG	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+let	let	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+use	use	VB	CW	VERB
+the	the	DT	FW
+phone	phone	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+used	use	VBN	CW	VERB
+for	for	IN	FW
+good	good	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+study	study	NN	CW	NOUN	ARGUMENT
+look	look	VB	CW	VERB
+for	for	IN	FW
+information	information	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+right	right	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+make	make	VBP	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+easier	easy	JJR	CW	ADJ
+but	but	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+communique	communique	NN	CW	NOUN	ARGUMENT
+play	play	NN	CW	NOUN	ARGUMENT
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+a	a	DT	FW
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+every	every	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+makes	make	VBZ	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+back	back	RB	ADV	CW
+works	work	NNS	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+going	go	VBG	CW	VERB
+forward	forward	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+easier	easy	JJR	CW	ADJ
+for	for	IN	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grade	grade	VB	CW	VERB
+now	now	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+scan	scan	VB	CW	VERB
+papers	paper	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+grades	grade	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+every	every	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+still	still	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+saying	say	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+happens	happen	VBZ	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+use	use	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+even	even	RB	ADV	CW
+to	to	TO	FW
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+relacionated	relacionate	VBN	CW	VERB
+with	with	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+those	those	DT	FW	PRONOUN
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+let	let	VB	CW	VERB
+have	have	VB	CW	VERB
+every	every	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+have	have	VB	CW	VERB
+a	a	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+computer	computer	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+useful	useful	JJ	CW	ADJ
+to	to	TO	FW
+search	search	VB	CW	VERB
+for	for	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+articles	article	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+write	write	VB	CW	VERB
+etc	etc	FW	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+more	more	RBR	ADV	CW
+easier	easy	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+having	have	VBG	CW	VERB
+phones	phone	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+more	more	RBR	ADV	CW
+on	on	IN	FW
+this	this	DT	FW	PRONOUN
+and	and	CC	FW
+all	all	PDT	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+for	for	IN	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+for	for	IN	FW
+good	good	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+better	well	JJR	CW	ADJ
+jobs	job	NNS	CW	NOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+doctors	doctor	NNS	CW	NOUN	ARGUMENT
+nurses	nurse	NNS	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+on	on	IN	FW
+this	this	DT	FW	PRONOUN
+article	article	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+why	why	WRB	FW
+computers	computer	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+made	make	VBN	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+to	to	TO	FW
+work	work	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+applications	application	NNS	CW	NOUN	ARGUMENT
+papers	paper	NNS	CW	NOUN	ARGUMENT
+images	image	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+up	up	RP	FW
+and	and	CC	FW
+let	let	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+use	use	VB	CW	VERB
+a	a	DT	FW
+computer	computer	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+better	well	RBR	ADV	CW
+than	than	IN	FW
+phone	phone	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+more	more	JJR	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+safe	safe	JJ	CW	ADJ
+and	and	CC	FW
+prepared	prepare	VBN	CW	VERB
+for	for	IN	FW
+any	any	DT	FW
+circumstances	circumstance	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

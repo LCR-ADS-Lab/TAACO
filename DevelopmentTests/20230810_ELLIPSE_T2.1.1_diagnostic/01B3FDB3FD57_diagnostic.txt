@@ -1,0 +1,708 @@
+word	lemma	POS	CW\FW	other categories
+scientist	scientist	NNP	CW	NOUN	ARGUMENT
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+now	now	RB	ADV	CW
+imagine	imagine	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+beginning	beginning	JJ	CW	ADJ
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+sitting	sit	VBG	CW	VERB
+at	at	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+desk	desk	NN	CW	NOUN	ARGUMENT
+aggravated	aggravate	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+come	come	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+invention	invention	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+around	around	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+textbooks	textbook	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+no	no	DT	FW
+image	image	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+thought	thought	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+invention	invention	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+only	only	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+imagine	imagine	VB	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+invention	invention	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+some	some	DT	FW
+sort	sort	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+maybe	maybe	RB	ADV	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+build	build	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+with	with	IN	FW
+no	no	DT	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+build	build	VB	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+having	have	VBG	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+had	have	VBN	CW	VERB
+all	all	PDT	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+inventions	invention	NNS	CW	NOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+
+sentence break
+
+without	without	IN	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+were	be	VBD	FW	aux_or_cop
+many	many	JJ	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+own	own	VBP	CW	VERB
+invented	invent	VBN	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+telephone	telephone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+telephone	telephone	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+invented	invent	VBN	CW	VERB
+without	without	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+imagining	imagine	VBG	CW	VERB
+a	a	DT	FW
+device	device	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+communicate	communicate	VB	CW	VERB
+without	without	IN	FW
+leaving	leave	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+camera	camera	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+whoever	whoever	WP	FW
+invented	invent	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+of	of	IN	FW
+a	a	DT	FW
+device	device	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+captures	capture	VBZ	CW	VERB
+any	any	DT	FW
+moment	moment	NN	CW	NOUN	ARGUMENT
+almost	almost	RB	ADV	FW
+in	in	IN	FW
+an	an	DT	FW
+instant	instant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+making	make	VBG	CW	VERB
+an	an	DT	FW
+essay	essay	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+this	this	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+imagine	imagine	VB	CW	VERB
+of	of	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+story	story	NN	CW	NOUN	ARGUMENT
+hook	hook	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+goes	go	VBZ	CW	VERB
+along	along	RB	ADV	FW
+with	with	IN	FW
+the	the	DT	FW
+prompt	prompt	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+furthermore	furthermore	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+quote	quote	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+without	without	IN	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+useless	useless	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+learning	learn	VBG	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+vocabulary	vocabulary	JJ	CW	ADJ
+list	list	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+definitions	definition	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+put	put	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+use	use	VB	CW	VERB
+the	the	DT	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+different	different	JJ	CW	ADJ
+instances	instance	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+why	why	WRB	FW
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+imagine	imagine	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+picture	picture	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+know	know	VBP	CW	VERB
+the	the	DT	FW
+definitions	definition	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+reading	read	VBG	CW	VERB
+a	a	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+knowing	know	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+read	read	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+even	even	RB	ADV	CW
+near	near	RB	ADV	CW
+of	of	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+fully	fully	RB	ADV	CW
+comprehend	comprehend	VB	CW	VERB
+a	a	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+imagine	imagine	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+picture	picture	VB	CW	VERB
+the	the	DT	FW
+story	story	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fully	fully	RB	ADV	CW
+understand	understand	VB	CW	VERB
+the	the	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+theme	theme	NN	CW	NOUN	ARGUMENT
+setting	setting	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tone	tone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+in	in	IN	FW
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+without	without	IN	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+made	make	VBN	CW	VERB
+carelessly	carelessly	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+or	or	CC	FW
+move	move	VBP	CW	VERB
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+imagine	imagine	VBP	CW	VERB
+what	what	WP	FW
+the	the	DT	FW
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+that	that	DT	FW
+action	action	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+the	the	DT	FW
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+for	for	IN	FW
+the	the	DT	FW
+better	well	JJR	CW	ADJ
+
+sentence break
+
+another	another	DT	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+in	in	IN	FW
+an	an	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hypothesize	hypothesize	VBP	CW	VERB
+what	what	WP	FW
+the	the	DT	FW
+result	result	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+takes	take	VBZ	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+signing	sign	VBG	CW	VERB
+a	a	DT	FW
+contract	contract	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+needed	need	VBN	CW	VERB
+to	to	TO	FW
+imagine	imagine	VB	CW	VERB
+the	the	DT	FW
+consequences	consequence	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+signing	signing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+signing	sign	VBG	CW	VERB
+the	the	DT	FW
+contract	contract	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+imagine	imagine	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+on	on	RP	FW
+
+sentence break
+
+knowledge	knowledge	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+making	make	VBG	CW	VERB
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+correct	correct	JJ	CW	ADJ
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+knowledge	knowledge	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+key	key	JJ	CW	ADJ
+to	to	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+fully	fully	RB	ADV	CW
+understand	understand	VB	CW	VERB
+most	most	JJS	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+imagining	imagine	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+go	go	VB	CW	VERB
+on	on	RP	FW
+inventing	invent	VBG	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+before	before	IN	FW
+imagining	imagine	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+first	first	RB	ADV	CW
+
+sentence break
+
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+before	before	IN	FW
+imagining	imagine	VBG	CW	VERB
+the	the	DT	FW
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	RB	ADV	CW
+in	in	RB	ADV	CW
+all	all	DT	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+enjoy	enjoy	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+knowledge	knowledge	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+and	and	CC	FW
+all	all	DT	FW
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+bring	bring	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+much	much	JJ	CW	ADJ
+happiness	happiness	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+for	for	IN	FW
+all	all	PDT	FW
+these	these	DT	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+gone	go	VBN	CW	VERB
+so	so	RB	ADV	CW
+far	far	RB	ADV	CW
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+much	much	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+survived	survive	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+

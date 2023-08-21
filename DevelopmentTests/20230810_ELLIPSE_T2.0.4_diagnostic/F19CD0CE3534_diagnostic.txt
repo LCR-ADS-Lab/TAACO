@@ -1,0 +1,424 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+have	have	VBP	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+keys	key	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+relations	relation	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+ours	ours	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+good	good	JJ	CW	ADJ
+relations	relation	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+with	with	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+with	with	IN	FW
+respect	respect	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+respect	respect	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+show	show	VBP	CW	VERB
+the	the	DT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+living	live	VBG	CW	VERB
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+tthe	tthe	NN	CW	NOUN	ARGUMENT
+respect	respect	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+acitute	acitute	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+show	show	VBP	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+to	to	TO	FW
+give	give	VB	CW	VERB
+to	to	TO	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+moment	moment	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+with	with	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+less	less	JJR	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+describe	describe	VBP	CW	VERB
+the	the	DT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+well	well	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+succesful	succesful	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+positive	positive	JJ	CW	ADJ
+thoughs	though	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+friendly	friendly	JJ	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+with	with	IN	FW
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+moment	moment	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+employments	employment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+a	a	DT	FW
+clear	clear	JJ	CW	ADJ
+and	and	CC	FW
+a	a	DT	FW
+very	very	RB	ADV	CW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+respecful	respecful	JJ	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+more	more	RBR	ADV	CW
+workers	worker	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+employments	employment	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+the	the	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+funny	funny	JJ	CW	ADJ
+and	and	CC	FW
+happy	happy	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+succesful	succesful	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+positive	positive	JJ	CW	ADJ
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+many	many	JJ	CW	ADJ
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+beacuse	beacuse	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+happy	happy	JJ	CW	ADJ
+with	with	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+actitute	actitute	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+good	good	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+a	a	DT	FW
+bussines	bussine	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+relation	relation	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

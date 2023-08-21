@@ -1,0 +1,591 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+south	south	NNP	CW	NOUN	ARGUMENT
+korea	korea	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WDT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+during	during	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+frist	frist	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+frist	frist	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aunt	aunt	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+house	house	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+looks	look	VBZ	CW	VERB
+like	like	IN	FW
+in	in	IN	FW
+real	real	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+photo	photo	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+on	on	IN	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aunt	aunt	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+uncle	uncle	NN	CW	NOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+beautiful	beautiful	JJ	CW	ADJ
+and	and	CC	FW
+very	very	RB	ADV	CW
+nice	nice	JJ	CW	ADJ
+looking	look	VBG	CW	VERB
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+move	move	VB	CW	VERB
+in	in	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+those	those	DT	FW	PRONOUN
+houses	house	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aunt	aunt	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+uncle	uncle	NN	CW	NOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+next	next	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+is	be	VBZ	FW	aux_or_cop
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+largest	large	JJS	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+korea	korea	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+korea	korea	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+cities	city	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+lively	lively	JJ	CW	ADJ
+here	here	RB	ADV	CW
+but	but	CC	FW
+in	in	IN	FW
+korea	korea	NNP	CW	NOUN	ARGUMENT
+these	these	DT	FW	PRONOUN
+cities	city	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+lively	lively	JJ	CW	ADJ
+and	and	CC	FW
+very	very	RB	ADV	CW
+loud	loud	JJ	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+cities	city	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+very	very	RB	ADV	CW
+beautiful	beautiful	JJ	CW	ADJ
+full	full	JJ	CW	ADJ
+of	of	IN	FW
+light	light	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+third	third	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+next	next	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+cafes	cafe	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+shoppes	shoppe	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+choosed	choose	VBD	CW	VERB
+cafes	cafe	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+shoppes	shoppe	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+dog	dog	NNP	CW	NOUN	ARGUMENT
+cafe	cafe	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+dog	dog	NNP	CW	NOUN	ARGUMENT
+cafe	cafe	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+full	full	JJ	CW	ADJ
+of	of	IN	FW
+dogs	dog	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+serve	serve	VBP	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+dogs	dog	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+shoppes	shoppe	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+litterally	litterally	RB	ADV	FW
+have	have	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+u.s.	u.s.	NNP	CW	NOUN	ARGUMENT
+but	but	CC	FW
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+style	style	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+fourth	fourth	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+to	to	IN	FW
+south	south	NNP	CW	NOUN	ARGUMENT
+korea	korea	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+propably	propably	RB	ADV	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+modelling	modelling	NN	CW	NOUN	ARGUMENT
+station	station	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+korean	korean	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+model	model	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+stylish	stylish	JJ	CW	ADJ
+with	with	IN	FW
+there	there	EX	FW
+outfit	outfit	JJ	CW	ADJ
+choise	choise	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+bts	bts	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+boy	boy	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+fangirl	fangirl	VBP	CW	VERB
+over	over	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+outfit	outfit	JJ	CW	ADJ
+choise	choise	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+makeup	makeup	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+makeup	makeup	NN	CW	NOUN	ARGUMENT
+artist	artist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+but	but	CC	FW
+the	the	DT	FW
+least	least	JJS	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+concert	concert	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+fangirling	fangirle	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+goes	go	VBZ	CW	VERB
+like	like	IN	FW
+"	"	``	FW
+wow	wow	UH	FW
+look	look	VB	CW	VERB
+how	how	WRB	FW
+deep	deep	JJ	CW	ADJ
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+voice	voice	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+"	"	''	FW
+or	or	CC	FW
+"	"	``	FW
+wow	wow	UH	FW
+how	how	WRB	FW
+do	do	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+those	those	DT	FW	PRONOUN
+high	high	JJ	CW	ADJ
+notes	note	NNS	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	IN	FW
+those	those	DT	FW	PRONOUN
+places	place	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+old	old	JJ	CW	ADJ
+home	home	NNP	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+1900	1900	CD	FW
+'s	's	POS	FW
+becuse	becuse	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+cool	cool	JJ	CW	ADJ
+
+sentence break
+
+becuse	becuse	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+alot	alot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+dresses	dress	VBZ	CW	VERB
+up	up	RP	FW
+for	for	IN	FW
+the	the	DT	FW
+moives	moive	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+histroy	histroy	NN	CW	NOUN	ARGUMENT
+times	time	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+excute	excute	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+sword	sword	NN	CW	NOUN	ARGUMENT
+fights	fight	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+south	south	NNP	CW	NOUN	ARGUMENT
+korea	korea	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VB	CW	VERB
+those	those	DT	FW	PRONOUN
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBN	CW	VERB
+about	about	IN	FW
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+well	well	UH	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+do	do	VB	CW	VERB
+the	the	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	IN	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+there	there	RB	ADV	CW
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+well	well	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+
+sentence break
+
+hope	hope	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+trip	trip	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wish	wish	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+acually	acually	RB	ADV	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+south	south	NNP	CW	NOUN	ARGUMENT
+korea	korea	NNP	CW	NOUN	ARGUMENT
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+visit	visit	VB	CW	VERB
+those	those	DT	FW	PRONOUN
+places	place	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

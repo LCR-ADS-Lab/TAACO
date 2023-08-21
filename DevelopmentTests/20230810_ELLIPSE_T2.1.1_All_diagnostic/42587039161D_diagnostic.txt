@@ -1,0 +1,534 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+helpful	helpful	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+technology	technology	NNP	CW	NOUN	ARGUMENT
+allows	allow	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+many	many	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+postive	postive	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+buy	buy	VB	CW	VERB
+grocery	grocery	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+go	go	VB	CW	VERB
+grocery	grocery	NN	CW	NOUN	ARGUMENT
+shopping	shopping	NN	CW	NOUN	ARGUMENT
+online	online	RB	ADV	FW
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+positve	positve	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+pepole	pepole	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+work	work	VB	CW	VERB
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+offiice	offiice	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+laptop	laptop	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+feels	feel	VBZ	CW	VERB
+sick	sick	JJ	CW	ADJ
+or	or	CC	FW
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+grocery	grocery	NN	CW	NOUN	ARGUMENT
+shopping	shopping	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+online	online	RB	ADV	FW
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+grocery	grocery	NN	CW	NOUN	ARGUMENT
+deliverd	deliverd	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+postive	postive	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+drive	drive	VB	CW	VERB
+and	and	CC	FW
+need	need	VB	CW	VERB
+a	a	DT	FW
+ride	ride	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+download	download	VB	CW	VERB
+the	the	DT	FW
+app	app	NN	CW	NOUN	ARGUMENT
+uber	uber	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+ride	ride	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	IN	FW
+clothes	clothe	NNS	CW	NOUN	ARGUMENT
+shopping	shop	VBG	CW	VERB
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+worries	worry	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+aslo	aslo	NNP	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+online	online	RB	ADV	FW
+and	and	CC	FW
+see	see	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+what	what	WP	FW
+u	u	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+go	go	VB	CW	VERB
+online	online	RB	ADV	FW
+
+sentence break
+
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+store	store	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+read	read	VB	CW	VERB
+online	online	RB	ADV	FW
+and	and	CC	FW
+even	even	RB	ADV	CW
+check	check	VB	CW	VERB
+out	out	RP	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+bisically	bisically	RB	ADV	FW
+do	do	VB	FW	aux_or_cop
+everthing	everthe	VBG	CW	VERB
+online	online	RB	ADV	FW
+pay	pay	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+payments	payment	NNS	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+tecnology	tecnology	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+positve	positve	VBN	CW	VERB
+in	in	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+another	another	DT	FW
+good	good	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+now	now	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+facetime	facetime	VB	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+a	a	DT	FW
+diffreant	diffreant	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+thanks	thank	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+negative	negative	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+pepole	pepole	JJ	CW	ADJ
+order	order	NN	CW	NOUN	ARGUMENT
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+go	go	VB	CW	VERB
+out	out	RP	FW
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+somehting	somehte	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+store	store	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+getting	get	VBG	CW	VERB
+enougeh	enougeh	NN	CW	NOUN	ARGUMENT
+extracise	extracise	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+really	really	RB	ADV	CW
+lazy	lazy	JJ	CW	ADJ
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+nowadays	nowadays	RB	ADV	FW
+pepole	pepole	NNP	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+even	even	RB	ADV	CW
+talk	talk	VB	CW	VERB
+face	face	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+face	face	VB	CW	VERB
+all	all	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+either	either	CC	FW
+text	text	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+over	over	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandmas	grandmas	NNP	CW	NOUN	ARGUMENT
+house	house	NNP	CW	NOUN	ARGUMENT
+for	for	IN	FW
+any	any	DT	FW
+holidays	holiday	NNS	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousins	cousin	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+communicate	communicate	VB	CW	VERB
+all	all	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+sit	sit	VB	CW	VERB
+there	there	EX	FW
+be	be	VB	FW	aux_or_cop
+on	on	IN	FW
+there	there	EX	FW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+negative	negative	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+so	so	RB	ADV	CW
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+nowadays	nowadays	RB	ADV	FW
+
+sentence break
+
+another	another	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+travaling	travale	VBG	CW	VERB
+anywhere	anywhere	RB	ADV	FW
+what	what	WP	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+older	old	JJR	CW	ADJ
+sister	sister	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+she	she	PRP	FW	PRONOUN	ARGUMENT
+checks	check	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+in	in	RP	FW
+
+sentence break
+
+so	so	IN	FW
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+wait	wait	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+big	big	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+airport	airport	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+have	have	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+seats	seat	NNS	CW	NOUN	ARGUMENT
+picked	pick	VBN	CW	VERB
+so	so	IN	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+also	also	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	UH	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+top	top	JJ	CW	ADJ
+paragraph	paragraph	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+postion	postion	NN	CW	NOUN	ARGUMENT
+technolgy	technolgy	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+really	really	RB	ADV	CW
+halpful	halpful	JJ	CW	ADJ
+for	for	IN	FW
+pepole	pepole	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+really	really	RB	ADV	CW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+pay	pay	VB	CW	VERB
+with	with	IN	FW
+apple	apple	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+wallet	wallet	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	FW	aux_or_cop
+pay	pay	VB	CW	VERB
+with	with	IN	FW
+apple	apple	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

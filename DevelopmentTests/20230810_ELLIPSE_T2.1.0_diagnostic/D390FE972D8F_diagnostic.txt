@@ -1,0 +1,273 @@
+word	lemma	POS	CW\FW	other categories
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+cafeteria	cafeteria	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+to	to	IN	FW
+healthier	healthy	JJR	CW	ADJ
+options	option	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+kids	kid	NNS	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+variety	variety	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+tried	try	VBD	CW	VERB
+before	before	RB	ADV	CW
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+kids	kid	NNS	CW	NOUN	ARGUMENT
+have	have	VB	CW	VERB
+a	a	DT	FW
+balance	balance	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+menu	menu	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+kids	kid	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+open	open	JJ	CW	ADJ
+mind	mind	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+foods	food	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+ate	eat	VBD	CW	VERB
+before	before	RB	ADV	CW
+
+sentence break
+
+once	once	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+realize	realize	VB	CW	VERB
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+there	there	RB	ADV	CW
+most	most	RBS	ADV	CW
+likely	likely	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+healthier	healthy	JJR	CW	ADJ
+on	on	IN	FW
+a	a	DT	FW
+daily	daily	JJ	CW	ADJ
+basis	basis	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+there	there	EX	FW
+diet	diet	VB	CW	VERB
+and	and	CC	FW
+help	help	VB	CW	VERB
+there	there	EX	FW
+body	body	NN	CW	NOUN	ARGUMENT
+become	become	VB	CW	VERB
+bigger	big	JJR	CW	ADJ
+and	and	CC	FW
+stronger	strong	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+out	out	RP	FW
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+or	or	CC	FW
+are	be	VBP	FW	aux_or_cop
+eating	eat	VBG	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+balance	balance	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+eat	eat	VB	CW	VERB
+junk	junk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+eat	eat	VB	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+plate	plate	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+just	just	RB	ADV	CW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+dish	dish	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+vegetables	vegetable	NNS	CW	NOUN	ARGUMENT
+fruits	fruit	NNS	CW	NOUN	ARGUMENT
+everything	everything	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+tried	try	VBN	CW	VERB
+that	that	DT	FW	PRONOUN
+fruit	fruit	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+vegetable	vegetable	NN	CW	NOUN	ARGUMENT
+before	before	RB	ADV	CW
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+kids	kid	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+see	see	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+combination	combination	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+there	there	RB	ADV	CW
+vegetable	vegetable	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+fruit	fruit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+so	so	RB	ADV	CW
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+cafeteria	cafeteria	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+healthier	healthy	JJR	CW	ADJ
+options	option	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+diet	diet	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+better	well	JJR	CW	ADJ
+options	option	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+picking	pick	VBG	CW	VERB
+out	out	RP	FW
+what	what	WP	FW
+food	food	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+kids	kid	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+start	start	VB	CW	VERB
+having	have	VBG	CW	VERB
+an	an	DT	FW
+open	open	JJ	CW	ADJ
+mind	mind	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+varieties	variety	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

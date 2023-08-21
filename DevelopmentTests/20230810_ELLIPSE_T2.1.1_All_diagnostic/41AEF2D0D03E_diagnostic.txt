@@ -1,0 +1,394 @@
+word	lemma	POS	CW\FW	other categories
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+choose	choose	VBP	CW	VERB
+not	not	RB	ADV	CW
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+any	any	DT	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+in	in	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+yearbook	yearbook	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+serve	serve	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+more	more	JJR	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+principal	principal	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+decided	decide	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+in	in	IN	FW
+at	at	RB	ADV	FW
+least	least	RBS	ADV	CW
+one	one	CD	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+in	in	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'	'	''	FW
+s	s	VBZ	CW	VERB
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+more	more	JJR	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+trust	trust	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+to	to	TO	FW
+afraid	afraid	JJ	CW	ADJ
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+the	the	DT	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+at	at	IN	FW
+least	least	RBS	ADV	CW
+one	one	CD	FW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+yearbook	yearbook	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yearbook	yearbook	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+memory	memory	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+serve	serve	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+fun	fun	VBP	CW	VERB
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+more	more	RBR	ADV	CW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+build	build	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+fun	fun	VBP	CW	VERB
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+however	however	RB	ADV	FW
+participate	participate	VB	CW	VERB
+or	or	CC	FW
+not	not	RB	ADV	CW
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+principal	principal	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+'	'	''	FW
+t	t	NNP	CW	NOUN	ARGUMENT
+force	force	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+maybe	maybe	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+don	don	NNP	CW	NOUN	ARGUMENT
+'	'	''	FW
+t	t	NNP	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+understand	understand	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+
+sentence break
+
+maybe	maybe	RB	ADV	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+don	don	NNP	CW	NOUN	ARGUMENT
+'	'	POS	FW
+t	t	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+didn	didn	NNP	CW	NOUN	ARGUMENT
+'	'	''	FW
+t	t	NN	CW	NOUN	ARGUMENT
+participate	participate	VBP	CW	VERB
+before	before	RB	ADV	CW
+
+sentence break
+
+principal	principal	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+decided	decide	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+at	at	RB	ADV	FW
+least	least	RBS	ADV	CW
+one	one	CD	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+principal	principal	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+'	'	''	FW
+t	t	NNP	CW	NOUN	ARGUMENT
+force	force	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+
+sentence break
+
+participate	participate	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+more	more	JJR	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+participate	participate	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+principal	principal	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+'	'	''	FW
+t	t	NNP	CW	NOUN	ARGUMENT
+force	force	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+principal	principal	JJ	CW	ADJ
+should	should	MD	FW	aux_or_cop
+'	'	''	FW
+t	t	NNP	CW	NOUN	ARGUMENT
+decided	decide	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+participate	participate	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

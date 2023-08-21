@@ -1,0 +1,516 @@
+word	lemma	POS	CW\FW	other categories
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+artist	artist	NN	CW	NOUN	ARGUMENT
+michelangelo	michelangelo	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+danger	danger	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+aiming	aim	VBG	CW	VERB
+too	too	RB	ADV	CW
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+falling	fall	VBG	CW	VERB
+short	short	JJ	CW	ADJ
+but	but	CC	FW
+aiming	aim	VBG	CW	VERB
+to	to	IN	FW
+low	low	VB	CW	VERB
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+find	find	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+falling	fall	VBG	CW	VERB
+short	short	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+close	close	JJ	CW	ADJ
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+aiming	aim	VBG	CW	VERB
+short	short	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+easier	easy	JJR	CW	ADJ
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+high	high	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+of	of	IN	FW
+gone	go	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+hard	hard	RB	ADV	CW
+enough	enough	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+belive	belive	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+michelangelo	michelangelo	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+aiming	aim	VBG	CW	VERB
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+falling	fall	VBG	CW	VERB
+short	short	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+okay	okay	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+at	at	RB	ADV	FW
+least	least	JJS	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+putting	put	VBG	CW	VERB
+effort	effort	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+to	to	IN	FW
+achieving	achieve	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+just	just	RB	ADV	CW
+mean	mean	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+working	work	VBG	CW	VERB
+a	a	DT	FW
+bit	bit	NN	CW	NOUN	ARGUMENT
+harder	hard	RBR	ADV	CW
+would	would	MD	FW	aux_or_cop
+of	of	IN	FW
+got	got	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+once	once	RB	ADV	CW
+worked	work	VBD	CW	VERB
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+final	final	JJ	CW	ADJ
+exams	exam	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+aimed	aim	VBN	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+score	score	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+failed	fail	VBN	CW	VERB
+by	by	IN	FW
+one	one	CD	FW
+point	point	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+again	again	RB	ADV	CW
+and	and	CC	FW
+passed	pass	VBD	CW	VERB
+with	with	IN	FW
+enough	enough	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+determination	determination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+take	take	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+shot	shot	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+afraid	afraid	JJ	CW	ADJ
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+belive	belive	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+no	no	DT	FW
+short	short	JJ	CW	ADJ
+-	-	HYPH	FW
+cuts	cut	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+having	have	VBG	CW	VERB
+low	low	JJ	CW	ADJ
+goals	goal	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+completely	completely	RB	ADV	CW
+pointless	pointless	JJ	CW	ADJ
+and	and	CC	FW
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+anywhere	anywhere	RB	ADV	FW
+
+sentence break
+
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+out	out	IN	FW
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+getting	get	VBG	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+high	high	JJ	CW	ADJ
+goals	goal	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+hurt	hurt	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+worse	bad	JJR	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+failing	fail	VBG	CW	VERB
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+hold	hold	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hold	hold	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+is	be	VBZ	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+not	not	RB	ADV	CW
+trying	try	VBG	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+get	get	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+shoot	shoot	VB	CW	VERB
+for	for	IN	FW
+high	high	JJ	CW	ADJ
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+thirdly	thirdly	RB	ADV	CW
+the	the	DT	FW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+hate	hate	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+"	"	``	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+made	make	VBN	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+anyways	anyways	JJ	CW	ADJ
+"	"	''	FW
+
+sentence break
+
+how	how	WRB	FW
+would	would	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+of	of	IN	FW
+reached	reach	VBN	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+even	even	RB	ADV	CW
+tried	try	VBD	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+know	know	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+give	give	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+go	go	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+become	become	VB	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+line	line	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+trying	try	VBG	CW	VERB
+failing	fail	VBG	CW	VERB
+repeat	repeat	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+finally	finally	RB	ADV	CW
+succeed	succeed	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+thought	think	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+ever	ever	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+athlete	athlete	NN	CW	NOUN	ARGUMENT
+until	until	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+practiced	practice	VBD	CW	VERB
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+started	start	VBD	CW	VERB
+getting	get	VBG	CW	VERB
+better	well	JJR	CW	ADJ
+
+sentence break
+
+aim	aim	VB	CW	VERB
+high	high	JJ	CW	ADJ
+and	and	CC	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+destination	destination	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+never	never	RB	ADV	CW
+aim	aim	VB	CW	VERB
+low	low	JJ	CW	ADJ
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+somewhere	somewhere	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+michelangelo	michelangelo	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+quote	quote	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+why	why	WRB	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+disagree	disagree	VB	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+beliefs	belief	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+control	control	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+works	work	VBZ	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+but	but	CC	FW
+as	as	RB	ADV	CW
+long	long	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

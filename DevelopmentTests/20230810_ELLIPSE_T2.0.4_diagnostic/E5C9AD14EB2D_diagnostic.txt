@@ -1,0 +1,452 @@
+word	lemma	POS	CW\FW	other categories
+people	people	NNS	CW	NOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+solve	solve	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+will	will	MD	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VB	CW	VERB
+and	and	CC	FW
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+bad	bad	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+staling	stale	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+selling	sell	VBG	CW	VERB
+drag	drag	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+just	just	RB	ADV	CW
+one	one	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+more	more	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choice	choice	NN	CW	NOUN	ARGUMENT
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+what	what	WP	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+then	then	RB	ADV	CW
+better	better	RB	ADV	CW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+only	only	RB	ADV	CW
+one	one	CD	FW
+that	that	WDT	FW	PRONOUN
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+a	a	DT	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+math	math	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+only	only	RB	ADV	CW
+one	one	CD	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+hard	hard	JJ	CW	ADJ
+one	one	CD	FW
+use	use	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+pick	pick	VB	CW	VERB
+a	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+
+sentence break
+
+pick	pick	VB	CW	VERB
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+that	that	WDT	FW	PRONOUN
+work	work	VBP	CW	VERB
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	PRONOUN
+how	how	WRB	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+better	better	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+picking	pick	VBG	CW	VERB
+the	the	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+follow	follow	VB	CW	VERB
+the	the	DT	FW
+direction	direction	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+better	better	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+how	how	WRB	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW
+like	like	IN	FW
+what	what	WP	FW
+the	the	DT	FW
+rules	rule	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+list	list	NN	CW	NOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+better	better	RBR	ADV	CW
+and	and	CC	FW
+safe	safe	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+advice	advice	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+choice	choice	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+kid	kid	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+better	better	JJR	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+rules	rule	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+need	need	VB	CW	VERB
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+so	so	RB	ADV	CW
+that	that	IN	FW	PRONOUN
+how	how	WRB	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+not	not	RB	ADV	CW
+follow	follow	VB	CW	VERB
+the	the	DT	FW
+direction	direction	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+kids	kid	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+sometime	sometime	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+silly	silly	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+selling	sell	VBG	CW	VERB
+drag	drag	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+taking	take	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+advice	advice	NNP	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+safe	safe	JJ	CW	ADJ
+too	too	RB	ADV	CW
+
+sentence break
+
+so	so	IN	FW	SUBORDINATOR
+those	those	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+what	what	WP	FW
+can	can	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+and	and	CC	FW
+what	what	WP	FW
+the	the	DT	FW
+better	better	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+allow	allow	VB	CW	VERB
+talk	talk	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+1	1	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+to	to	TO	FW
+one	one	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+about	about	RB	ADV	CW
+
+sentence break
+
+but	but	CC	FW
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+make	make	VB	CW	VERB
+good	good	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+more	more	RBR	ADV	CW
+then	then	RB	ADV	CW
+1	1	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+guy	guy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+staling	stale	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+the	the	DT	FW
+better	better	JJR	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+a	a	DT	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+how	how	WRB	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+works	work	VBZ	CW	VERB
+
+sentence break
+
+advice	advice	NNP	CW	NOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+'n	'n	CC	FW
+mean	mean	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+sometime	sometime	RB	ADV	CW
+do	do	VBP	CW	VERB
+silly	silly	JJ	CW	ADJ
+and	and	CC	FW
+act	act	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,386 @@
+word	lemma	POS	CW\FW	other categories
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+wonder	wonder	VB	CW	VERB
+how	how	WRB	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+science	science	NN	CW	NOUN	ARGUMENT
+experiments	experiment	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+new	new	JJ	CW	ADJ
+substances	substance	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+chemicals	chemical	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+more	more	RBR	ADV	CW
+about	about	IN	FW
+chemical	chemical	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+reactions	reaction	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+common	common	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+some	some	DT	FW
+new	new	JJ	CW	ADJ
+experiments	experiment	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+lab	lab	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+science	science	NN	CW	NOUN	ARGUMENT
+experiments	experiment	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+lab	lab	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+did	do	VBD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+create	create	VB	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+substance	substance	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+chemicals	chemical	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+will	will	MD	FW	aux_or_cop
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+lab	lab	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+measure	measure	VBP	CW	VERB
+the	the	DT	FW
+liquid	liquid	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+check	check	VB	CW	VERB
+the	the	DT	FW
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+add	add	VBP	CW	VERB
+another	another	DT	FW
+substance	substance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+react	react	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+liquid	liquid	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+measure	measure	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+again	again	RB	ADV	CW
+and	and	CC	FW
+check	check	VB	CW	VERB
+the	the	DT	FW
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lastly	lastly	RB	ADV	CW
+the	the	DT	FW
+liquid	liquid	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+precipitate	precipitate	VB	CW	VERB
+or	or	CC	FW
+create	create	VB	CW	VERB
+a	a	DT	FW
+gas	gas	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+create	create	VBP	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+substance	substance	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+chemicals	chemical	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+lab	lab	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+a	a	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+learning	learn	VBG	CW	VERB
+more	more	RBR	ADV	CW
+about	about	IN	FW
+chemicals	chemical	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+reactions	reaction	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+study	study	VB	CW	VERB
+about	about	IN	FW
+science	science	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+course	course	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+substance	substance	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+chemicals	chemical	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+lab	lab	NN	CW	NOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+chemical	chemical	NN	CW	NOUN	ARGUMENT
+compounds	compound	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+specific	specific	JJ	CW	ADJ
+names	name	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+studying	study	VBG	CW	VERB
+or	or	CC	FW
+learning	learn	VBG	CW	VERB
+about	about	IN	FW
+chemicals	chemical	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+substances	substance	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+trying	try	VBG	CW	VERB
+some	some	DT	FW
+new	new	JJ	CW	ADJ
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+lab	lab	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+lab	lab	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+more	more	RBR	ADV	CW
+better	well	JJR	CW	ADJ
+about	about	IN	FW
+science	science	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+trying	try	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+more	more	RBR	ADV	CW
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+trying	try	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+about	about	IN	FW
+chemicals	chemical	NNS	CW	NOUN	ARGUMENT
+creating	create	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+and	and	CC	FW
+trying	try	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+experiments	experiment	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+fun	fun	JJ	CW	ADJ
+and	and	CC	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+than	than	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+become	become	VB	CW	VERB
+a	a	DT	FW
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+those	those	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+like	like	VBP	CW	VERB
+to	to	TO	FW
+study	study	VB	CW	VERB
+about	about	IN	FW
+science	science	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+chemicals	chemical	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+than	than	IN	FW
+what	what	WP	FW
+are	be	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+waiting	wait	VBG	CW	VERB
+for	for	IN	FW
+get	get	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+courses	course	NNS	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

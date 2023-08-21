@@ -1,0 +1,606 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+a	a	DT	FW
+temple	temple	NN	CW	NOUN	ARGUMENT
+made	make	VBN	CW	VERB
+with	with	IN	FW
+gold	gold	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+sure	sure	JJ	CW	ADJ
+about	about	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+in	in	IN	FW
+india	india	NNP	CW	NOUN	ARGUMENT
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+india	india	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+asia	asia	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+populated	populated	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW
+of	of	IN	FW
+location_name	location_name	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+there	there	RB	ADV	CW
+but	but	CC	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+meet	meet	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+india	india	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+the	the	DT	FW
+tasty	tasty	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+location_name	location_name	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+firstly	firstly	RB	ADV	CW
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+india	india	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+india	india	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+grew	grow	VBD	CW	VERB
+and	and	CC	FW
+study	study	VBP	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+miss	miss	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+remember	remember	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+did	do	VBD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VB	CW	VERB
+that	that	DT	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+like	like	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+leave	leave	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+when	when	WRB	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+next	next	RB	ADV	CW
+the	the	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+face	face	VBP	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+to	to	IN	FW
+u.s.a.	u.s.a.	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+some	some	DT	FW
+language	language	NN	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+had	have	VBD	CW	VERB
+any	any	DT	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+sum	sum	VB	CW	VERB
+up	up	RP	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+alone	alone	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+india	india	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+indian	indian	JJ	CW	ADJ
+street	street	NN	CW	NOUN	ARGUMENT
+stalls	stall	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+tasty	tasty	JJ	CW	ADJ
+and	and	CC	FW
+spice	spice	VB	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+super	super	JJ	CW	ADJ
+market	market	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+was	be	VBD	CW	VERB
+a	a	DT	FW
+burger	burger	NN	CW	NOUN	ARGUMENT
+stall	stall	NN	CW	NOUN	ARGUMENT
+called	call	VBN	CW	VERB
+nfc	nfc	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+burgers	burger	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+eating	eat	VBG	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+burger	burger	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+ask	ask	VB	CW	VERB
+for	for	IN	FW
+bill	bill	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+so	so	RB	ADV	CW
+cheep	cheep	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+that	that	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+visit	visit	VBP	CW	VERB
+india	india	NNP	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+and	and	CC	FW
+try	try	VB	CW	VERB
+that	that	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+the	the	DT	FW
+taste	taste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+indian	indian	JJ	CW	ADJ
+street	street	NN	CW	NOUN	ARGUMENT
+stalls	stall	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+cheep	cheep	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+dance	dance	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+every	every	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+proof	proof	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+means	mean	VBZ	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+unique	unique	JJ	CW	ADJ
+
+sentence break
+
+secondly	secondly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+location_name	location_name	NFP	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+location_name	location_name	ADD	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+take	take	VB	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+"	"	``	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+are	be	VBP	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+beautiful	beautiful	JJ	CW	ADJ
+"	"	''	FW
+
+sentence break
+
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+see	see	VB	CW	VERB
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+sum	sum	VB	CW	VERB
+up	up	RP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+india	india	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+taste	taste	VB	CW	VERB
+the	the	DT	FW
+delicious	delicious	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+future	future	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+
+sentence break
+
+think	think	VB	CW	VERB
+if	if	IN	FW
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VB	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+about	about	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that,"your	that,"your	PRP$	FW	PRONOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+''	''	''	FW
+
+sentence break
+
+then	then	RB	ADV	CW
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+that,'if	that,'if	NN	CW	NOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+some	some	DT	FW
+bad	bad	JJ	CW	ADJ
+parts	part	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+that	that	DT	FW	PRONOUN
+makes	make	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+''	''	''	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+
+sentence break
+
+''	''	``	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+''	''	''	FW
+to	to	TO	FW
+find	find	VB	CW	VERB
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+parts	part	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+surprise	surprise	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+seen	see	VBN	CW	VERB
+a	a	DT	FW
+temple	temple	NN	CW	NOUN	ARGUMENT
+made	make	VBN	CW	VERB
+with	with	IN	FW
+real	real	JJ	CW	ADJ
+gold	gold	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

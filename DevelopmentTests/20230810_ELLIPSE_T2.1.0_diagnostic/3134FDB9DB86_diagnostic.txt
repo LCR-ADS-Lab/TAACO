@@ -1,0 +1,628 @@
+word	lemma	POS	CW\FW	other categories
+would	would	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VB	CW	VERB
+four	four	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+stay	stay	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+five	five	CD	FW
+
+sentence break
+
+can	can	MD	FW	aux_or_cop
+that	that	DT	FW	PRONOUN
+be	be	VB	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+same	same	JJ	CW	ADJ
+companies	company	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+new	new	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+however	however	RB	ADV	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+desadvage	desadvage	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+think	think	VB	CW	VERB
+about	about	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+doing	do	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+play	play	NN	CW	NOUN	ARGUMENT
+videos	video	NNS	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+around	around	RB	ADV	CW
+going	go	VBG	CW	VERB
+out	out	RB	ADV	CW
+but	but	CC	FW
+never	never	RB	ADV	CW
+time	time	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+values	value	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+using	use	VBG	CW	VERB
+right	right	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+step	step	VB	CW	VERB
+to	to	IN	FW
+going	go	VBG	CW	VERB
+8	8	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+10	10	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+disadvantage	disadvantage	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+no	no	DT	FW
+have	have	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+more	more	RBR	ADV	CW
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+which	which	WDT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+going	going	VBG	FW	aux_or_cop
+get	get	VB	CW	VERB
+tired	tired	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+less	less	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+less	less	JJR	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+harder	hard	JJR	CW	ADJ
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+focus	focus	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+either	either	CC	FW
+awake	awake	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+early	early	RB	ADV	CW
+and	and	CC	FW
+get	get	VB	CW	VERB
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+late	late	JJ	CW	ADJ
+more	more	JJR	CW	ADJ
+project	project	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+longer	long	JJR	CW	ADJ
+the	the	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+used	use	VBD	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	IN	FW
+more	more	RBR	ADV	CW
+tired	tired	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+angry	angry	JJ	CW	ADJ
+long	long	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+more	more	JJR	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+less	less	JJR	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+socials	social	NNS	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+harder	hard	JJR	CW	ADJ
+the	the	DT	FW
+already	already	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+gon	go	NN	CW	NOUN	ARGUMENT
+na	to	TO	FW
+have	have	VB	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+more	more	JJR	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+focus	focus	VB	CW	VERB
+and	and	CC	FW
+all	all	DT	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+u	u	NNP	CW	NOUN	ARGUMENT
+wanna	wanna	NNP	CW	NOUN	ARGUMENT
+graduate	graduate	NNP	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+have	have	VB	CW	VERB
+less	less	JJR	CW	ADJ
+energy	energy	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+for	for	IN	FW	SUBORDINATOR
+does	do	VBZ	FW	aux_or_cop
+the	the	DT	FW
+already	already	RB	ADV	CW
+work	work	VB	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+wake	wake	VB	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+exacting	exact	VBG	CW	VERB
+those	those	DT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+sleeping	sleep	VBG	CW	VERB
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+provide	provide	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	IN	FW
+hungry	hungry	JJ	CW	ADJ
+bad	bad	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+tree	tree	NN	CW	NOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+forget	forget	VB	CW	VERB
+import	import	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+need	need	VB	CW	VERB
+to	to	TO	FW
+explain	explain	VB	CW	VERB
+again	again	RB	ADV	CW
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+losing	lose	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+sending	send	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+four	four	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+strep	strep	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+five	five	CD	FW
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+stay	stay	VBP	CW	VERB
+focus	focus	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+10	10	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+at	at	IN	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+good	good	VBP	CW	VERB
+the	the	DT	FW
+most	most	RBS	ADV	CW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+new3	new3	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+interesting	interesting	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+joy	joy	VB	CW	VERB
+in	in	IN	FW
+new	new	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+talent5	talent5	XX	FW
+the	the	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+the	the	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+.education	.education	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+base	base	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+pendent	pendent	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+studying	study	VBG	CW	VERB
+and	and	CC	FW
+how	how	WRB	FW
+good	good	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+status	status	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+life	life	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+which	which	WDT	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+useful	useful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+yours4elf	yours4elf	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+status	status	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+gon	go	VBP	CW	VERB
+na	to	TO	FW
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+a	a	DT	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+the	the	DT	FW
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+tired	tired	JJ	CW	ADJ
+and	and	CC	FW
+give	give	VB	CW	VERB
+the	the	DT	FW
+expectfict	expectfict	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+extra	extra	RB	ADV	CW
+free	free	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+more	more	RBR	ADV	CW
+relax	relax	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+less	less	JJR	CW	ADJ
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+focus	focus	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fisish	fisish	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+option	option	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+the	the	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+life	life	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+people	people	VBZ	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+mo	mo	NNP	CW	NOUN	ARGUMENT
+refocus	refocus	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+less	less	RBR	ADV	CW
+tired	tired	JJ	CW	ADJ
+less	less	JJR	CW	ADJ
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+no	no	DT	FW
+be	be	VB	FW	aux_or_cop
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+don"t	don"t	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+active	active	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+the	the	DT	FW
+afternoon	afternoon	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+way	way	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+eassy	eassy	JJ	CW	ADJ
+and	and	CC	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+essay	essay	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

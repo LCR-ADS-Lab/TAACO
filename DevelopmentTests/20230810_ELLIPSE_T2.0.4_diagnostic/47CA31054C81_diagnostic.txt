@@ -1,0 +1,405 @@
+word	lemma	POS	CW\FW	other categories
+not	not	RB	ADV	CW
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+dont	dont	NNP	CW	NOUN	ARGUMENT
+bully	bully	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+does	do	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+dont	dont	NNP	CW	NOUN	ARGUMENT
+bully	bully	NN	CW	NOUN	ARGUMENT
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+bully	bully	NN	CW	NOUN	ARGUMENT
+others	other	NNS	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+some	some	DT	FW
+of	of	IN	FW
+there	there	EX	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+bully	bully	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+treat	treat	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+treated	treat	VBN	CW	VERB
+
+sentence break
+
+put	put	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+there	there	EX	FW
+shoe	shoe	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+feels	feel	VBZ	CW	VERB
+to	to	TO	FW
+getting	get	VBG	CW	VERB
+bullied	bully	VBN	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+bully	bully	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+o	o	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+make	make	VB	CW	VERB
+the	the	DT	FW
+bullying	bully	VBG	CW	VERB
+stop	stop	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+bully	bully	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+inarguable	inarguable	JJ	CW	ADJ
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+bullying	bully	VBG	FW	aux_or_cop
+another	another	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+stop	stop	VB	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+on	on	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stop	stop	VB	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+stopping	stop	VBG	CW	VERB
+then	then	RB	ADV	CW
+thats	thats	RB	ADV	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+ask	ask	VB	CW	VERB
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+mean	mean	VBP	CW	VERB
+by	by	IN	FW
+making	make	VBG	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+real	real	JJ	CW	ADJ
+one	one	CD	FW
+
+sentence break
+
+telling	tell	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+other	other	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stop	stop	VB	CW	VERB
+bulling	bull	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+stop	stop	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+shared	share	VBD	CW	VERB
+with	with	IN	FW
+elementary	elementary	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+thats	that	VBZ	CW	VERB
+important	important	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+bullying	bully	VBG	CW	VERB
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+on	on	IN	FW
+bullying	bullying	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+why	why	WRB	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+
+sentence break
+
+bullying	bullying	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+out	out	RP	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+stop	stop	VB	CW	VERB
+and	and	CC	FW
+not	not	RB	ADV	CW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+help	help	VBP	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+wont	wont	NN	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+helping	help	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+one	one	CD	FW
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+to	to	TO	FW
+that	that	DT	FW
+one	one	CD	FW
+student	student	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+sure	sure	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+
+sentence break
+
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+conferrable	conferrable	JJ	CW	ADJ
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+conferrable	conferrable	JJ	CW	ADJ
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+feel	feel	VB	CW	VERB
+safe	safe	JJ	CW	ADJ
+
+sentence break
+
+helping	help	VBG	CW	VERB
+out	out	RP	FW
+another	another	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+ever	ever	RB	ADV	CW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+three	three	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+bulling	bulling	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+bulling	bull	VBG	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+elementary	elementary	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

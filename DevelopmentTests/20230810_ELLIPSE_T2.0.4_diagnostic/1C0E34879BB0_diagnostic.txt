@@ -1,0 +1,380 @@
+word	lemma	POS	CW\FW	other categories
+ex	ex	NNP	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+select	select	VB	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+or	or	CC	FW
+not	not	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+select	select	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+put	put	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+atencion	atencion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+preparation	preparation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+identifty	identifty	VB	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	CW	VERB
+prepared	prepare	VBN	CW	VERB
+and	and	CC	FW
+know	know	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+select	select	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+ex	ex	NNP	CW	NOUN	ARGUMENT
+some	some	DT	FW
+sudent	sudent	JJ	CW	ADJ
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+what	what	WP	FW
+different	different	JJ	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+to	to	TO	FW
+expect	expect	VB	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+enter	enter	VBP	CW	VERB
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+good	good	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+know	know	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+not	not	RB	ADV	CW
+all	all	DT	FW
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+this	this	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+not	not	RB	ADV	CW
+all	all	DT	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+oportunities	oportunity	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+finish	finish	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+select	select	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+reason	reason	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+shidentify	shidentify	VB	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+enter	enter	VBP	CW	VERB
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+ex	ex	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+take	take	VB	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+more	more	RBR	ADV	CW
+about	about	IN	FW
+the	the	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+finish	finish	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+responsabilities	responsability	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+reason	reason	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+16	16	CD	FW
+or	or	CC	FW
+17	17	CD	FW
+old	old	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+beneficial	beneficial	JJ	CW	ADJ
+for	for	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+spend	spend	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+young	young	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+vice	vice	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+negative	negative	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+society	society	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+should	should	MD	CW	VERB
+or	or	CC	FW
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+commit	commit	VB	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+take	take	VBP	CW	VERB
+and	and	CC	FW
+finish	finish	VBP	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+oportunities	oportunity	NNS	CW	NOUN	ARGUMENT
+en	en	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+to	to	TO	FW
+select	select	VB	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+enter	enter	VBP	CW	VERB
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+reason	reason	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+
+paragraph break
+
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

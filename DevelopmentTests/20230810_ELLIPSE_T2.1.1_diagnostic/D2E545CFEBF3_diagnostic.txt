@@ -1,0 +1,402 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+and	and	CC	FW
+disagree	disagree	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+bad	bad	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+extend	extend	VB	CW	VERB
+2	2	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+working	work	VBG	CW	VERB
+for	for	IN	FW
+10	10	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+each	each	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+extending	extend	VBG	CW	VERB
+the	the	DT	FW
+2	2	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+catch	catch	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+any	any	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+about	about	IN	FW
+working	work	VBG	CW	VERB
+for	for	IN	FW
+10	10	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+each	each	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+colloge	colloge	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+save	save	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+for	for	IN	FW
+working	work	VBG	CW	VERB
+10	10	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+tired	tired	JJ	CW	ADJ
+and	and	CC	FW
+sleepy	sleepy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+four	four	CD	FW
+-	-	HYPH	FW
+day	day	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+for	for	IN	FW
+8	8	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+enought	enought	JJ	CW	ADJ
+sleep	sleep	NN	CW	NOUN	ARGUMENT
+leave	leave	VB	CW	VERB
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+work	work	VB	CW	VERB
+for	for	IN	FW
+four	four	CD	FW
+-	-	HYPH	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+rest	rest	VB	CW	VERB
+the	the	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+days	day	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+8	8	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+tired	tired	JJ	CW	ADJ
+sleepy	sleepy	JJ	CW	ADJ
+and	and	CC	FW
+frustrated	frustrated	JJ	CW	ADJ
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	well	RBR	ADV	CW
+to	to	TO	FW
+work	work	VB	CW	VERB
+only	only	RB	ADV	CW
+8	8	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+10	10	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+much	much	RB	ADV	CW
+as	as	IN	FW
+a	a	DT	FW
+result	result	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+consequence	consequence	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+bad	bad	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+follow	follow	VB	CW	VERB
+this	this	DT	FW
+model	model	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+working	work	VBG	CW	VERB
+each	each	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+much	much	RB	ADV	CW
+
+sentence break
+
+however	however	RB	ADV	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+consequence	consequence	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+working	work	VBG	CW	VERB
+10	10	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+extendidng	extendidng	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+2	2	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+tired	tired	JJ	CW	ADJ
+and	and	CC	FW
+not	not	RB	ADV	CW
+listining	listine	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+teaching	teach	VBG	CW	VERB
+
+sentence break
+
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+extend	extend	VBP	CW	VERB
+the	the	DT	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+livid	livid	JJ	CW	ADJ
+for	for	IN	FW
+staying	stay	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+extend	extend	VB	CW	VERB
+the	the	DT	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+rest	rest	VB	CW	VERB
+and	and	CC	FW
+also	also	RB	ADV	CW
+needs	need	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+grading	grade	VBG	CW	VERB
+papers	paper	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+part	part	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+jobs	job	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+somewhere	somewhere	RB	ADV	CW
+
+sentence break
+
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+tired	tired	JJ	CW	ADJ
+and	and	CC	FW
+sleepy	sleepy	JJ	CW	ADJ
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+that	that	DT	FW	SUBORDINATOR	PRONOUN
+student	student	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+home	home	RB	ADV	CW
+early	early	RB	ADV	CW
+to	to	TO	FW
+go	go	VB	CW	VERB
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+rest	rest	NN	CW	NOUN	ARGUMENT
+alittle	alittle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

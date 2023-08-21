@@ -1,0 +1,659 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+hired	hire	VBN	CW	VERB
+to	to	TO	FW
+gain	gain	VB	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+any	any	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+
+sentence break
+
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+any	any	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+satisfy	satisfy	VB	CW	VERB
+any	any	DT	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+needs	need	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+quick	quick	JJ	CW	ADJ
+as	as	IN	FW
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+start	start	VB	CW	VERB
+helping	help	VBG	CW	VERB
+as	as	IN	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+respectful	respectful	JJ	CW	ADJ
+to	to	TO	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+employees	employee	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+managers	manager	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+take	take	VB	CW	VERB
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+work	work	NN	CW	NOUN	ARGUMENT
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+help	help	VB	CW	VERB
+in	in	IN	FW
+any	any	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	CW	VERB
+needed	need	VBN	CW	VERB
+in	in	IN	FW
+
+sentence break
+
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+knowing	know	VBG	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+qualified	qualify	VBN	CW	VERB
+person	person	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+consider	consider	VB	CW	VERB
+hiring	hire	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+and	and	CC	FW
+a	a	DT	FW
+quick	quick	JJ	CW	ADJ
+learner	learner	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+given	give	VBN	CW	VERB
+to	to	TO	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+any	any	DT	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+necessary	necessary	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+respectful	respectful	JJ	CW	ADJ
+of	of	IN	FW
+all	all	DT	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+peers	peer	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+image	image	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+ability	ability	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+very	very	RB	ADV	CW
+best	best	RB	ADV	CW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+and	and	CC	FW
+take	take	VB	CW	VERB
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+duties	duty	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	a	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+looking	look	VBG	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hire	hire	VB	CW	VERB
+here	here	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+qualities	quality	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+ensure	ensure	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+am	be	VBP	CW	VERB
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+respectful	respectful	JJ	CW	ADJ
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+to	to	TO	FW
+arrive	arrive	VB	CW	VERB
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+respectful	respectful	JJ	CW	ADJ
+to	to	TO	FW
+all	all	DT	FW
+employees	employee	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+improve	improve	VB	CW	VERB
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+gain	gain	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+quick	quick	JJ	CW	ADJ
+the	the	DT	FW
+abilities	ability	NNS	CW	NOUN	ARGUMENT
+needed	need	VBN	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+respectful	respectful	JJ	CW	ADJ
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+boss	boss	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+peers	peer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	CW	VERB
+instructed	instruct	VBN	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+aware	aware	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+being	be	VBG	FW	aux_or_cop
+respectful	respectful	JJ	CW	ADJ
+to	to	TO	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+customers	customer	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+priority	priority	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW
+an	a	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+customer	customer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+insure	insure	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+of	of	IN	FW
+any	any	DT	FW
+doubts	doubt	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+ensure	ensure	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	CW	VERB
+qualified	qualify	VBN	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+employee	employee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+any	any	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+other	other	JJ	CW	ADJ
+areas	area	NNS	CW	NOUN	ARGUMENT
+so	so	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	CW	VERB
+be	be	VB	CW	VERB
+of	of	IN	FW
+more	more	JJR	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+other	other	JJ	CW	ADJ
+customers	customer	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+three	three	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+the	the	DT	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+necessary	necessary	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+quick	quick	JJ	CW	ADJ
+as	as	IN	FW
+possible	possible	JJ	CW	ADJ
+
+sentence break
+
+so	so	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+any	any	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+provide	provide	VB	CW	VERB
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+customers	customer	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	CW	VERB
+a	a	DT	FW
+quick	quick	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	have	VBP	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+any	any	DT	FW
+subject	subject	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+within	within	IN	FW
+2	2	CD	FW
+to	to	TO	FW
+3	3	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+practice	practice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+quickly	quickly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+the	the	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+new	new	JJ	CW	ADJ
+employees	employee	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+come	come	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+
+sentence break
+
+then	then	RB	ADV	CW
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	RBR	ADV	CW
+production	production	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+customers	customer	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+benefit	benefit	VB	CW	VERB
+from	from	IN	FW
+
+sentence break
+
+simply	simply	RB	ADV	CW
+put	put	VBN	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+to	to	TO	FW
+give	give	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+advice	advice	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+new	new	JJ	CW	ADJ
+employees	employee	NNS	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+serve	serve	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+customers	customer	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+of	of	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+ability	ability	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+promise	promise	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+respectful	respectful	JJ	CW	ADJ
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+peers	peer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+most	most	RBS	ADV	CW
+importantly	importantly	RB	ADV	CW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+customers	customer	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

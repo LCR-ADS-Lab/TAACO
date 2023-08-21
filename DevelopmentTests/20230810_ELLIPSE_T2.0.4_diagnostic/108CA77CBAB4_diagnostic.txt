@@ -1,0 +1,282 @@
+word	lemma	POS	CW\FW	other categories
+although	although	IN	FW	SUBORDINATOR
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+``	``	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+actually	actually	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+does	do	VBZ	FW	aux_or_cop
+take	take	VB	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+actually	actually	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+true	true	JJ	CW	ADJ
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+never	never	RB	ADV	CW
+give	give	VBP	CW	VERB
+and	and	CC	FW
+work	work	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+even	even	RB	ADV	CW
+after	after	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+again	again	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+at	at	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+trying	try	VBG	CW	VERB
+after	after	IN	FW
+till	till	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+succeed	succeed	VBP	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+true	true	JJ	CW	ADJ
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+give	give	VBP	CW	VERB
+up	up	RP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fall	fall	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+get	get	VBP	CW	VERB
+back	back	RB	ADV	CW
+up	up	RB	ADV	CW
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+going	go	VBG	CW	VERB
+and	and	CC	FW
+pushing	push	VBG	CW	VERB
+forward	forward	RP	FW
+
+sentence break
+
+only	only	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+decide	decide	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+always	always	RB	ADV	CW
+fail	fail	VB	CW	VERB
+or	or	CC	FW
+try	try	VB	CW	VERB
+harder	harder	JJR	CW	ADJ
+
+sentence break
+
+to	to	TO	FW
+get	get	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+ai	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+saying	say	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+wroth	wroth	JJ	CW	ADJ
+having	have	VBG	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+relates	relate	VBZ	CW	VERB
+to	to	TO	FW
+what	what	WP	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+
+sentence break
+
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+wise	wise	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+everything	everything	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+about	about	IN	FW
+failing	fail	VBG	CW	VERB
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+after	after	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+successful	successful	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+have	have	VBP	FW	aux_or_cop
+failed	fail	VBN	CW	VERB
+plenty	plenty	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+happens	happen	VBZ	CW	VERB
+to	to	TO	FW
+all	all	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+no	no	DT	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+at	at	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+or	or	CC	FW
+do	do	VBP	CW	VERB
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+inconclousion	inconclousion	NN	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+wise	wise	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+
+sentence break
+
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+can	can	MD	FW	aux_or_cop
+motivate	motivate	VB	CW	VERB
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+feel	feel	VBP	CW	VERB
+like	like	IN	FW
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+after	after	IN	FW
+failing	fail	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+

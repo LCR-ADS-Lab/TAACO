@@ -1,0 +1,472 @@
+word	lemma	POS	CW\FW	other categories
+an	an	DT	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+and	and	CC	FW
+educational	educational	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+play	play	VB	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+couple	couple	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+not	not	RB	ADV	CW
+like	like	IN	FW
+other	other	JJ	CW	ADJ
+instruments	instrument	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+guitar	guitar	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+trumpet	trumpet	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pianos	piano	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+also	also	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+with	with	IN	FW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+any	any	DT	FW
+song	song	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+possibly	possibly	RB	ADV	FW
+think	think	VB	CW	VERB
+of	of	IN	FW
+with	with	IN	FW
+a	a	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+bring	bring	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+an	an	DT	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+for	for	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+couple	couple	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+minuets	minuet	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+concentrate	concentrate	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+easier	easy	JJR	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+practice	practice	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+better	well	RBR	ADV	CW
+at	at	IN	FW
+play	play	VB	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+try	try	VBP	CW	VERB
+and	and	CC	FW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+some	some	DT	FW
+of	of	IN	FW
+these	these	DT	FW	PRONOUN
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+are	be	VBP	CW	VERB
+plenty	plenty	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+songs	song	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+creative	creative	JJ	CW	ADJ
+and	and	CC	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+music	music	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+write	write	VB	CW	VERB
+songs	song	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+an	an	DT	FW
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+only	only	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+now	now	RB	ADV	CW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+piano	piano	NN	CW	NOUN	ARGUMENT
+playing	playing	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+bring	bring	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+entertainment	entertainment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	IN	FW
+for	for	IN	FW
+recitals	recital	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+for	for	IN	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+in	in	RP	FW
+to	to	TO	FW
+see	see	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+play	play	VB	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	RB	ADV	CW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+play	play	VBP	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+nut	nut	NNP	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+in	in	IN	FW
+a	a	DT	FW
+theater	theater	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+play	play	VBP	CW	VERB
+in	in	IN	FW
+cruse	cruse	NN	CW	NOUN	ARGUMENT
+ship	ship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+for	for	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	FW	aux_or_cop
+payed	pay	VBN	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+money	money	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+an	an	DT	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+and	and	CC	FW
+educational	educational	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+some	some	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+like	like	IN	FW
+other	other	JJ	CW	ADJ
+instruments	instrument	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+pianos	piano	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+also	also	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+play	play	VB	CW	VERB
+with	with	IN	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+money	money	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+like	like	IN	FW
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+piano	piano	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	an	DT	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

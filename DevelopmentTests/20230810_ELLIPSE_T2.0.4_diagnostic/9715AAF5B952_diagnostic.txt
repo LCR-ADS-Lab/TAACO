@@ -1,0 +1,432 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+making	make	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+an	a	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+job	job	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+better	better	JJR	CW	ADJ
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+letting	let	VBG	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+right	right	RB	ADV	CW
+
+sentence break
+
+so	so	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+judge	judge	VB	CW	VERB
+a	a	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+cover	cover	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	TO	FW
+an	a	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+seem	seem	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+courage	courage	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+act	act	VBP	CW	VERB
+
+sentence break
+
+meanwhile	meanwhile	RB	ADV	FW
+those	those	DT	FW
+impressions	impression	NNS	CW	NOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+change	change	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+notice	notice	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+put	put	VB	CW	VERB
+an	a	DT	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+an	a	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+manager	manager	NN	CW	NOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+actually	actually	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+take	take	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+serious	serious	JJ	CW	ADJ
+just	just	RB	ADV	CW
+by	by	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+
+sentence break
+
+later	later	RB	ADV	CW
+on	on	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+realized	realize	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+serious	serious	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+by	by	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+or	or	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+impression	impression	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+take	take	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+serious	serious	JJ	CW	ADJ
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+once	once	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+realizing	realize	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+want	want	VBP	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBN	CW	VERB
+about	about	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+did	do	VBD	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+change	change	VB	CW	VERB
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+making	make	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	TO	FW
+an	a	DT	FW
+interview	interview	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+to	to	TO	FW
+change	change	VB	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+making	make	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+new	new	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+look	look	VB	CW	VERB
+at	at	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+by	by	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+quite	quite	RB	ADV	FW
+shy	shy	JJ	CW	ADJ
+and	and	CC	FW
+serious	serious	JJ	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+once	once	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+realizing	realize	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+talkative	talkative	JJ	CW	ADJ
+loud	loud	JJ	CW	ADJ
+and	and	CC	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+hangout	hangout	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+
+sentence break
+
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+starts	start	VBZ	CW	VERB
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+met	meet	VBD	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+ignorant	ignorant	JJ	CW	ADJ
+rude	rude	JJ	CW	ADJ
+and	and	CC	FW
+selfish	selfish	JJ	CW	ADJ
+but	but	CC	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+to	to	TO	FW
+hangout	hangout	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+noticed	notice	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+sweet	sweet	JJ	CW	ADJ
+and	and	CC	FW
+caring	caring	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+became	become	VBD	CW	VERB
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+impression	impression	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+changed	change	VBD	CW	VERB
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,598 @@
+word	lemma	POS	CW\FW	other categories
+yeeeee	yeeeee	NNP	CW	NOUN	ARGUMENT
+wooooooo	wooooooo	NN	CW	NOUN	ARGUMENT
+wow	wow	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+u	u	FW	FW
+know	know	VBP	CW	VERB
+were	be	VBD	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+!?	!?	CD	FW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+really	really	RB	ADV	CW
+like	like	IN	FW
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+disney	disney	NNP	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+have	have	VBP	CW	VERB
+visit	visit	NN	CW	NOUN	ARGUMENT
+disney	disney	NNP	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+have	have	VBP	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+int	int	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+resources	resource	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+explaining	explain	VBG	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+because	because	RB	ADV	CW
+well	well	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+disney	disney	NNP	CW	NOUN	ARGUMENT
+who	who	WP	FW
+has	have	VBZ	FW	aux_or_cop
+never	never	RB	ADV	CW
+wanted	want	VBN	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+disney	disney	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+never	never	RB	ADV	CW
+go	go	VB	CW	VERB
+to	to	TO	FW
+disney	disney	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+scared	scare	VBN	CW	VERB
+of	of	IN	FW
+flying	fly	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+plane	plane	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+scared	scared	JJ	CW	ADJ
+and	and	CC	FW
+also	also	RB	ADV	CW
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+scared	scared	JJ	CW	ADJ
+of	of	IN	FW
+boats	boat	NNS	CW	NOUN	ARGUMENT
+yes	yes	UH	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+came	come	VBD	CW	VERB
+here	here	RB	ADV	CW
+in	in	IN	FW
+a	a	DT	FW
+plane	plane	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+scary	scary	JJ	CW	ADJ
+super	super	JJ	CW	ADJ
+scary	scary	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+again	again	RB	ADV	CW
+so	so	RB	ADV	CW
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+in	in	IN	FW
+car	car	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+is	be	VBZ	CW	VERB
+because	because	IN	FW
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	PDT	FW
+the	the	DT	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	FW	FW
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+some	some	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+looks	look	VBZ	CW	VERB
+good	good	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+eating	eat	VBG	CW	VERB
+when	when	WRB	FW
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+hungry	hungry	JJ	CW	ADJ
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+hungry	hungry	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+super	super	JJ	CW	ADJ
+hungry	hungry	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+eating	eat	VBG	CW	VERB
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+fancy	fancy	JJ	CW	ADJ
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+show	show	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+cooking	cooking	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+yes	yes	RB	ADV	CW
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+much	much	JJ	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+ummm	ummm	NN	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+else	else	RB	ADV	CW
+i	i	FW	FW
+can	can	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+wait	wait	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+this	this	DT	FW	PRONOUN
+already	already	RB	ADV	CW
+a	a	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+right	right	RB	ADV	CW
+!!!???	!!!???	CD	FW
+
+sentence break
+
+oh	oh	UH	FW
+well	well	RB	ADV	CW
+lets	let	VBZ	CW	VERB
+pretend	pretend	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+are	be	VBP	CW	VERB
+more	more	RBR	ADV	CW
+parks	park	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+maybe	maybe	RB	ADV	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+dose	dose	NN	CW	NOUN	ARGUMENT
+n`t	n`t	NN	CW	NOUN	ARGUMENT
+matter	matter	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+paper	paper	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+write	write	VB	CW	VERB
+whatever	whatever	WDT	FW
+i	i	FW	FW
+want	want	VBP	CW	VERB
+
+sentence break
+
+but	but	CC	FW
+whatever	whatever	WDT	FW
+
+sentence break
+
+so	so	RB	ADV	CW
+yes	yes	RB	ADV	CW
+the	the	DT	FW
+''	''	''	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+''	''	''	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+guess	guess	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+already	already	RB	ADV	CW
+explained	explain	VBD	CW	VERB
+what	what	WP	FW
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+paragraph	paragraph	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+totally	totally	RB	ADV	CW
+not	not	RB	ADV	CW
+adding	add	VBG	CW	VERB
+some	some	DT	FW
+random	random	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+paragraphs	paragraph	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+longer	longer	JJR	CW	ADJ
+yes	yes	UH	FW
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+totally	totally	RB	ADV	CW
+not	not	RB	ADV	CW
+''	''	''	FW
+doing	do	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+''	''	''	FW
+
+sentence break
+
+a	a	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+children	child	NNS	CW	NOUN	ARGUMENT
+come	come	VB	CW	VERB
+and	and	CC	FW
+play	play	VB	CW	VERB
+and	and	CC	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+like	like	IN	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+games	game	NNS	CW	NOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+talk	talk	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+some	some	DT	FW
+characters	character	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+run	run	VB	CW	VERB
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+be	be	VB	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+doing	do	VBG	CW	VERB
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+everywhere	everywhere	RB	ADV	CW
+but	but	CC	FW
+the	the	DT	FW
+roller	roller	NN	CW	NOUN	ARGUMENT
+coaster	coaster	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+scared	scared	JJ	CW	ADJ
+of	of	IN	FW
+roller	roller	NN	CW	NOUN	ARGUMENT
+coasters	coaster	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+big	big	JJ	CW	ADJ
+scary	scary	JJ	CW	ADJ
+machines	machine	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+`	`	``	FW
+m	m	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+scared	scared	JJ	CW	ADJ
+anyway	anyway	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+dose	dose	NN	CW	NOUN	ARGUMENT
+n`t	n`t	NN	CW	NOUN	ARGUMENT
+matter	matter	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+still	still	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+brave	brave	VBP	CW	VERB
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+promise	promise	NN	CW	NOUN	ARGUMENT
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+because	because	RB	ADV	CW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+be	be	VB	CW	VERB
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+stay	stay	VB	CW	VERB
+alone	alone	RB	ADV	CW
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+sad	sad	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+and	and	CC	FW
+enjoy	enjoy	VB	CW	VERB
+the	the	DT	FW
+show	show	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+take	take	VB	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+characters	character	NNS	CW	NOUN	ARGUMENT
+enjoy	enjoy	VB	CW	VERB
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+by	by	IN	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+i	i	FW	FW
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+relax	relax	VB	CW	VERB
+play	play	VB	CW	VERB
+eat	eat	VB	CW	VERB
+sleep	sleep	VB	CW	VERB
+and	and	CC	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+so	so	RB	ADV	CW
+that	that	IN	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+i	i	FW	FW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+or	or	CC	FW
+write	write	VB	CW	VERB
+well	well	RB	ADV	CW
+i	i	FW	FW
+hope	hope	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+did	do	VBD	FW	aux_or_cop
+well	well	RB	ADV	CW
+bye	bye	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

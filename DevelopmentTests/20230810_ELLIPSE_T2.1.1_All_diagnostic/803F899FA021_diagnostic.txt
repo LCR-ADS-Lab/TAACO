@@ -1,0 +1,462 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+highschool	highschool	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+own	own	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+highschools	highschool	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+highschool	highschool	NN	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+allowing	allow	VBG	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+the	the	DT	FW
+privlage	privlage	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+trusted	trust	VBN	CW	VERB
+on	on	IN	FW
+thier	thi	JJR	CW	ADJ
+phones	phone	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+gain	gain	VB	CW	VERB
+strong	strong	JJ	CW	ADJ
+self	self	NN	CW	NOUN	ARGUMENT
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+involved	involved	JJ	CW	ADJ
+and	and	CC	FW
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+subjects	subject	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+and	and	CC	FW
+most	most	RBS	ADV	CW
+importantly	importantly	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+motivate	motivate	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+these	these	DT	FW
+sites	site	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+go	go	VB	CW	VERB
+online	online	JJ	CW	ADJ
+and	and	CC	FW
+practive	practive	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+explore	explore	VB	CW	VERB
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+extend	extend	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+knowlege	knowlege	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+all	all	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+paste	paste	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+online	online	JJ	CW	ADJ
+cources	cource	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+feeling	feel	VBG	CW	VERB
+rush	rush	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+other	other	JJ	CW	ADJ
+classmates	classmate	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+rate	rate	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+take	take	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+lessons	lesson	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+worked	work	VBN	CW	VERB
+on	on	RP	FW
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+done	do	VBN	CW	VERB
+as	as	IN	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+using	use	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+personal	personal	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+would	would	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+pressured	pressured	JJ	CW	ADJ
+to	to	TO	FW
+move	move	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+past	past	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+as	as	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+motivited	motivited	JJ	CW	ADJ
+into	into	IN	FW
+taking	take	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+actually	actually	RB	ADV	CW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+practice	practice	VB	CW	VERB
+the	the	DT	FW
+material	material	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+fimilar	fimilar	JJ	CW	ADJ
+to	to	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+further	further	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+eductaion	eductaion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+while	while	IN	FW	SUBORDINATOR
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+lack	lack	VBP	CW	VERB
+self	self	NN	CW	NOUN	ARGUMENT
+confidenice	confidenice	NN	CW	NOUN	ARGUMENT
+alot	alot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+believe	believe	VB	CW	VERB
+in	in	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+put	put	VB	CW	VERB
+any	any	DT	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+classwork	classwork	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+afriad	afriad	JJ	CW	ADJ
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+enjoying	enjoy	VBG	CW	VERB
+what	what	WP	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+interacting	interact	VBG	CW	VERB
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+classmates	classmate	NNS	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+likely	likely	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+want	want	VB	CW	VERB
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+dispite	dispite	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+these	these	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+online	online	RB	ADV	FW
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+these	these	DT	FW
+online	online	JJ	CW	ADJ
+websites	website	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+through	through	IN	FW
+thier	thier	JJ	CW	ADJ
+electronic	electronic	JJ	CW	ADJ
+device	device	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+online	online	RB	ADV	FW
+and	and	CC	FW
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+for	for	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+learns	learn	VBZ	CW	VERB
+thinks	think	VBZ	CW	VERB
+and	and	CC	FW
+acts	act	VBZ	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+differant	differant	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+new	new	JJ	CW	ADJ
+and	and	CC	FW
+fun	fun	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+all	all	DT	FW
+different	different	JJ	CW	ADJ
+kinds	kind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+gain	gain	VB	CW	VERB
+interest	interest	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	FW	aux_or_cop
+involed	invole	VBN	CW	VERB
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+allowing	allow	VBG	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+eloctronic	eloctronic	JJ	CW	ADJ
+devices	device	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+trusted	trust	VBN	CW	VERB
+and	and	CC	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+interact	interact	VB	CW	VERB
+more	more	JJR	CW	ADJ
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+just	just	RB	ADV	CW
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+into	into	IN	FW
+wanting	want	VBG	CW	VERB
+to	to	TO	FW
+gain	gain	VB	CW	VERB
+more	more	JJR	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+training	training	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+discipline	discipline	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

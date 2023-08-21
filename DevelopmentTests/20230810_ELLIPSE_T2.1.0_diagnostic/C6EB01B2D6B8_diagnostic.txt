@@ -1,0 +1,577 @@
+word	lemma	POS	CW\FW	other categories
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+follow	follow	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+model	model	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	NN	CW	NOUN	ARGUMENT
+extending	extend	VBG	CW	VERB
+the	the	DT	FW
+school	school	NNP	CW	NOUN	ARGUMENT
+day	day	NNP	CW	NOUN	ARGUMENT
+by	by	IN	FW
+two-	two-	NN	CW	NOUN	ARGUMENT
+hours	hour	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+two	two	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+poorly	poorly	RB	ADV	CW
+but	but	CC	FW
+
+sentence break
+
+
+paragraph break
+
+will	will	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+a	a	DT	FW
+huge	huge	JJ	CW	ADJ
+disadvantage	disadvantage	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+whole	whole	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+four	four	CD	FW
+-	-	HYPH	FW
+day	day	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+beneficial	beneficial	JJ	CW	ADJ
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+reduce	reduce	VB	CW	VERB
+the	the	DT	FW
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+for	for	IN	FW
+other	other	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+and	and	CC	FW
+also	also	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+result	result	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+inability	inability	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+and	and	CC	FW
+as	as	IN	FW
+a	a	DT	FW
+result	result	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+affected	affect	VBN	CW	VERB
+mentally	mentally	RB	ADV	CW
+and	and	CC	FW
+psychologically	psychologically	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+designed	design	VBN	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+special	special	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+gives	give	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+reasonable	reasonable	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+involve	involve	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+activities	activity	NNS	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+acquire	acquire	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+skills	skill	NNS	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+from	from	IN	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+acquire	acquire	VBP	CW	VERB
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+also	also	RB	ADV	CW
+take	take	VBP	CW	VERB
+part	part	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+practice	practice	VB	CW	VERB
+or	or	CC	FW
+train	train	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+these	these	DT	FW	PRONOUN
+2	2	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+added	add	VBN	CW	VERB
+
+sentence break
+
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+work	work	VBP	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+begin	begin	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+fewer	few	JJR	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+need	need	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+and	and	CC	FW
+revise	revise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+needed	need	VBN	CW	VERB
+to	to	TO	FW
+attain	attain	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+time	time	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+determines	determine	VBZ	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+function	function	VB	CW	VERB
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+as	as	IN	FW
+an	an	DT	FW
+adult	adult	NN	CW	NOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+some	some	DT	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+serious	serious	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+becomes	become	VBZ	CW	VERB
+tired	tired	JJ	CW	ADJ
+and	and	CC	FW
+needs	need	VBZ	CW	VERB
+rest	rest	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+adult	adult	NN	CW	NOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+more	more	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+well	well	RB	ADV	CW
+developed	develop	VBN	CW	VERB
+than	than	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+study	study	VB	CW	VERB
+to	to	IN	FW
+a	a	DT	FW
+maximum	maximum	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+3	3	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+before	before	IN	FW
+feeling	feel	VBG	CW	VERB
+sleepy	sleepy	JJ	CW	ADJ
+or	or	CC	FW
+tired	tired	JJ	CW	ADJ
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+these	these	DT	FW	PRONOUN
+hours	hour	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+extended	extend	VBN	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+reluctant	reluctant	JJ	CW	ADJ
+to	to	TO	FW
+study	study	VB	CW	VERB
+which	which	WDT	FW
+makes	make	VBZ	CW	VERB
+these	these	DT	FW	PRONOUN
+extended	extend	VBN	CW	VERB
+hours	hour	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+due	due	IN	FW
+to	to	IN	FW
+this	this	DT	FW	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+take	take	VB	CW	VERB
+these	these	DT	FW	PRONOUN
+hours	hour	NNS	CW	NOUN	ARGUMENT
+seriously	seriously	RB	ADV	CW
+but	but	CC	FW
+will	will	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+disturb	disturb	VB	CW	VERB
+or	or	CC	FW
+disrupt	disrupt	VB	CW	VERB
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+produces	produce	VBZ	CW	VERB
+no	no	DT	FW
+positive	positive	JJ	CW	ADJ
+result	result	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+sure	sure	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+wastage	wastage	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+extremely	extremely	RB	ADV	CW
+prevented	prevent	VBN	CW	VERB
+to	to	TO	FW
+produce	produce	VB	CW	VERB
+positive	positive	JJ	CW	ADJ
+outcomes	outcome	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+results	result	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+furthermore	furthermore	RB	ADV	FW
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+successful	successful	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+individuals	individual	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+mentally	mentally	RB	ADV	CW
+upright	upright	JJ	CW	ADJ
+and	and	CC	FW
+psychologically	psychologically	RB	ADV	CW
+sound	sound	VB	CW	VERB
+to	to	TO	FW
+allow	allow	VB	CW	VERB
+learning	learn	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+much	much	RB	ADV	CW
+easier	easy	JJR	CW	ADJ
+and	and	CC	FW
+convenient	convenient	JJ	CW	ADJ
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+these	these	DT	FW	PRONOUN
+2	2	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+added	add	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+mentally	mentally	RB	ADV	CW
+stable	stable	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+stressed	stress	VBN	CW	VERB
+from	from	IN	FW
+pushing	push	VBG	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+more	more	RBR	ADV	CW
+even	even	RB	ADV	CW
+tho	tho	DT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+tired	tired	JJ	CW	ADJ
+
+sentence break
+
+psychologically	psychologically	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+reduce	reduce	VB	CW	VERB
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+thought	think	VBN	CW	VERB
+and	and	CC	FW
+also	also	RB	ADV	CW
+prevents	prevent	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+revising	revise	VBG	CW	VERB
+past	past	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+work	work	NN	CW	NOUN	ARGUMENT
+given	give	VBN	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+happens	happen	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+begin	begin	VB	CW	VERB
+to	to	TO	FW
+forget	forget	VB	CW	VERB
+past	past	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+apply	apply	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+which	which	WDT	FW
+will	will	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+near	near	JJ	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+conclusively	conclusively	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+four	four	CD	FW
+-	-	HYPH	FW
+day	day	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+other	other	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+institutions	institution	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+benefit	benefit	VB	CW	VERB
+an	an	DT	FW
+institution	institution	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+works	work	VBZ	CW	VERB
+and	and	CC	FW
+remains	remain	VBZ	CW	VERB
+successful	successful	JJ	CW	ADJ
+mainly	mainly	RB	ADV	CW
+by	by	IN	FW
+the	the	DT	FW
+use	use	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+precious	precious	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+from	from	IN	FW
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,316 @@
+word	lemma	POS	CW\FW	other categories
+someone	someone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+many	many	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+enjoyable	enjoyable	RB	ADV	CW
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+many	many	JJ	CW	ADJ
+sport	sport	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+fun	fun	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+together	together	RB	ADV	CW
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+have	have	VBP	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+in	in	IN	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+even	even	RB	ADV	CW
+talk	talk	VB	CW	VERB
+anymore	anymore	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+text	text	VBP	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+together	together	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+together	together	RB	ADV	CW
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+along	along	RP	FW
+with	with	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+kinda	kinda	RB	ADV	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+patient	patient	JJ	CW	ADJ
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+possibly	possibly	RB	ADV	FW
+meet	meet	VB	CW	VERB
+new	new	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+might	might	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+just	just	RB	ADV	CW
+playing	play	VBG	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+about	about	IN	FW
+winning	win	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+about	about	IN	FW
+having	have	VBG	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+mostly	mostly	RB	ADV	CW
+playing	play	VBG	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+even	even	RB	ADV	CW
+know	know	VB	CW	VERB
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+having	have	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+play	play	VB	CW	VERB
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+outside	outside	RB	ADV	CW
+to	to	TO	FW
+play	play	VB	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+run	run	VB	CW	VERB
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+sitting	sit	VBG	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+getting	get	VBG	CW	VERB
+sick	sick	JJ	CW	ADJ
+by	by	IN	FW
+eating	eat	VBG	CW	VERB
+unhealthy	unhealthy	JJ	CW	ADJ
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+strong	strong	JJ	CW	ADJ
+healthy	healthy	JJ	CW	ADJ
+nice	nice	JJ	CW	ADJ
+athletic	athletic	JJ	CW	ADJ
+ect	ect	NN	CW	NOUN	ARGUMENT
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+sport	sport	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+mostly	mostly	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+loves	love	VBZ	CW	VERB
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+really	really	RB	ADV	CW
+like	like	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+writing	write	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+to	to	IN	FW	SUBORDINATOR
+pursued	pursue	VBN	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+playing	play	VBG	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+enjoyable	enjoyable	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

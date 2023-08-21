@@ -1,0 +1,740 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+currently	currently	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+'s	be	VBZ	CW	VERB
+in	in	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+economics	economics	NNS	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+economics	economics	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+meet	meet	VB	CW	VERB
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+true	true	JJ	CW	ADJ
+grasp	grasp	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+banking	banking	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+extremely	extremely	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+and	and	CC	FW
+learn	learn	VBP	CW	VERB
+fast	fast	RB	ADV	CW
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+pick	pick	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+bank	bank	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+day-to-day	day-to-day	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+couple	couple	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+eager	eager	JJ	CW	ADJ
+with	with	IN	FW
+this	this	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+banking	banking	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+give	give	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+what	what	WP	FW
+banking	banking	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+about	about	RB	ADV	CW
+
+sentence break
+
+secondly	secondly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+been	be	VBN	CW	VERB
+interested	interest	VBN	CW	VERB
+in	in	IN	FW
+banking	banking	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aunt	aunt	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+bank	bank	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+dear	dear	NNP	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+shadowing	shadow	VBG	CW	VERB
+is	be	VBZ	CW	VERB
+offered	offer	VBN	CW	VERB
+at	at	IN	FW
+many	many	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+allows	allow	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+immerse	immerse	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+working	work	VBG	CW	VERB
+environment	environment	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW
+being	be	VBG	FW	aux_or_cop
+seperate	seperate	JJ	CW	ADJ
+from	from	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+junior	junior	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+i	i	FW	FW
+have	have	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+been	be	VBN	CW	VERB
+interested	interest	VBN	CW	VERB
+in	in	IN	FW
+banking	banking	NN	CW	NOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+young	young	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+one	one	CD	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aunt	aunt	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+worked	work	VBN	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+banking	banking	NN	CW	NOUN	ARGUMENT
+industry	industry	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+many	many	JJ	CW	ADJ
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+qualifications	qualification	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+this	this	DT	FW
+internship	internship	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+following	follow	VBG	CW	VERB
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+economics	economics	NNS	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+i	i	CD	FW
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+a	a	DT	FW
+phenomenal	phenomenal	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+both	both	CC	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enjoy	enjoy	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aunt	aunt	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+brought	bring	VBN	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+undertand	undertand	VB	CW	VERB
+the	the	DT	FW
+materials	material	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+hands	hand	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+banking	banking	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+one	one	CD	FW
+of	of	IN	FW
+those	those	DT	FW
+goals	goal	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+banker	banker	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+bank	bank	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+an	a	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+this	this	DT	FW	PRONOUN
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+internship	internship	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+open	open	VB	CW	VERB
+up	up	RP	FW
+many	many	JJ	CW	ADJ
+more	more	JJR	CW	ADJ
+learning	learning	NN	CW	NOUN	ARGUMENT
+opportunities	opportunity	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+could	could	MD	CW	VERB
+and	and	CC	FW
+teach	teach	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+ways	way	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+bankig	bankig	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+the	the	DT	FW
+bank	bank	NN	CW	NOUN	ARGUMENT
+internship	internship	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+beneficial	beneficial	JJ	CW	ADJ
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+with	with	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW
+a	a	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandmother	grandmother	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+purchase	purchase	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+candies	candy	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+chocolate	chocolate	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+sell	sell	VB	CW	VERB
+at	at	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+business	business	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+poster	poster	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+prices	price	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+candies	candy	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+to	to	TO	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+figure	figure	VB	CW	VERB
+out	out	RP	FW
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+money	money	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+give	give	VB	CW	VERB
+back	back	RP	FW
+to	to	TO	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+working	work	VBG	CW	VERB
+and	and	CC	FW
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+manage	manage	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+are	be	VBP	FW	aux_or_cop
+both	both	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+been	be	VBN	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+extremely	extremely	RB	ADV	CW
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+banking	banking	NN	CW	NOUN	ARGUMENT
+jobs	job	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+much	much	RB	ADV	CW
+rather	rather	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+spending	spend	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+exploring	explore	VBG	CW	VERB
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+sitting	sit	VBG	CW	VERB
+uninterestedly	uninterestedly	RB	ADV	CW
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW
+internship	internship	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+an	a	DT	FW
+amazing	amazing	JJ	CW	ADJ
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+invest	invest	VB	CW	VERB
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+sometimes	sometimes	RB	ADV	CW
+known	know	VBN	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+lazy	lazy	JJ	CW	ADJ
+rude	rude	JJ	CW	ADJ
+and	and	CC	FW
+unwilling	unwilling	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+reasonable	reasonable	JJ	CW	ADJ
+for	for	IN	FW
+any	any	DT	FW
+business	business	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+decline	decline	VB	CW	VERB
+young	young	JJ	CW	ADJ
+prospective	prospective	JJ	CW	ADJ
+interns	intern	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+adults	adult	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+employers	employer	NNS	CW	NOUN	ARGUMENT
+both	both	CC	FW
+believed	believe	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+ethic	ethic	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+young	young	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+decreased	decrease	VBN	CW	VERB
+however	however	RB	ADV	FW
+these	these	DT	FW
+negative	negative	JJ	CW	ADJ
+traits	trait	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+apply	apply	VB	CW	VERB
+to	to	TO	FW
+all	all	DT	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+hardworking	hardworking	JJ	CW	ADJ
+individual	individual	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+concentrate	concentrate	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+enjoy	enjoy	VBP	CW	VERB
+
+sentence break
+
+additionally	additionally	RB	ADV	CW
+the	the	DT	FW
+popular	popular	JJ	CW	ADJ
+view	view	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+mature	mature	JJ	CW	ADJ
+and	and	CC	FW
+am	be	VBP	FW	aux_or_cop
+willing	willing	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+allowing	allow	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+this	this	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+an	a	DT	FW
+intern	intern	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+bank	bank	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+enable	enable	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+workplace	workplace	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+sincerely	sincerely	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+this	this	DT	FW
+internship	internship	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+mu	mu	NN	CW	NOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+therefore	therefore	RB	ADV	FW
+quaranteeing	quarantee	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+employment	employment	NN	CW	NOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+banking	banking	NN	CW	NOUN	ARGUMENT
+field	field	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+feed	feed	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+hunger	hunger	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+banking	banking	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+succeeding	succeed	VBG	CW	VERB
+in	in	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+economics	economics	NNS	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+school	school	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+interest	interest	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+an	a	DT	FW
+internship	internship	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+bank	bank	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+expand	expand	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+allowing	allow	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+taste	taste	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+banking	banking	NN	CW	NOUN	ARGUMENT
+occupation	occupation	NN	CW	NOUN	ARGUMENT
+fulfilling	fulfil	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+ambition	ambition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,380 @@
+word	lemma	POS	CW\FW	other categories
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+there	there	EX	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+true	true	JJ	CW	ADJ
+and	and	CC	FW
+likewise	likewise	RB	ADV	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+superpower	superpower	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+succsuss	succsuss	VB	CW	VERB
+there	there	RB	ADV	CW
+dream	dream	NN	CW	NOUN	ARGUMENT
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+effort	effort	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+the	the	DT	FW
+succsuss	succsuss	JJ	CW	ADJ
+key	key	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+there	there	EX	FW
+life	life	NN	CW	NOUN	ARGUMENT
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+endeavor	endeavor	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+use	use	VB	CW	VERB
+a	a	DT	FW
+brain	brain	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+light	light	JJ	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+that	that	DT	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+key	key	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+very	very	RB	ADV	CW
+importance	importance	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+request	request	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+from	from	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+brave	brave	VB	CW	VERB
+follow	follow	VB	CW	VERB
+this	this	DT	FW
+steps	step	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+behave	behave	VBP	CW	VERB
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+behave	behave	VBP	CW	VERB
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+consent	consent	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+any	any	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+go	go	VB	CW	VERB
+back	back	RB	ADV	CW
+follow	follow	VB	CW	VERB
+next	next	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+that	that	IN	FW	PRONOUN
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+aspriration	aspriration	NN	CW	NOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+this	this	DT	FW
+sol	sol	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+student	student	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+everyday	everyday	JJ	CW	ADJ
+about	about	IN	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+make	make	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+have	have	VBP	CW	VERB
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+wonderful	wonderful	JJ	CW	ADJ
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	JJ	CW	ADJ
+to	to	TO	FW
+succsuss	succsuss	VB	CW	VERB
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+100	100	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+true	true	JJ	CW	ADJ
+because	because	IN	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+succsuss	succsuss	VB	CW	VERB
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+no	no	DT	FW
+body	body	NN	CW	NOUN	ARGUMENT
+respect	respect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	CW	VERB
+have	have	VBP	CW	VERB
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+outside	outside	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+office	office	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+everywere	everywere	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+respect	respect	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+father	father	NN	CW	NOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sister	sister	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+wonderful	wonderful	JJ	CW	ADJ
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+neborhood	neborhood	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+living	live	VBG	CW	VERB
+with	with	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+respect	respect	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VB	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+recognition	recognition	NN	CW	NOUN	ARGUMENT
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+recommend	recommend	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+not	not	RB	ADV	CW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+respect	respect	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thinks	think	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+reluctant	reluctant	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+ego	ego	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+slowly	slowly	RB	ADV	CW
+loathing	loathe	VBG	CW	VERB
+dislike	dislike	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+love	love	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

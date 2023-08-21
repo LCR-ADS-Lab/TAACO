@@ -1,0 +1,500 @@
+word	lemma	POS	CW\FW	other categories
+finally	finally	RB	ADV	CW
+some	some	DT	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+courts	court	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+football	football	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+just	just	RB	ADV	CW
+a	a	DT	FW
+playground	playground	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+trail	trail	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+the	the	DT	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+playing	play	VBG	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+all	all	DT	FW
+kinds	kind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+by	by	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+with	with	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+new	new	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+courts	court	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+an	a	DT	FW
+awesome	awesome	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+over	over	IN	FW
+the	the	DT	FW
+playground	playground	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+trail	trail	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+spending	spending	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+outdoors	outdoors	RB	ADV	FW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+all	all	DT	FW
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+by	by	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+community	community	NNP	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+national	national	JJ	CW	ADJ
+parks	park	NNS	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+a	a	DT	FW
+wide	wide	JJ	CW	ADJ
+variety	variety	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+trails	trail	VBZ	CW	VERB
+for	for	IN	FW
+riding	ride	VBG	CW	VERB
+bikes	bike	NNS	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+picnics	picnic	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+courts	court	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+great	great	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+an	a	DT	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+outdoors	outdoors	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+scientific	scientific	JJ	CW	ADJ
+fact	fact	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+move	move	VB	CW	VERB
+more	more	RBR	ADV	CW
+than	than	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+sit	sit	VBP	CW	VERB
+
+sentence break
+
+spending	spending	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+outdoors	outdoors	NNS	CW	NOUN	ARGUMENT
+feels	feel	VBZ	CW	VERB
+amazing	amazing	JJ	CW	ADJ
+especially	especially	RB	ADV	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+all	all	DT	FW
+kinds	kind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+community	community	NNP	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+parks	park	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+national	national	JJ	CW	ADJ
+parks	park	NNS	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+a	a	DT	FW
+wide	wide	JJ	CW	ADJ
+variety	variety	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+trails	trail	VBZ	CW	VERB
+for	for	IN	FW
+riding	ride	VBG	CW	VERB
+bikes	bike	NNS	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+picnics	picnic	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+courts	court	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+sports	sport	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	NNP	CW	NOUN	ARGUMENT
+off	off	RB	ADV	CW
+in	in	IN	FW
+most	most	JJS	CW	ADJ
+parks	park	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+trails	trail	VBZ	CW	VERB
+for	for	IN	FW
+riders	rider	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+walkers	walker	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+ride	ride	VB	CW	VERB
+or	or	CC	FW
+walk	walk	VB	CW	VERB
+on	on	IN	FW
+dirt	dirt	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+grass	grass	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+along	along	IN	FW
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+entire	entire	JJ	CW	ADJ
+park	park	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+trail	trail	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+bike	bike	NN	CW	NOUN	ARGUMENT
+riding	ride	VBG	CW	VERB
+skateboarding	skateboarding	NNP	CW	NOUN	ARGUMENT
+walking	walk	VBG	CW	VERB
+and	and	CC	FW
+running	run	VBG	CW	VERB
+
+sentence break
+
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+while	while	IN	FW	SUBORDINATOR
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+trail	trail	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+see	see	VB	CW	VERB
+the	the	DT	FW
+beautiful	beautiful	JJ	CW	ADJ
+environment	environment	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+tall	tall	JJ	CW	ADJ
+green	green	JJ	CW	ADJ
+trees	tree	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+some	some	DT	FW
+areas	area	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+trails	trail	VBZ	CW	VERB
+have	have	VB	CW	VERB
+benches	bench	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+sit	sit	VB	CW	VERB
+on	on	IN	FW
+in	in	IN	FW
+case	case	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+tired	tired	JJ	CW	ADJ
+and	and	CC	FW
+need	need	VB	CW	VERB
+to	to	TO	FW
+cool	cool	VB	CW	VERB
+down	down	RB	ADV	CW
+
+sentence break
+
+having	have	VBG	FW	aux_or_cop
+trails	trail	VBZ	CW	VERB
+in	in	IN	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+wonderful	wonderful	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+bike	bike	NN	CW	NOUN	ARGUMENT
+riding	ride	VBG	CW	VERB
+skateboarding	skateboarding	NNP	CW	NOUN	ARGUMENT
+walking	walk	VBG	CW	VERB
+and	and	CC	FW
+running	run	VBG	CW	VERB
+as	as	IN	FW
+an	a	DT	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+when	when	WRB	FW
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+land	land	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+course	course	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+environment	environment	NN	CW	NOUN	ARGUMENT
+around	around	RP	FW
+is	be	VBZ	CW	VERB
+pretty	pretty	RB	ADV	CW
+with	with	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+tall	tall	JJ	CW	ADJ
+green	green	JJ	CW	ADJ
+trees	tree	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+a	a	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+beautiful	beautiful	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+be	be	VB	CW	VERB
+packed	pack	VBN	CW	VERB
+
+sentence break
+
+having	have	VBG	CW	VERB
+extra	extra	JJ	CW	ADJ
+land	land	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+pretty	pretty	RB	ADV	CW
+convenient	convenient	JJ	CW	ADJ
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+relaxing	relaxing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+picnic	picnic	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+from	from	IN	FW
+the	the	DT	FW
+playground	playground	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+noise	noise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	NNP	CW	NOUN	ARGUMENT
+off	off	RB	ADV	CW
+parks	park	NNS	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+have	have	VBP	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+land	land	NN	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+playground	playground	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+picnics	picnic	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+a	a	DT	FW
+blanket	blanket	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+basket	basket	NN	CW	NOUN	ARGUMENT
+filled	fill	VBN	CW	VERB
+with	with	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+picnic	picnic	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

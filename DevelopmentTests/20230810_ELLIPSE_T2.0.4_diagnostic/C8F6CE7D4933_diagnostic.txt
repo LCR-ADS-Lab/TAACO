@@ -1,0 +1,540 @@
+word	lemma	POS	CW\FW	other categories
+does	do	VBZ	CW	VERB
+the	the	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+no	no	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	CW	VERB
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	CW	VERB
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+using	use	VBG	CW	VERB
+a	a	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+wrong	wrong	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+disturbed	disturbed	JJ	CW	ADJ
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+environment	environment	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+abilities	ability	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+analyzing	analyze	VBG	CW	VERB
+abilities	ability	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	CW	VERB
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+cellphone	cellphone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+student	student	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+used	use	VBN	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+wrong	wrong	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+bullying	bully	VBG	CW	VERB
+the	the	DT	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+during	during	IN	FW
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+used	use	VBN	CW	VERB
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+facebook	facebook	NNP	CW	NOUN	ARGUMENT
+twitter	twitter	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	CW	VERB
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+disturbed	disturbed	JJ	CW	ADJ
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+environment	environment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+concentrate	concentrate	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+busy	busy	JJ	CW	ADJ
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+using	use	VBG	CW	VERB
+the	the	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+concentrate	concentrate	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+effects	effect	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+messenger	messenger	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+bullying	bully	VBG	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+posting	post	VBG	CW	VERB
+a	a	DT	FW
+picture	picture	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+permission	permission	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+snap	snap	VB	CW	VERB
+chat	chat	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+hurt	hurt	VBN	CW	VERB
+the	the	DT	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+using	use	VBG	CW	VERB
+the	the	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believed	believe	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	CW	VERB
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+some	some	DT	FW
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+using	use	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+during	during	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	CW	VERB
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+cellphone	cellphone	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+disturbed	disturb	VBD	CW	VERB
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+environment	environment	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+using	use	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+wrong	wrong	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+bullying	bully	VBG	CW	VERB
+the	the	DT	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+effect	effect	VB	CW	VERB
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+abilities	ability	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+there	there	EX	FW
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+some	some	DT	FW
+positive	positive	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+allowing	allow	VBG	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+and	and	CC	FW
+use	use	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+more	more	RBR	ADV	CW
+about	about	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+``	``	``	FW
+a	a	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+after	after	IN	FW	SUBORDINATOR
+that	that	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+``	``	``	FW
+f	f	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+because	because	IN	FW
+of	of	IN	FW
+using	use	VBG	CW	VERB
+a	a	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	CW	VERB
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+abilities	ability	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+using	use	VBG	CW	VERB
+the	the	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+effect	effect	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+thinking	think	VBG	CW	VERB
+abilities	ability	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+analyze	analyze	VB	CW	VERB
+very	very	RB	ADV	CW
+quickly	quickly	RB	ADV	CW
+to	to	TO	FW
+search	search	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+the	the	DT	FW
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+ability	ability	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NNP	CW	NOUN	ARGUMENT
+like	like	IN	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+effect	effect	NN	CW	NOUN	ARGUMENT
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+analyzing	analyze	VBG	CW	VERB
+thinking	think	VBG	CW	VERB
+abilities	ability	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+dangerous	dangerous	JJ	CW	ADJ
+radioactive	radioactive	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+effect	effect	NN	CW	NOUN	ARGUMENT
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+gamma	gamma	NN	CW	NOUN	ARGUMENT
+alpha	alpha	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+rays	ray	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

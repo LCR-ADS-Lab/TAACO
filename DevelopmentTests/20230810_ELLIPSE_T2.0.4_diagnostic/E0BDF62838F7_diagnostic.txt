@@ -1,0 +1,193 @@
+word	lemma	POS	CW\FW	other categories
+hey	hey	UH	FW
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+been	be	VBN	CW	VERB
+asked	ask	VBN	CW	VERB
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+elementary	elementary	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+well	well	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	CW	VERB
+chosen	choose	VBN	CW	VERB
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+multiplying	multiply	VBG	CW	VERB
+and	and	CC	FW
+dividing	divide	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+teach	teach	VB	CW	VERB
+how	how	WRB	FW
+add	add	VB	CW	VERB
+and	and	CC	FW
+subtract	subtract	VB	CW	VERB
+quickly	quickly	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+1st	1st	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+like	like	IN	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+grocery	grocery	NN	CW	NOUN	ARGUMENT
+store	store	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+does	do	VBZ	CW	VERB
+4	4	CD	FW
+bags	bag	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+chips	chip	NNS	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+party	party	NN	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+well	well	RB	ADV	CW
+multiplying	multiply	VBG	CW	VERB
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+figure	figure	VBP	CW	VERB
+out	out	RP	FW
+the	the	DT	FW
+cost	cost	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+2nd	2nd	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+dividing	divide	VBG	CW	VERB
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+figure	figure	VBP	CW	VERB
+out	out	RP	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+discount	discount	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+cost	cost	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+saved	save	VBD	CW	VERB
+
+sentence break
+
+final	final	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+like	like	IN	FW
+multiplying	multiply	VBG	CW	VERB
+and	and	CC	FW
+dividing	divide	VBG	CW	VERB
+fractions	fraction	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+1/2	1/2	CD	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+2/3	2/3	CD	FW
+that	that	WDT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+equal	equal	VB	CW	VERB
+2/6	2/6	CD	FW
+and	and	CC	FW
+dividing	divide	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+by	by	IN	FW
+1/2	1/2	CD	FW
+will	will	MD	FW	aux_or_cop
+equal	equal	VB	CW	VERB
+2/3	2/3	CD	FW
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+add	add	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+3/5	3/5	CD	FW
+and	and	CC	FW
+subtracting	subtract	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+by	by	IN	FW
+1/3	1/3	CD	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+2/2	2/2	CD	FW
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+1	1	CD	FW
+
+sentence break
+
+so	so	RB	ADV	CW
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+multiplying	multiply	VBG	CW	VERB
+and	and	CC	FW
+dividing	divide	VBG	CW	VERB
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	FW	aux_or_cop
+answer	answer	VB	CW	VERB
+more	more	JJR	CW	ADJ
+fast	fast	RB	ADV	CW
+than	than	IN	FW	SUBORDINATOR
+adding	add	VBG	CW	VERB
+and	and	CC	FW
+subtracting	subtract	VBG	CW	VERB
+over	over	IN	FW
+and	and	CC	FW
+over	over	IN	FW
+
+sentence break
+
+
+paragraph break
+

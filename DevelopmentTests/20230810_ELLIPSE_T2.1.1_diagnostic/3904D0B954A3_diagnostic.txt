@@ -1,0 +1,516 @@
+word	lemma	POS	CW\FW	other categories
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+some	some	DT	FW
+educators	educator	NNS	CW	NOUN	ARGUMENT
+feels	feel	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+retain	retain	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+easily	easily	RB	ADV	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+return	return	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+fall	fall	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+long	long	RB	ADV	CW
+
+sentence break
+
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+think	think	VB	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+see	see	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+about	about	IN	FW
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+but	but	CC	FW
+no	no	UH	FW
+educators	educators	NNP	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+make	make	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+break	break	VB	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+round	round	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+3	3	CD	FW
+4	4	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+off	off	RP	FW
+in	in	IN	FW
+spring	spring	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fall	fall	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+as	as	RB	ADV	CW
+much	much	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+spending	spend	VBG	CW	VERB
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+there	there	EX	FW
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+taking	take	VBG	CW	VERB
+there	there	RB	ADV	CW
+time	time	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+back	back	RB	ADV	CW
+home	home	RB	ADV	CW
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+everyday	everyday	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+ready	ready	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+there	there	EX	FW
+school	school	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+even	even	RB	ADV	CW
+has	have	VBZ	CW	VERB
+projects	project	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+on	on	IN	FW
+
+sentence break
+
+while	while	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+only	only	RB	ADV	CW
+worry	worry	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+that	that	DT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+forget	forget	VBP	CW	VERB
+about	about	IN	FW
+there	there	EX	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+while	while	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+really	really	RB	ADV	CW
+effect	effect	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+give	give	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+truth	truth	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+there	there	EX	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+what	what	WP	FW
+s	s	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+on	on	RP	FW
+in	in	IN	FW
+there	there	EX	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+anything	anything	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+happening	happen	VBG	CW	VERB
+
+sentence break
+
+and	and	CC	FW
+educator	educator	NN	CW	NOUN	ARGUMENT
+feels	feel	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+breaks	break	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+too	too	RB	ADV	CW
+short	short	JJ	CW	ADJ
+
+sentence break
+
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+make	make	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+break	break	VB	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+round	round	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+3	3	CD	FW
+4	4	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+off	off	RP	FW
+in	in	IN	FW
+spring	spring	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fall	fall	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+student	student	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+in	in	IN	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+spring	spring	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+where	where	WRB	FW
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+there	there	EX	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+around	around	RB	ADV	CW
+and	and	CC	FW
+use	use	VB	CW	VERB
+there	there	RB	ADV	CW
+free	free	JJ	CW	ADJ
+how	how	WRB	FW
+ever	ever	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+stress	stress	VB	CW	VERB
+as	as	RB	ADV	CW
+much	much	RB	ADV	CW
+over	over	IN	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+projects	project	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+worthy	worthy	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+why	why	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+back	back	RB	ADV	CW
+forget	forget	VB	CW	VERB
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+summer	summer	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+too	too	RB	ADV	CW
+long	long	JJ	CW	ADJ
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+retain	retain	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+easily	easily	RB	ADV	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+return	return	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+fall	fall	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+believe	believe	VBP	CW	VERB
+over	over	IN	FW
+wise	wise	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+educators	educator	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+make	make	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+break	break	VB	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+round	round	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+3	3	CD	FW
+4	4	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+off	off	RP	FW
+in	in	IN	FW
+spring	spring	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fall	fall	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+as	as	RB	ADV	CW
+much	much	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+spending	spend	VBG	CW	VERB
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	SUBORDINATOR	PRONOUN
+why	why	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+remove	remove	VB	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+spring	spring	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

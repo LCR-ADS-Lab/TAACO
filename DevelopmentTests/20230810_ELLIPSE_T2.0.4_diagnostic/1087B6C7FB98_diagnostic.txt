@@ -1,0 +1,410 @@
+word	lemma	POS	CW\FW	other categories
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+junkfood	junkfood	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+anywhere	anywhere	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	TO	FW
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+movie	movie	NN	CW	NOUN	ARGUMENT
+theaters	theater	NNS	CW	NOUN	ARGUMENT
+gas	gas	NN	CW	NOUN	ARGUMENT
+stations	station	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+restaurants	restaurant	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+serve	serve	VB	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+foods	food	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+snacks	snack	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+choose	choose	VB	CW	VERB
+junkfood	junkfood	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+use	use	VB	CW	VERB
+to	to	TO	FW
+eating	eat	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+
+sentence break
+
+most	most	JJS	CW	ADJ
+stores	store	NNS	CW	NOUN	ARGUMENT
+put	put	VBD	CW	VERB
+the	the	DT	FW
+unhealthy	unhealthy	JJ	CW	ADJ
+foods	food	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+front	front	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+straight	straight	RB	ADV	CW
+into	into	IN	FW
+putting	put	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+carts	cart	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+baskets	basket	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+manage	manage	VB	CW	VERB
+telling	tell	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+to	to	TO	FW
+being	be	VBG	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+healthier	healthier	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+eat	eat	VBP	CW	VERB
+junkfood	junkfood	NN	CW	NOUN	ARGUMENT
+mostly	mostly	RB	ADV	CW
+everyday	everyday	JJ	CW	ADJ
+need	need	VB	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+more	more	JJR	CW	ADJ
+fruits	fruit	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+vegetables	vegetable	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+wanting	want	VBG	CW	VERB
+a	a	DT	FW
+healthy	healthy	JJ	CW	ADJ
+live	live	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+every	every	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+kids	kid	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+fruit	fruit	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+vegetable	vegetable	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+chose	choose	VBD	CW	VERB
+not	not	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+fruit	fruit	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+vegetable	vegetable	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+eating	eat	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+throw	throw	VBP	CW	VERB
+away	away	RP	FW
+
+sentence break
+
+eating	eating	NNP	CW	NOUN	ARGUMENT
+veggies	veggy	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+for	for	IN	FW
+an	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+carrot	carrot	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+eyes	eye	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+kids	kid	NNS	CW	NOUN	ARGUMENT
+dont	dont	JJ	CW	ADJ
+want	want	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+any	any	DT	FW
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+fruits	fruit	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+veggies	veggy	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+wasting	waste	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+eating	eating	NNP	CW	NOUN	ARGUMENT
+healthy	healthy	JJ	CW	ADJ
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+cause	cause	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+much	much	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+eating	eat	VBG	CW	VERB
+unhealthy	unhealthy	JJ	CW	ADJ
+will	will	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+much	much	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+parents	parent	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+focus	focus	VB	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+kids	kid	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+eating	eat	VBG	CW	VERB
+for	for	IN	FW
+breakfast	breakfast	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+like	like	IN	FW
+eating	eat	VBG	CW	VERB
+unhealthy	unhealthy	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+pack	pack	VB	CW	VERB
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+eat	eat	VB	CW	VERB
+junkfood	junkfood	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+or	or	CC	FW
+twice	twice	RB	ADV	CW
+a	a	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+everyday	everyday	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+personality	personality	NN	CW	NOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+to	to	TO	FW
+having	have	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+more	more	JJR	CW	ADJ
+fruit	fruit	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+veggies	veggy	NNS	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+healthy	healthy	JJ	CW	ADJ
+and	and	CC	FW
+wanting	want	VBG	CW	VERB
+kids	kid	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stop	stop	VB	CW	VERB
+eating	eat	VBG	CW	VERB
+junk	junk	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+an	a	DT	FW
+issue	issue	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+past	past	JJ	CW	ADJ
+years	year	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+different	different	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+sometime	sometime	RB	ADV	CW
+have	have	VB	CW	VERB
+some	some	DT	FW
+unhealthy	unhealthy	JJ	CW	ADJ
+at	at	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+change	change	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

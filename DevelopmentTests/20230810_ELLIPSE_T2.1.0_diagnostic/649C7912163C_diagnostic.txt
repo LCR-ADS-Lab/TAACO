@@ -1,0 +1,281 @@
+word	lemma	POS	CW\FW	other categories
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+thought	think	VBN	CW	VERB
+of	of	IN	FW
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+france	france	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+popular	popular	JJ	CW	ADJ
+eiffel	eiffel	NNP	CW	NOUN	ARGUMENT
+tower	tower	NNP	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+others	other	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+hawaii	hawaii	NNP	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+to	to	TO	FW
+relax	relax	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+however	however	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+well	well	RB	ADV	CW
+mannered	mannered	JJ	CW	ADJ
+and	and	CC	FW
+kind	kind	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+also	also	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+are	be	VBP	CW	VERB
+amazing	amazing	JJ	CW	ADJ
+waterfalls	waterfall	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	FW	aux_or_cop
+well	well	RB	ADV	CW
+mannered	mannered	JJ	CW	ADJ
+and	and	CC	FW
+kind	kind	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+treat	treat	VBP	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+like	like	IN	FW
+brothers	brother	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sisters	sister	NNS	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+mortal	mortal	JJ	CW	ADJ
+enemies	enemy	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+something	something	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+once	once	RB	ADV	CW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+greet	greet	VB	CW	VERB
+these	these	DT	FW	PRONOUN
+grateful	grateful	JJ	CW	ADJ
+and	and	CC	FW
+thankful	thankful	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+gentle	gentle	JJ	CW	ADJ
+to	to	IN	FW
+one	one	CD	FW
+another	another	DT	FW
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+dubai	dubai	NNP	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+a	a	DT	FW
+honest	honest	JJ	CW	ADJ
+living	living	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+rarely	rarely	RB	ADV	CW
+any	any	DT	FW
+crimes	crime	NNS	CW	NOUN	ARGUMENT
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+residents	resident	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+additionally	additionally	RB	ADV	CW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+amazing	amazing	JJ	CW	ADJ
+waterfalls	waterfall	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+designs	design	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+structures	structure	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+well	well	RB	ADV	CW
+made	make	VBN	CW	VERB
+and	and	CC	FW
+created	create	VBN	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+visiting	visit	VBG	CW	VERB
+the	the	DT	FW
+waterfalls	waterfall	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+colorful	colorful	JJ	CW	ADJ
+which	which	WDT	FW
+makes	make	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+beautiful	beautiful	JJ	CW	ADJ
+to	to	TO	FW
+watch	watch	VB	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+something	something	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+go	go	VB	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+boat	boat	NN	CW	NOUN	ARGUMENT
+ride	ride	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+peaceful	peaceful	JJ	CW	ADJ
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+calm	calm	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+the	the	DT	FW
+ride	ride	NN	CW	NOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+along	along	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+well	well	RB	ADV	CW
+disciplined	disciplined	JJ	CW	ADJ
+and	and	CC	FW
+nice	nice	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+also	also	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+are	be	VBP	CW	VERB
+outstanding	outstanding	JJ	CW	ADJ
+waterfalls	waterfall	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+parks	park	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

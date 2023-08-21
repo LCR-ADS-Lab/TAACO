@@ -1,0 +1,376 @@
+word	lemma	POS	CW\FW	other categories
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+is	be	VBZ	CW	VERB
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+help	help	VB	CW	VERB
+in	in	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+help	help	VB	CW	VERB
+to	to	TO	FW
+resolved	resolve	VBN	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+date	date	NN	CW	NOUN	ARGUMENT
+03/20/19	03/20/19	CD	FW
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+to	to	TO	FW
+tom	tom	NN	CW	NOUN	ARGUMENT
+robinson	robinson	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+kill	kill	VB	CW	VERB
+tom	tom	NN	CW	NOUN	ARGUMENT
+robinson	robinson	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jeferson	jeferson	NNP	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+tom	tom	NN	CW	NOUN	ARGUMENT
+robinson	robinson	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+inocent	inocent	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+touch	touch	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+lady	lady	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+liar	liar	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+thomas	thoma	VBZ	CW	VERB
+jefferson	jefferson	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+inteligent	inteligent	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+help	help	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBD	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+whatever	whatever	WDT	FW
+what	what	WDT	FW
+culture	culture	NN	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+
+sentence break
+
+second	second	RB	ADV	CW
+tom	tom	NN	CW	NOUN	ARGUMENT
+robinson	robinson	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+inocent	inocent	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+liar	liar	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+the	the	DT	FW
+true	true	JJ	CW	ADJ
+the	the	DT	FW
+happens	happen	VBZ	CW	VERB
+
+sentence break
+
+after	after	IN	FW
+tomas	toma	NNS	CW	NOUN	ARGUMENT
+jefferson	jefferson	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+honestly	honestly	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+say	say	VB	CW	VERB
+thomas	thoma	NNS	CW	NOUN	ARGUMENT
+jefferson	jefferson	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+third	third	NNP	CW	NOUN	ARGUMENT
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+important	important	JJ	CW	ADJ
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+defendent	defendent	VBD	CW	VERB
+the	the	DT	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+right	right	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+racist	racist	JJ	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+color	color	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+lovely	lovely	JJ	CW	ADJ
+not	not	RB	ADV	CW
+discrinaded	discrinaded	JJ	CW	ADJ
+dfferent	dfferent	JJ	CW	ADJ
+culture	culture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+that	that	DT	FW	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+are	be	VBP	CW	VERB
+honestly	honestly	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+body	body	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+
+sentence break
+
+finally	finally	RB	ADV	CW
+thomas	thomas	IN	FW
+jefferson	jefferson	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+is	be	VBZ	CW	VERB
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+help	help	VB	CW	VERB
+in	in	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+help	help	VB	CW	VERB
+to	to	TO	FW
+resolved	resolve	VBN	CW	VERB
+the	the	DT	FW
+prblem	prblem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+period	period	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+
+paragraph break
+
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+inteligent	inteligent	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+help	help	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBD	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+whatever	whatever	WDT	FW
+what	what	WDT	FW
+culture	culture	NN	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+honestly	honestly	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+say	say	VB	CW	VERB
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jfferson	jfferson	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+why	why	WRB	FW
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferso	jefferso	NNP	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+need	need	VBP	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

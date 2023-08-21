@@ -1,0 +1,533 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+dont	dont	NN	CW	NOUN	ARGUMENT
+need	need	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+but	but	CC	FW
+``	``	``	FW
+perseverance	perseverance	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+and	and	CC	FW
+when	when	WRB	FW
+one	one	CD	FW
+go	go	VB	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+action	action	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+dont	dont	VB	CW	VERB
+give	give	VB	CW	VERB
+up	up	RP	FW
+show	show	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+capable	capable	JJ	CW	ADJ
+is	be	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW	SUBORDINATOR
+one	one	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+failures	failure	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+necessary	necessary	JJ	CW	ADJ
+fail	fail	VBP	CW	VERB
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+sometimes	sometimes	RB	ADV	CW
+one	one	CD	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+decide	decide	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+fail	fail	VB	CW	VERB
+fail	fail	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+form	form	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+one	one	CD	FW
+know	know	VBP	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+and	and	CC	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+necessary	necessary	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+to	to	TO	FW
+correct	correct	VB	CW	VERB
+and	and	CC	FW
+prevent	prevent	VB	CW	VERB
+a	a	DT	FW
+future	future	JJ	CW	ADJ
+failure	failure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+third	third	NNP	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+the	the	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+try	try	VB	CW	VERB
+again	again	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+driver	driver	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fail	fail	VBP	CW	VERB
+but	but	CC	FW
+still	still	RB	ADV	CW
+studying	study	VBG	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+again	again	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+necessary	necessary	JJ	CW	ADJ
+score	score	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+this	this	DT	FW
+show	show	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+again	again	RB	ADV	CW
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+one	one	CD	FW
+try	try	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+a	a	DT	FW
+magic	magic	JJ	CW	ADJ
+trick	trick	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+guarantee	guarantee	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+with	with	IN	FW
+perseverance	perseverance	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+magician	magician	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+only	only	RB	ADV	CW
+reached	reach	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+one	one	CD	FW
+decide	decide	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+again	again	RB	ADV	CW
+after	after	IN	FW	SUBORDINATOR
+fail	fail	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+``	``	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+is	be	VBZ	FW	aux_or_cop
+well	well	RB	ADV	CW
+know	know	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+do	do	VBP	CW	VERB
+n't	not	RB	ADV	CW
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+believe	believe	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+one	one	CD	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	better	RBR	ADV	CW
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+one	one	CD	FW
+think	think	VBP	CW	VERB
+about	about	IN	FW
+different	different	JJ	CW	ADJ
+possibilities	possibility	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+prepare	prepare	VB	CW	VERB
+to	to	TO	FW
+control	control	VB	CW	VERB
+the	the	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+the	the	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+try	try	VB	CW	VERB
+again	again	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+who	who	WP	FW
+may	may	MD	FW	aux_or_cop
+concern	concern	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+failure	failure	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+helps	help	VBZ	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+dont	dont	VB	CW	VERB
+make	make	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+cook	cook	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+``	``	``	FW
+try	try	VB	CW	VERB
+and	and	CC	FW
+fail	fail	VB	CW	VERB
+''	''	''	FW
+because	because	IN	FW	SUBORDINATOR
+one	one	CD	FW
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+put	put	VB	CW	VERB
+a	a	DT	FW
+specific	specific	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+spices	spice	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+vegetables	vegetable	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+give	give	VB	CW	VERB
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+flavor	flavor	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+what	what	WP	FW
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+one	one	CD	FW
+needs	need	VBZ	CW	VERB
+to	to	TO	FW
+correct	correct	VB	CW	VERB
+like	like	IN	FW
+to	to	TO	FW
+dont	dont	VB	CW	VERB
+put	put	JJ	CW	ADJ
+much	much	JJ	CW	ADJ
+sugar	sugar	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+cake	cake	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+dont	dont	NN	CW	NOUN	ARGUMENT
+put	put	VBD	CW	VERB
+much	much	JJ	CW	ADJ
+salt	salt	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+salad	salad	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+in	in	IN	FW
+various	various	JJ	CW	ADJ
+forms	form	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+pronunciation	pronunciation	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+form	form	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+sentence	sentence	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+abilities	ability	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+these	these	DT	FW
+too	too	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+failure	failure	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+one	one	CD	FW
+think	think	VBP	CW	VERB
+about	about	IN	FW
+different	different	JJ	CW	ADJ
+possibilities	possibility	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW
+one	one	CD	FW
+try	try	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+built	build	VBN	CW	VERB
+a	a	DT	FW
+ship	ship	NN	CW	NOUN	ARGUMENT
+inside	inside	IN	FW
+a	a	DT	FW
+bottle	bottle	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fail	fail	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+little	little	JJ	CW	ADJ
+pieces	piece	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+ship	ship	NN	CW	NOUN	ARGUMENT
+broke	break	VBD	CW	VERB
+inside	inside	IN	FW
+for	for	IN	FW
+dont	dont	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+careful	careful	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+persons	person	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+going	go	VBG	CW	VERB
+to	to	TO	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+pieces	piece	NNS	CW	NOUN	ARGUMENT
+break	break	VBP	CW	VERB
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+avoid	avoid	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+situation	situation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+one	one	CD	FW
+flew	fly	VBD	CW	VERB
+a	a	DT	FW
+kite	kite	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+bird	bird	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+wind	wind	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+the	the	DT	FW
+kite	kite	NN	CW	NOUN	ARGUMENT
+crash	crash	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+occasion	occasion	NN	CW	NOUN	ARGUMENT
+``	``	``	FW
+what	what	WP	FW
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+kite	kite	NN	CW	NOUN	ARGUMENT
+crash	crash	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+possibility	possibility	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

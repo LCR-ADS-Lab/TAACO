@@ -1,0 +1,582 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+rest	rest	VB	CW	VERB
+mostly	mostly	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+effect	effect	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+stress	stress	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+health	health	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+rest	rest	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+stress	stress	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+middle	middle	JJ	CW	ADJ
+schoolers	schooler	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+high	high	JJ	CW	ADJ
+schoolers	schooler	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+always	always	RB	ADV	CW
+stress	stress	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+preoccupations	preoccupation	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+grades	grade	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+stress	stress	VBP	CW	VERB
+and	and	CC	FW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+colleges	college	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+in	in	IN	FW
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+by	by	IN	FW
+taking	take	VBG	CW	VERB
+the	the	DT	FW
+four	four	CD	FW
+-	-	HYPH	FW
+day	day	NN	CW	NOUN	ARGUMENT
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+reserving	reserve	VBG	CW	VERB
+energy	energy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+resources	resource	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+not	not	RB	ADV	CW
+driving	drive	VBG	CW	VERB
+cars	car	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+motorcycles	motorcycle	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+toxic	toxic	JJ	CW	ADJ
+smoke	smoke	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+vehicle	vehicle	NN	CW	NOUN	ARGUMENT
+throws	throw	VBZ	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+air	air	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+breath	breath	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+sometimes	sometimes	RB	ADV	CW
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+big	big	JJ	CW	ADJ
+businesses	business	NNS	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+of	of	IN	FW
+abusive	abusive	JJ	CW	ADJ
+or	or	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+extra	extra	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+extra	extra	JJ	CW	ADJ
+hours	hour	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+to	to	TO	FW
+live	live	VB	CW	VERB
+and	and	CC	FW
+not	not	RB	ADV	CW
+live	live	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+somehow	somehow	RB	ADV	FW
+got	get	VBD	CW	VERB
+to	to	TO	FW
+look	look	VB	CW	VERB
+for	for	IN	FW
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+provide	provide	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+jobs	job	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+home	home	RB	ADV	CW
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+having	have	VBG	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+off	off	RP	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+catch	catch	VB	CW	VERB
+with	with	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+behind	behind	IN	FW
+or	or	CC	FW
+for	for	IN	FW	SUBORDINATOR
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+catch	catch	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+homeworks	homework	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+school	school	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+exhausting	exhausting	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+depressed	depress	VBN	CW	VERB
+or	or	CC	FW
+stressed	stress	VBN	CW	VERB
+out	out	RP	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+run	run	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+energy	energy	NN	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+when	when	WRB	FW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+expects	expect	VBZ	CW	VERB
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+good	good	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+every	every	DT	FW
+single	single	JJ	CW	ADJ
+member	member	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+telling	tell	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+good	good	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+stressful	stressful	JJ	CW	ADJ
+
+sentence break
+
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+through	through	IN	FW
+four	four	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+then	then	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+the	the	DT	FW
+extra	extra	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+relax	relax	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+body	body	NN	CW	NOUN	ARGUMENT
+mentally	mentally	RB	ADV	CW
+and	and	CC	FW
+physically	physically	RB	ADV	CW
+
+sentence break
+
+working	work	VBG	CW	VERB
+too	too	RB	ADV	CW
+much	much	JJ	CW	ADJ
+causes	cause	VBZ	CW	VERB
+stress	stress	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+grueling	gruele	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+thinking	think	VBG	CW	VERB
+too	too	RB	ADV	CW
+much	much	RB	ADV	CW
+about	about	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+worrying	worry	VBG	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+bills	bill	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+
+sentence break
+
+by	by	IN	FW
+being	be	VBG	FW	aux_or_cop
+worried	worried	JJ	CW	ADJ
+too	too	RB	ADV	CW
+much	much	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+even	even	RB	ADV	CW
+cause	cause	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+to	to	TO	FW
+support	support	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+put	put	VB	CW	VERB
+yourmind	yourmind	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+slack	slack	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+that	that	DT	FW
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thedays	theday	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusions	conclusion	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+relax	relax	VB	CW	VERB
+and	and	CC	FW
+not	not	RB	ADV	CW
+stressed	stress	VBN	CW	VERB
+about	about	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+jobs	job	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+exhausted	exhausted	JJ	CW	ADJ
+and	and	CC	FW
+start	start	VB	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+all	all	DT	FW
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+responsabilities	responsabilitie	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+working	work	VBG	CW	VERB
+for	for	IN	FW
+10	10	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+for	for	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+teeagers	teeager	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+adults	adult	NNS	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+preoccupations	preoccupation	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+envolves	envolve	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+and	and	CC	FW
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+stressful	stressful	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+dangerous	dangerous	JJ	CW	ADJ
+to	to	TO	FW
+stress	stress	VB	CW	VERB
+and	and	CC	FW
+not	not	RB	ADV	CW
+sleep	sleep	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+worry	worry	VBP	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+responsabilities	responsabilitie	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+

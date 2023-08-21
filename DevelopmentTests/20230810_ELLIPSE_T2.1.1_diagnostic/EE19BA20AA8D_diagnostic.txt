@@ -1,0 +1,626 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+more	more	RBR	ADV	CW
+with	with	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+on	on	IN	FW
+or	or	CC	FW
+with	with	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+chosen	choose	VBN	CW	VERB
+by	by	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+-designed	-designe	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+prepare	prepare	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+following	following	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+more	more	RBR	ADV	CW
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+show	show	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+interest	interest	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+begin	begin	VB	CW	VERB
+with	with	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+prepare	prepare	VBP	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+following	follow	VBG	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+giving	give	VBG	CW	VERB
+out	out	RP	FW
+many	many	JJ	CW	ADJ
+topics	topic	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+sister	sister	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	IN	FW
+third	third	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+received	receive	VBD	CW	VERB
+a	a	DT	FW
+math	math	NN	CW	NOUN	ARGUMENT
+packet	packet	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+prepare	prepare	VB	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+third	third	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+full	full	JJ	CW	ADJ
+of	of	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+carrying	carry	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+around	around	RB	ADV	CW
+and	and	CC	FW
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+math	math	NN	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+every	every	DT	FW
+single	single	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+multiply	multiply	VB	CW	VERB
+and	and	CC	FW
+divide	divide	VB	CW	VERB
+with	with	IN	FW
+multiple	multiple	JJ	CW	ADJ
+digits	digit	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+asks	ask	VBZ	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+write	write	VB	CW	VERB
+some	some	DT	FW
+math	math	NN	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+more	more	RBR	ADV	CW
+with	with	IN	FW
+a	a	DT	FW
+specific	specific	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+a	a	DT	FW
+chosen	choose	VBN	CW	VERB
+one	one	CD	FW
+by	by	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+given	give	VBN	CW	VERB
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+research	research	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+facts	fact	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+getting	get	VBG	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+information	information	NN	CW	NOUN	ARGUMENT
+among	among	IN	FW
+those	those	DT	FW
+topics	topic	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+through	through	IN	FW
+many	many	JJ	CW	ADJ
+websites	website	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+resources	resource	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+then	then	RB	ADV	CW
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+this	this	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+also	also	RB	ADV	CW
+preparing	prepare	VBG	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+bigger	big	JJR	CW	ADJ
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+succeed	succeed	VB	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+gain	gain	VBP	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+researching	research	VBG	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+topics	topic	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+stuck	stick	VBN	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+heads	head	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+brains	brain	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+retain	retain	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+information	information	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+heads	head	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+show	show	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+interest	interest	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+given	give	VBN	CW	VERB
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+tend	tend	VBP	CW	VERB
+to	to	TO	FW
+focus	focus	VB	CW	VERB
+more	more	RBR	ADV	CW
+in	in	IN	FW
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+given	give	VBN	CW	VERB
+by	by	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+to	to	TO	FW
+write	write	VB	CW	VERB
+a	a	DT	FW
+free	free	JJ	CW	ADJ
+writing	writing	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+where	where	WRB	FW
+to	to	TO	FW
+start	start	VB	CW	VERB
+or	or	CC	FW
+what	what	WP	FW
+to	to	TO	FW
+write	write	VB	CW	VERB
+about	about	IN	FW
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+given	give	VBN	CW	VERB
+one	one	CD	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+writing	write	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+right	right	RB	ADV	CW
+away	away	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+writing	write	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+interest	interest	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBD	CW	VERB
+an	an	DT	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+interest	interest	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+interest	interest	NN	CW	NOUN	ARGUMENT
+topics	topic	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+open	open	JJ	CW	ADJ
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+given	give	VBN	CW	VERB
+a	a	DT	FW
+specific	specific	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+show	show	VBP	CW	VERB
+interest	interest	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+summer	summer	NN	CW	NOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+student	student	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+designed	design	VBN	CW	VERB
+but	but	CC	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+designed	design	VBN	CW	VERB
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+succeed	succeed	VB	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+designed	design	VBN	CW	VERB
+by	by	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+advantages	advantage	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+write	write	VB	CW	VERB
+about	about	IN	FW
+boring	bore	VBG	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+interesting	interesting	JJ	CW	ADJ
+ones	one	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+from	from	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+flexible	flexible	JJ	CW	ADJ
+with	with	IN	FW
+a	a	DT	FW
+certain	certain	JJ	CW	ADJ
+topic	topic	NN	CW	NOUN	ARGUMENT
+given	give	VBN	CW	VERB
+by	by	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+chosen	choose	VBN	CW	VERB
+by	by	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+give	give	VB	CW	VERB
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+designed	design	VBN	CW	VERB
+projects	project	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+student	student	VB	CW	VERB
+during	during	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+breaks	break	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+likely	likely	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+prepare	prepare	VB	CW	VERB
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+next	next	IN	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

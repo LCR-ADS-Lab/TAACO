@@ -1,0 +1,240 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+mr.	mr.	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+about	about	IN	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+master	master	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+not	not	RB	ADV	CW
+growing	grow	VBG	CW	VERB
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+experience	experience	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+working	work	VBG	CW	VERB
+in	in	IN	FW
+construction	construction	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+measure	measure	VB	CW	VERB
+wood	wood	NN	CW	NOUN	ARGUMENT
+cut	cut	VBD	CW	VERB
+wood	wood	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+install	install	VB	CW	VERB
+wood	wood	NN	CW	NOUN	ARGUMENT
+frames	frame	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	DT	FW
+of	of	IN	FW
+that	that	DT	FW	PRONOUN
+taught	teach	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+more	more	RBR	ADV	CW
+efficient	efficient	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+taught	teach	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+use	use	VB	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+tools	tool	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+utilitys	utility	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+to	to	TO	FW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+different	different	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+how	how	WRB	FW
+to	to	TO	FW
+change	change	VB	CW	VERB
+the	the	DT	FW
+oil	oil	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+car	car	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+went	go	VBD	CW	VERB
+wrong	wrong	JJ	CW	ADJ
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+car	car	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+if	if	IN	FW	SUBORDINATOR
+something	something	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+wrong	wrong	JJ	CW	ADJ
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+engine	engine	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+if	if	IN	FW	SUBORDINATOR
+some	some	DT	FW
+hoses	hose	NNS	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+loose	loose	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+at	at	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+right	right	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+acceptable	acceptable	JJ	CW	ADJ
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+focusing	focus	VBG	CW	VERB
+on	on	IN	FW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+alright	alright	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+would	would	MD	FW	aux_or_cop
+`	`	``	FW
+nt	nt	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+like	like	IN	FW
+doing	do	VBG	CW	VERB
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+to	to	TO	FW
+know	know	VB	CW	VERB
+many	many	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+construction	construction	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+car	car	NN	CW	NOUN	ARGUMENT
+mechanic	mechanic	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+connect	connect	VB	CW	VERB
+electricity	electricity	NN	CW	NOUN	ARGUMENT
+wires	wire	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+truly	truly	RB	ADV	FW
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+knowing	know	VBG	CW	VERB
+many	many	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

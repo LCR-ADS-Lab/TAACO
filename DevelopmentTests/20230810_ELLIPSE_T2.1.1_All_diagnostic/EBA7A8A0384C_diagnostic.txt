@@ -1,0 +1,493 @@
+word	lemma	POS	CW\FW	other categories
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VBP	FW	aux_or_cop
+asking	ask	VBG	CW	VERB
+when	when	WRB	FW
+some	some	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+"	"	``	FW
+where	where	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+"	"	''	FW
+
+sentence break
+
+well	well	UH	FW
+those	those	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+an	an	DT	FW
+answer	answer	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+that	that	DT	FW
+question	question	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+the	the	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+or	or	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+choice	choice	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+the	the	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+where	where	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+this	this	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+or	or	CC	FW
+see	see	VB	CW	VERB
+once	once	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+spain	spain	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+are	be	VBP	CW	VERB
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+spain	spain	NNP	CW	NOUN	ARGUMENT
+orgeneric_city	orgeneric_city	NNP	CW	NOUN	ARGUMENT
+spain	spain	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+two	two	CD	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+those	those	DT	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+spain	spain	NNP	CW	NOUN	ARGUMENT
+orgeneric_city	orgeneric_city	NNP	CW	NOUN	ARGUMENT
+spain	spain	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+teams	team	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+there	there	RB	ADV	CW
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+called	call	VBN	CW	VERB
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+called	call	VBD	CW	VERB
+real	real	JJ	CW	ADJ
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+two	two	CD	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+specificly	specificly	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+spain	spain	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+a	a	DT	FW
+stadium	stadium	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+from	from	IN	FW
+a	a	DT	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+knowns	known	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+the	the	DT	FW
+real	real	JJ	CW	ADJ
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+heard	hear	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+distracted	distract	VBN	CW	VERB
+from	from	IN	FW
+all	all	DT	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+issues	issue	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+at	at	IN	FW
+generic_city	generic_city	NNP	CW	NOUN	ARGUMENT
+spain	spain	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+beautiful	beautiful	JJ	CW	ADJ
+statue	statue	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+in	in	RB	ADV	CW
+there	there	RB	ADV	CW
+
+sentence break
+
+in	in	IN	FW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+resturant	resturant	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+some	some	DT	FW
+of	of	IN	FW
+those	those	DT	FW
+resturant	resturant	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+third	third	RB	ADV	CW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+located	locate	VBN	CW	VERB
+in	in	IN	FW
+europe	europe	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+love	love	VBP	CW	VERB
+traveling	travel	VBG	CW	VERB
+to	to	IN	FW
+europe	europe	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+countries	country	NNS	CW	NOUN	ARGUMENT
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+portugal	portugal	NNP	CW	NOUN	ARGUMENT
+france	france	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+so	so	RB	ADV	CW
+pretty	pretty	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+u	u	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+the	the	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+up	up	RP	FW
+in	in	IN	FW
+the	the	DT	FW
+sky	sky	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+tho	tho	RB	ADV	FW
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+lights	light	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+lighting	light	VBG	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+spain	spain	NNP	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+
+sentence break
+
+spain	spain	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+full	full	JJ	CW	ADJ
+of	of	IN	FW
+history	history	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+spain	spain	NNP	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+a	a	DT	FW
+break	break	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+whatever	whatever	WDT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+giving	give	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+hard	hard	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+this	this	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+favorite	favorite	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+cause	cause	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hope	hope	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+helped	help	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+and	and	CC	FW
+to	to	TO	FW
+figure	figure	VB	CW	VERB
+out	out	RP	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+stuck	stick	VBN	CW	VERB
+on	on	IN	FW
+which	which	WDT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+liked	like	VBD	CW	VERB
+the	the	DT	FW
+most	most	JJS	CW	ADJ
+and	and	CC	FW
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+travel	travel	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,463 @@
+word	lemma	POS	CW\FW	other categories
+can	can	MD	FW	aux_or_cop
+technology	technology	NN	CW	NOUN	ARGUMENT
+have	have	VB	CW	VERB
+positive	positive	JJ	CW	ADJ
+or	or	CC	FW
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+get	get	VB	FW	aux_or_cop
+hurt	hurt	VBN	CW	VERB
+hurt	hurt	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+addicted	addicted	JJ	CW	ADJ
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+being	be	VBG	FW	aux_or_cop
+antisocial	antisocial	JJ	CW	ADJ
+
+sentence break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+even	even	RB	ADV	CW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+more	more	RBR	ADV	CW
+accomplish	accomplish	JJ	CW	ADJ
+by	by	IN	FW
+paying	pay	VBG	CW	VERB
+bills	bill	NNS	CW	NOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+siblings	sibling	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+to	to	IN	FW
+there	there	EX	FW
+destination	destination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+more	more	RBR	ADV	CW
+accomplish	accomplish	JJ	CW	ADJ
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+drive	drive	VB	CW	VERB
+very	very	RB	ADV	CW
+far	far	RB	ADV	CW
+out	out	RP	FW
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+bills	bill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+driving	drive	VBG	CW	VERB
+out	out	RP	FW
+wasting	waste	VBG	CW	VERB
+gas	gas	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+waiting	wait	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+pay	pay	VB	CW	VERB
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+bills	bill	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+going	go	VBG	CW	VERB
+out	out	RP	FW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+wast	wast	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+gas	gas	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+hard	hard	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+finding	find	VBG	CW	VERB
+a	a	DT	FW
+baby	baby	NN	CW	NOUN	ARGUMENT
+sitter	sitter	NN	CW	NOUN	ARGUMENT
+others	other	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+have	have	VBP	CW	VERB
+there	there	EX	FW
+loved	love	VBN	CW	VERB
+ones	one	NNS	CW	NOUN	ARGUMENT
+babysit	babysit	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+loved	love	VBN	CW	VERB
+ones	one	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+online	online	RB	ADV	FW
+find	find	VB	CW	VERB
+there	there	EX	FW
+baby	baby	NN	CW	NOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+job	job	NN	CW	NOUN	ARGUMENT
+an	an	DT	FW
+be	be	NN	CW	NOUN	ARGUMENT
+satire	satire	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+finding	find	VBG	CW	VERB
+a	a	DT	FW
+baby	baby	NN	CW	NOUN	ARGUMENT
+sitter	sitter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+travel	travel	VB	CW	VERB
+far	far	RB	ADV	CW
+to	to	TO	FW
+meet	meet	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+siblings	sibling	NNS	CW	NOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+hangout	hangout	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+better	well	RBR	ADV	CW
+again	again	RB	ADV	CW
+
+sentence break
+
+however	however	RB	ADV	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+talking	talk	VBG	CW	VERB
+to	to	IN	FW
+then	then	RB	ADV	CW
+on	on	RP	FW
+by	by	IN	FW
+face	face	NN	CW	NOUN	ARGUMENT
+timing	timing	NN	CW	NOUN	ARGUMENT
+emailing	email	VBG	CW	VERB
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+there	there	RB	ADV	CW
+loved	love	VBN	CW	VERB
+ones	one	NNS	CW	NOUN	ARGUMENT
+getting	get	VBG	CW	VERB
+in	in	IN	FW
+an	an	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+accident	accident	NN	CW	NOUN	ARGUMENT
+getting	getting	VBG	FW	aux_or_cop
+lost	lose	VBN	CW	VERB
+and	and	CC	FW
+loved	love	VBN	CW	VERB
+ones	one	NNS	CW	NOUN	ARGUMENT
+fighting	fight	VBG	CW	VERB
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+have	have	VBP	CW	VERB
+disagreements	disagreement	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+connect	connect	VBP	CW	VERB
+better	well	JJR	CW	ADJ
+far	far	JJ	CW	ADJ
+distance	distance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+different	different	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+different	different	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+all	all	RB	ADV	CW
+together	together	RB	ADV	CW
+
+sentence break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+separate	separate	RB	ADV	CW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+in	in	IN	FW
+between	between	IN	FW
+
+sentence break
+
+
+paragraph break
+
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+driver	driver	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+where	where	WRB	FW
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+gather	gather	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+town	town	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+destination	destination	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+a	a	DT	FW
+map	map	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	IN	FW
+there	there	EX	FW
+destination	destination	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+helpful	helpful	JJ	CW	ADJ
+and	and	CC	FW
+very	very	RB	ADV	CW
+useful	useful	JJ	CW	ADJ
+but	but	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+using	use	VBG	CW	VERB
+there	there	RB	ADV	CW
+phone	phone	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+still	still	RB	ADV	CW
+use	use	VB	CW	VERB
+a	a	DT	FW
+not	not	RB	ADV	CW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+mostly	mostly	RB	ADV	CW
+use	use	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+use	use	VB	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+talking	talk	VBG	CW	VERB
+to	to	IN	FW
+there	there	RB	ADV	CW
+loved	love	VBN	CW	VERB
+ones	one	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+to	to	IN	FW
+there	there	EX	FW
+destination	destination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

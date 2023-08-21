@@ -1,0 +1,478 @@
+word	lemma	POS	CW\FW	other categories
+"	"	``	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+value	value	VBP	CW	VERB
+self	self	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+reliance	reliance	NN	CW	NOUN	ARGUMENT
+define	define	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+the	the	DT	FW
+need	need	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+each	each	DT	FW
+individual	individual	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+own	own	JJ	CW	ADJ
+instincts	instinct	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+self	self	NN	CW	NOUN	ARGUMENT
+-	-	HYPH	FW
+reliance	reliance	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+one	one	CD	FW
+'s	's	POS	FW
+person	person	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+efforts	effort	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+abilities	ability	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+relating	relate	VBG	CW	VERB
+to	to	IN	FW
+an	an	DT	FW
+individual	individual	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+own	own	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+him	he	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+his	his	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+own	own	JJ	CW	ADJ
+instincts	instinct	VBZ	CW	VERB
+a	a	DT	FW
+complex	complex	JJ	CW	ADJ
+patter	patter	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+response	response	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+an	an	DT	FW
+organism	organism	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+environmental	environmental	JJ	CW	ADJ
+stimuli	stimulus	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+largely	largely	RB	ADV	CW
+inborn	inborn	JJ	CW	ADJ
+and	and	CC	FW
+unalterable	unalterable	JJ	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+act	act	VBP	CW	VERB
+result	result	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+deciding	decide	VBG	CW	VERB
+especially	especially	RB	ADV	FW
+by	by	IN	FW
+giving	give	VBG	CW	VERB
+judgment	judgment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+has	have	VBZ	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+almost	almost	RB	ADV	FW
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+
+sentence break
+
+person	person	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+advice	advice	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+well	well	RB	ADV	CW
+which	which	WDT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+someday	someday	RB	ADV	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+anything	anything	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+something	something	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+well	well	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+one	one	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+who	who	WP	FW
+reliance	reliance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+well	well	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+haves	have	VBZ	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+them	they	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hi	hi	VBP	CW	VERB
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+advice	advice	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+every	every	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+then	then	RB	ADV	CW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+all	all	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+get	get	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+who	who	WP	FW
+reliance	reliance	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+talk	talk	VB	CW	VERB
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+or	or	CC	FW
+think	think	VB	CW	VERB
+
+sentence break
+
+no	no	UH	FW
+all	all	DT	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+some	some	DT	FW
+just	just	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+wanna	wanna	NNP	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+not	not	RB	ADV	CW
+reliance	reliance	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+s	s	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+wan	wan	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+by	by	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+a	a	DT	FW
+walk	walk	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+outside	outside	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	CW	VERB
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+old	old	JJ	CW	ADJ
+them	they	PRP	FW	PRONOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+s	s	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+
+sentence break
+
+but	but	CC	FW
+some	some	DT	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+are	be	VBP	FW	aux_or_cop
+well	well	JJ	CW	ADJ
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+now	now	RB	ADV	CW
+
+sentence break
+
+also	also	RB	ADV	CW
+not	not	RB	ADV	CW
+all	all	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+reliance	reliance	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+the	the	DT	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+matters	matter	VBZ	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+the	the	DT	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+from	from	IN	FW
+do	do	VB	FW	aux_or_cop
+where	where	WRB	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+want	want	VBP	CW	VERB
+
+sentence break
+
+and	and	CC	FW
+some	some	DT	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+get	get	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+matter	matter	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+take	take	NN	CW	NOUN	ARGUMENT
+advice	advice	NN	CW	NOUN	ARGUMENT
+much	much	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+
+sentence break
+
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+a	a	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+young	young	JJ	CW	ADJ
+them	they	PRP	FW	PRONOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+his	his	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+one	one	CD	FW
+or	or	CC	FW
+more	more	JJR	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+old	old	JJ	CW	ADJ
+them	they	PRP	FW	PRONOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+live	live	VBP	CW	VERB
+more	more	RBR	ADV	CW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

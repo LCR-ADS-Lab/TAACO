@@ -1,0 +1,537 @@
+word	lemma	POS	CW\FW	other categories
+therefore	therefore	RB	ADV	FW
+community	community	NNP	CW	NOUN	ARGUMENT
+state	state	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+national	national	JJ	CW	ADJ
+parks	park	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+playing	play	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+sport	sport	NN	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+exercise	exercise	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+party	party	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+cant	cant	VBP	CW	VERB
+just	just	RB	ADV	CW
+be	be	VB	CW	VERB
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+long	long	RB	ADV	CW
+go	go	VB	CW	VERB
+and	and	CC	FW
+enjoy	enjoy	VB	CW	VERB
+nature	nature	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+most	most	RBS	ADV	CW
+importantly	importantly	RB	ADV	CW
+have	have	VBP	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+enjoy	enjoy	VB	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+love	love	NN	CW	NOUN	ARGUMENT
+ones	one	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+safe	safe	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+beautiful	beautiful	JJ	CW	ADJ
+sunny	sunny	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+outside	outside	RB	ADV	CW
+a	a	DT	FW
+nice	nice	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+go	go	VB	CW	VERB
+to	to	TO	FW
+any	any	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+near	near	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+wouldnt	wouldnt	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+many	many	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+which	which	WDT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+play	play	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+sport	sport	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+call	call	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+play	play	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+have	have	VB	CW	VERB
+some	some	DT	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+im	im	NN	CW	NOUN	ARGUMENT
+sure	sure	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+yes	yes	UH	FW
+because	because	RB	ADV	CW
+just	just	RB	ADV	CW
+like	like	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+to	to	TO	FW
+havefun	havefun	VB	CW	VERB
+too	too	RB	ADV	CW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+do	do	VBP	CW	VERB
+what	what	WP	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+bought	bought	JJ	CW	ADJ
+soda	soda	NN	CW	NOUN	ARGUMENT
+bought	buy	VBD	CW	VERB
+chips	chip	NNS	CW	NOUN	ARGUMENT
+chose	choose	VBD	CW	VERB
+2	2	CD	FW
+captains	captain	NNS	CW	NOUN	ARGUMENT
+captains	captain	NNS	CW	NOUN	ARGUMENT
+made	make	VBD	CW	VERB
+teams	team	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+for	for	IN	FW
+the	the	DT	FW
+soda	soda	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+chips	chip	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+cup	cup	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+champions	champion	NNS	CW	NOUN	ARGUMENT
+league	league	NN	CW	NOUN	ARGUMENT
+final	final	JJ	CW	ADJ
+which	which	WDT	FW
+of	of	IN	FW
+course	course	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+won	win	VBD	CW	VERB
+but	but	CC	FW
+thats	that	VBZ	CW	VERB
+not	not	RB	ADV	CW
+important	important	JJ	CW	ADJ
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+birthday	birthday	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+coming	come	VBG	CW	VERB
+up	up	RB	ADV	CW
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+a	a	DT	FW
+party	party	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+invite	invite	VB	CW	VERB
+all	all	DT	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+easy	easy	JJ	CW	ADJ
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+perfect	perfect	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+party	party	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+bring	bring	VB	CW	VERB
+the	the	DT	FW
+decorations	decoration	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+put	put	VB	CW	VERB
+the	the	DT	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+kids	kid	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+play	play	NN	CW	NOUN	ARGUMENT
+adults	adult	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+while	while	IN	FW	SUBORDINATOR
+enjoying	enjoy	VBG	CW	VERB
+the	the	DT	FW
+sunny	sunny	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+nice	nice	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+eat	eat	VB	CW	VERB
+dance	dance	VB	CW	VERB
+play	play	VB	CW	VERB
+or	or	CC	FW
+just	just	RB	ADV	CW
+chill	chill	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+dont	dont	NN	CW	NOUN	ARGUMENT
+waste	waste	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+mony	mony	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+special	special	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+risk	risk	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+how	how	WRB	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+energetic	energetic	JJ	CW	ADJ
+humans	human	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+do	do	VBP	CW	VERB
+the	the	DT	FW
+party	party	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+have	have	VBP	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+the	the	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+brake	brake	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+do	do	VBP	FW	aux_or_cop
+exercise	exercise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VB	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+that	that	DT	FW
+amazing	amazing	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+model	model	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+by	by	IN	FW
+being	be	VBG	CW	VERB
+at	at	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+sleeping	sleep	VBG	CW	VERB
+eating	eat	VBG	CW	VERB
+or	or	CC	FW
+watching	watch	VBG	CW	VERB
+tv	tv	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+up	up	RB	ADV	CW
+and	and	CC	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+run	run	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+like	like	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+go	go	VB	FW	aux_or_cop
+do	do	VB	FW	aux_or_cop
+push	push	VB	CW	VERB
+ups	up	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sit	sit	VB	CW	VERB
+ups	up	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+like	like	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	CW	VERB
+or	or	CC	FW
+just	just	RB	ADV	CW
+go	go	VB	CW	VERB
+play	play	VB	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+any	any	DT	FW
+other	other	JJ	CW	ADJ
+sport	sport	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+just	just	RB	ADV	CW
+like	like	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+every	every	DT	FW
+afternoon	afternoon	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+doing	do	VBG	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+chores	chore	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+course	course	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+do	do	VB	CW	VERB
+exercise	exercise	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	JJ	CW	ADJ
+need	need	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+gym	gym	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+go	go	VB	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+exercise	exercise	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

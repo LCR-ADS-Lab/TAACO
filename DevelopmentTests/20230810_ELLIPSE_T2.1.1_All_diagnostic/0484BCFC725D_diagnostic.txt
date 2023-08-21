@@ -1,0 +1,302 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VB	CW	VERB
+fail	fail	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+this	this	DT	FW
+paper	paper	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+argue	argue	VB	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+sad	sad	JJ	CW	ADJ
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+not	not	RB	ADV	CW
+loss	loss	VB	CW	VERB
+the	the	DT	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+mad	mad	JJ	CW	ADJ
+by	by	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+sad	sad	JJ	CW	ADJ
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+right	right	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+doe	doe	VBP	CW	VERB
+and	and	CC	FW
+maybe	maybe	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+image	image	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+gon	go	VBP	CW	VERB
+na	to	TO	FW
+fail	fail	VB	CW	VERB
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+some	some	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+cry	cry	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+not	not	RB	ADV	CW
+loss	loss	VB	CW	VERB
+the	the	DT	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+maybe	maybe	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+so	so	RB	ADV	CW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+mean	mean	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+loss	loss	VBP	CW	VERB
+the	the	DT	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+one	one	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+mad	mad	JJ	CW	ADJ
+by	by	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+cause	cause	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+do	do	VB	CW	VERB
+well	well	RB	ADV	CW
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+really	really	RB	ADV	CW
+mad	mad	JJ	CW	ADJ
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+error	error	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+get	get	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+because	because	IN	FW
+the	the	DT	FW
+errors	error	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+made	make	VBN	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+loss	loss	VB	CW	VERB
+the	the	DT	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+been	been	VBD	FW	aux_or_cop
+falling	fall	VBG	CW	VERB
+and	and	CC	FW
+that	that	WDT	FW	PRONOUN
+made	make	VBD	CW	VERB
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+won	win	VBD	CW	VERB
+for	for	IN	FW
+those	those	DT	FW	PRONOUN
+who	who	WP	FW
+said	say	VBD	CW	VERB
+that	that	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+a	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+loss	loss	VB	CW	VERB
+the	the	DT	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+keep	keep	VB	FW	aux_or_cop
+going	go	VBG	CW	VERB
+until	until	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+sure	sure	JJ	CW	ADJ
+to	to	TO	FW
+not	not	RB	ADV	CW
+fail	fail	VB	CW	VERB
+anymore	anymore	RB	ADV	FW
+and	and	CC	FW
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+been	been	VBD	FW	aux_or_cop
+falling	fall	VBG	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+been	be	VBN	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

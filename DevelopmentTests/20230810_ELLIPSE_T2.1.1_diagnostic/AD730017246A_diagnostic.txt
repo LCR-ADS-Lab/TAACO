@@ -1,0 +1,372 @@
+word	lemma	POS	CW\FW	other categories
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minster	minster	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+"	"	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+quote	quote	NN	CW	NOUN	ARGUMENT
+indecteds	indected	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+becoming	become	VBG	CW	VERB
+successful	successful	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+lie	lie	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+dose	dose	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+failures	failure	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+hard	hard	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+achive	achive	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+without	without	IN	FW
+making	make	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+intersting	intersting	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+belives	belive	VBZ	CW	VERB
+this	this	DT	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+haveing	have	VBG	CW	VERB
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+lossing	losse	VBG	CW	VERB
+or	or	CC	FW
+being	be	VBG	FW	aux_or_cop
+fail	fail	JJ	CW	ADJ
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+haveing	have	VBG	CW	VERB
+successful	successful	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+result	result	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+succesful	succesful	JJ	CW	ADJ
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+critical	critical	JJ	CW	ADJ
+thinker	thinker	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+garner	garner	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+talents	talent	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+better	well	JJR	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+face	face	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+benfits	benfit	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+that	that	DT	FW
+hard	hard	JJ	CW	ADJ
+or	or	CC	FW
+easy	easy	JJ	CW	ADJ
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+makeing	make	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+challenigs	challenig	NNS	CW	NOUN	ARGUMENT
+intersting	intersting	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+led	lead	VBN	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+come	come	VBN	CW	VERB
+successful	successful	JJ	CW	ADJ
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+because	because	IN	FW	SUBORDINATOR
+having	have	VBG	CW	VERB
+intersing	intersing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+positive	positive	JJ	CW	ADJ
+attuide	attuide	NN	CW	NOUN	ARGUMENT
+towards	towards	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+challengs	challeng	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+easire	easire	VB	CW	VERB
+to	to	TO	FW
+handle	handle	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+lossing	losse	VBG	CW	VERB
+a	a	DT	FW
+bussines	bussine	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+challnge	challnge	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+bring	bring	VB	CW	VERB
+nagitive	nagitive	JJ	CW	ADJ
+atomsphere	atomsphere	RB	ADV	FW
+around	around	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+let	let	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+oppotrunity	oppotrunity	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+done	done	VB	CW	VERB
+more	more	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+piont	piont	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+failing	fail	VBG	CW	VERB
+or	or	CC	FW
+lossing	lossing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+lie	lie	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+try	try	VB	CW	VERB
+hard	hard	RB	ADV	CW
+for	for	IN	FW
+the	the	DT	FW
+intersting	intersting	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+successful	successful	JJ	CW	ADJ
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+lossing	losse	VBG	CW	VERB
+a	a	DT	FW
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+okay	okay	RB	ADV	CW
+to	to	IN	FW
+loss	loss	VB	CW	VERB
+but	but	CC	FW
+with	with	IN	FW
+positive	positive	JJ	CW	ADJ
+thought	thought	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+the	the	DT	FW
+difficults	difficult	NNS	CW	NOUN	ARGUMENT
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+face	face	VB	CW	VERB
+in	in	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+successful	successful	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+gaols	gaol	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+the	the	DT	FW
+diffecult	diffecult	NN	CW	NOUN	ARGUMENT
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+handle	handle	VB	CW	VERB
+and	and	CC	FW
+at	at	IN	FW
+end	end	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+diffcult	diffcult	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+face	face	VB	CW	VERB
+
+sentence break
+
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+intersting	interste	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+dose	dose	VBP	CW	VERB
+not	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+matter	matter	VBP	CW	VERB
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

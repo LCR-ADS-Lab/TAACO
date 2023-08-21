@@ -1,0 +1,549 @@
+word	lemma	POS	CW\FW	other categories
+author	author	NN	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+"	"	``	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greatest	great	JJS	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+day	day	NN	CW	NOUN	ARGUMENT
+ling	le	VBG	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+individuality	individuality	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+distinguish	distinguish	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+healthy	healthy	JJ	CW	ADJ
+sane	sane	JJ	CW	ADJ
+condition	condition	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+selves	self	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+greats	great	NNS	CW	NOUN	ARGUMENT
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+author	author	NNP	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+time	time	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+human	human	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+an	an	DT	FW
+unique	unique	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+music	music	NN	CW	NOUN	ARGUMENT
+artists	artist	NNS	CW	NOUN	ARGUMENT
+drawing	draw	VBG	CW	VERB
+artists	artist	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+..	..	NFP	FW
+as	as	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+especial	especial	JJ	CW	ADJ
+with	with	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+before	before	RB	ADV	CW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+make	make	VBP	CW	VERB
+an	an	DT	FW
+unique	unique	JJ	CW	ADJ
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+end	end	VB	CW	VERB
+really	really	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+or	or	CC	FW
+good	good	JJ	CW	ADJ
+either	either	CC	FW
+this	this	DT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+judge	judge	VB	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+however	however	RB	ADV	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+constantly	constantly	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+change	change	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+be	be	VB	FW	aux_or_cop
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+unique	unique	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+author	author	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+"	"	``	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+negative	negative	JJ	CW	ADJ
+persons	person	NNS	CW	NOUN	ARGUMENT
+consisting	consist	VBG	CW	VERB
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+change	change	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+or	or	CC	FW
+judge	judge	VBP	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+simple	simple	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+strong	strong	JJ	CW	ADJ
+
+sentence break
+
+why	why	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+looking	look	VBG	CW	VERB
+as	as	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+gon	go	VBP	CW	VERB
+na	to	TO	FW
+judge	judge	VB	CW	VERB
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+gon	go	VBP	CW	VERB
+na	to	TO	FW
+be	be	VB	FW	aux_or_cop
+strong	strong	JJ	CW	ADJ
+and	and	CC	FW
+not	not	RB	ADV	CW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+that	that	DT	FW	PRONOUN
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+human	human	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+life	life	NN	CW	NOUN	ARGUMENT
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+"	"	``	FW
+perfect	perfect	JJ	CW	ADJ
+"	"	''	FW
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+unique	unique	JJ	CW	ADJ
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+life	life	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+guide	guide	VB	CW	VERB
+by	by	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+death	death	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+member	member	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+artists	artist	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+did	do	VBD	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+something	something	NN	CW	NOUN	ARGUMENT
+unique	unique	JJ	CW	ADJ
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+some	some	DT	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+men	man	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+created	create	VBD	CW	VERB
+"	"	``	FW
+facebook	facebook	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+this	this	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+unique	unique	JJ	CW	ADJ
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+created	create	VBD	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+inclusive	inclusive	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+beans	bean	NNS	CW	NOUN	ARGUMENT
+created	create	VBN	CW	VERB
+before	before	IN	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+"	"	``	FW
+life	life	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+cycle	cycle	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+human	human	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+born	bear	VBN	CW	VERB
+growing	grow	VBG	CW	VERB
+up	up	RP	FW
+reproducing	reproduce	VBG	CW	VERB
+and	and	CC	FW
+dead	dead	JJ	CW	ADJ
+end	end	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+cycle	cycle	NN	CW	NOUN	ARGUMENT
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+stage	stage	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+growing	grow	VBG	CW	VERB
+up	up	RP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+let	let	VBD	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+know	know	VB	CW	VERB
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+made	make	VBN	CW	VERB
+a	a	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+life	life	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+"	"	''	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+contribute	contribute	VB	CW	VERB
+to	to	IN	FW
+this	this	DT	FW	PRONOUN
+"	"	``	FW
+life	life	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+decide	decide	VB	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+contribute	contribute	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+this	this	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+that	that	DT	FW	PRONOUN
+decision	decision	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+wherever	wherever	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+judge	judge	VB	CW	VERB
+or	or	CC	FW
+be	be	VB	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+no	no	RB	ADV	CW
+important	important	JJ	CW	ADJ
+anymore	anymore	RB	ADV	FW
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+only	only	RB	ADV	CW
+one	one	CD	FW
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+live	live	VB	CW	VERB
+wherever	wherever	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+smart	smart	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

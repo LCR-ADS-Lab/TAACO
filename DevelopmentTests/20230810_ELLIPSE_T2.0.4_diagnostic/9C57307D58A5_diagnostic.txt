@@ -1,0 +1,503 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+beaches	beach	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+mosy	mosy	NN	CW	NOUN	ARGUMENT
+beautiful	beautiful	JJ	CW	ADJ
+beaches	beach	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	TO	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+two	two	CD	FW
+more	more	JJR	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+forgot	forget	VBD	CW	VERB
+the	the	DT	FW
+names	name	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+amazing	amazing	JJ	CW	ADJ
+hotels	hotel	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+located	located	JJ	CW	ADJ
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+located	located	JJ	CW	ADJ
+in	in	IN	FW
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+hotels	hotels	NNPS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+swimming	swimming	NN	CW	NOUN	ARGUMENT
+pools	pool	NNS	CW	NOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+free	free	JJ	CW	ADJ
+drinks	drink	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+beach	beach	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+good	good	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+beautiful	beautiful	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+anybody	anybody	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+walk	walk	VB	CW	VERB
+in	in	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+buy	buy	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+or	or	CC	FW
+drink	drink	VB	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+sit	sit	VB	CW	VERB
+down	down	RB	ADV	CW
+and	and	CC	FW
+relax	relax	VB	CW	VERB
+and	and	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+buy	buy	VB	CW	VERB
+some	some	DT	FW
+clothes	clothes	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+these	these	DT	FW
+shops	shop	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+mall	mall	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+oher	oher	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+games	game	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+games	game	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+these	these	DT	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+street	street	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+diffrerent	diffrerent	JJ	CW	ADJ
+than	than	IN	FW
+any	any	DT	FW
+other	other	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+located	locate	VBN	CW	VERB
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+one	one	CD	FW
+of	of	IN	FW
+these	these	DT	FW
+places	place	NNS	CW	NOUN	ARGUMENT
+called	call	VBN	CW	VERB
+city	city	NNP	CW	NOUN	ARGUMENT
+stars	stars	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+museums	museum	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+museums	museum	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+when	when	WRB	FW
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW
+museums	museum	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+huge	huge	JJ	CW	ADJ
+but	but	CC	FW
+not	not	RB	ADV	CW
+huge	huge	JJ	CW	ADJ
+as	as	IN	FW
+the	the	DT	FW
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW
+museums	museum	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+anybody	anybody	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+interesting	interesting	JJ	CW	ADJ
+to	to	TO	FW
+see	see	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+died	die	VBD	CW	VERB
+from	from	IN	FW
+thousands	thousand	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thousands	thousand	NNS	CW	NOUN	ARGUMENT
+years	year	NNS	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+a	a	DT	FW
+magic	magic	JJ	CW	ADJ
+or	or	CC	FW
+a	a	DT	FW
+process	process	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+keep	keep	VBP	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+bodies	body	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+museums	museum	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+bodies	body	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+eyes	eye	NNS	CW	NOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+legs	leg	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+head	head	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thats	that	VBZ	CW	VERB
+absolutely	absolutely	RB	ADV	CW
+real	real	JJ	CW	ADJ
+
+sentence break
+
+these	these	DT	FW
+museums	museum	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+egyptian	egyptian	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+cultures	culture	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+egypt	egypt	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	CW	VERB
+made	make	VBN	CW	VERB
+from	from	IN	FW
+thousands	thousand	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thousands	thousand	NNS	CW	NOUN	ARGUMENT
+years	year	NNS	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+great	great	JJ	CW	ADJ
+museums	museum	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	CW	VERB
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+huge	huge	JJ	CW	ADJ
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+like	like	IN	FW
+3	3	CD	FW
+big	big	JJ	CW	ADJ
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+there	there	EX	FW
+like	like	IN	FW
+6	6	CD	FW
+other	other	JJ	CW	ADJ
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+n't	not	RB	ADV	CW
+that	that	IN	FW	PRONOUN
+big	big	JJ	CW	ADJ
+as	as	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+3	3	CD	FW
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+build	build	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+stone	stone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+need	need	MD	CW	VERB
+some	some	DT	FW
+are	be	VBP	CW	VERB
+like	like	IN	FW
+very	very	RB	ADV	CW
+big	big	JJ	CW	ADJ
+stones	stone	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+located	located	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+very	very	RB	ADV	CW
+bottom	bottom	JJ	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+the	the	DT	FW
+max	max	NN	CW	NOUN	ARGUMENT
+high	high	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+high	high	JJ	CW	ADJ
+up	up	RB	ADV	CW
+
+sentence break
+
+these	these	DT	FW
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+7	7	CD	FW
+fantastic	fantastic	JJ	CW	ADJ
+and	and	CC	FW
+amazing	amazing	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+no	no	DT	FW
+body	body	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+this	this	DT	FW
+earth	earth	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+build	build	VB	CW	VERB
+these	these	DT	FW
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+built	build	VBD	CW	VERB
+the	the	DT	FW
+pyramids	pyramid	NNS	CW	NOUN	ARGUMENT
+called	call	VBD	CW	VERB
+the	the	DT	FW
+pharana	pharana	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

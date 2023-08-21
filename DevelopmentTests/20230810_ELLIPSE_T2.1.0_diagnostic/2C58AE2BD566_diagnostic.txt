@@ -1,0 +1,762 @@
+word	lemma	POS	CW\FW	other categories
+there	there	EX	FW
+are	be	VBP	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+need	need	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+discarded	discard	VBN	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+prompt	prompt	NN	CW	NOUN	ARGUMENT
+"	"	``	FW
+some	some	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+distance	distance	NN	CW	NOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	an	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+way	way	NN	CW	NOUN	ARGUMENT
+online	online	JJ	CW	ADJ
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+conference	conference	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+disagree	disagree	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+kind	kind	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+provide	provide	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+some	some	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+start	start	VB	CW	VERB
+doing	do	VBG	CW	VERB
+and	and	CC	FW
+learning	learn	VBG	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+bond	bond	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+find	find	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+real	real	JJ	CW	ADJ
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+provide	provide	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+prepare	prepare	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+different	different	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+fundamental	fundamental	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+teach	teach	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+on	on	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+prepare	prepare	VB	CW	VERB
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+cuba	cuba	NNP	CW	NOUN	ARGUMENT
+who	who	WP	FW
+never	never	RB	ADV	CW
+went	go	VBD	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+been	been	VBD	FW	aux_or_cop
+saying	say	VBG	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+want	want	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+expend	expend	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+and	and	CC	FW
+make	make	VB	CW	VERB
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+this	this	DT	FW	PRONOUN
+moment	moment	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+has	have	VBZ	CW	VERB
+bill	bill	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+but	but	CC	FW
+after	after	IN	FW
+that	that	DT	FW	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+bill	bill	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+
+sentence break
+
+so	so	RB	ADV	CW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+mon	mon	NNP	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+been	be	VBN	FW	aux_or_cop
+saying	say	VBG	CW	VERB
+to	to	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+please	please	UH	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+mon	mon	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+for	for	IN	FW
+this	this	DT	FW	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+to	to	IN	FW
+going	go	VBG	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+to	to	IN	FW
+the	the	DT	FW
+normal	normal	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+help	help	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+mon	mon	NNP	CW	NOUN	ARGUMENT
+what	what	WP	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+give	give	VBP	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+study	study	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+graduated	graduate	VBN	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+complete	complete	VBP	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+now	now	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+study	study	VBP	CW	VERB
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+university	university	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+making	make	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+always	always	RB	ADV	CW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+step	step	NN	CW	NOUN	ARGUMENT
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+prepare	prepare	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+more	more	JJR	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+basically	basically	RB	ADV	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+past	past	IN	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+considered	consider	VBN	CW	VERB
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+teach	teach	VBP	CW	VERB
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+basic	basic	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+respect	respect	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+and	and	CC	FW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+prepare	prepare	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+bring	bring	VB	CW	VERB
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+find	find	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+build	build	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+invented	invent	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+for	for	IN	FW
+this	this	DT	FW	PRONOUN
+way	way	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+study	study	VB	CW	VERB
+the	the	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+bring	bring	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+was	be	VBD	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+considerate	considerate	JJ	CW	ADJ
+the	the	DT	FW
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+create	create	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+explain	explain	VB	CW	VERB
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+most	most	RBS	ADV	CW
+better	well	RBR	ADV	CW
+
+sentence break
+
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW	SUBORDINATOR
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+please	please	UH	FW
+to	to	TO	FW
+find	find	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+making	make	VBG	CW	VERB
+friend	friend	NN	CW	NOUN	ARGUMENT
+playing	play	VBG	CW	VERB
+sport	sport	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+always	always	RB	ADV	CW
+come	come	VBP	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+build	build	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+basically	basically	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+talked	talk	VBD	CW	VERB
+about	about	IN	FW
+"	"	``	FW
+some	some	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+distance	distance	NN	CW	NOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	an	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+way	way	NN	CW	NOUN	ARGUMENT
+online	online	JJ	CW	ADJ
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+conference	conference	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+come	come	VBP	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+prepare	prepare	VB	CW	VERB
+most	most	RBS	ADV	CW
+better	well	JJR	CW	ADJ
+to	to	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+bonds	bond	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+school	school	NN	CW	NOUN	ARGUMENT
+bring	bring	VBP	CW	VERB
+to	to	TO	FW
+are	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+like	like	IN	FW
+a	a	DT	FW
+normal	normal	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+really	really	RB	ADV	CW
+nice	nice	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+forget	forget	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+there	there	RB	ADV	CW
+what	what	WP	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

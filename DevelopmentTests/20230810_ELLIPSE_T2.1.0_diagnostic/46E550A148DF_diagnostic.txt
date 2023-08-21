@@ -1,0 +1,489 @@
+word	lemma	POS	CW\FW	other categories
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+"	"	``	FW
+determine	determine	VB	CW	VERB
+never	never	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+idle	idle	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+wonderful	wonderful	JJ	CW	ADJ
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+may	may	MD	FW	aux_or_cop
+ti	ti	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+"	"	''	FW
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+determine	determine	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+focus	focus	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+focus	focus	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+also	also	RB	ADV	CW
+maybe	maybe	RB	ADV	FW
+try	try	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+or	or	CC	FW
+find	find	VB	CW	VERB
+another	another	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+maybe	maybe	RB	ADV	FW
+some	some	DT	FW
+plans	plan	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+frustration	frustration	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+mental	mental	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+every	every	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+having	have	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+relax	relax	VB	CW	VERB
+have	have	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	FW	aux_or_cop
+the	the	DT	FW
+focus	focus	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+also	also	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+playing	play	VBG	CW	VERB
+videogames	videogame	NNS	CW	NOUN	ARGUMENT
+dancing	dancing	NN	CW	NOUN	ARGUMENT
+singing	singing	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+meet	meet	VB	CW	VERB
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+sleep	sleep	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+time	time	NN	CW	NOUN	ARGUMENT
+ourown	ourown	VBN	CW	VERB
+because	because	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+pay	pay	VB	CW	VERB
+attention	attention	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+happen	happen	VBP	CW	VERB
+around	around	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+tired	tired	JJ	CW	ADJ
+for	for	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+try	try	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	FW	aux_or_cop
+a	a	DT	FW
+brain	brain	NN	CW	NOUN	ARGUMENT
+storm	storm	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+really	really	RB	ADV	CW
+find	find	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+tesla	tesla	NNP	CW	NOUN	ARGUMENT
+of	of	IN	FW
+spacex	spacex	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+traying	traye	VBG	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+different	different	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+idle	idle	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+sometimes	sometimes	RB	ADV	CW
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+determine	determine	JJ	CW	ADJ
+but	but	CC	FW
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+person	person	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+same	same	JJ	CW	ADJ
+like	like	IN	FW
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+determine	determine	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+somethinng	somethinng	RB	ADV	FW
+
+sentence break
+
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+expert	expert	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+that	that	DT	FW	PRONOUN
+thing	thing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+great	great	JJ	CW	ADJ
+for	for	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+detemine	detemine	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+like	like	IN	FW
+frustration	frustration	NN	CW	NOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+just	just	RB	ADV	CW
+imagine	imagine	VB	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+spend	spend	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+here	here	RB	ADV	CW
+determine	determine	JJ	CW	ADJ
+think	think	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+but	but	CC	FW
+something	something	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+happen	happen	VBP	CW	VERB
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+work	work	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+dedicate	dedicate	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+dedication	dedication	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+go	go	VB	CW	VERB
+away	away	RB	ADV	CW
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+psychologist	psychologist	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+real	real	NNP	CW	NOUN	ARGUMENT
+madrid	madrid	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wogsrk	wogsrk	VBP	CW	VERB
+very	very	RB	ADV	CW
+hard	hard	RB	ADV	CW
+all	all	DT	FW
+season	season	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+a	a	DT	FW
+plan	plan	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+what	what	WP	FW
+happen	happen	VB	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+and	and	CC	FW
+just	just	RB	ADV	CW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+season	season	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+end	end	VB	CW	VERB
+3	3	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW
+finish	finish	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+have	have	VBP	FW	aux_or_cop
+all	all	PDT	FW
+the	the	DT	FW
+focus	focus	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+just	just	RB	ADV	CW
+one	one	CD	FW
+think	think	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+say	say	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+be	be	VB	FW	aux_or_cop
+determine	determine	JJ	CW	ADJ
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+frustration	frustration	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+depression	depression	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+to	to	TO	FW
+ourown	ourown	VB	CW	VERB
+or	or	CC	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+pets	pet	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+try	try	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+cool	cool	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+never	never	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+same	same	JJ	CW	ADJ
+always	always	RB	ADV	CW
+just	just	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+own	own	JJ	CW	ADJ
+critical	critical	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

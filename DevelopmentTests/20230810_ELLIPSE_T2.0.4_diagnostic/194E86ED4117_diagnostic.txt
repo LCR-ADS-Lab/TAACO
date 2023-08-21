@@ -1,0 +1,700 @@
+word	lemma	POS	CW\FW	other categories
+failure	failure	NN	CW	NOUN	ARGUMENT
+lead	lead	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+simple	simple	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+elon	elon	NNP	CW	NOUN	ARGUMENT
+musk	musk	NNP	CW	NOUN	ARGUMENT
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+richest	richest	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+planet	planet	NN	CW	NOUN	ARGUMENT
+earth	earth	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+chairman	chairman	NNP	CW	NOUN	ARGUMENT
+of	of	IN	FW
+paypal	paypal	NNP	CW	NOUN	ARGUMENT
+tesla	tesla	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+2002	2002	CD	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+invented	invent	VBD	CW	VERB
+spacex	spacex	NNP	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+ever	ever	RB	ADV	CW
+self-investment	self-investment	JJ	CW	ADJ
+rocket	rocket	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+the	the	DT	FW
+earth	earth	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+orbit	orbit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+most	most	RBS	ADV	CW
+amazing	amazing	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+invented	invent	VBD	CW	VERB
+the	the	DT	FW
+reuse	reuse	NN	CW	NOUN	ARGUMENT
+rocket	rocket	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+rocket	rocket	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+land	land	VB	CW	VERB
+back	back	RB	ADV	CW
+to	to	TO	FW
+earth	earth	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+launch	launch	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+earth	earth	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+orbit	orbit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spacex	spacex	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+accomplished	accomplish	VBN	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+about	about	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+without	without	IN	FW
+remember	remember	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+let	let	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+2	2	CD	FW
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+rocket	rocket	NN	CW	NOUN	ARGUMENT
+falcon	falcon	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+launch	launch	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+due	due	JJ	CW	ADJ
+to	to	TO	FW
+engine	engine	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+during	during	IN	FW
+a	a	DT	FW
+other	other	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+researching	research	VBG	CW	VERB
+testing	testing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+examine	examine	VB	CW	VERB
+the	the	DT	FW
+3rd	3rd	JJ	CW	ADJ
+rocket	rocket	NN	CW	NOUN	ARGUMENT
+launch	launch	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+failed	fail	VBD	CW	VERB
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+the	the	DT	FW
+earth	earth	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+orbit	orbit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+that	that	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+this	this	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+jock	jock	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+elon	elon	NNP	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+have	have	VBP	CW	VERB
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+launch	launch	VB	CW	VERB
+the	the	DT	FW
+4th	4th	JJ	CW	ADJ
+rocket	rocket	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+without	without	IN	FW
+losing	lose	VBG	CW	VERB
+hope	hope	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+4th	4th	JJ	CW	ADJ
+rocket	rocket	NN	CW	NOUN	ARGUMENT
+falcon	falcon	NN	CW	NOUN	ARGUMENT
+launch	launch	VB	CW	VERB
+4	4	LS	FW
+was	be	VBD	CW	VERB
+successfully	successfully	RB	ADV	CW
+launched	launch	VBN	CW	VERB
+and	and	CC	FW
+reach	reach	VB	CW	VERB
+the	the	DT	FW
+earth	earth	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+orbit	orbit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+elon	elon	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+spacex	spacex	NNP	CW	NOUN	ARGUMENT
+made	make	VBD	CW	VERB
+history	history	NN	CW	NOUN	ARGUMENT
+sapcex	sapcex	NNP	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+received	receive	VBD	CW	VERB
+a	a	DT	FW
+large	large	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+money	money	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+nasa	nasa	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+mother	mother	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+young	young	JJ	CW	ADJ
+
+sentence break
+
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+face	face	VB	CW	VERB
+different	different	JJ	CW	ADJ
+kinds	kind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+fell	fall	VBD	CW	VERB
+harder	harder	JJR	CW	ADJ
+and	and	CC	FW
+harder	harder	JJR	CW	ADJ
+every	every	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+facing	face	VBG	CW	VERB
+different	different	JJ	CW	ADJ
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+yes	yes	UH	FW
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+fully	fully	RB	ADV	CW
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+mr.	mr.	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+ever	ever	RB	ADV	CW
+lose	lose	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+hope	hope	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+never	never	RB	ADV	CW
+ever	ever	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+greatest	greatest	JJS	CW	ADJ
+quote	quote	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+all	all	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+lead	lead	VBD	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	IN	FW	SUBORDINATOR
+elon	elon	NNP	CW	NOUN	ARGUMENT
+musk	musk	NNP	CW	NOUN	ARGUMENT
+i	i	FW	FW
+talked	talk	VBD	CW	VERB
+about	about	IN	FW
+last	last	JJ	CW	ADJ
+paragraph	paragraph	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+passion	passion	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+space	space	NN	CW	NOUN	ARGUMENT
+transpiration	transpiration	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+moving	move	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+space	space	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+him	he	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+into	into	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+athlete	athlete	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+play	play	VBP	CW	VERB
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+5	5	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+already	already	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+every	every	DT	FW
+athlete	athlete	NN	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+practice	practice	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+boring	boring	JJ	CW	ADJ
+but	but	CC	FW
+also	also	RB	ADV	CW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+why	why	WRB	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+play	play	VBP	CW	VERB
+professional	professional	JJ	CW	ADJ
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+passion	passion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+winning	win	VBG	CW	VERB
+
+sentence break
+
+process	process	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+boring	boring	JJ	CW	ADJ
+and	and	CC	FW
+long	long	RB	ADV	CW
+however	however	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+take	take	VBP	CW	VERB
+one	one	CD	FW
+moment	moment	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+athlete	athlete	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fell	fall	VBD	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+worth	worth	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+still	still	RB	ADV	CW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+beat	beat	VBN	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+tiredness	tiredness	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+process	process	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+slowly	slowly	RB	ADV	CW
+lose	lose	VBP	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+chasing	chase	VBG	CW	VERB
+for	for	IN	FW
+at	at	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+complete	complete	VB	CW	VERB
+the	the	DT	FW
+adventure	adventure	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+talk	talk	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+emotional	emotional	JJ	CW	ADJ
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+hate	hate	NN	CW	NOUN	ARGUMENT
+losing	lose	VBG	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+the	the	DT	FW
+short	short	JJ	CW	ADJ
+cut	cut	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+but	but	CC	FW
+without	without	IN	FW
+the	the	DT	FW
+gaps	gap	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+road	road	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+adventure	adventure	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+seems	seem	VBZ	CW	VERB
+not	not	RB	ADV	CW
+complete	complete	JJ	CW	ADJ
+
+sentence break
+
+every	every	DT	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+the	the	DT	FW
+explorer	explorer	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+stronger	stronger	JJR	CW	ADJ
+and	and	CC	FW
+smarter	smarter	RBR	ADV	FW
+
+sentence break
+
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+note	note	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+step	step	NN	CW	NOUN	ARGUMENT
+ahead	ahead	RB	ADV	FW
+from	from	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+every	every	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+this	this	DT	FW
+planet	planet	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+big	big	JJ	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+big	big	JJ	CW	ADJ
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+just	just	RB	ADV	CW
+go	go	VB	CW	VERB
+do	do	VB	CW	VERB
+thing	thing	NN	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+or	or	CC	FW
+like	like	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+eventually	eventually	RB	ADV	CW
+the	the	DT	FW
+journey	journey	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+interesting	interesting	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+all	all	DT	FW
+for	for	IN	FW
+all	all	DT	FW
+guess	guess	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+tired	tire	VBD	CW	VERB
+of	of	IN	FW
+reading	reading	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	LS	FW
+support	support	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+3	3	CD	FW
+main	main	JJ	CW	ADJ
+points	point	NNS	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+lead	lead	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+ever	ever	RB	ADV	CW
+lose	lose	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+complete	complete	VB	CW	VERB
+the	the	DT	FW
+adventure	adventure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+also	also	RB	ADV	CW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+mr.	mr.	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+''	''	''	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+play	play	VB	CW	VERB
+a	a	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+pursuit	pursuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,245 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+let	let	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+retake	retake	VB	CW	VERB
+the	the	DT	FW
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+well	well	UH	FW
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+better	well	RBR	ADV	CW
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+studying	study	VBG	CW	VERB
+and	and	CC	FW
+doing	do	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+so	so	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+try	try	VB	CW	VERB
+not	not	RB	ADV	CW
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+made	make	VBN	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+a	a	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+dose	dose	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+failed	fail	VBN	CW	VERB
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+still	still	RB	ADV	CW
+keep	keep	VB	CW	VERB
+going	go	VBG	CW	VERB
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+kinda	kinda	RB	ADV	FW
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+even	even	RB	ADV	CW
+now	now	RB	ADV	CW
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+rejected	reject	VBN	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+peopel	peopel	NN	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+there	there	EX	FW
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+reject	reject	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+kinda	kinda	JJ	CW	ADJ
+at	at	IN	FW
+the	the	DT	FW
+middle	middle	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+win	win	VB	CW	VERB
+and	and	CC	FW
+lose	lose	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+are	be	VBP	CW	VERB
+better	well	JJR	CW	ADJ
+thinkings	thinking	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+lets	let	NNS	CW	NOUN	ARGUMENT
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+lost	lose	VBD	CW	VERB
+against	against	IN	FW
+this	this	DT	FW	PRONOUN
+guy	guy	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+mad	mad	JJ	CW	ADJ
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+show	show	VB	CW	VERB
+respect	respect	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+mad	mad	JJ	CW	ADJ
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+now	now	RB	ADV	CW
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

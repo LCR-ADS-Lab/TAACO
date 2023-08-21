@@ -1,0 +1,319 @@
+word	lemma	POS	CW\FW	other categories
+what	what	WP	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+you'r	you'r	NN	CW	NOUN	ARGUMENT
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+elementary	elementary	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+asked	ask	VBN	CW	VERB
+to	to	TO	FW
+share	share	VB	CW	VERB
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+elementary	elementary	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+to	to	TO	FW
+cheat	cheat	VB	CW	VERB
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+into	into	IN	FW
+big	big	JJ	CW	ADJ
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+and	and	CC	FW
+loose	loose	JJ	CW	ADJ
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+cheat	cheat	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+in	in	IN	FW
+big	big	JJ	CW	ADJ
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+a	a	DT	FW
+zero	zero	CD	FW
+on	on	IN	FW
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+zero	zero	CD	FW
+on	on	IN	FW
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+lower	lower	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+grade	grade	VB	CW	VERB
+
+sentence break
+
+second	second	RB	ADV	CW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+get	get	VB	FW	aux_or_cop
+sent	send	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+principals	principal	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+office	office	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+could	could	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+a	a	DT	FW
+call	call	NN	CW	NOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+upset	upset	JJ	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+cheats	cheat	VBZ	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+proficiency	proficiency	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+the	the	DT	FW
+material	material	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+spanish	spanish	JJ	CW	ADJ
+1	1	CD	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+a	a	DT	FW
+proficiency	proficiency	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+cheated	cheat	VBD	CW	VERB
+off	off	RP	FW
+of	of	IN	FW
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+and	and	CC	FW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+retake	retake	VB	CW	VERB
+spanish	spanish	JJ	CW	ADJ
+1	1	CD	FW
+again	again	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+elementary	elementary	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+spelling	spelling	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+the	the	DT	FW
+spelling	spelling	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+get	get	VB	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+last	last	RB	ADV	CW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+loose	loose	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+let	let	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+seat	seat	VB	CW	VERB
+next	next	RB	ADV	CW
+to	to	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+teachers	teachers	NNP	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+gain	gain	VB	CW	VERB
+back	back	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+loose	loose	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+keep	keep	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+cheated	cheat	VBD	CW	VERB
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+three	three	CD	FW
+good	good	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+the	the	DT	FW
+elementary	elementary	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,697 @@
+word	lemma	POS	CW\FW	other categories
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+doubt	doubt	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+control	control	VB	CW	VERB
+the	the	DT	FW
+involvement	involvement	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+know	know	VBP	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+great	great	JJ	CW	ADJ
+or	or	CC	FW
+struggling	struggle	VBG	CW	VERB
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+academics	academic	NNS	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+really	really	RB	ADV	CW
+pursuing	pursue	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+involve	involve	VB	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+kinds	kind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+an	a	DT	FW
+appreciation	appreciation	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+struggling	struggle	VBG	CW	VERB
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+many	many	JJ	CW	ADJ
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+having	have	VBG	CW	VERB
+many	many	JJ	CW	ADJ
+kinds	kind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+leads	lead	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+having	have	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+study	study	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+losing	lose	VBG	CW	VERB
+interest	interest	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+subjects	subject	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+school	school	NNP	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+allow	allow	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+to	to	TO	FW
+one	one	CD	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+manage	manage	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+control	control	VB	CW	VERB
+the	the	DT	FW
+involvement	involvement	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+once	once	RB	ADV	CW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+involve	involve	VB	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+become	become	VBP	CW	VERB
+less	less	RBR	ADV	CW
+interest	interest	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+study	study	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+those	those	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+struggle	struggle	VBP	CW	VERB
+in	in	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+music	music	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+drama	drama	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+all	all	PDT	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+with	with	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+require	require	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+practice	practice	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+study	study	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+becomes	become	VBZ	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+practice	practice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+was	be	VBD	CW	VERB
+one	one	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+``	``	``	FW
+which	which	WDT	FW
+should	should	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+go	go	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+practice	practice	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+to	to	TO	FW
+the	the	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+of	of	IN	FW
+course	course	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+picked	pick	VBD	CW	VERB
+the	the	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+know	know	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+priorities	priority	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+checked	check	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+already	already	RB	ADV	CW
+sleep	sleep	VB	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+even	even	RB	ADV	CW
+eat	eat	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+too	too	RB	ADV	CW
+tired	tired	JJ	CW	ADJ
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+woke	wake	VBD	CW	VERB
+up	up	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ask	ask	VB	CW	VERB
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+been	be	VBN	CW	VERB
+done	do	VBN	CW	VERB
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+work	work	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+control	control	VB	CW	VERB
+the	the	DT	FW
+involvement	involvement	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+in	in	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+exhausted	exhaust	VBD	CW	VERB
+due	due	JJ	CW	ADJ
+to	to	TO	FW
+the	the	DT	FW
+practice	practice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+varsity	varsity	NN	CW	NOUN	ARGUMENT
+player	player	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+notice	notice	VBP	CW	VERB
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+directly	directly	RB	ADV	CW
+went	go	VBD	CW	VERB
+to	to	TO	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+control	control	VB	CW	VERB
+the	the	DT	FW
+involvement	involvement	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+losing	lose	VBG	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+subjects	subject	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+those	those	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+academics	academic	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+school	school	NNP	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+control	control	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+teach	teach	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+study	study	NN	CW	NOUN	ARGUMENT
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+priority	priority	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+based	base	VBN	CW	VERB
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+experience	experience	NN	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+many	many	JJ	CW	ADJ
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+lose	lose	VB	CW	VERB
+interest	interest	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+subject	subject	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+thinking	think	VBG	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	CW	VERB
+not	not	RB	ADV	CW
+focused	focus	VBN	CW	VERB
+anymore	anymore	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+above	above	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+really	really	RB	ADV	CW
+control	control	VB	CW	VERB
+the	the	DT	FW
+involvement	involvement	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+to	to	TO	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+involve	involve	VB	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+school	school	NNP	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+let	let	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+manage	manage	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+cooperate	cooperate	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+for	for	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+good	good	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+depends	depend	VBZ	CW	VERB
+also	also	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+know	know	VBP	CW	VERB
+what	what	WP	FW
+are	be	VBP	FW	aux_or_cop
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+priorities	priority	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,604 @@
+word	lemma	POS	CW\FW	other categories
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+kind	kind	JJ	CW	ADJ
+and	and	CC	FW
+friendly	friendly	JJ	CW	ADJ
+to	to	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+rudeness	rudeness	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+usually	usually	RB	ADV	CW
+not	not	RB	ADV	CW
+nice	nice	JJ	CW	ADJ
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+third	third	JJ	CW	ADJ
+and	and	CC	FW
+final	final	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+helpfulness	helpfulness	JJ	CW	ADJ
+someone	someone	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+looking	look	VBG	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+chose	choose	VBD	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+these	these	DT	FW	PRONOUN
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+felt	feel	VBD	CW	VERB
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+all	all	DT	FW
+traits	trait	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+act	act	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+someone	someone	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+kind	kind	JJ	CW	ADJ
+and	and	CC	FW
+friendly	friendly	JJ	CW	ADJ
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+one	one	CD	FW
+of	of	IN	FW
+many	many	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+as	as	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+most	most	JJS	CW	ADJ
+have	have	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+said	say	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+born	bear	VBN	CW	VERB
+kind	kind	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+traits	trait	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+fits	fit	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+best	well	RB	ADV	CW
+
+sentence break
+
+some	some	DT	FW
+choose	choose	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+kind	kind	RB	ADV	CW
+after	after	IN	FW
+seeing	see	VBG	CW	VERB
+how	how	WRB	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+act	act	VB	CW	VERB
+so	so	RB	ADV	CW
+different	different	JJ	CW	ADJ
+towards	towards	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+simply	simply	RB	ADV	CW
+raised	raise	VBD	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+kind	kind	JJ	CW	ADJ
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+common	common	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+rudeness	rudeness	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+somewhat	somewhat	RB	ADV	FW
+uncommon	uncommon	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+used	use	VBN	CW	VERB
+by	by	IN	FW
+a	a	DT	FW
+small	small	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+some	some	DT	FW
+are	be	VBP	FW	aux_or_cop
+rude	rude	JJ	CW	ADJ
+all	all	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+no	no	DT	FW
+apparent	apparent	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+rude	rude	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+going	go	VBG	CW	VERB
+through	through	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+just	just	RB	ADV	CW
+the	the	DT	FW
+trait	trait	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+growing	grow	VBG	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+rude	rude	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+are	be	VBP	FW	aux_or_cop
+rude	rude	JJ	CW	ADJ
+just	just	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+the	the	DT	FW
+trait	trait	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+decided	decide	VBD	CW	VERB
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+final	final	JJ	CW	ADJ
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+rudeness	rudeness	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+rude	rude	JJ	CW	ADJ
+but	but	CC	FW
+there	there	EX	FW
+s	s	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+gon	go	VBG	CW	VERB
+na	to	TO	FW
+be	be	VB	FW	aux_or_cop
+that	that	DT	FW	PRONOUN
+small	small	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+rude	rude	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+helpfulness	helpfulness	JJ	CW	ADJ
+trait	trait	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+most	most	RBS	ADV	CW
+favorite	favorite	JJ	CW	ADJ
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+helpfulness	helpfulness	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+when	when	WRB	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+looking	look	VBG	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+need	need	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+the	the	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+deserve	deserve	VBP	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+helpful	helpful	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+problems	problem	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+
+sentence break
+
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+helpful	helpful	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+been	be	VBN	FW	aux_or_cop
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+and	and	CC	FW
+just	just	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+need	need	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+much	much	RB	ADV	CW
+better	well	JJR	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+helpful	helpful	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+go	go	VB	CW	VERB
+anywhere	anywhere	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+counter	counter	NN	CW	NOUN	ARGUMENT
+claim	claim	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+formed	form	VBN	CW	VERB
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+from	from	IN	FW
+these	these	DT	FW	PRONOUN
+influences	influence	NNS	CW	NOUN	ARGUMENT
+what	what	WP	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+false	false	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+supposed	suppose	VBN	CW	VERB
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+what	what	WP	FW
+makes	make	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+who	who	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+act	act	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+friendly	friendly	JJ	CW	ADJ
+to	to	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+comes	come	VBZ	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+second	second	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+rudeness	rudeness	NN	CW	NOUN	ARGUMENT
+these	these	DT	FW	PRONOUN
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+generally	generally	RB	ADV	CW
+rude	rude	JJ	CW	ADJ
+to	to	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+comes	come	VBZ	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+third	third	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+helpfulness	helpfulness	JJ	CW	ADJ
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+any	any	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+chosen	choose	VBN	CW	VERB
+these	these	DT	FW	PRONOUN
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+most	most	RBS	ADV	CW
+commonly	commonly	RB	ADV	CW
+used	use	VBN	CW	VERB
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,402 @@
+word	lemma	POS	CW\FW	other categories
+imagine	imagine	VB	CW	VERB
+walking	walk	VBG	CW	VERB
+outside	outside	RB	ADV	CW
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+dog	dog	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+and	and	CC	FW
+treats	treat	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+a	a	DT	FW
+criminal	criminal	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+killed	kill	VBD	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+stole	steal	VBD	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+bombed	bomb	VBD	CW	VERB
+a	a	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+would	would	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+like	like	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+treated	treat	VBN	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+criminal	criminal	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+rest	rest	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+talking	talk	VBG	CW	VERB
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+respecting	respect	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+62	62	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+treated	treat	VBN	CW	VERB
+with	with	IN	FW
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+respect	respect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+countries	country	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+canada	canada	NNP	CW	NOUN	ARGUMENT
+france	france	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+russia	russia	NNP	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+like	like	IN	FW
+a	a	DT	FW
+human	human	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+treating	treat	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+treated	treat	VBN	CW	VERB
+that	that	WDT	FW	PRONOUN
+includes	include	VBZ	CW	VERB
+being	be	VBG	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+kind	kind	JJ	CW	ADJ
+and	and	CC	FW
+helpful	helpful	JJ	CW	ADJ
+to	to	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+countries	country	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+treated	treat	VBN	CW	VERB
+right	right	RB	ADV	CW
+
+sentence break
+
+55	55	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+depression	depression	NN	CW	NOUN	ARGUMENT
+loneliness	loneliness	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sadness	sadness	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+treated	treat	VBN	CW	VERB
+with	with	IN	FW
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+likes	like	VBZ	CW	VERB
+or	or	CC	FW
+cares	care	VBZ	CW	VERB
+about	about	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+over	over	IN	FW
+200	200	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+committed	commit	VBN	CW	VERB
+suicide	suicide	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+treated	treat	VBN	CW	VERB
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+treated	treat	VBN	CW	VERB
+
+sentence break
+
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+kind	kind	JJ	CW	ADJ
+or	or	CC	FW
+nice	nice	JJ	CW	ADJ
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+damage	damage	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+effected	effect	VBN	CW	VERB
+by	by	IN	FW
+other	other	JJ	CW	ADJ
+for	for	IN	FW
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+treated	treat	VBN	CW	VERB
+correctly	correctly	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+treating	treat	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+rudeness	rudeness	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+effect	effect	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+kill	kill	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+opposite	opposite	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+become	become	VB	CW	VERB
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+and	and	CC	FW
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+before	before	RB	ADV	CW
+
+sentence break
+
+treating	treat	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+peoples	people	NNS	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+wonderful	wonderful	JJ	CW	ADJ
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+help	help	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+treat	treat	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+better	well	JJR	CW	ADJ
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+to	to	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+easier	easy	JJR	CW	ADJ
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+accomplished	accomplish	VBN	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+being	be	VBG	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+respecting	respect	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+and	and	CC	FW
+respectful	respectful	JJ	CW	ADJ
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+the	the	DT	FW
+opposite	opposite	JJ	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+harder	hard	RBR	ADV	CW
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+treating	treat	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+treated	treat	VBN	CW	VERB
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+includes	include	VBZ	CW	VERB
+being	be	VBG	FW	aux_or_cop
+nice	nice	JJ	CW	ADJ
+helpful	helpful	JJ	CW	ADJ
+and	and	CC	FW
+kind	kind	VB	CW	VERB
+to	to	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

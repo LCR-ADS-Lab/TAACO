@@ -1,0 +1,579 @@
+word	lemma	POS	CW\FW	other categories
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+have	have	VBP	CW	VERB
+some	some	DT	FW
+amazing	amazing	JJ	CW	ADJ
+talents	talent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+talents	talent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+impressing	impress	VBG	CW	VERB
+and	and	CC	FW
+challenging	challenge	VBG	CW	VERB
+for	for	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+juggle	juggle	VB	CW	VERB
+with	with	IN	FW
+oranges	orange	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+bottles	bottle	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+sing	sing	VB	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+talents	talent	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+difficult	difficult	JJ	CW	ADJ
+at	at	IN	FW
+first	first	JJ	CW	ADJ
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+up	up	RP	FW
+easily	easily	RB	ADV	FW
+but	but	CC	FW
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+practice	practice	VBP	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+the	the	DT	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+talents	talent	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+the	the	DT	FW
+most	most	RBS	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+violin	violin	NN	CW	NOUN	ARGUMENT
+cooking	cooking	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+makeup	makeup	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+the	the	DT	FW
+violin	violin	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+difficult	difficult	JJ	CW	ADJ
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+boring	boring	JJ	CW	ADJ
+
+sentence break
+
+some	some	DT	FW
+adults	adult	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	FW	aux_or_cop
+played	play	VBN	CW	VERB
+the	the	DT	FW
+violins	violin	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+chelos	chelo	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+talented	talented	JJ	CW	ADJ
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+by	by	IN	FW
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+violin	violin	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+slowly	slowly	RB	ADV	CW
+moving	move	VBG	CW	VERB
+the	the	DT	FW
+bow	bow	NN	CW	NOUN	ARGUMENT
+towards	towards	IN	FW
+up	up	RP	FW
+and	and	CC	FW
+slowly	slowly	RB	ADV	CW
+moving	move	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+first	first	RB	ADV	CW
+played	play	VBD	CW	VERB
+the	the	DT	FW
+violin	violin	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+moving	move	VBG	CW	VERB
+the	the	DT	FW
+bow	bow	NN	CW	NOUN	ARGUMENT
+fast	fast	RB	ADV	CW
+towards	towards	IN	FW
+the	the	DT	FW
+bridge	bridge	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+violin	violin	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+knowing	know	VBG	CW	VERB
+the	the	DT	FW
+songs	song	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+'	'	POS	FW
+had	have	VBD	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+by	by	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+pyrimid	pyrimid	NNP	CW	NOUN	ARGUMENT
+concert	concert	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+elementary	elementary	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+playing	play	VBG	CW	VERB
+and	and	CC	FW
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+play	play	VB	CW	VERB
+the	the	DT	FW
+violin	violin	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+cooking	cooking	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+another	another	DT	FW
+talent	talent	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+while	while	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+home	home	RB	ADV	CW
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+help	help	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+cook	cook	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cooking	cooking	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+experience	experience	VB	CW	VERB
+new	new	JJ	CW	ADJ
+kinds	kind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+tried	try	VBD	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+cook	cook	VB	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+cooked	cook	VBD	CW	VERB
+all	all	DT	FW
+different	different	JJ	CW	ADJ
+kinds	kind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+rice	rice	NNP	CW	NOUN	ARGUMENT
+with	with	IN	FW
+chicken	chicken	NNP	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+pizza	pizza	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+baked	bake	VBD	CW	VERB
+cookies	cookies	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+inchiladas	inchiladas	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+resturants	resturant	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+flavor	flavor	NN	CW	NOUN	ARGUMENT
+foods	food	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+buffet	buffet	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+to	to	TO	FW
+ihop.when	ihop.when	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+cook	cook	VBP	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+experience	experience	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+cooking	cooking	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+ingrediants	ingrediant	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+or	or	CC	FW
+the	the	DT	FW
+taste	taste	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+disgusting	disgusting	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+makeup	makeup	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+funest	fun	JJS	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+teenage	teenage	JJ	CW	ADJ
+girls	girl	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+love	love	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+makeup	makeup	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+do	do	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+teenage	teenage	JJ	CW	ADJ
+girls	girl	NNS	CW	NOUN	ARGUMENT
+start	start	VBP	CW	VERB
+learning	learn	VBG	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+makeup	makeup	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+watching	watch	VBG	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+step	step	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+step	step	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+teenage	teenage	JJ	CW	ADJ
+girls	girl	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+talents	talent	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+fashion	fashion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+using	use	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+color	color	NN	CW	NOUN	ARGUMENT
+shade	shade	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+thier	thi	JJR	CW	ADJ
+eye	eye	NN	CW	NOUN	ARGUMENT
+lid	lid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+talents	talent	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+makeup	makeup	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+firends	firend	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+over	over	RP	FW
+
+sentence break
+
+some	some	DT	FW
+girls	girl	NNS	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+more	more	RBR	ADV	CW
+comfortable	comfortable	JJ	CW	ADJ
+by	by	IN	FW
+using	use	VBG	CW	VERB
+makeup	makeup	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+girls	girl	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+not	not	RB	ADV	CW
+
+sentence break
+
+makeup	makeup	NNP	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+enjoyable	enjoyable	JJ	CW	ADJ
+and	and	CC	FW
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+experience	experience	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+difficult	difficult	JJ	CW	ADJ
+talents	talent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+
+sentence break
+
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+experience	experience	VBP	CW	VERB
+or	or	CC	FW
+find	find	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+cooking	cooking	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+a	a	DT	FW
+talent	talent	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+enjoy	enjoy	VB	CW	VERB
+cooking	cook	VBG	CW	VERB
+like	like	IN	FW
+the	the	DT	FW
+cheifs	cheifs	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+makeup	makeup	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+amazing	amazing	JJ	CW	ADJ
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+makeup	makeup	NN	CW	NOUN	ARGUMENT
+artist	artist	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+fashion	fashion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+violin	violin	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+at	at	IN	FW
+first	first	RB	ADV	CW
+but	but	CC	FW
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+practice	practice	VBP	CW	VERB
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+talented	talente	VBN	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+easy	easy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

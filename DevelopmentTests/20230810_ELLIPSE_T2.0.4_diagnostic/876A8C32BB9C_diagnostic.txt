@@ -1,0 +1,293 @@
+word	lemma	POS	CW\FW	other categories
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+becomes	become	VBZ	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+key	key	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+shouldnt	shouldnt	VBP	FW	aux_or_cop
+be	be	VB	CW	VERB
+shamed	shame	VBN	CW	VERB
+about	about	IN	FW
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+former	former	JJ	CW	ADJ
+british	british	NNP	CW	NOUN	ARGUMENT
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+``	``	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+does	do	VBZ	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+pursuing	pursue	VBG	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	CW	VERB
+on	on	IN	FW
+point	point	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+success	success	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+share	share	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+key	key	JJ	CW	ADJ
+idem	idem	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+possible	possible	JJ	CW	ADJ
+failure	failure	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+success	success	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+out	out	RP	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+'s	's	POS	FW
+why	why	WRB	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+wrestling	wrestling	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+practice	practice	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	FW	FW
+learn	learn	VB	CW	VERB
+every	every	DT	FW
+moves	move	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+partners	partner	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+against	against	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+i	i	CD	FW
+slowly	slowly	RB	ADV	CW
+and	and	CC	FW
+slowly	slowly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+better	better	JJR	CW	ADJ
+but	but	CC	FW
+still	still	RB	ADV	CW
+failing	fail	VBG	CW	VERB
+to	to	TO	FW
+overcome	overcome	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+practice	practice	VBP	CW	VERB
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+game	game	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+wrestled	wrestle	VBD	CW	VERB
+against	against	IN	FW
+a	a	DT	FW
+other	other	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+starter	starter	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+overpowered	overpower	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+partner	partner	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+becoming	become	VBG	CW	VERB
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+every	every	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wrestled	wrestle	VBD	CW	VERB
+against	against	IN	FW
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	FW	FW
+agree	agree	VBP	CW	VERB
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+mutable	mutable	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+find	find	VBP	CW	VERB
+one	one	CD	FW
+way	way	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+doesnt	doesnt	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+president	president	NNP	CW	NOUN	ARGUMENT
+amberham	amberham	NNP	CW	NOUN	ARGUMENT
+lichon	lichon	NNP	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+president	president	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+elected	elect	VBN	CW	VERB
+after	after	IN	FW
+failing	fail	VBG	CW	VERB
+two	two	CD	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+before	before	RB	ADV	CW
+
+sentence break
+
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+changed	change	VBD	CW	VERB
+how	how	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+running	run	VBG	CW	VERB
+for	for	IN	FW
+president	president	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+president	president	NNP	CW	NOUN	ARGUMENT
+lichon	lichon	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+catch	catch	VB	CW	VERB
+peoples	people	NNS	CW	NOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

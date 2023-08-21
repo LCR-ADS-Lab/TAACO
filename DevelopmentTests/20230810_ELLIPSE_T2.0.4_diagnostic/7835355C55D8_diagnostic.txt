@@ -1,0 +1,67 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+write	write	VBP	CW	VERB
+this	this	NNS	CW	NOUN	ARGUMENT	PRONOUN
+letter	letter	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+said	say	VBN	CW	VERB
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+not	not	NNP	CW	NOUN	ARGUMENT
+fair	fair	NNP	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+only	only	RB	ADV	CW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+in	in	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	PDT	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+b	b	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+play	play	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+c	c	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+baldest	baldest	JJS	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+dear	dear	NNP	CW	NOUN	ARGUMENT
+teacher_name	teacher_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

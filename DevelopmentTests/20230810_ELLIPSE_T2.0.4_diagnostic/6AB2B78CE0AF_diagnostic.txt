@@ -1,0 +1,711 @@
+word	lemma	POS	CW\FW	other categories
+one	one	CD	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+frequently	frequently	RB	ADV	CW
+debated	debate	VBN	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+or	or	CC	FW
+negative	negative	JJ	CW	ADJ
+effects	effect	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+mostly	mostly	RB	ADV	CW
+everything	everything	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+online	online	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+books	book	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+online	online	JJ	CW	ADJ
+get	get	VB	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+to	to	TO	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+through	through	IN	FW
+a	a	DT	FW
+laptop	laptop	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+write	write	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+notepad	notepad	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+word	word	NN	CW	NOUN	ARGUMENT
+document	document	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+cause	cause	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+news	news	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+bookstore	bookstore	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+find	find	VB	CW	VERB
+the	the	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+look	look	VB	CW	VERB
+for	for	IN	FW
+
+sentence break
+
+all	all	DT	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+online	online	JJ	CW	ADJ
+now	now	RB	ADV	CW
+and	and	CC	FW
+makes	make	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+an	a	DT	FW
+easier	easier	JJR	CW	ADJ
+and	and	CC	FW
+faster	faster	RBR	ADV	CW
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+road	road	NN	CW	NOUN	ARGUMENT
+trip	trip	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+read	read	VB	CW	VERB
+on	on	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+any	any	DT	FW
+devices	device	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+parents	parent	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+relax	relax	VB	CW	VERB
+and	and	CC	FW
+read	read	VB	CW	VERB
+a	a	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+on	on	IN	FW
+road	road	NN	CW	NOUN	ARGUMENT
+trip	trip	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+while	while	IN	FW	SUBORDINATOR
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+sleeping	sleep	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+back	back	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+online	online	JJ	CW	ADJ
+books	book	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+carry	carry	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	CW	VERB
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+smart	smart	JJ	CW	ADJ
+phones	phone	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+no	no	DT	FW
+more	more	RBR	ADV	CW
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+book	book	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+lost	lose	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+plus	plus	CC	FW
+online	online	JJ	CW	ADJ
+books	book	NNS	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+loose	loose	JJ	CW	ADJ
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+spot	spot	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+an	a	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+put	put	VB	CW	VERB
+a	a	DT	FW
+bookmark	bookmark	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+page	page	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+save	save	VB	CW	VERB
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+a	a	DT	FW
+word	word	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+definition	definition	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+translate	translate	VB	CW	VERB
+in	in	IN	FW
+another	another	DT	FW
+language	language	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+upgrade	upgrade	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+near	near	JJ	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+everything	everything	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+start	start	NN	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+fun	fun	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+tablet	tablet	NN	CW	NOUN	ARGUMENT
+laptop	laptop	NN	CW	NOUN	ARGUMENT
+smart	smart	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+headphones	headphone	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+to	to	TO	FW
+show	show	VB	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+technology	technology	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+expensive	expensive	JJ	CW	ADJ
+
+sentence break
+
+just	just	RB	ADV	CW
+think	think	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+technology	technology	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+come	come	VB	CW	VERB
+and	and	CC	FW
+no	no	DT	FW
+more	more	JJR	CW	ADJ
+paper	paper	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+pencil	pencil	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+everything	everything	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+on	on	IN	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+lives	live	VBZ	CW	VERB
+in	in	IN	FW
+another	another	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+states	state	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+over	over	IN	FW
+a	a	DT	FW
+letter	letter	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+phone	phone	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+using	use	VBG	CW	VERB
+a	a	DT	FW
+tablet	tablet	NN	CW	NOUN	ARGUMENT
+laptop	laptop	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+devices	device	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+camera	camera	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+video	video	JJ	CW	ADJ
+chat	chat	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+write	write	VB	CW	VERB
+a	a	DT	FW
+letter	letter	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+wait	wait	VB	CW	VERB
+for	for	IN	FW
+5-7	5-7	CD	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+probably	probably	RB	ADV	CW
+more	more	RBR	ADV	CW
+for	for	IN	FW	SUBORDINATOR
+a	a	DT	FW
+responds	respond	VBZ	CW	VERB
+
+sentence break
+
+email	email	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+send	send	VB	CW	VERB
+a	a	DT	FW
+rough	rough	JJ	CW	ADJ
+draft	draft	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+final	final	JJ	CW	ADJ
+draft	draft	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+edit	edit	VB	CW	VERB
+or	or	CC	FW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+on	on	IN	FW
+video	video	NN	CW	NOUN	ARGUMENT
+chat	chat	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+call	call	VB	CW	VERB
+up	up	RP	FW
+to	to	TO	FW
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+complain	complain	VBP	CW	VERB
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+meet	meet	VB	CW	VERB
+up	up	RP	FW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+have	have	VBP	CW	VERB
+plans	plan	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+set	set	VB	CW	VERB
+up	up	RP	FW
+a	a	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+from	from	IN	FW
+everywhere	everywhere	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	CW	VERB
+at	at	IN	FW
+
+sentence break
+
+
+paragraph break
+
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+that	that	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+growing	grow	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+
+sentence break
+
+even	even	RB	ADV	CW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+tablets	tablet	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+learning	learn	VBG	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+abc	abc	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+and	and	CC	FW
+123	123	CD	FW
+'s	's	POS	FW
+
+sentence break
+
+in	in	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+provide	provide	VBP	CW	VERB
+tablets	tablet	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+laptop	laptop	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+better	better	JJR	CW	ADJ
+and	and	CC	FW
+makes	make	VBZ	CW	VERB
+sure	sure	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+
+sentence break
+
+sttudents	sttudent	NNS	CW	NOUN	ARGUMENT
+likes	like	VBZ	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+research	research	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+for	for	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+watch	watch	VB	CW	VERB
+videos	video	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+explain	explain	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+better	better	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+technology	technology	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+or	or	CC	FW
+without	without	IN	FW
+speaking	speak	VBG	CW	VERB
+
+sentence break
+
+
+sentence break
+
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+no	no	DT	FW
+issues	issue	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+technology	technology	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+live	live	JJ	CW	ADJ
+soon	soon	RB	ADV	CW
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+used	use	VBN	CW	VERB
+to	to	TO	FW
+all	all	PDT	FW
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+sooner	sooner	RBR	ADV	CW
+or	or	CC	FW
+later	later	RBR	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+bigger	bigger	JJR	CW	ADJ
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+miss	miss	VB	CW	VERB
+paper	paper	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+pencil	pencil	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+safe	safe	JJ	CW	ADJ
+and	and	CC	FW
+better	better	JJR	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+through	through	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+faster	faster	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+

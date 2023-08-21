@@ -1,0 +1,303 @@
+word	lemma	POS	CW\FW	other categories
+a	a	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+debating	debate	VBG	CW	VERB
+the	the	DT	FW
+adoption	adoption	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+10	10	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+weekday	weekday	NNP	CW	NOUN	ARGUMENT
+curfew	curfew	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+midnigh	midnigh	JJ	CW	ADJ
+weeknigh	weeknigh	NN	CW	NOUN	ARGUMENT
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+curfews	curfew	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+curfews	curfew	NNS	CW	NOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	IN	FW
+this	this	DT	FW	PRONOUN
+away	away	JJ	CW	ADJ
+children	child	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+save	save	JJ	CW	ADJ
+
+sentence break
+
+children	child	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+early	early	RB	ADV	CW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+obey	obey	VB	CW	VERB
+the	the	DT	FW
+laws	law	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+troubles	trouble	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+curfews	curfew	NNS	CW	NOUN	ARGUMENT
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+children	child	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+at	at	IN	FW
+the	the	DT	FW
+strees	stree	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+late	late	RB	ADV	CW
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+community	community	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+crazy	crazy	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+use	use	VBP	CW	VERB
+drogs	drog	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+danger	danger	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+save	save	VB	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+doing	do	VBG	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+works	work	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+god	god	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+for	for	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+reason	reason	NN	CW	NOUN	ARGUMENT
+tree	tree	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+obey	obey	VB	CW	VERB
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+obey	obey	VB	CW	VERB
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+serious	serious	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+debating	debate	VBG	CW	VERB
+adoption	adoption	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+a	a	DT	FW
+10	10	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+weekday	weekday	NNP	CW	NOUN	ARGUMENT
+curfew	curfew	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+midnigh	midnigh	JJ	CW	ADJ
+weeknigh	weeknigh	NN	CW	NOUN	ARGUMENT
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+curfew	curfew	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+curfews	curfew	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+curfews	curfew	NNS	CW	NOUN	ARGUMENT
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cause	cause	VB	CW	VERB
+one	one	CD	FW
+joung	joung	NNP	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+outside	outside	RB	ADV	CW
+after	after	IN	FW
+10	10	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+danger	danger	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cause	cause	VB	CW	VERB
+two	two	CD	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+save	save	JJ	CW	ADJ
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+anywhere	anywhere	RB	ADV	FW
+else	else	RB	ADV	CW
+
+sentence break
+
+cause	cause	VB	CW	VERB
+tree	tree	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+obey	obey	VBP	CW	VERB
+this	this	DT	FW	PRONOUN
+law	law	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lifes	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

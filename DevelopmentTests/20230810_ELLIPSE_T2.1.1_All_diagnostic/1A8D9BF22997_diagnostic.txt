@@ -1,0 +1,217 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+about	about	IN	FW
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+"	"	''	FW
+
+sentence break
+
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+smart	smart	JJ	CW	ADJ
+and	and	CC	FW
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+math	math	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+good	good	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+grew	grow	VBD	CW	VERB
+up	up	RP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+very	very	RB	ADV	CW
+smart	smart	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+young	young	JJ	CW	ADJ
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+that	that	RB	ADV	CW	PRONOUN
+smart	smart	JJ	CW	ADJ
+but	but	CC	FW
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+grew	grow	VBD	CW	VERB
+up	up	RP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+very	very	RB	ADV	CW
+smart	smart	JJ	CW	ADJ
+
+sentence break
+
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+then	then	RB	ADV	CW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+gone	go	VBN	CW	VERB
+
+sentence break
+
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+still	still	RB	ADV	CW
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+that	that	DT	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+art	art	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+crafts	craft	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+smarts	smart	NNS	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+most	most	JJS	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+was	be	VBD	FW	aux_or_cop
+sciences	science	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+brave	brave	JJ	CW	ADJ
+funny	funny	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+made	make	VBD	CW	VERB
+painting	painting	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+of	of	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+tongue	tongue	NN	CW	NOUN	ARGUMENT
+out	out	RP	FW
+
+sentence break
+
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+funny	funny	JJ	CW	ADJ
+guy	guy	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+artists	artist	NNS	CW	NOUN	ARGUMENT
+drew	draw	VBD	CW	VERB
+about	about	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+died	die	VBD	CW	VERB
+when	when	WRB	FW
+was	be	VBD	FW	aux_or_cop
+old	old	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

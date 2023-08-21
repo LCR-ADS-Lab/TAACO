@@ -1,0 +1,574 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+commiting	commit	VBG	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+focus	focus	VB	CW	VERB
+in	in	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+
+sentence break
+
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+the	the	DT	FW
+level	level	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+mindset	mindset	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+each	each	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+who	who	WP	FW
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+succesful	succesful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+starting	start	VBG	CW	VERB
+from	from	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+final	final	JJ	CW	ADJ
+desicion	desicion	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+an	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+general	general	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+practice	practice	VB	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+struggles	struggle	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+future	future	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+a	a	DT	FW
+specific	specific	JJ	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+also	also	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+commit	commit	VB	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+focus	focus	VB	CW	VERB
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+selecting	select	VBG	CW	VERB
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+focus	focus	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+or	or	CC	FW
+what	what	WP	FW
+do	do	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+schools	school	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+provide	provide	VB	CW	VERB
+vital	vital	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+select	select	VB	CW	VERB
+depending	depend	VBG	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+course	course	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+
+sentence break
+
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+is	be	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+long	long	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+motivate	motivate	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+strive	strive	VBP	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+realize	realize	VB	CW	VERB
+what	what	WP	FW
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+ideal	ideal	JJ	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+each	each	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+ideal	ideal	JJ	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+job	job	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+foward	foward	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+in	in	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+realized	realize	VBD	CW	VERB
+that	that	IN	FW	PRONOUN
+now	now	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+has	have	VBZ	CW	VERB
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+change	change	VB	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+the	the	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+becoming	become	VBG	CW	VERB
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+have	have	VB	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+important	important	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+prepare	prepare	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+future	future	JJ	CW	ADJ
+adults	adult	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+each	each	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	a	DT	FW
+adult	adult	JJ	CW	ADJ
+and	and	CC	FW
+this	this	DT	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+skill	skill	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+each	each	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+built	build	VBD	CW	VERB
+a	a	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+an	a	DT	FW
+adult	adult	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+absorb	absorb	VB	CW	VERB
+new	new	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+everyday	everyday	JJ	CW	ADJ
+to	to	TO	FW
+built	build	VBN	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+apply	apply	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+really	really	RB	ADV	CW
+important	important	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+to	to	TO	FW
+molding	molding	NN	CW	NOUN	ARGUMENT
+them	they	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+future	future	JJ	CW	ADJ
+adults	adult	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+society	society	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+nowadays	nowadays	RB	ADV	FW
+the	the	DT	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+think	think	VB	CW	VERB
+about	about	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+many	many	JJ	CW	ADJ
+factors	factor	NNS	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+dedication	dedication	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+buget	buget	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+schools	school	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+tools	tool	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+realize	realize	VB	CW	VERB
+how	how	WRB	FW
+important	important	JJ	CW	ADJ
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+to	to	TO	FW
+commit	commit	VB	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+career	career	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+many	many	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+prepares	prepare	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+future	future	JJ	CW	ADJ
+adults	adult	NNS	CW	NOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+focus	focus	VB	CW	VERB
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+realize	realize	VB	CW	VERB
+what	what	WP	FW
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+ideal	ideal	JJ	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

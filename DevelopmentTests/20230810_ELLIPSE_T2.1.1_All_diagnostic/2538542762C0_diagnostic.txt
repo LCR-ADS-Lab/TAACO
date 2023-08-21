@@ -1,0 +1,539 @@
+word	lemma	POS	CW\FW	other categories
+one	one	CD	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+frecuently	frecuently	RB	ADV	FW
+dabated	dabate	VBN	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+control	control	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+involvement	involvement	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+extra	extra	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+extra	extra	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+educational	educational	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+enrich	enrich	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+knowledgement	knowledgement	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+decided	decide	VBN	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+extra	extra	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+families	family	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+home	home	RB	ADV	CW
+earlier	early	RBR	ADV	CW
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+sibbilings	sibbiling	NNS	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+at	at	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+art	art	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sibilings	sibiling	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+work	work	VB	CW	VERB
+and	and	CC	FW
+study	study	VB	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+tired	tired	JJ	CW	ADJ
+and	and	CC	FW
+all	all	DT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+get	get	VB	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sleep	sleep	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+work	work	VBP	CW	VERB
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+study	study	VB	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+
+sentence break
+
+study	study	NN	CW	NOUN	ARGUMENT
+hall	hall	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+finish	finish	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+work	work	VBP	CW	VERB
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	FW	aux_or_cop
+involved	involve	VBN	CW	VERB
+in	in	IN	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+bacause	bacause	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+through	through	RP	FW
+
+sentence break
+
+but	but	CC	FW
+also	also	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+for	for	IN	FW
+saving	save	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+an	an	DT	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+investing	invest	VBG	CW	VERB
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+work	work	VBP	CW	VERB
+have	have	VBP	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+some	some	DT	FW
+other	other	JJ	CW	ADJ
+acctivities	acctivitie	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+home	home	RB	ADV	CW
+early	early	RB	ADV	CW
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+sibbilings	sibbiling	NNS	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+at	at	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+afford	afford	VB	CW	VERB
+a	a	DT	FW
+babysitter	babysitter	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+involve	involve	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+when	when	WRB	FW
+one	one	CD	FW
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+off	off	RP	FW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+assigments	assigment	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+home	home	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+taking	take	VBG	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+sibbilings	sibbiling	NNS	CW	NOUN	ARGUMENT
+like	like	UH	FW	SUBORDINATOR
+made	make	VBN	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+clean	clean	VB	CW	VERB
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+laundry	laundry	NN	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+.	.	FW	FW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+difficult	difficult	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+responsabilities	responsabilitie	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+care	care	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+third	third	RB	ADV	CW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+different	different	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+exercide	exercide	VB	CW	VERB
+everyday	everyday	RB	ADV	CW
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+sports	sport	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+hey	hey	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+practice	practice	VB	CW	VERB
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+bascketball	bascketball	NN	CW	NOUN	ARGUMENT
+baseball	baseball	NN	CW	NOUN	ARGUMENT
+tennis	tennis	NN	CW	NOUN	ARGUMENT
+gymnastics	gymnastic	NNS	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+.	.	FW	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+envirroment	envirroment	JJ	CW	ADJ
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+another	another	DT	FW
+language	language	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+sign	sign	VB	CW	VERB
+up	up	RP	FW
+for	for	IN	FW
+any	any	DT	FW
+club	club	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+on	on	IN	FW
+
+sentence break
+
+this	this	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+deffinetly	deffinetly	RB	ADV	FW
+involve	involve	JJ	CW	ADJ
+in	in	IN	FW
+extracurricular	extracurricular	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+decided	decide	VBD	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+extra	extra	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+should	should	MD	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+as	as	IN	FW	SUBORDINATOR
+have	have	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+read	read	VBN	CW	VERB
+this	this	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+schools	school	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+take	take	VB	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+each	each	DT	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+change	change	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+succes	succe	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+happiness	happiness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

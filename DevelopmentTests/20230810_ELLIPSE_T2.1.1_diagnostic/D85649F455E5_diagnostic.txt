@@ -1,0 +1,457 @@
+word	lemma	POS	CW\FW	other categories
+famous	famous	NNP	CW	NOUN	ARGUMENT
+scientist	scientist	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+inventor	inventor	NNP	CW	NOUN	ARGUMENT
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+to	to	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+grows	grow	VBZ	CW	VERB
+into	into	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	PDT	FW
+the	the	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+was	be	VBD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+a	a	DT	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+approved	approve	VBN	CW	VERB
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+s	s	VBZ	CW	VERB
+'	'	POS	FW
+more	more	JJR	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	PDT	FW
+the	the	DT	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+theory	theory	NN	CW	NOUN	ARGUMENT
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+was	be	VBD	FW	aux_or_cop
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+helped	help	VBD	CW	VERB
+scientist	scientist	NNP	CW	NOUN	ARGUMENT
+figure	figure	VB	CW	VERB
+out	out	RP	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+theory	theory	NN	CW	NOUN	ARGUMENT
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+became	become	VBD	CW	VERB
+the	the	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+scientist	scientist	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+had	have	VBD	CW	VERB
+an	an	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+adults	adult	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+both	both	DT	FW
+had	have	VBD	CW	VERB
+spaghetti	spaghetti	NNS	CW	NOUN	ARGUMENT
+noodles	noodle	NNS	CW	NOUN	ARGUMENT
+paper	paper	NN	CW	NOUN	ARGUMENT
+brown	brown	JJ	CW	ADJ
+bag	bag	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+straw	straw	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+an	an	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+stacks	stack	VBZ	CW	VERB
+the	the	DT	FW
+highest	high	JJS	CW	ADJ
+without	without	IN	FW
+falling	fall	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+ground	ground	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+those	those	DT	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+adults	adult	NNS	CW	NOUN	ARGUMENT
+stacked	stack	VBD	CW	VERB
+the	the	DT	FW
+highest	high	JJS	CW	ADJ
+without	without	IN	FW
+falling	fall	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+
+sentence break
+
+children	child	NNS	CW	NOUN	ARGUMENT
+stacked	stack	VBD	CW	VERB
+the	the	DT	FW
+highest	high	JJS	CW	ADJ
+without	without	IN	FW
+falling	fall	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+ground	ground	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+children	child	NNS	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+more	more	JJR	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+much	much	RB	ADV	CW
+higher	high	JJR	CW	ADJ
+than	than	IN	FW
+the	the	DT	FW
+adults	adult	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+adults	adult	NNS	CW	NOUN	ARGUMENT
+definitely	definitely	RB	ADV	CW
+have	have	VBP	CW	VERB
+higher	high	JJR	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+found	find	VBD	CW	VERB
+out	out	RP	FW
+that	that	IN	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+destroyed	destroy	VBD	CW	VERB
+the	the	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+happened	happen	VBD	CW	VERB
+here	here	RB	ADV	CW
+in	in	IN	FW
+united	united	NNP	CW	NOUN	ARGUMENT
+states	states	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+after	after	IN	FW
+hearing	hear	VBG	CW	VERB
+about	about	IN	FW
+this	this	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+knew	know	VBD	CW	VERB
+that	that	DT	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+stronger	strong	JJR	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+to	to	IN	FW
+solving	solve	VBG	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+impossible	impossible	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+important	important	JJ	CW	ADJ
+all	all	PDT	FW
+the	the	DT	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+from	from	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+building	building	NN	CW	NOUN	ARGUMENT
+car	car	NN	CW	NOUN	ARGUMENT
+computer	computer	NN	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+that	that	DT	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+stuffs	stuff	NNS	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+from	from	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+even	even	RB	ADV	CW
+count	count	VB	CW	VERB
+
+sentence break
+
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+and	and	CC	FW
+expand	expand	VBP	CW	VERB
+not	not	RB	ADV	CW
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+about	about	IN	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+term	term	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+like	like	IN	FW
+that	that	DT	FW
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+an	an	DT	FW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+an	an	DT	FW
+children	child	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+adults	adult	NNS	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+imagination	imagination	NNP	CW	NOUN	ARGUMENT
+beats	beat	VBZ	CW	VERB
+the	the	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+expand	expand	VB	CW	VERB
+but	but	CC	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+
+sentence break
+
+all	all	PDT	FW
+the	the	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+was	be	VBD	FW	aux_or_cop
+once	once	RB	ADV	CW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+changes	change	VBZ	CW	VERB
+to	to	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+
+sentence break
+
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+relate	relate	VB	CW	VERB
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+jobs	job	NNS	CW	NOUN	ARGUMENT
+either	either	RB	ADV	CW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+nike	nike	NNP	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	CW	VERB
+better	well	JJR	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+has	have	VBZ	CW	VERB
+better	well	JJR	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+better	well	JJR	CW	ADJ
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+better	well	JJR	CW	ADJ
+unique	unique	JJ	CW	ADJ
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

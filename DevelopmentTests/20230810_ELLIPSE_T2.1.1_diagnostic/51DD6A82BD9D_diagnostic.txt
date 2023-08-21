@@ -1,0 +1,253 @@
+word	lemma	POS	CW\FW	other categories
+american	american	JJ	CW	ADJ
+teens	teen	NNS	CW	NOUN	ARGUMENT
+love	love	VBP	CW	VERB
+there	there	EX	FW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+to	to	TO	FW
+text	text	VB	CW	VERB
+and	and	CC	FW
+call	call	VB	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+there	there	RB	ADV	CW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+this	this	DT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+starting	start	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+all	all	RB	ADV	CW
+over	over	IN	FW
+the	the	DT	FW
+united	united	NNP	CW	NOUN	ARGUMENT
+states	states	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+all	all	RB	ADV	CW
+over	over	IN	FW
+the	the	DT	FW
+u.s	u.s	NNP	CW	NOUN	ARGUMENT
+text	text	NN	CW	NOUN	ARGUMENT
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+during	during	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+phones	phone	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+taken	take	VBN	CW	VERB
+by	by	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+taken	take	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+office._x000d	office._x000d	NN	CW	NOUN	ARGUMENT
+_	_	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+_	_	NFP	FW
+x000d	x000d	NFP	FW
+_	_	ADD	FW
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+principal	principal	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+reconsidering	reconsider	VBG	CW	VERB
+the	the	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+policies:_x000d	policies:_x000d	NN	CW	NOUN	ARGUMENT
+_	_	NFP	FW
+
+sentence break
+
+
+paragraph break
+
+_	_	NFP	FW
+x000d	x000d	NFP	FW
+_	_	ADD	FW
+
+sentence break
+
+
+paragraph break
+
+policy	policy	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+allow	allow	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+bring	bring	VB	CW	VERB
+phones	phone	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+use	use	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+during	during	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+free	free	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+policy	policy	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+allow	allow	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	CW	VERB
+phones	phone	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school._x000d	school._x000d	NNP	CW	NOUN	ARGUMENT
+_	_	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+_	_	NFP	FW
+x000d	x000d	NFP	FW
+_	_	ADD	FW
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+phones	phone	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+text	text	VB	CW	VERB
+during	during	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+use	use	VB	CW	VERB
+there	there	RB	ADV	CW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+mature	mature	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+directions	direction	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+no	no	UH	FW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+listen	listen	VB	CW	VERB
+but	but	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+care	care	VB	CW	VERB
+and	and	CC	FW
+use	use	VB	CW	VERB
+the	the	DT	FW
+phone	phone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+next	next	JJ	CW	ADJ
+phones	phone	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+off	off	RP	FW
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+distraction	distraction	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+all	all	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+there	there	RB	ADV	CW
+phone	phone	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+silent	silent	JJ	CW	ADJ
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+no	no	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+mig	mig	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+

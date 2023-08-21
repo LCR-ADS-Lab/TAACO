@@ -1,0 +1,482 @@
+word	lemma	POS	CW\FW	other categories
+why	why	WRB	FW
+do	do	VBP	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+formed	form	VBN	CW	VERB
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+attract	attract	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+attention	attention	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+himself	himself	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+honest	honest	JJ	CW	ADJ
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+honest	honest	JJ	CW	ADJ
+to	to	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+a	a	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+works	work	VBZ	CW	VERB
+makes	make	VBZ	CW	VERB
+dream	dream	NN	CW	NOUN	ARGUMENT
+come	come	VB	CW	VERB
+true	true	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+profile	profile	NN	CW	NOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+which	which	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+living	live	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+respectful	respectful	JJ	CW	ADJ
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+to	to	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+out	out	IN	FW
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+what	what	WP	FW
+s	s	NNP	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+whom	whom	WP	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+faithful	faithful	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+stops	stop	VBZ	CW	VERB
+working	work	VBG	CW	VERB
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+characters	character	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+who	who	WP	FW
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+that	that	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+who	who	WP	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+faith	faith	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+an	an	DT	FW
+aggressive	aggressive	JJ	CW	ADJ
+voice	voice	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+tone	tone	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+other	other	JJ	CW	ADJ
+characters	character	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+anger	anger	NN	CW	NOUN	ARGUMENT
+creates	create	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+issue	issue	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+in	in	IN	FW
+which	which	WDT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+support	support	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	RP	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+hate	hate	VB	CW	VERB
+and	and	CC	FW
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+aggressive	aggressive	JJ	CW	ADJ
+voice	voice	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+aggressive	aggressive	JJ	CW	ADJ
+actions	action	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+aggression	aggression	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+anywhere	anywhere	RB	ADV	FW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+smart	smart	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+to	to	TO	FW
+let	let	VB	CW	VERB
+that	that	DT	FW
+anger	anger	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+before	before	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+affects	affect	VBZ	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+choose	choose	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+formed	form	VBN	CW	VERB
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+formed	form	VBN	CW	VERB
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+says	say	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+choose	choose	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+then	then	RB	ADV	CW
+there	there	EX	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+consequences	consequence	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+face	face	VB	CW	VERB
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+whom	whom	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+known	know	VBN	CW	VERB
+who	who	WP	FW
+works	work	VBZ	CW	VERB
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+passion	passion	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+higher	high	JJR	CW	ADJ
+expectations	expectation	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+from	from	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	VBZ	CW	VERB
+that	that	WDT	FW	PRONOUN
+trust	trust	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+are	be	VBP	FW	aux_or_cop
+honest	honest	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+deserve	deserve	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+successful	successful	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+face	face	VB	CW	VERB
+the	the	DT	FW
+difficulties	difficulty	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+daily	daily	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+choose	choose	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+chances	chance	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+meet	meet	VB	CW	VERB
+different	different	JJ	CW	ADJ
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

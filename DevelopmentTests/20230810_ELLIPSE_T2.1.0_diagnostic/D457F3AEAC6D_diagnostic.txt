@@ -1,0 +1,590 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchhill	churchhill	NNP	CW	NOUN	ARGUMENT
+without	without	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+humans	human	NNS	CW	NOUN	ARGUMENT
+excied	excie	VBN	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+prove	prove	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+statement	statement	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+provide	provide	VB	CW	VERB
+two	two	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+two	two	CD	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+explaining	explain	VBG	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+humans	human	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+imagine	imagine	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+exiest	exiest	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+reason	reason	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+one	one	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+battles	battle	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+wars	wars	NNPS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+losing	lose	VBG	CW	VERB
+battles	battle	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+wars	wars	NNPS	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+united	united	NNP	CW	NOUN	ARGUMENT
+states	states	NNP	CW	NOUN	ARGUMENT
+of	of	IN	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+new	new	JJ	CW	ADJ
+weapons	weapon	NNS	CW	NOUN	ARGUMENT
+wither	wither	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+nuclear	nuclear	JJ	CW	ADJ
+or	or	CC	FW
+bullets	bullet	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+without	without	IN	FW
+losing	lose	VBG	CW	VERB
+those	those	DT	FW	PRONOUN
+battles	battle	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+wars	war	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+would	would	MD	FW	aux_or_cop
+ve	ve	VB	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBN	CW	VERB
+out	out	RP	FW
+about	about	IN	FW
+atomic	atomic	JJ	CW	ADJ
+bombs	bomb	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+harden	harden	JJ	CW	ADJ
+steel	steel	NN	CW	NOUN	ARGUMENT
+bullets	bullet	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+sounds	sound	VBZ	CW	VERB
+crazy	crazy	JJ	CW	ADJ
+and	and	CC	FW
+highly	highly	RB	ADV	CW
+dishorroable	dishorroable	JJ	CW	ADJ
+to	to	TO	FW
+are	be	VBP	FW	aux_or_cop
+fallen	fall	VBN	CW	VERB
+heros	hero	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+were	be	VBD	FW	aux_or_cop
+killed	kill	VBN	CW	VERB
+in	in	IN	FW
+action	action	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+won	win	VBD	CW	VERB
+wars	war	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+battles	battle	NNS	CW	NOUN	ARGUMENT
+everytime	everytime	RB	ADV	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+soon	soon	RB	ADV	CW
+fall	fall	VB	CW	VERB
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+using	use	VBG	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+positions	position	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+plans	plan	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+win	win	VB	CW	VERB
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+would	would	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+too	too	RB	ADV	CW
+confident	confident	JJ	CW	ADJ
+in	in	IN	FW
+wining	wine	VBG	CW	VERB
+so	so	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+using	use	VBG	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+weapons	weapon	NNS	CW	NOUN	ARGUMENT
+over	over	RB	ADV	CW
+and	and	CC	FW
+over	over	RB	ADV	CW
+again	again	RB	ADV	CW
+and	and	CC	FW
+let	let	VB	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+discover	discover	VBP	CW	VERB
+those	those	DT	FW	PRONOUN
+new	new	JJ	CW	ADJ
+atomic	atomic	JJ	CW	ADJ
+weapons	weapon	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+reason	reason	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+is	be	VBZ	FW	aux_or_cop
+about	about	IN	FW
+automobles	automoble	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+automobles	automoble	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+around	around	RB	ADV	CW
+for	for	IN	FW
+a	a	DT	FW
+very	very	RB	ADV	CW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+guess	guess	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+calculations	calculation	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+been	be	VBN	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+1,500	1,500	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+henrey	henrey	NNP	CW	NOUN	ARGUMENT
+ford	ford	NNP	CW	NOUN	ARGUMENT
+showed	show	VBD	CW	VERB
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+ever	ever	RB	ADV	CW
+automoble	automoble	JJ	CW	ADJ
+the	the	DT	FW
+model	model	NNP	CW	NOUN	ARGUMENT
+t.	t.	NNP	CW	NOUN	ARGUMENT
+henrey	henrey	NNP	CW	NOUN	ARGUMENT
+ford	ford	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+through	through	IN	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+doubting	doubt	VBG	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+model	model	NNP	CW	NOUN	ARGUMENT
+t	t	NNP	CW	NOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+
+sentence break
+
+day	day	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+day	day	NN	CW	NOUN	ARGUMENT
+month	month	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+month	month	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+year	year	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+failed	fail	VBN	CW	VERB
+experments	experment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+spring	spring	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+1830	1830	CD	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+successfully	successfully	RB	ADV	CW
+got	get	VBD	CW	VERB
+one	one	CD	FW
+fully	fully	RB	ADV	CW
+working	work	VBG	CW	VERB
+and	and	CC	FW
+running	run	VBG	CW	VERB
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+through	through	IN	FW
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+walls	wall	NNS	CW	NOUN	ARGUMENT
+blocking	block	VBG	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+path	path	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+show	show	VB	CW	VERB
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+automoble	automoble	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+and	and	CC	FW
+still	still	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+
+sentence break
+
+another	another	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+tesla	tesla	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+famous	famous	JJ	CW	ADJ
+electronic	electronic	JJ	CW	ADJ
+car	car	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+power	power	VB	CW	VERB
+there	there	RB	ADV	CW
+cars	car	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+electricity	electricity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+guys	guy	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+ve	ve	VB	FW	aux_or_cop
+gone	go	VBN	CW	VERB
+through	through	IN	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+experments	experment	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+even	even	RB	ADV	CW
+imagine	imagine	VB	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+amout	amout	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+failed	fail	VBN	CW	VERB
+ones	one	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	CW	VERB
+pretty	pretty	RB	ADV	CW
+sure	sure	JJ	CW	ADJ
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+alot	alot	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+failed	fail	VBN	CW	VERB
+test	test	NN	CW	NOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW
+passed	pass	VBN	CW	VERB
+ones	one	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+reasonable	reasonable	JJ	CW	ADJ
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+saying	say	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+fail	fail	VB	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+modles	modle	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+super	super	RB	ADV	CW
+crappy	crappy	JJ	CW	ADJ
+like	like	IN	FW	SUBORDINATOR
+the	the	DT	FW
+cars	car	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+suck	suck	VB	CW	VERB
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+after	after	IN	FW
+every	every	DT	FW
+failed	fail	VBN	CW	VERB
+project	project	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+new	new	JJ	CW	ADJ
+imagines	imago	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+the	the	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+repersent	repersent	VB	CW	VERB
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+repuation	repuation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+failure	failure	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+an	an	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+these	these	DT	FW	PRONOUN
+two	two	CD	FW
+companys	company	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+cars	car	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+2020	2020	CD	FW
+would	would	MD	FW	aux_or_cop
+ve	ve	VB	FW	aux_or_cop
+sucked	suck	VBN	CW	VERB
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+only	only	RB	ADV	CW
+car	car	VB	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+just	just	RB	ADV	CW
+send	send	VB	CW	VERB
+running	run	VBG	CW	VERB
+crappy	crappy	JJ	CW	ADJ
+looking	look	VBG	CW	VERB
+cars	car	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+humans	human	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+need	need	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+two	two	CD	FW
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+wisten	wisten	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+wrong	wrong	JJ	CW	ADJ
+at	at	RB	ADV	FW
+all	all	RB	ADV	CW
+
+sentence break
+
+without	without	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+succces	succce	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+like	like	IN	FW
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+pointless	pointless	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+live	live	VB	CW	VERB
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+live	live	VBP	CW	VERB
+in	in	IN	FW
+today	today	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+then	then	RB	ADV	CW
+who	who	WP	FW
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+failing	fail	VBG	CW	VERB
+until	until	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+reached	reach	VBD	CW	VERB
+succesed	succese	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+

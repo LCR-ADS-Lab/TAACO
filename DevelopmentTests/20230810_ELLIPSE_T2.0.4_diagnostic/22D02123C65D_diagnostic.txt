@@ -1,0 +1,235 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+role	role	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+next	next	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	FW	FW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	RB	ADV	CW
+without	without	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+thankful	thankful	JJ	CW	ADJ
+for	for	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+pass	pass	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+did	do	VBD	FW	aux_or_cop
+everyting	everyting	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+wrong	wrong	JJ	CW	ADJ
+and	and	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+right	right	RB	ADV	CW
+for	for	IN	FW
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+face	face	VBP	CW	VERB
+faliure	faliure	VBP	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+show	show	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+why	why	WRB	FW
+are	be	VBP	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+in	in	IN	FW
+like	like	IN	FW
+every	every	DT	FW
+second	second	JJ	CW	ADJ
+but	but	CC	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+shame	shame	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+more	more	RBR	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+father	father	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+``	``	``	FW
+no	no	DT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+dose	dose	NN	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+or	or	CC	FW
+unsuccessful	unsuccessful	JJ	CW	ADJ
+but	but	CC	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+shows	show	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+why	why	WRB	FW
+are	be	VBP	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+why	why	WRB	FW
+do	do	VBP	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+or	or	CC	FW
+how	how	WRB	FW
+hard	hard	JJ	CW	ADJ
+do	do	VBP	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+brains	brain	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+'s	's	POS	FW
+bigger	bigger	JJR	CW	ADJ
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+i	i	FW	FW
+mean	mean	VB	CW	VERB
+bigger	bigger	JJR	CW	ADJ
+i	i	FW	FW
+mean	mean	VB	CW	VERB
+more	more	JJR	CW	ADJ
+details	detail	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+more	more	JJR	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	FW	FW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+do	do	VB	CW	VERB
+the	the	DT	FW
+important	important	JJ	CW	ADJ
+rule	rule	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+pursuit	pursuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

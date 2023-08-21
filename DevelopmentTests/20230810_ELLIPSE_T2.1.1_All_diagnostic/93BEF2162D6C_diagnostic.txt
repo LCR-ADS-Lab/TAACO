@@ -1,0 +1,454 @@
+word	lemma	POS	CW\FW	other categories
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+some	some	DT	FW
+consensus	consensus	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+to	to	IN	FW
+if	if	IN	FW	SUBORDINATOR
+student	student	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+attend	attend	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+online	online	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+video	video	NN	CW	NOUN	ARGUMENT
+conferencing	conferencing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+take	take	VB	CW	VERB
+online	online	JJ	CW	ADJ
+clasess	clasess	NN	CW	NOUN	ARGUMENT
+neverthless	neverthless	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+agrees	agree	VBZ	CW	VERB
+with	with	IN	FW
+that	that	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+online	online	JJ	CW	ADJ
+clasess	clasess	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+time	time	NN	CW	NOUN	ARGUMENT
+limit	limit	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+wisely	wisely	RB	ADV	CW
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+face	face	VB	CW	VERB
+transportation	transportation	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+clasess	clasess	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+easier	easy	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+to	to	IN	FW
+bging	bge	VBG	CW	VERB
+taking	take	VBG	CW	VERB
+online	online	JJ	CW	ADJ
+clasess	clasess	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+much	much	RB	ADV	CW
+more	more	RBR	ADV	CW
+valuable	valuable	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+those	those	DT	FW
+clasess	clasess	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+time	time	NN	CW	NOUN	ARGUMENT
+limited	limited	JJ	CW	ADJ
+so	so	IN	FW	SUBORDINATOR
+that	that	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+wisely	wisely	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+online	online	JJ	CW	ADJ
+clasess	clasess	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+seseaons	seseaon	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+fixed	fix	VBN	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+course	course	NN	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+by	by	IN	FW
+that	that	DT	FW
+seseaon	seseaon	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+that	that	DT	FW
+case	case	NN	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+plan	plan	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+usa	usa	NNP	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+loan	loan	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+thier	thi	JJR	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+taking	take	VBG	CW	VERB
+an	an	DT	FW
+online	online	JJ	CW	ADJ
+course	course	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+those	those	DT	FW
+loan	loan	NN	CW	NOUN	ARGUMENT
+terms	term	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+clearly	clearly	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+binificial	binificial	JJ	CW	ADJ
+to	to	TO	FW
+take	take	VB	CW	VERB
+online	online	JJ	CW	ADJ
+clasess	clasess	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+offer	offer	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+distance	distance	NN	CW	NOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+farthermore	farthermore	RB	ADV	FW
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+own	own	JJ	CW	ADJ
+transportation	transportation	NN	CW	NOUN	ARGUMENT
+online	online	JJ	CW	ADJ
+clasess	clasess	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+option	option	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instance	instance	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+usa	usa	NNP	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+own	own	JJ	CW	ADJ
+transportation	transportation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+suffers	suffer	VBZ	CW	VERB
+most	most	RBS	ADV	CW
+
+sentence break
+
+every	every	DT	FW
+single	single	JJ	CW	ADJ
+morning	morning	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+rush	rush	VB	CW	VERB
+for	for	IN	FW
+public	public	JJ	CW	ADJ
+transportation	transportation	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+campus	campus	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+late	late	JJ	CW	ADJ
+for	for	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+effects	effect	VBZ	CW	VERB
+thier	thi	JJR	CW	ADJ
+attendence	attendence	NN	CW	NOUN	ARGUMENT
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+institute	institute	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thier	thi	JJR	CW	ADJ
+professors	professor	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+proves	prove	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+taking	take	VBG	CW	VERB
+an	an	DT	FW
+online	online	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+solve	solve	VB	CW	VERB
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+those	those	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+easily	easily	RB	ADV	FW
+
+sentence break
+
+and	and	CC	FW
+student	student	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+focuse	focuse	VB	CW	VERB
+on	on	IN	FW
+study	study	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+handeling	handele	VBG	CW	VERB
+little	little	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+those	those	DT	FW	PRONOUN
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+alomost	alomost	NN	CW	NOUN	ARGUMENT
+turning	turn	VBG	CW	VERB
+into	into	IN	FW
+a	a	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+daily	daily	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+overall	overall	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+much	much	RB	ADV	CW
+more	more	RBR	ADV	CW
+imprtent	imprtent	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+taking	take	VBG	CW	VERB
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+online	online	NN	CW	NOUN	ARGUMENT
+saves	save	VBZ	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+let	let	VB	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+do	do	VB	CW	VERB
+other	other	JJ	CW	ADJ
+jobs	job	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+earn	earn	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+and	and	CC	FW
+a	a	DT	FW
+oportunity	oportunity	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+possiblity	possiblity	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+late	late	JJ	CW	ADJ
+to	to	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+because	because	IN	FW
+of	of	IN	FW
+transportation	transportation	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+student	student	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+attend	attend	VB	CW	VERB
+clasess	clasess	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+online	online	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+vedio	vedio	NN	CW	NOUN	ARGUMENT
+conferencing	conferencing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+accept	accept	VB	CW	VERB
+the	the	DT	FW
+offer	offer	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+distance	distance	NN	CW	NOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

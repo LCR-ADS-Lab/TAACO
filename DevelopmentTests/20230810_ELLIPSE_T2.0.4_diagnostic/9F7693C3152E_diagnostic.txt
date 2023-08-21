@@ -1,0 +1,951 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+the	the	DT	FW
+communication	communication	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+the	the	DT	FW
+teammates	teammate	NNS	CW	NOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+with	with	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+partner	partner	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+when	when	WRB	FW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+an	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+three	three	CD	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+out	out	IN	FW
+the	the	DT	FW
+6	6	CD	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+or	or	CC	FW
+a	a	DT	FW
+silly	silly	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+from	from	IN	FW
+that	that	DT	FW
+silly	silly	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+important	important	JJ	CW	ADJ
+est	est	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+patient	patient	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+one	one	CD	FW
+teammate	teammate	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+does	do	VBZ	CW	VERB
+like	like	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+disagree	disagree	VB	CW	VERB
+with	with	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+about	about	IN	FW
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+and	and	CC	FW
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+that	that	IN	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+the	the	DT	FW
+communication	communication	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+groups	group	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+communication	communication	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+does	do	VBZ	CW	VERB
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+that	that	IN	FW	PRONOUN
+project	project	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+society	society	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+working	work	VBG	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+develop	develop	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+skills	skill	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+working	work	VBG	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+always	always	RB	ADV	CW
+try	try	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+when	when	WRB	FW
+the	the	DT	FW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+with	with	IN	FW
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+to	to	TO	FW
+plan	plan	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+interesting	interesting	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+change	change	VB	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+teammates	teammate	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+lead	lead	VBP	CW	VERB
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+in	in	IN	FW
+group	group	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+like	like	IN	FW
+playing	play	VBG	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+roll	roll	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+one	one	CD	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+writes	write	VBZ	CW	VERB
+who	who	WP	FW
+draws	draw	VBZ	CW	VERB
+who	who	WP	FW
+speak	speak	VBP	CW	VERB
+and	and	CC	FW
+finally	finally	RB	ADV	CW
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+captain	captain	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+captain	captain	NN	CW	NOUN	ARGUMENT
+decides	decide	VBZ	CW	VERB
+who	who	WP	FW
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+defense	defense	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+as	as	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+group	group	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+captain	captain	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+put	put	VB	CW	VERB
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+speak	speak	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+front	front	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+put	put	VBD	CW	VERB
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+knows	know	VBZ	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+speaks	speak	VBZ	CW	VERB
+to	to	TO	FW
+draw	draw	VB	CW	VERB
+the	the	DT	FW
+model	model	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+working	work	VBG	CW	VERB
+in	in	IN	FW
+group	group	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easier	easier	JJR	CW	ADJ
+and	and	CC	FW
+come	come	VBN	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+fast	fast	RB	ADV	CW
+and	and	CC	FW
+with	with	IN	FW
+good	good	JJ	CW	ADJ
+results	result	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+everything	everything	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+ok	ok	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+becuase	becuase	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+think	think	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+from	from	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+think	think	VB	CW	VERB
+a	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+make	make	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+teammates	teammate	NNS	CW	NOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+pretty	pretty	RB	ADV	CW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+problems	problem	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+comes	come	VBZ	CW	VERB
+but	but	CC	FW
+with	with	IN	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+results	result	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+arrived	arrive	VBD	CW	VERB
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+like	like	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+group	group	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+need	need	VB	CW	VERB
+communication	communication	NN	CW	NOUN	ARGUMENT
+patiend	patiend	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+listen	listen	VBP	CW	VERB
+and	and	CC	FW
+try	try	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+correctly	correctly	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+working	work	VBG	CW	VERB
+alone	alone	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+different	different	JJ	CW	ADJ
+and	and	CC	FW
+easier	easier	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+boss	boss	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+any	any	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+no	no	RB	ADV	CW
+have	have	VB	CW	VERB
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+will	will	MD	FW	aux_or_cop
+disagree	disagree	VB	CW	VERB
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+alone	alone	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+required	require	VBD	CW	VERB
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+slower	slower	JJR	CW	ADJ
+and	and	CC	FW
+step	step	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+step	step	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+planning	plan	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+harder	harder	RBR	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+to	to	TO	FW
+work	work	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+pretense	pretense	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+finish	finish	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+alone	alone	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+50	50	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+75	75	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+finishing	finish	VBG	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+great	great	JJ	CW	ADJ
+results	result	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+famous	famous	JJ	CW	ADJ
+creations	creation	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+came	come	VBD	CW	VERB
+for	for	IN	FW
+just	just	RB	ADV	CW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+work	work	VBP	CW	VERB
+alone	alone	RB	ADV	CW
+and	and	CC	FW
+did	do	VBD	FW	aux_or_cop
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+master	master	NN	CW	NOUN	ARGUMENT
+piece	piece	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+working	work	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+challenging	challenging	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+are	be	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+and	and	CC	FW
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+for	for	IN	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+leave	leave	VB	CW	VERB
+the	the	DT	FW
+form	form	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+been	be	VBN	FW	aux_or_cop
+using	use	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+work	work	VB	CW	VERB
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+learning	learn	VBG	CW	VERB
+to	to	TO	FW
+understand	understand	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+thinks	think	VBZ	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+important	important	JJ	CW	ADJ
+skill	skill	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+with	with	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+the	the	DT	FW
+appropriate	appropriate	JJ	CW	ADJ
+teammates	teammate	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+great	great	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW	SUBORDINATOR
+the	the	DT	FW
+university	university	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+projects	project	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+are	be	VBP	CW	VERB
+in	in	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+university	university	NNP	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+projects	project	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+became	become	VBD	CW	VERB
+famous	famous	JJ	CW	ADJ
+and	and	CC	FW
+helpful	helpful	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+clean	clean	VB	CW	VERB
+the	the	DT	FW
+dirty	dirty	JJ	CW	ADJ
+water	water	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+a	a	DT	FW
+cure	cure	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+working	work	VBG	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+specially	specially	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+many	many	JJ	CW	ADJ
+smart	smart	JJ	CW	ADJ
+brains	brain	NNS	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+with	with	IN	FW
+just	just	RB	ADV	CW
+one	one	CD	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+mind	mind	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+think	think	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+than	than	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	PRONOUN
+helps	help	VBZ	CW	VERB
+to	to	TO	FW
+brings	bring	VBZ	CW	VERB
+more	more	JJR	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+working	work	VBG	CW	VERB
+with	with	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+a	a	DT	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+or	or	CC	FW
+do	do	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+notice	notice	VB	CW	VERB
+the	the	DT	FW
+error	error	NN	CW	NOUN	ARGUMENT
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+teammates	teammate	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+all	all	PDT	FW
+the	the	DT	FW
+bad	bad	JJ	CW	ADJ
+errors	error	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+alone	alone	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+no	no	DT	FW
+body	body	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+check	check	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+wrong	wrong	JJ	CW	ADJ
+or	or	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBD	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+some	some	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+working	work	VBG	CW	VERB
+in	in	IN	FW
+group	group	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+any	any	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+project	project	NN	CW	NOUN	ARGUMENT
+faster	faster	RBR	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+works	work	VBZ	CW	VERB
+better	better	JJR	CW	ADJ
+than	than	IN	FW
+just	just	RB	ADV	CW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+benefits	benefit	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+working	work	VBG	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+working	work	VBG	CW	VERB
+alone	alone	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

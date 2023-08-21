@@ -1,0 +1,553 @@
+word	lemma	POS	CW\FW	other categories
+first	first	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+poeple	poeple	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+answer	answer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+examole	examole	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	FW	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+a	a	DT	FW
+pair	pair	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+ask	ask	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+i	i	FW	FW
+ask	ask	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	FW	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+but	but	CC	FW
+different	different	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+witch	witch	NN	CW	NOUN	ARGUMENT
+pair	pair	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+should	should	MD	FW	aux_or_cop
+pick	pick	VB	CW	VERB
+and	and	CC	FW
+there	there	EX	FW
+i	i	FW	FW
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+what	what	WP	FW
+pair	pair	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+
+sentence break
+
+somepople	somepople	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+said	say	VBD	CW	VERB
+when	when	WRB	FW
+i	i	FW	FW
+think	think	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+when	when	WRB	FW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+somepeople	somepeople	NNP	CW	NOUN	ARGUMENT
+ask	ask	VB	CW	VERB
+different	different	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+different	different	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+answer	answer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+continue	continue	VB	CW	VERB
+listen	listen	VB	CW	VERB
+other	other	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+different	different	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+to	to	TO	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+better	better	RBR	ADV	CW
+
+sentence break
+
+listen	listen	VB	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+ask	ask	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+looks	look	VBZ	CW	VERB
+so	so	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBD	CW	VERB
+only	only	RB	ADV	CW
+ask	ask	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+58	58	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+52	52	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+care	care	VB	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+to	to	TO	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+one	one	CD	FW
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+knowing	know	VBG	CW	VERB
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+more	more	JJR	CW	ADJ
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+let	let	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+expres	expre	VBZ	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+different	different	JJ	CW	ADJ
+persons	person	NNS	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+pick	pick	VB	CW	VERB
+better	better	JJR	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+i	i	FW	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+a	a	DT	FW
+pencil	pencil	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	FW	FW
+like	like	IN	FW
+two	two	CD	FW
+pencil	pencil	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+i	i	FW	FW
+only	only	RB	ADV	CW
+have	have	VBP	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+one	one	CD	FW
+
+sentence break
+
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+when	when	WRB	FW
+i	i	FW	FW
+need	need	MD	CW	VERB
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+witch	witch	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+i	i	FW	FW
+should	should	MD	FW	aux_or_cop
+pick	pick	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+tell	tell	VBP	CW	VERB
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+expres	expre	VB	CW	VERB
+theirself	theirself	RB	ADV	FW
+and	and	CC	FW
+tell	tell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+cute	cute	JJ	CW	ADJ
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+instagram	instagram	NNP	CW	NOUN	ARGUMENT
+instagram	instagram	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+a	a	DT	FW
+use	use	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+instagram	instagram	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW
+sometimes	sometimes	RB	ADV	CW
+when	when	WRB	FW
+i	i	FW	FW
+dont	dont	FW	FW
+know	know	VBP	CW	VERB
+witch	witch	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+to	to	TO	FW
+pick	pick	VB	CW	VERB
+i	i	FW	FW
+post	post	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+storie	storie	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+put	put	VBN	CW	VERB
+
+sentence break
+
+``	``	``	FW
+what	what	WP	FW
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+should	should	MD	FW	aux_or_cop
+to	to	TO	FW
+pick	pick	VB	CW	VERB
+''	''	''	FW
+
+sentence break
+
+and	and	CC	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+when	when	WRB	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+frieds	fried	NNS	CW	NOUN	ARGUMENT
+vote	vote	VB	CW	VERB
+for	for	IN	FW
+what	what	WP	FW
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+should	should	MD	FW	aux_or_cop
+pick	pick	VB	CW	VERB
+and	and	CC	FW
+i	i	FW	FW
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+desition	desition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+help	help	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+every	every	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+need	need	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+the	the	DT	FW
+better	better	JJR	CW	ADJ
+choose	choose	VB	CW	VERB
+
+sentence break
+
+whoever	whoever	WP	FW
+sometimes	sometimes	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+okay	okay	JJ	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+desition	desition	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sometimes	sometimes	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+dont	dont	VBP	FW	aux_or_cop
+know	know	VB	CW	VERB
+the	the	DT	FW
+correct	correct	JJ	CW	ADJ
+answer	answer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+maybe	maybe	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

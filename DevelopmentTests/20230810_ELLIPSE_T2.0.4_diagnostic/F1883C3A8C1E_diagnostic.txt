@@ -1,0 +1,273 @@
+word	lemma	POS	CW\FW	other categories
+last	last	JJ	CW	ADJ
+i	i	FW	FW
+disagree	disagree	VBP	CW	VERB
+because	because	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+isnt	isnt	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+when	when	WRB	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+out	out	IN	FW
+in	in	IN	FW
+war	war	NN	CW	NOUN	ARGUMENT
+doesnt	doesnt	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+ready	ready	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+enemy	enemy	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+think	think	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wouldnt	wouldnt	JJ	CW	ADJ
+want	want	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+mind	mind	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+in	in	IN	FW
+that	that	DT	FW
+predicament	predicament	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+sometimes	sometimes	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+not	not	RB	ADV	CW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+next	next	JJ	CW	ADJ
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+think	think	VB	CW	VERB
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+
+sentence break
+
+da	da	NN	CW	NOUN	ARGUMENT
+baby	baby	NNP	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+always	always	RB	ADV	CW
+told	tell	VBN	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+every	every	DT	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+anything	anything	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+had	have	VBD	FW	aux_or_cop
+stayed	stay	VBN	CW	VERB
+humble	humble	JJ	CW	ADJ
+and	and	CC	FW
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+up	up	RB	ADV	CW
+and	and	CC	FW
+now	now	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+top	top	JJ	CW	ADJ
+rappers	rapper	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+are	be	VBP	FW	aux_or_cop
+time	time	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+gold	gold	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+platinum	platinum	NN	CW	NOUN	ARGUMENT
+records	record	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+millions	million	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+fans	fan	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+followers	follower	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+stayed	stay	VBD	CW	VERB
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+found	find	VBD	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	CW	VERB
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+having	have	VBG	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	JJ	CW	ADJ
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+but	but	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+disagree	disagree	VBP	CW	VERB
+
+sentence break
+
+first	first	NNP	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+can	can	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+great	great	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+found	find	VBD	CW	VERB
+the	the	DT	FW
+key	key	JJ	CW	ADJ
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+like	like	IN	FW
+micheal	micheal	NNP	CW	NOUN	ARGUMENT
+jordan	jordan	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+cut	cut	VBN	CW	VERB
+from	from	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+varsity	varsity	NN	CW	NOUN	ARGUMENT
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+putting	put	VBG	CW	VERB
+in	in	RP	FW
+work	work	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+the	the	DT	FW
+key	key	JJ	CW	ADJ
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

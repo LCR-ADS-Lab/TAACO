@@ -1,0 +1,287 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+also	also	RB	ADV	CW
+grown	grow	VBN	CW	VERB
+from	from	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	have	VBP	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+because	because	IN	FW
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+years	year	NNS	CW	NOUN	ARGUMENT
+ago	ago	IN	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+algebra	algebra	NNP	CW	NOUN	ARGUMENT
+one	one	CD	FW
+this	this	DT	FW	PRONOUN
+helped	help	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+higher	higher	JJR	CW	ADJ
+which	which	WDT	FW
+was	be	VBD	FW	aux_or_cop
+geometry	geometry	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+claim	claim	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+``	``	``	FW
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+just	just	RB	ADV	CW
+forget	forget	VB	CW	VERB
+the	the	DT	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+and	and	CC	FW
+mastered	master	VBD	CW	VERB
+''	''	''	FW
+however	however	RB	ADV	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+exactly	exactly	RB	ADV	CW
+forget	forget	VB	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+remember	remember	VB	CW	VERB
+some	some	DT	FW
+of	of	IN	FW
+these	these	DT	FW	PRONOUN
+to	to	TO	FW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+taking	take	VBG	CW	VERB
+a	a	DT	FW
+higher	higher	JJR	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+statistics	statistics	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+shown	show	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+three-fourths	three-fourth	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+had	have	VBD	CW	VERB
+a	a	DT	FW
+higher	higher	JJR	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+and	and	CC	FW
+beyond	beyond	IN	FW
+from	from	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+know	know	VB	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+from	from	IN	FW
+scratch	scratch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+asking	ask	VBG	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+``	``	``	FW
+why	why	WRB	FW
+should	should	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+from	from	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+beyond	beyond	IN	FW
+from	from	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+mastered	master	VBN	CW	VERB
+''	''	''	FW
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+looking	look	VBG	CW	VERB
+for	for	IN	FW
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+paying	pay	VBG	CW	VERB
+job	job	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+higher	higher	JJR	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+also	also	RB	ADV	CW
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+due	due	JJ	CW	ADJ
+to	to	TO	FW
+experience	experience	VB	CW	VERB
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+just	just	RB	ADV	CW
+education	education	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+helped	help	VBD	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+new	new	JJ	CW	ADJ
+from	from	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+mastered	master	VBD	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+learning	learn	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+higher	higher	JJR	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+and	and	CC	FW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+paying	pay	VBG	CW	VERB
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+were	be	VBD	CW	VERB
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+required	require	VBN	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+mastery	mastery	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+that	that	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+due	due	JJ	CW	ADJ
+to	to	TO	FW
+experience	experience	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+had	have	VBN	CW	VERB
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+and	and	CC	FW
+also	also	RB	ADV	CW
+not	not	RB	ADV	CW
+forgetting	forget	VBG	CW	VERB
+the	the	DT	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+which	which	WDT	FW
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+take	take	VB	CW	VERB
+higher	higher	JJR	CW	ADJ
+courses	course	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

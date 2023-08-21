@@ -1,0 +1,642 @@
+word	lemma	POS	CW\FW	other categories
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+is	be	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+right	right	JJ	CW	ADJ
+about	about	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+is	be	VBZ	FW	aux_or_cop
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+achievements	achievement	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+achievements	achievement	NNS	CW	NOUN	ARGUMENT
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+``	``	``	FW
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+personally	personally	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+personal	personal	JJ	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+achievements	achievement	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+true	true	JJ	CW	ADJ
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+achievements	achievement	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+an	a	DT	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+chipotle	chipotle	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+recently	recently	RB	ADV	CW
+been	be	VBN	CW	VERB
+elected	elect	VBN	CW	VERB
+``	``	``	FW
+employee	employee	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+month	month	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+''	''	''	FW
+what	what	WP	FW
+does	do	VBZ	FW	aux_or_cop
+that	that	DT	FW	PRONOUN
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+person	person	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+recently	recently	RB	ADV	CW
+been	be	VBN	CW	VERB
+elected	elect	VBN	CW	VERB
+employee	employee	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+month	month	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+is	be	VBZ	FW	aux_or_cop
+being	be	VBG	CW	VERB
+rewarded	reward	VBN	CW	VERB
+for	for	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	CW	VERB
+elected	elect	VBN	CW	VERB
+employee	employee	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+month	month	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+personally	personally	RB	ADV	CW
+still	still	RB	ADV	CW
+believe	believe	VB	CW	VERB
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+prior	prior	RB	ADV	CW
+to	to	TO	FW
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+cause	cause	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+being	be	VBG	CW	VERB
+elected	elect	VBN	CW	VERB
+employee	employee	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+month	month	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+satisfaction	satisfaction	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+for	for	IN	FW
+being	be	VBG	CW	VERB
+elected	elect	VBN	CW	VERB
+employee	employee	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+month	month	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+true	true	JJ	CW	ADJ
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+profit	profit	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+vast	vast	JJ	CW	ADJ
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+being	be	VBG	CW	VERB
+praised	praise	VBN	CW	VERB
+for	for	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+achievements	achievement	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+achievements	achievement	NNS	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+being	be	VBG	CW	VERB
+praised	praise	VBN	CW	VERB
+for	for	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'ve	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+like	like	IN	FW
+getting	get	VBG	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+becoming	become	VBG	CW	VERB
+employee	employee	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+month	month	NN	CW	NOUN	ARGUMENT
+helping	help	VBG	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+carrying	carry	VBG	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+groceries	grocery	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+car	car	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+an	a	DT	FW
+elderly	elderly	JJ	CW	ADJ
+has	have	VBZ	FW	aux_or_cop
+tipped	tip	VBN	CW	VERB
+over	over	IN	FW
+in	in	IN	FW
+the	the	DT	FW
+street	street	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+need	need	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+getting	get	VBG	CW	VERB
+up	up	RP	FW
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+causes	cause	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+true	true	JJ	CW	ADJ
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+2018	2018	CD	FW
+at	at	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+cheer	cheer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+felt	feel	VBD	CW	VERB
+true	true	JJ	CW	ADJ
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+out	out	RP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+made	make	VBN	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+finals	final	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+making	make	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+cheer-leading	cheer-leading	JJ	CW	ADJ
+finals	final	NNS	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+vast	vast	JJ	CW	ADJ
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+5	5	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+won	win	VBN	CW	VERB
+finals	final	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+next	next	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+start	start	VB	CW	VERB
+off	off	RP	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+learning	learn	VBG	CW	VERB
+without	without	IN	FW
+feeling	feel	VBG	CW	VERB
+confident	confident	JJ	CW	ADJ
+about	about	IN	FW
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+the	the	DT	FW
+positive	positive	JJ	CW	ADJ
+energy	energy	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+enough	enough	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+cope	cope	VB	CW	VERB
+with	with	IN	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+feeling	feel	VBG	CW	VERB
+that	that	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+whether	whether	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+confident	confident	JJ	CW	ADJ
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+starts	start	VBZ	CW	VERB
+distracting	distracting	JJ	CW	ADJ
+others	other	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+her	she	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+starts	start	VBZ	CW	VERB
+interrupting	interrupt	VBG	CW	VERB
+class	class	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+her	she	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+focus	focus	VB	CW	VERB
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+when	when	WRB	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+confident	confident	JJ	CW	ADJ
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+praising	praise	VBG	CW	VERB
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+work	work	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+build	build	VB	CW	VERB
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+prior	prior	JJ	CW	ADJ
+to	to	TO	FW
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+done	do	VBN	CW	VERB
+being	be	VBG	CW	VERB
+praised	praise	VBN	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+immediately	immediately	RB	ADV	CW
+go	go	VB	CW	VERB
+back	back	RB	ADV	CW
+to	to	TO	FW
+not	not	RB	ADV	CW
+feeling	feel	VBG	CW	VERB
+self-confident	self-confident	JJ	CW	ADJ
+to	to	TO	FW
+start	start	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+learning	learning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+true	true	JJ	CW	ADJ
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+personal	personal	JJ	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+conclude	conclude	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+a	a	DT	FW
+huge	huge	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+having	have	VBG	CW	VERB
+self	self	NN	CW	NOUN	ARGUMENT
+esteem	esteem	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+true	true	JJ	CW	ADJ
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+achievements	achievement	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+due	due	JJ	CW	ADJ
+to	to	TO	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+experience	experience	NN	CW	NOUN	ARGUMENT
+true	true	JJ	CW	ADJ
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+``	``	``	FW
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+personally	personally	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+self-esteem	self-esteem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+caused	cause	VBN	CW	VERB
+by	by	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,255 @@
+word	lemma	POS	CW\FW	other categories
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+somthing	somthing	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+busy	busy	JJ	CW	ADJ
+
+sentence break
+
+as	as	RB	ADV	CW
+long	long	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+busy	busy	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+sooner	sooner	RB	ADV	CW
+be	be	VB	CW	VERB
+done	do	VBN	CW	VERB
+then	then	RB	ADV	CW
+later	later	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+a	a	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	CW	VERB
+due	due	JJ	CW	ADJ
+then	then	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+project	project	NN	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+due	due	JJ	CW	ADJ
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+due	due	JJ	CW	ADJ
+date	date	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+motivating	motivate	VBG	CW	VERB
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+later	later	RB	ADV	CW
+or	or	CC	FW
+even	even	RB	ADV	CW
+late	late	JJ	CW	ADJ
+
+sentence break
+
+as	as	RB	ADV	CW
+long	long	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+focus	focus	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+about	about	RB	ADV	CW
+
+sentence break
+
+staying	stay	VBG	CW	VERB
+on	on	IN	FW
+task	task	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+hard	hard	JJ	CW	ADJ
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+'s	be	VBZ	CW	VERB
+any	any	DT	FW
+distractions	distraction	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+remove	remove	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+that	that	DT	FW
+situation	situation	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+back	back	RB	ADV	CW
+on	on	IN	FW
+track	track	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	IN	FW
+imagine	imagine	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+was	be	VBD	CW	VERB
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+having	have	VBG	FW	aux_or_cop
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+focusing	focus	VBG	CW	VERB
+because	because	IN	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+distracting	distract	VBG	CW	VERB
+or	or	CC	FW
+noisy	noisy	JJ	CW	ADJ
+
+sentence break
+
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+working	work	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+hall	hall	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+noise	noise	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+distracting	distract	VBG	CW	VERB
+to	to	TO	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+to	to	TO	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+busy	busy	JJ	CW	ADJ
+to	to	TO	FW
+reach	reach	VB	CW	VERB
+that	that	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+finishing	finish	VBG	CW	VERB
+or	or	CC	FW
+being	be	VBG	CW	VERB
+done	do	VBN	CW	VERB
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+some	some	DT	FW
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+overcome	overcome	VB	CW	VERB
+those	those	DT	FW
+challenges	challenge	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+about	about	IN	FW
+learning	learn	VBG	CW	VERB
+and	and	CC	FW
+progressing	progress	VBG	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+working	work	VBG	CW	VERB
+towards	towards	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+think	think	VB	CW	VERB
+would	would	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+best	best	RB	ADV	CW
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+moving	move	VBG	CW	VERB
+forward	forward	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

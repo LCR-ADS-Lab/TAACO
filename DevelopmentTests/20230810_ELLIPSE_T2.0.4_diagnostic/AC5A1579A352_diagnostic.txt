@@ -1,0 +1,333 @@
+word	lemma	POS	CW\FW	other categories
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+for	for	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+what	what	WP	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+thinking	think	VBG	CW	VERB
+about	about	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+convinse	convinse	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+then	then	RB	ADV	CW
+another	another	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+an	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+having	have	VBG	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+needed	need	VBD	CW	VERB
+idea	idea	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+find	find	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NNP	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+and	and	CC	FW
+help	help	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+how	how	WRB	FW
+other	other	JJ	CW	ADJ
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+thinking	thinking	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+third	third	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+had	have	VBD	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+parent	parent	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+has	have	VBZ	CW	VERB
+above	above	IN	FW
+age	age	NN	CW	NOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+went	go	VBN	CW	VERB
+by	by	IN	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+there	there	EX	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+with	with	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+grandpa	grandpa	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+ask	ask	VB	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+how	how	WRB	FW
+some	some	DT	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+take	take	VBP	CW	VERB
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+other	other	JJ	CW	ADJ
+'s	's	POS	FW
+can	can	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+there	there	RB	ADV	CW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+generic_name	generic_name	NN	CW	NOUN	ARGUMENT
+already	already	RB	ADV	CW
+finished	finish	VBD	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+did	do	VBD	CW	VERB
+n't	not	RB	ADV	CW
+
+sentence break
+
+so	so	RB	ADV	CW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+shows	show	VBZ	CW	VERB
+how	how	WRB	FW
+even	even	RB	ADV	CW
+tho	tho	IN	FW	SUBORDINATOR
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+had	have	VBD	CW	VERB
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+'ve	have	VB	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+better	better	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

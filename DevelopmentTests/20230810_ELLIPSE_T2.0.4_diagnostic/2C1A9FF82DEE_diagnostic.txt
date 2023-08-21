@@ -1,0 +1,387 @@
+word	lemma	POS	CW\FW	other categories
+philosopher	philosopher	NN	CW	NOUN	ARGUMENT
+physician	physician	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+humanitarian	humanitarian	JJ	CW	ADJ
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schwitzer	schwitzer	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+``	``	``	FW
+example	example	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+influencing	influence	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schwitzer	schwitzer	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+by	by	IN	FW
+setting	set	VBG	CW	VERB
+an	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+inspire	inspire	VB	CW	VERB
+change	change	VB	CW	VERB
+and	and	CC	FW
+influence	influence	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+better	better	JJR	CW	ADJ
+human	human	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+by	by	IN	FW
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+inspire	inspire	VB	CW	VERB
+the	the	DT	FW
+youth	youth	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+change	change	VB	CW	VERB
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+actions	action	NNS	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+seriously	seriously	RB	ADV	CW
+than	than	IN	FW	SUBORDINATOR
+words	word	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+promises	promise	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+broken	break	VBN	CW	VERB
+but	but	CC	FW
+actions	action	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+marked	mark	VBN	CW	VERB
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+word	word	NN	CW	NOUN	ARGUMENT
+hypocrite	hypocrite	NN	CW	NOUN	ARGUMENT
+defines	define	VBZ	CW	VERB
+the	the	DT	FW
+opposite	opposite	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	CW	VERB
+said	say	VBD	CW	VERB
+therefor	therefor	RB	ADV	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	CW	VERB
+taken	take	VBN	CW	VERB
+seriousy	seriousy	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+actions	action	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+inspire	inspire	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+better	better	JJR	CW	ADJ
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+up	up	RP	FW
+to	to	TO	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+relatives	relative	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+because	because	IN	FW
+of	of	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+said	say	VBN	CW	VERB
+but	but	CC	FW
+because	because	IN	FW
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+actions	action	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+showing	show	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+pay	pay	VBP	CW	VERB
+attention	attention	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+action	action	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+than	than	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+easier	easier	JJR	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+surtain	surtain	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+more	more	RBR	ADV	CW
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+actions	action	NNS	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+being	be	VBG	CW	VERB
+told	tell	VBD	CW	VERB
+not	not	RB	ADV	CW
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+wrong	wrong	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+to	to	TO	FW
+end	end	VB	CW	VERB
+up	up	RP	FW
+doing	do	VBG	CW	VERB
+the	the	DT	FW
+opposite	opposite	JJ	CW	ADJ
+sometimes	sometimes	RB	ADV	CW
+no	no	DT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+hard	hard	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+taking	take	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+i	i	FW	FW
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+words	word	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+weaker	weaker	JJR	CW	ADJ
+than	than	IN	FW
+actions	action	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+by	by	IN	FW
+setting	set	VBG	CW	VERB
+an	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+change	change	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+better	better	RBR	ADV	CW
+human	human	JJ	CW	ADJ
+beings	being	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+additon	additon	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+surrounded	surround	VBN	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+wrong	wrong	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+to	to	TO	FW
+become	become	VB	CW	VERB
+one	one	CD	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	CW	VERB
+raised	raise	VBN	CW	VERB
+by	by	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+personality	personality	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+great	great	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+respectful	respectful	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	CW	VERB
+not	not	RB	ADV	CW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hear	hear	VBP	CW	VERB
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+actions	action	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+observe	observe	VBP	CW	VERB
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+human	human	JJ	CW	ADJ
+beings	being	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+surrounds	surround	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+always	always	RB	ADV	CW
+because	because	IN	FW
+of	of	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+being	be	VBG	CW	VERB
+told	tell	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclution	conclution	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+by	by	IN	FW
+setting	set	VBG	CW	VERB
+an	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+inspire	inspire	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	CW	VERB
+not	not	RB	ADV	CW
+about	about	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	CW	VERB
+about	about	IN	FW
+showing	show	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+examples	example	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

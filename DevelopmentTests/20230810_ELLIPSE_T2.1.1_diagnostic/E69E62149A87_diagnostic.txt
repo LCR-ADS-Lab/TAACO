@@ -1,0 +1,288 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+choose	choose	VBP	CW	VERB
+are	be	VBP	FW	aux_or_cop
+own	own	JJ	CW	ADJ
+characteristic	characteristic	JJ	CW	ADJ
+traits	trait	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+option	option	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+british	british	JJ	CW	ADJ
+naturalist	naturalist	NN	CW	NOUN	ARGUMENT
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+sophisticated	sophisticated	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+one	one	CD	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+the	the	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+write	write	VB	CW	VERB
+and	and	CC	FW
+read	read	VB	CW	VERB
+when	when	WRB	FW
+other	other	JJ	CW	ADJ
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+an	an	DT	FW
+politician	politician	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+a	a	DT	FW
+naturalist	naturalist	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+chose	choose	VBD	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+one	one	CD	FW
+
+sentence break
+
+when	when	WRB	FW
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+this	this	DT	FW
+prompt	prompt	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+took	take	VBD	CW	VERB
+action	action	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+write	write	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+be	be	VB	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+becoming	become	VBG	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+as	as	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+all	all	DT	FW
+politician	politician	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+and	and	CC	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+every	every	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+all	all	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+and	and	CC	FW
+would	would	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+made	make	VBN	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+back	back	RB	ADV	CW
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+known	know	VBN	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+british	british	JJ	CW	ADJ
+politicians	politician	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+were	be	VBD	FW	aux_or_cop
+naturalist	naturalist	JJ	CW	ADJ
+as	as	IN	FW
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+but	but	CC	FW
+until	until	IN	FW
+now	now	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+anyways	anyways	RB	ADV	FW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+work	work	VB	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+politician	politician	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+always	always	RB	ADV	CW
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+between	between	IN	FW
+that	that	DT	FW	PRONOUN
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+made	make	VBN	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+this	this	DT	FW	PRONOUN
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+the	the	DT	FW
+reader	reader	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+and	and	CC	FW
+makes	make	VBZ	CW	VERB
+a	a	DT	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+to	to	IN	FW
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+characteristic	characteristic	JJ	CW	ADJ
+traits	trait	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+based	base	VBN	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+decided	decide	VBD	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+whoever	whoever	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+and	and	CC	FW
+control	control	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+out	out	NN	CW	NOUN	ARGUMENT
+come	come	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+based	base	VBN	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+act	act	VBP	CW	VERB
+or	or	CC	FW
+show	show	VBP	CW	VERB
+who	who	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+for	for	IN	FW	SUBORDINATOR
+are	be	VBP	FW	aux_or_cop
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

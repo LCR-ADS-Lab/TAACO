@@ -1,0 +1,449 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+tired	tire	VBN	CW	VERB
+of	of	IN	FW
+working	work	VBG	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+everyday	everyday	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lets	let	VBZ	CW	VERB
+say	say	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+this	this	DT	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+longer	longer	RBR	ADV	CW
+winter	winter	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+year-round	year-round	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+off	off	RP	FW
+in	in	IN	FW
+the	the	DT	FW
+spring	spring	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fall	fall	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+projects	project	NNS	CW	NOUN	ARGUMENT
+etc.	etc.	FW	FW
+
+sentence break
+
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+watch	watch	VB	CW	VERB
+a	a	DT	FW
+movie	movie	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+eat	eat	VB	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+as	as	IN	FW
+a	a	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+parties	party	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+celebrate	celebrate	VB	CW	VERB
+at	at	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+families	family	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+together	together	RB	ADV	CW
+as	as	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+n't	not	RB	ADV	CW
+then	then	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+miss	miss	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+much	much	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	TO	FW
+college	college	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+get	get	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+live	live	VB	CW	VERB
+
+sentence break
+
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+alone	alone	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+alone	alone	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+okay	okay	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+relax	relax	VB	CW	VERB
+from	from	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+studying	study	VBG	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	CW	VERB
+tired	tire	VBN	CW	VERB
+of	of	IN	FW
+working	work	VBG	CW	VERB
+so	so	RB	ADV	CW
+hard	hard	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+a	a	DT	FW
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+studying	study	VBG	CW	VERB
+so	so	RB	ADV	CW
+hard	hard	RB	ADV	CW
+for	for	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+tests	test	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+quizzes	quiz	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	CW	VERB
+tired	tire	VBN	CW	VERB
+from	from	IN	FW
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+enjoy	enjoy	VBP	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+invite	invite	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+go	go	VB	CW	VERB
+to	to	TO	FW
+mall	mall	NN	CW	NOUN	ARGUMENT
+watch	watch	VBP	CW	VERB
+a	a	DT	FW
+movie	movie	NN	CW	NOUN	ARGUMENT
+etc.	etc.	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+beach	beach	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+pool	pool	NN	CW	NOUN	ARGUMENT
+disney	disney	NNP	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+etc.	etc.	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+going	go	VBG	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+pool	pool	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+at	at	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+all	all	DT	FW
+night	night	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+outside	outside	JJ	CW	ADJ
+then	then	RB	ADV	CW
+just	just	RB	ADV	CW
+staying	stay	VBG	CW	VERB
+inside	inside	RB	ADV	CW
+and	and	CC	FW
+doing	do	VBG	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+with	with	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+anywhere	anywhere	RB	ADV	FW
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+enjoy	enjoy	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+by	by	IN	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+amusement	amusement	NN	CW	NOUN	ARGUMENT
+park	park	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+museum	museum	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+and	and	CC	FW
+take	take	VB	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+save	save	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+memories	memory	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+together	together	RB	ADV	CW
+as	as	IN	FW
+a	a	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+having	have	VBG	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+annoying	annoying	JJ	CW	ADJ
+or	or	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+love	love	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+siblings	sibling	NNS	CW	NOUN	ARGUMENT
+love	love	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+perfect	perfect	JJ	CW	ADJ
+in	in	IN	FW
+every	every	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

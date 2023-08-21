@@ -1,0 +1,459 @@
+word	lemma	POS	CW\FW	other categories
+inconclusun	inconclusun	NNP	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+as	as	RB	ADV	CW
+bad	bad	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+instens	insten	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+form	form	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+miss	miss	VBP	CW	VERB
+tack	tack	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+why	why	WRB	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+failing	fail	VBG	CW	VERB
+and	and	CC	FW
+fix	fix	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+make	make	VB	CW	VERB
+a	a	DT	FW
+same	same	JJ	CW	ADJ
+miss	miss	VBP	CW	VERB
+tack	tack	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+understand	understand	VB	CW	VERB
+why	why	WRB	FW
+failing	fail	VBG	CW	VERB
+plays	play	VBZ	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+failing	fail	VBG	CW	VERB
+plays	play	VBZ	CW	VERB
+a	a	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+form	form	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+miss	miss	VBP	CW	VERB
+tack	tack	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+why	why	WRB	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+failing	fail	VBG	CW	VERB
+and	and	CC	FW
+fix	fix	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+make	make	VB	CW	VERB
+a	a	DT	FW
+same	same	JJ	CW	ADJ
+miss	miss	VBP	CW	VERB
+tack	tack	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+however	however	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+see	see	VB	CW	VERB
+why	why	WRB	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+think	think	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+take	take	VB	CW	VERB
+a	a	DT	FW
+risk	risk	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+at	at	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+admit	admit	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+as	as	IN	FW
+bad	bad	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+hears	hear	VBZ	CW	VERB
+why	why	WRB	FW
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+miss	miss	VBP	CW	VERB
+tack	tack	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+that	that	DT	FW
+miss	miss	VBP	CW	VERB
+tack	tack	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+to	to	TO	FW
+shot	shoot	VBN	CW	VERB
+a	a	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+to	to	TO	FW
+know	know	VB	CW	VERB
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+missing	miss	VBG	CW	VERB
+a	a	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+a	a	DT	FW
+weal	weal	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+properly	properly	RB	ADV	CW
+shot	shoot	VBN	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+nuder	nuder	NN	CW	NOUN	ARGUMENT
+examples	example	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+to	to	TO	FW
+draw	draw	VB	CW	VERB
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+draw	draw	VB	CW	VERB
+a	a	DT	FW
+hands	hand	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+why	why	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+failed	fail	VBD	CW	VERB
+to	to	TO	FW
+draw	draw	VB	CW	VERB
+a	a	DT	FW
+hands	hand	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+time	time	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+by	by	IN	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+learn	learn	VBP	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+draw	draw	VB	CW	VERB
+a	a	DT	FW
+hands	hand	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+make	make	VB	CW	VERB
+a	a	DT	FW
+same	same	JJ	CW	ADJ
+miss	miss	VBP	CW	VERB
+tack	tack	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+out	out	RP	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reading	reading	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+to	to	TO	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+part	part	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+miss	miss	VBP	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+toked	toke	VBD	CW	VERB
+again	again	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+pass	pass	VBP	CW	VERB
+the	the	DT	FW
+reading	reading	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+nuder	nuder	NN	CW	NOUN	ARGUMENT
+examples	example	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+made	make	VBD	CW	VERB
+a	a	DT	FW
+miss	miss	VBP	CW	VERB
+tack	tack	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+almost	almost	RB	ADV	FW
+filthy	filthy	JJ	CW	ADJ
+baler	baler	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+bills	bill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+miss	miss	VBP	CW	VERB
+tack	tack	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+pay	pay	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+bills	bill	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+a	a	DT	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW
+almost	almost	RB	ADV	FW
+filthy	filthy	JJ	CW	ADJ
+baler	baler	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+why	why	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+failing	fail	VBG	CW	VERB
+and	and	CC	FW
+fix	fix	VB	CW	VERB
+the	the	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instens	insten	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+keep	keep	VBP	CW	VERB
+failing	fail	VBG	CW	VERB
+to	to	TO	FW
+payatensh	payatensh	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+what	what	WP	FW
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+that	that	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+nuder	nuder	NN	CW	NOUN	ARGUMENT
+examples	example	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+reading	read	VBG	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+keep	keep	VBP	CW	VERB
+miss	miss	VBP	CW	VERB
+pushing	push	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+reading	read	VBG	CW	VERB
+thirty	thirty	CD	FW
+mines	mine	NNS	CW	NOUN	ARGUMENT
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,446 @@
+word	lemma	POS	CW\FW	other categories
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+"	"	``	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+hat	hat	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+mastered	master	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+"	"	''	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+statement	statement	NN	CW	NOUN	ARGUMENT
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+reaason	reaason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+
+sentence break
+
+first	first	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+prepare	prepare	VB	CW	VERB
+for	for	IN	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+second	second	RB	ADV	CW
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+one	one	CD	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+last	last	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+try	try	VB	CW	VERB
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+hard	hard	JJ	CW	ADJ
+of	of	IN	FW
+that	that	IN	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+prepare	prepare	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+one	one	CD	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+without	without	IN	FW
+direccion	direccion	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+less	less	JJR	CW	ADJ
+opportunies	opportunie	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+becuase	becuase	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+do	do	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+enought	enought	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+play	play	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+looking	look	VBG	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+better	well	JJR	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+new	new	JJ	CW	ADJ
+experiencies	experiencie	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+impossible	impossible	JJ	CW	ADJ
+to	to	TO	FW
+find	find	VB	CW	VERB
+for	for	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+becuse	becuse	VBP	CW	VERB	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+require	require	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+position	position	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+productive	productive	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+country	country	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+society	society	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+prepred	prepre	VBN	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+done	do	VBN	CW	VERB
+specific	specific	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+differents	different	NNS	CW	NOUN	ARGUMENT
+knowledge	knowledge	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+find	find	VB	CW	VERB
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+or	or	CC	FW
+easy	easy	JJ	CW	ADJ
+jobs	job	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+most	most	JJS	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+human	human	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+in	in	IN	FW
+thier	thier	JJ	CW	ADJ
+hands	hand	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+the	the	DT	FW
+knowlege	knowlege	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+buy	buy	VB	CW	VERB
+from	from	IN	FW
+any	any	DT	FW
+where	where	WRB	FW
+
+sentence break
+
+exmple	exmple	NNP	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+focus	focus	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+have	have	VB	CW	VERB
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+
+sentence break
+
+last	last	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+try	try	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+they	they	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+need	need	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+will	will	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+new	new	JJ	CW	ADJ
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+exmple	exmple	NNP	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+goint	goint	JJ	CW	ADJ
+to	to	IN	FW
+university	university	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+graduated	graduate	VBD	CW	VERB
+from	from	IN	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+stuck	stick	VBD	CW	VERB
+there	there	RB	ADV	CW
+and	and	CC	FW
+not	not	RB	ADV	CW
+go	go	VB	CW	VERB
+for	for	IN	FW
+more	more	RBR	ADV	CW
+hard	hard	JJ	CW	ADJ
+profession	profession	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+like	like	IN	FW
+principal	principal	NN	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+
+sentence break
+
+
+paragraph break
+
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+expecific	expecific	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+life	life	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+to	to	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+statement	statement	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+all	all	PDT	FW
+this	this	DT	FW	PRONOUN
+reason	reason	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

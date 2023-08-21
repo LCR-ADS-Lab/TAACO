@@ -1,0 +1,551 @@
+word	lemma	POS	CW\FW	other categories
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+``	``	``	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+``	``	``	FW
+but	but	CC	FW
+do	do	VBP	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+choose	choose	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+characters	character	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+characters	character	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+formed	form	VBN	CW	VERB
+from	from	IN	FW
+the	the	DT	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+on	on	IN	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+in	in	IN	FW
+everyday	everyday	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+or	or	CC	FW
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+these	these	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+create	create	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+background	background	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+in	in	IN	FW
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+manipulates	manipulate	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+into	into	IN	FW
+using	use	VBG	CW	VERB
+the	the	DT	FW
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+and	and	CC	FW
+put	put	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+characters	character	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+firstly	firstly	RB	ADV	CW
+social	social	NNP	CW	NOUN	ARGUMENT
+media	media	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+massive	massive	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+and	and	CC	FW
+do	do	VBP	CW	VERB
+
+sentence break
+
+social	social	NNP	CW	NOUN	ARGUMENT
+media	media	NNS	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+an	a	DT	FW
+image	image	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+a	a	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+kardashians	kardashians	NNPS	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+the	the	DT	FW
+kardashians	kardashians	NNPS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+the	the	DT	FW
+american	american	JJ	CW	ADJ
+dream	dream	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+first	first	RB	ADV	CW
+aired	air	VBD	CW	VERB
+on	on	IN	FW
+television	television	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+hit	hit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	CW	VERB
+what	what	WP	FW
+every	every	DT	FW
+viewer	viewer	NN	CW	NOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+wealthy	wealthy	JJ	CW	ADJ
+good	good	JJ	CW	ADJ
+looking	look	VBG	CW	VERB
+living	live	VBG	CW	VERB
+a	a	DT	FW
+glorious	glorious	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+style	style	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+revolves	revolve	VBZ	CW	VERB
+around	around	IN	FW
+these	these	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+could	could	MD	FW	aux_or_cop
+shape	shape	VB	CW	VERB
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+minds	mind	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+thinking	think	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+another	another	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	CW	VERB
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+media	media	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+by	by	IN	FW
+apps	app	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+instagram	instagram	NNP	CW	NOUN	ARGUMENT
+facebook	facebook	NNP	CW	NOUN	ARGUMENT
+twitter	twitter	NNP	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+these	these	DT	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+platforms	platform	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+influence	influence	VB	CW	VERB
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+live	live	VBP	CW	VERB
+
+sentence break
+
+social	social	NNP	CW	NOUN	ARGUMENT
+media	media	NNS	CW	NOUN	ARGUMENT
+influences	influence	VBZ	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+to	to	TO	FW
+liking	like	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+buying	buy	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+ads	ad	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+attractions	attraction	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+characters	character	NNS	CW	NOUN	ARGUMENT
+using	use	VBG	CW	VERB
+only	only	RB	ADV	CW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+influenced	influence	VBN	CW	VERB
+at	at	IN	FW
+all	all	DT	FW
+by	by	IN	FW
+the	the	DT	FW
+outside	outside	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+characters	character	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+emotions	emotion	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+easily	easily	RB	ADV	FW
+manipulated	manipulate	VBN	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+use	use	VB	CW	VERB
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+create	create	VB	CW	VERB
+a	a	DT	FW
+fantasy	fantasy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+secondly	secondly	RB	ADV	CW
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+everyday	everyday	JJ	CW	ADJ
+lives	life	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+encounter	encounter	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+characteristic	characteristic	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+emotions	emotion	NNS	CW	NOUN	ARGUMENT
+emotions	emotion	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+used	use	VBN	CW	VERB
+in	in	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+regular	regular	JJ	CW	ADJ
+talking	talk	VBG	CW	VERB
+to	to	TO	FW
+acting	act	VBG	CW	VERB
+to	to	TO	FW
+character	character	NN	CW	NOUN	ARGUMENT
+creating	create	VBG	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+lives	life	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+influence	influence	VB	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+heroes	hero	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+role	role	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+look	look	VBP	CW	VERB
+up	up	RP	FW
+to	to	TO	FW
+these	these	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+if	if	IN	FW	SUBORDINATOR
+were	be	VBD	CW	VERB
+inspired	inspire	VBN	CW	VERB
+by	by	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+feel	feel	VB	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+there	there	EX	FW
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+heroes	hero	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+inspire	inspire	VBP	CW	VERB
+from	from	IN	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+or	or	CC	FW
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+wan	wan	VBP	CW	VERB
+na	na	TO	FW
+turn	turn	VB	CW	VERB
+into	into	IN	FW
+
+sentence break
+
+these	these	DT	FW
+heroes	hero	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	FW	aux_or_cop
+done	do	VBN	CW	VERB
+or	or	CC	FW
+been	be	VBN	FW	aux_or_cop
+a	a	DT	FW
+significant	significant	JJ	CW	ADJ
+model	model	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+eyes	eye	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+characteristics	characteristic	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+rough	rough	JJ	CW	ADJ
+childhood	childhood	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+being	be	VBG	CW	VERB
+bullied	bully	VBN	CW	VERB
+
+sentence break
+
+these	these	DT	FW
+sorta	sorta	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+impact	impact	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+making	make	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+mean	mean	VB	CW	VERB
+shy	shy	JJ	CW	ADJ
+sad	sad	JJ	CW	ADJ
+or	or	CC	FW
+mad	mad	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+finally	finally	RB	ADV	CW
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+influence	influence	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+create	create	VB	CW	VERB
+a	a	DT	FW
+character	character	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	CW	VERB
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+social	social	JJ	CW	ADJ
+media	media	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+instagram	instagram	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tv	tv	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	CW	VERB
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+heroes	hero	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+role	role	NN	CW	NOUN	ARGUMENT
+models	model	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	CW	VERB
+influenced	influence	VBN	CW	VERB
+by	by	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+daily	daily	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+internet	internet	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

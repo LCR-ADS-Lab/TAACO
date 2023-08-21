@@ -1,0 +1,534 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+teach	teach	VBP	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+listen	listen	VB	CW	VERB
+to	to	TO	FW
+other	other	JJ	CW	ADJ
+peoples	people	NNS	CW	NOUN	ARGUMENT
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+as	as	IN	FW
+one	one	CD	FW
+
+sentence break
+
+but	but	CC	FW
+other	other	JJ	CW	ADJ
+peolpe	peolpe	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+working	work	VBG	CW	VERB
+alone	alone	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+teach	teach	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+decision	decision	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+and	and	CC	FW
+how	how	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+write	write	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+paper	paper	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+anybody	anybody	NN	CW	NOUN	ARGUMENT
+helping	help	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+faster	faster	RBR	ADV	CW
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+in	in	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+before	before	IN	FW
+working	work	VBG	CW	VERB
+with	with	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+let	let	VBD	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+done	do	VBN	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+faster	faster	RBR	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+give	give	VB	CW	VERB
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+focusing	focus	VBG	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+done	do	VBN	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+finish	finish	VBP	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+assigment	assigment	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+volunteer	volunteer	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+other	other	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+mate	mate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+works	work	VBZ	CW	VERB
+by	by	IN	FW
+themselve	themselve	RB	ADV	FW
+might	might	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+working	work	VBG	CW	VERB
+by	by	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+volunteer	volunteer	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+found	find	VBD	CW	VERB
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+to	to	TO	FW
+work	work	VB	CW	VERB
+bby	bby	JJ	CW	ADJ
+themselve	themselve	RB	ADV	FW
+therefore	therefore	RB	ADV	FW
+no	no	DT	FW
+other	other	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+interrupt	interrupt	VB	CW	VERB
+the	the	DT	FW
+by	by	IN	FW
+asking	ask	VBG	CW	VERB
+to	to	TO	FW
+many	many	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+talk	talk	VB	CW	VERB
+about	about	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+plan	plan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NNP	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+work	work	VBP	CW	VERB
+alone	alone	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+mostly	mostly	RB	ADV	CW
+working	work	VBG	CW	VERB
+at	at	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+pace	pace	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+alone	alone	RB	ADV	CW
+give	give	VB	CW	VERB
+then	then	RB	ADV	CW
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+finishing	finish	VBG	CW	VERB
+on	on	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+why	why	WRB	FW
+
+sentence break
+
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+like	like	IN	FW
+to	to	TO	FW
+hear	hear	VB	CW	VERB
+about	about	IN	FW
+peoples	people	NNS	CW	NOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+listining	listine	VBG	CW	VERB
+to	to	TO	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+opinin	opinin	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+the	the	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+assigment	assigment	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+done	do	VBN	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+student	student	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+express	express	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+confident	confident	JJ	CW	ADJ
+no	no	DT	FW
+fear	fear	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+express	express	VB	CW	VERB
+themselve	themselve	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+
+working	work	VBG	CW	VERB
+as	as	IN	FW	SUBORDINATOR
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+dividing	divide	VBG	CW	VERB
+the	the	DT	FW
+work	work	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+different	different	JJ	CW	ADJ
+sections	section	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+this	this	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+pther	pther	NN	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+design	design	VB	CW	VERB
+the	the	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+the	the	DT	FW
+research	research	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+dividing	divide	VBG	CW	VERB
+the	the	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+different	different	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+let	let	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+look	look	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+choose	choose	VB	CW	VERB
+the	the	DT	FW
+part	part	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+ot	ot	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+student	student	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+to	to	TO	FW
+meet	meet	VB	CW	VERB
+new	new	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+doing	do	VBG	CW	VERB
+a	a	DT	FW
+project	project	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+somtime	somtime	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+to	to	TO	FW
+choose	choose	VB	CW	VERB
+who	who	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+work	work	VBP	CW	VERB
+with	with	IN	FW	SUBORDINATOR
+the	the	DT	FW
+profesor	profesor	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+give	give	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+meet	meet	VBP	CW	VERB
+before	before	RB	ADV	CW
+
+sentence break
+
+working	work	VBG	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+new	new	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+let	let	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+find	find	VB	CW	VERB
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+or	or	CC	FW
+write	write	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+this	this	DT	FW
+new	new	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+make	make	VBP	CW	VERB
+a	a	DT	FW
+t	t	NN	CW	NOUN	ARGUMENT
+chart	chart	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+write	write	VB	CW	VERB
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+about	about	IN	FW
+this	this	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+negative	negative	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+to	to	TO	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+looking	look	VBG	CW	VERB
+at	at	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VB	CW	VERB
+what	what	WP	FW
+side	side	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+about	about	IN	FW
+
+sentence break
+
+
+paragraph break
+

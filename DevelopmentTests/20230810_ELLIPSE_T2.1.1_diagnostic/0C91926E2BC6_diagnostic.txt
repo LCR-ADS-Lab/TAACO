@@ -1,0 +1,739 @@
+word	lemma	POS	CW\FW	other categories
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+talent	talent	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+drawing	draw	VBG	CW	VERB
+painting	painting	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+coloring	color	VBG	CW	VERB
+and	and	CC	FW
+writing	write	VBG	CW	VERB
+
+sentence break
+
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+talents	talent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+making	make	VBG	CW	VERB
+cartoons	cartoon	NNS	CW	NOUN	ARGUMENT
+painting	painting	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+drawing	draw	VBG	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+coloring	color	VBG	CW	VERB
+and	and	CC	FW
+writing	write	VBG	CW	VERB
+novels	novel	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+also	also	RB	ADV	CW
+last	last	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+took	take	VBD	CW	VERB
+all	all	DT	FW
+art	art	NN	CW	NOUN	ARGUMENT
+clubs	club	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+usually	usually	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+real	real	JJ	CW	ADJ
+cartoonist	cartoonist	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+this	this	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+writer	writer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+for	for	IN	FW
+this	this	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+still	still	RB	ADV	CW
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+next	next	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+ninth	ninth	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+next	next	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+whenever	whenever	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+bored	bored	JJ	CW	ADJ
+and	and	CC	FW
+there	there	RB	ADV	CW
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+so	so	RB	ADV	CW
+for	for	IN	FW
+writing	writing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+write	write	VB	CW	VERB
+novels	novel	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+lately	lately	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+taking	take	VBG	CW	VERB
+writing	writing	NN	CW	NOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+during	during	IN	FW
+the	the	DT	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+last	last	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+cartoonist	cartoonist	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+start	start	VB	CW	VERB
+writing	write	VBG	CW	VERB
+newspapers	newspaper	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+drawing	draw	VBG	CW	VERB
+cartoons	cartoon	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+newspapers	newspaper	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+school	school	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+join	join	VBP	CW	VERB
+the	the	DT	FW
+animate	animate	JJ	CW	ADJ
+club	club	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+drawing	draw	VBG	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+scenes	scene	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+cartoon	cartoon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+join	join	VBP	CW	VERB
+the	the	DT	FW
+yearbook	yearbook	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+writing	write	VBG	CW	VERB
+the	the	DT	FW
+captions	caption	NNS	CW	NOUN	ARGUMENT
+under	under	IN	FW
+the	the	DT	FW
+photos	photo	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+and	and	CC	FW
+say	say	VB	CW	VERB
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+means	mean	VBZ	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+last	last	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+third	third	JJ	CW	ADJ
+block	block	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+facs	fac	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+cakes	cake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+cupcakes	cupcake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+ice	ice	NN	CW	NOUN	ARGUMENT
+cream	cream	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+art	art	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+so	so	RB	ADV	CW
+let	let	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+about	about	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+skill	skill	NN	CW	NOUN	ARGUMENT
+writing	writing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+writing	writing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+write	write	VB	CW	VERB
+novels	novel	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+books	book	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+book	book	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+write	write	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+about	about	IN	FW
+transformers	transformers	NNPS	CW	NOUN	ARGUMENT
+dark	dark	NNP	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+moon	moon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+graphic	graphic	JJ	CW	ADJ
+novel	novel	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+all	all	DT	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+number	number	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+movie	movie	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+produce	produce	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+all	all	DT	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+novel	novel	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+war	war	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+cybertron	cybertron	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+rest	rest	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+movie	movie	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+all	all	RB	ADV	CW
+about	about	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+space	space	NN	CW	NOUN	ARGUMENT
+race	race	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+about	about	IN	FW
+writing	writing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+write	write	VB	CW	VERB
+about	about	IN	FW
+poems	poem	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+poems	poem	NNS	CW	NOUN	ARGUMENT
+help	help	VBP	FW	aux_or_cop
+think	think	VB	CW	VERB
+about	about	IN	FW
+feeling	feel	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+let	let	VBD	CW	VERB
+give	give	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+some	some	DT	FW
+specific	specific	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+detail#1	detail#1	NFP	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+writing	writing	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+impress	impress	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+detail#2	detail#2	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+writing	writing	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+contain	contain	VB	CW	VERB
+facts	fact	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+detail#3	detail#3	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+writing	writing	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+have	have	VB	CW	VERB
+poems	poem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+so	so	CC	FW
+for	for	IN	FW
+art	art	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+everything	everything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+art	art	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+everything	everything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+all	all	RB	ADV	CW
+around	around	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+and	and	CC	FW
+but	but	CC	FW
+also	also	RB	ADV	CW
+writing	write	VBG	CW	VERB
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+vocabulary	vocabulary	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+for	for	IN	FW
+spelling	spelling	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+check	check	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+spelling	spelling	NN	CW	NOUN	ARGUMENT
+whenever	whenever	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+with	with	IN	FW
+an	an	DT	FW
+article	article	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+an	an	DT	FW
+essay	essay	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+contains	contain	VBZ	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+also	also	RB	ADV	CW
+for	for	IN	FW
+art	art	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+shows	show	VBZ	CW	VERB
+like	like	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+graphic	graphic	JJ	CW	ADJ
+novels	novel	NNS	CW	NOUN	ARGUMENT
+authors	author	NNS	CW	NOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+bubble	bubble	NN	CW	NOUN	ARGUMENT
+speeches	speech	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+say	say	VB	CW	VERB
+
+sentence break
+
+whenever	whenever	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+sad	sad	JJ	CW	ADJ
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+kinds	kind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+feelings	feeling	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+contains	contain	VBZ	CW	VERB
+all	all	DT	FW
+kinds	kind	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+words	word	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+languages	language	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+say	say	VB	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+bold	bold	JJ	CW	ADJ
+means	mean	VBZ	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+and	and	CC	FW
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+means	mean	VBZ	CW	VERB
+
+sentence break
+
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+whenever	whenever	WRB	FW
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+reads	read	VBZ	CW	VERB
+a	a	DT	FW
+book	book	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+to	to	TO	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+talents	talent	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+means	mean	VBZ	CW	VERB
+to	to	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+still	still	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+care	care	VBP	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+for	for	IN	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+'s	's	POS	FW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+draw	draw	VBP	CW	VERB
+and	and	CC	FW
+write	write	VB	CW	VERB
+comics	comic_strip	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

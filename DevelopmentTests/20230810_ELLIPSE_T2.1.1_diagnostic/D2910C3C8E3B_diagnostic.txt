@@ -1,0 +1,502 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agreed	agree	VBD	CW	VERB
+with	with	IN	FW
+auther	auther	NNP	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+unless	unless	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	FW	aux_or_cop
+somthing	somthe	VBG	CW	VERB
+beyond	beyond	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+mastered	master	VBN	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+grow	grow	VB	CW	VERB
+"	"	''	FW
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+ture	ture	JJ	CW	ADJ
+
+sentence break
+
+hard	hard	RB	ADV	CW
+working	working	NN	CW	NOUN	ARGUMENT
+pays	pay	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+back	back	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+become	become	VBP	CW	VERB
+rich	rich	JJ	CW	ADJ
+by	by	IN	FW
+nature	nature	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+upgrade	upgrade	VB	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+wealthy	wealthy	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+hard	hard	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+become	become	VBP	CW	VERB
+rich	rich	JJ	CW	ADJ
+by	by	IN	FW
+nature	nature	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+which	which	WDT	FW
+means	mean	VBZ	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+become	become	VBP	CW	VERB
+well	well	RB	ADV	CW
+to	to	TO	FW
+do	do	VB	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+born	bear	VBD	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+personally	personally	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+support	support	VB	CW	VERB
+this	this	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+behind	behind	IN	FW
+every	every	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+hard	hard	JJ	CW	ADJ
+working	working	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+united	united	NNP	CW	NOUN	ARGUMENT
+state	state	NNP	CW	NOUN	ARGUMENT
+of	of	IN	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+number	number	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+powerfull	powerfull	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+before	before	IN	FW	SUBORDINATOR
+america	america	NNP	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+that	that	DT	FW
+name	name	NN	CW	NOUN	ARGUMENT
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+scrifice	scrifice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+dig	dig	VBP	CW	VERB
+the	the	DT	FW
+ground	ground	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+found	find	VBD	CW	VERB
+the	the	DT	FW
+piece	piece	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+gold	gold	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+wealth	wealth	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+sign	sign	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+destination	destination	NN	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+means	mean	VBZ	CW	VERB
+until	until	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+the	the	DT	FW
+gold	gold	NN	CW	NOUN	ARGUMENT
+reservoir	reservoir	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+excavate	excavate	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+a	a	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+change	change	VBP	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+instant	instant	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+adays	aday	VBZ	CW	VERB
+tecnology	tecnology	NN	CW	NOUN	ARGUMENT
+descover	descover	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+this	this	DT	FW
+case	case	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+upgrade	upgrade	VB	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+degree	degree	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+filed	filed	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+it	it	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+2016	2016	CD	FW
+and	and	CC	FW
+still	still	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+upgrade	upgrade	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+out	out	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+system	system	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+caricullem	caricullem	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+change	change	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+fast	fast	RB	ADV	CW
+so	so	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+ajest	ajest	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+speed	speed	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+run	run	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+generation	generation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+what	what	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+somthong	somthong	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+inaddition	inaddition	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+wealthy	wealthy	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+hard	hard	RB	ADV	CW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+bill	bill	NNP	CW	NOUN	ARGUMENT
+gate	gate	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wealthy	wealthy	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+america	america	NNP	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+car	car	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bill	bill	NNP	CW	NOUN	ARGUMENT
+gate	gate	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+say	say	VB	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+after	after	IN	FW
+this	this	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+like	like	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+unless	unless	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+wealth	wealth	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+lose	lose	VB	CW	VERB
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+real	real	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+any	any	DT	FW
+means	mean	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+stop	stop	VBP	CW	VERB
+trying	try	VBG	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+lose	lose	VB	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+work	work	NN	CW	NOUN	ARGUMENT
+hard	hard	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+somthing	somthing	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+try	try	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+to	to	TO	FW
+live	live	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+wonderfull	wonderfull	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+support	support	VBP	CW	VERB
+author	author	NNP	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+somthing	somthe	VBG	CW	VERB
+to	to	TO	FW
+wait	wait	VB	CW	VERB
+for	for	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+somthing	somthe	VBG	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+for	for	IN	FW
+
+sentence break
+
+
+paragraph break
+
+which	which	WDT	FW
+means	mean	VBZ	CW	VERB
+works	work	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+rode	rode	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+today	today	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+somthing	somthe	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

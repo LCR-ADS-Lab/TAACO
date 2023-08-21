@@ -1,0 +1,473 @@
+word	lemma	POS	CW\FW	other categories
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+bad	bad	JJ	CW	ADJ
+but	but	CC	FW
+even	even	RB	ADV	CW
+so	so	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+lifetime	lifetime	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+a	a	DT	FW
+change	change	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+issue	issue	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+ill	ill	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+writing	write	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+principal	principal	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+discuss	discuss	VB	CW	VERB
+whether	whether	IN	FW	SUBORDINATOR
+switching	switch	VBG	CW	VERB
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+option	option	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+switching	switch	VBG	CW	VERB
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menus	menus	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+give	give	VBP	CW	VERB
+three	three	CD	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+switching	switch	VBG	CW	VERB
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menus	menus	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+longer	long	RBR	ADV	CW
+to	to	TO	FW
+prepare	prepare	VB	CW	VERB
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+re	re	VBP	FW	aux_or_cop
+making	make	VBG	CW	VERB
+pasta	pasta	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+heat	heat	VB	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+noodles	noodle	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+cook	cook	VB	CW	VERB
+the	the	DT	FW
+meat	meat	NN	CW	NOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+in	in	IN	FW
+mind	mind	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+15	15	CD	FW
+minute	minute	NN	CW	NOUN	ARGUMENT
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+second	second	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+served	serve	VBN	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+effect	effect	VB	CW	VERB
+the	the	DT	FW
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+food	food	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+more	more	JJR	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+longer	long	RBR	ADV	CW
+to	to	TO	FW
+cook	cook	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+change	change	VB	CW	VERB
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+expensive	expensive	JJ	CW	ADJ
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+top	top	JJ	CW	ADJ
+products	product	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+grocery	grocery	NN	CW	NOUN	ARGUMENT
+stores	store	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+pricey	pricey	JJ	CW	ADJ
+
+sentence break
+
+second	second	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+charge	charge	VB	CW	VERB
+each	each	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+have	have	VB	CW	VERB
+free	free	JJ	CW	ADJ
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+double	double	VB	CW	VERB
+in	in	IN	FW
+price	price	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+the	the	DT	FW
+menu	menu	NN	CW	NOUN	ARGUMENT
+being	be	VBG	FW	aux_or_cop
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+could	could	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+the	the	DT	FW
+budget	budget	NN	CW	NOUN	ARGUMENT
+affordable	affordable	JJ	CW	ADJ
+and	and	CC	FW
+still	still	RB	ADV	CW
+tasty	tasty	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+while	while	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+changing	change	VBG	CW	VERB
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+
+sentence break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+healthier	healthy	JJR	CW	ADJ
+
+sentence break
+
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+might	might	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+valid	valid	JJ	CW	ADJ
+we	we	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+considered	consider	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+eliminate	eliminate	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+favorites	favorite	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+italian	italian	JJ	CW	ADJ
+thursday	thursday	NNP	CW	NOUN	ARGUMENT
+a	a	DT	FW
+classic	classic	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+enjoys	enjoy	VBZ	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+the	the	DT	FW
+ice	ice	NN	CW	NOUN	ARGUMENT
+cream	cream	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+ve	ve	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+serving	serve	VBG	CW	VERB
+since	since	IN	FW
+2017	2017	CD	FW
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+favorite	favorite	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+kids	kid	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+ready	ready	JJ	CW	ADJ
+for	for	IN	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+change	change	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menus	menu	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+this	this	DT	FW	PRONOUN
+might	might	MD	FW	aux_or_cop
+get	get	VB	FW	aux_or_cop
+rid	rid	VBN	CW	VERB
+of	of	IN	FW
+student	student	NN	CW	NOUN	ARGUMENT
+favorites	favorite	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+writing	write	VBG	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+principal	principal	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+changing	change	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+new	new	JJ	CW	ADJ
+one	one	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+preparing	prepare	VBG	CW	VERB
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+serving	serve	VBG	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+second	second	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+expensive	expensive	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+menu	menu	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+final	final	JJ	CW	ADJ
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+lunch	lunch	NN	CW	NOUN	ARGUMENT
+menu	menu	NN	CW	NOUN	ARGUMENT
+till	till	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+find	find	VBP	CW	VERB
+an	an	DT	FW
+affordable	affordable	JJ	CW	ADJ
+price	price	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+keeping	keep	VBG	CW	VERB
+some	some	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+favorites	favorite	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,226 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+program	program	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+pairing	pair	VBG	CW	VERB
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+available	available	JJ	CW	ADJ
+to	to	TO	FW
+help	help	VB	CW	VERB
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+having	have	VBG	CW	VERB
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	FW	aux_or_cop
+called	call	VBN	CW	VERB
+down	down	RP	FW
+by	by	IN	FW
+a	a	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+assist	assist	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+effects	effect	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+useful	useful	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+smarter	smart	JJR	CW	ADJ
+than	than	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+younger	young	JJR	CW	ADJ
+studebts	studebt	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+struggle	struggle	VB	CW	VERB
+sometimes	sometimes	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+ok	ok	UH	FW
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+kinda	kinda	RB	ADV	FW
+struggling	struggle	VBG	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+an	an	DT	FW
+older	old	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+need	need	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+by	by	IN	FW
+actually	actually	RB	ADV	CW
+helping	help	VBG	CW	VERB
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+need	need	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+benefit	benefit	VB	CW	VERB
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+while	while	IN	FW	SUBORDINATOR
+being	be	VBG	FW	aux_or_cop
+there	there	RB	ADV	CW
+and	and	CC	FW
+helping	help	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+an	an	DT	FW
+older	old	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+older	old	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+assist	assist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+must	must	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+permitted	permit	VBN	CW	VERB
+by	by	IN	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+paired	pair	VBN	CW	VERB
+with	with	IN	FW
+younger	young	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+both	both	CC	FW
+younger	young	JJR	CW	ADJ
+and	and	CC	FW
+older	old	JJR	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+communicate	communicate	VB	CW	VERB
+by	by	IN	FW
+working	work	VBG	CW	VERB
+together	together	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

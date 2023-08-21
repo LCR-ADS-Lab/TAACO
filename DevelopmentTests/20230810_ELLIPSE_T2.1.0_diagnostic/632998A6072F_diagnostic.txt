@@ -1,0 +1,478 @@
+word	lemma	POS	CW\FW	other categories
+what	what	WP	FW
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+about	about	IN	FW
+attending	attend	VBG	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+attending	attend	VBG	CW	VERB
+to	to	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+early	early	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+stressful	stressful	JJ	CW	ADJ
+
+sentence break
+
+especially	especially	RB	ADV	FW
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+normally	normally	RB	ADV	CW
+attend	attend	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+attendance	attendance	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+effect	effect	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+the	the	DT	FW
+distractions	distraction	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+around	around	RB	ADV	CW
+in	in	IN	FW
+public	public	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+best	good	JJS	CW	ADJ
+for	for	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+focused	focused	JJ	CW	ADJ
+and	and	CC	FW
+concentrated	concentrate	VBN	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+otherwise	otherwise	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+the	the	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+homeschooled	homeschoole	VBN	CW	VERB
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+option	option	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+n't	not	RB	ADV	CW
+a	a	DT	FW
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+important	important	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+concentrated	concentrated	JJ	CW	ADJ
+and	and	CC	FW
+should	should	MD	FW	aux_or_cop
+complete	complete	VB	CW	VERB
+all	all	DT	FW
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+less	less	RBR	ADV	CW
+distracting	distract	VBG	CW	VERB
+environment	environment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+stress	stress	VB	CW	VERB
+over	over	IN	FW
+load	load	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+plenty	plenty	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+at	at	IN	FW
+a	a	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+understand	understand	VB	CW	VERB
+the	the	DT	FW
+material	material	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+pace	pace	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+by	by	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+complains	complain	VBZ	CW	VERB
+about	about	IN	FW
+having	have	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+one	one	CD	FW
+night	night	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+having	have	VBG	CW	VERB
+enough	enough	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+complete	complete	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+homeschooling	homeschooling	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+allow	allow	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+on	on	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+pace	pace	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+sit	sit	VBP	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+desk	desk	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+6	6	CD	FW
+7	7	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+limited	limit	VBN	CW	VERB
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+eating	eat	VBG	CW	VERB
+and	and	CC	FW
+using	use	VBG	CW	VERB
+the	the	DT	FW
+bathroom	bathroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+feel	feel	VB	CW	VERB
+pressured	pressured	JJ	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+rules	rule	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+such	such	JJ	CW	ADJ
+as	as	IN	FW
+how	how	WRB	FW
+to	to	TO	FW
+properly	properly	RB	ADV	CW
+dress	dress	VB	CW	VERB
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+homeschool	homeschool	NNP	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+any	any	DT	FW
+rules	rule	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+other	other	JJ	CW	ADJ
+than	than	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+getting	get	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+studies	study	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+public	public	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+difficult	difficult	JJ	CW	ADJ
+to	to	TO	FW
+handle	handle	VB	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+bullying	bully	VBG	CW	VERB
+physical	physical	JJ	CW	ADJ
+fights	fight	NNS	CW	NOUN	ARGUMENT
+accidents	accident	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+occur	occur	VB	CW	VERB
+and	and	CC	FW
+also	also	RB	ADV	CW
+on	on	IN	FW
+lock	lock	NN	CW	NOUN	ARGUMENT
+down	down	RP	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+a	a	DT	FW
+drill	drill	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+dangerous	dangerous	JJ	CW	ADJ
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+for	for	IN	FW
+the	the	DT	FW
+education	education	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VB	CW	VERB
+to	to	TO	FW
+not	not	RB	ADV	CW
+worry	worry	VB	CW	VERB
+about	about	IN	FW
+any	any	DT	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+safe	safe	JJ	CW	ADJ
+at	at	IN	FW
+a	a	DT	FW
+public	public	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+homeschool	homeschool	NNP	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+safest	safe	JJS	CW	ADJ
+environment	environment	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+any	any	DT	FW
+worries	worry	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+homeschool	homeschool	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+for	for	IN	FW	SUBORDINATOR
+the	the	DT	FW
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+exams	exam	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+also	also	RB	ADV	CW
+have	have	VB	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+staying	stay	VBG	CW	VERB
+on	on	IN	FW
+task	task	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+every	every	DT	FW
+assignment	assignment	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+counts	count	VBZ	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+comfortable	comfortable	JJ	CW	ADJ
+without	without	IN	FW
+any	any	DT	FW
+rules	rule	NNS	CW	NOUN	ARGUMENT
+involved	involve	VBN	CW	VERB
+
+sentence break
+
+public	public	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+home	home	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+but	but	CC	FW
+home	home	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+but	but	IN	FW
+getting	get	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+home	home	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+option	option	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

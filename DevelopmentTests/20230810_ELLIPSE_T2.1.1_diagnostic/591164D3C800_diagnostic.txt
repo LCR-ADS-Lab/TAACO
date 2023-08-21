@@ -1,0 +1,316 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+"	"	''	FW
+example	example	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+influencing	influence	VBG	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+he	he	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+thing	thing	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+setting	set	VBG	CW	VERB
+a	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+influence	influence	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+are	be	VBP	CW	VERB
+two	two	CD	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+named	name	VBN	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+both	both	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+dose	dose	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+upset	upset	VB	CW	VERB
+the	the	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+get	get	VB	CW	VERB
+in	in	IN	FW
+terable	terable	NN	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+complet	complet	NN	CW	NOUN	ARGUMENT
+opposite	opposite	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+poor	poor	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+talking	talk	VBG	CW	VERB
+back	back	RB	ADV	CW
+to	to	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+never	never	RB	ADV	CW
+dose	dose	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+get	get	VBP	CW	VERB
+in	in	RP	FW
+to	to	IN	FW
+fights	fight	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+idea	idea	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+influence	influence	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+well	well	RB	ADV	CW
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+first	first	JJ	CW	ADJ
+block	block	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNPS	CW	NOUN	ARGUMENT
+decided	decide	VBD	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+talk	talk	VB	CW	VERB
+back	back	RB	ADV	CW
+to	to	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+all	all	DT	FW
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+generic_name	generic_name	NNPS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+realize	realize	VB	CW	VERB
+just	just	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+bad	bad	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+dose	dose	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+mean	mean	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+change	change	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+good	good	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+apolegize	apolegize	VBP	CW	VERB
+to	to	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+seas	sea	NNS	CW	NOUN	ARGUMENT
+generic_name	generic_name	VBZ	CW	VERB
+having	have	VBG	CW	VERB
+bad	bad	JJ	CW	ADJ
+geades	geade	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+change	change	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+and	and	CC	FW
+started	start	VBD	CW	VERB
+doing	do	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+agine	agine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+to	to	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+change	change	VB	CW	VERB
+so	so	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+i.	i.	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+dose	dose	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+go	go	VB	CW	VERB
+and	and	CC	FW
+apolagize	apolagize	VB	CW	VERB
+to	to	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+being	be	VBG	FW	aux_or_cop
+rude	rude	JJ	CW	ADJ
+he	he	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+studing	stud	VBG	CW	VERB
+getting	get	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+grades	grade	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+moral	moral	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+some	some	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+a	a	DT	FW
+influence	influence	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+schweitzer	schweitzer	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

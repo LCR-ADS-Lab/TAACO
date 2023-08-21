@@ -1,0 +1,996 @@
+word	lemma	POS	CW\FW	other categories
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+how	how	WRB	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+started	start	VBD	CW	VERB
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	CD	FW
+woke	wake	VBD	CW	VERB
+up	up	RP	FW
+got	get	VBD	CW	VERB
+ready	ready	JJ	CW	ADJ
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+usual	usual	JJ	CW	ADJ
+
+sentence break
+
+at	at	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+in	in	IN	FW
+middle	middle	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+generic_school	generic_school	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+playng	playng	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+have	have	VBP	FW	aux_or_cop
+got	get	VBN	CW	VERB
+to	to	TO	FW
+tired	tired	JJ	CW	ADJ
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+bathroom	bathroom	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+felt	feel	VBD	CW	VERB
+like	like	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+wasnt	wasnt	JJ	CW	ADJ
+right	right	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+drop	drop	VBP	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+ground	ground	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+felt	feel	VBD	CW	VERB
+nausia	nausium	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+didnt	didnt	VBP	CW	VERB
+give	give	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+any	any	DT	FW
+atention	atention	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+just	just	RB	ADV	CW
+kept	keep	VBD	CW	VERB
+going	go	VBG	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+normal	normal	JJ	CW	ADJ
+
+sentence break
+
+almost	almost	RB	ADV	FW
+around	around	IN	FW
+six	six	CD	FW
+months	month	NNS	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+i	i	FW	FW
+had	have	VBD	CW	VERB
+another	another	DT	FW
+mini	mini	JJ	CW	ADJ
+heart	heart	NN	CW	NOUN	ARGUMENT
+attack	attack	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+at	at	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+didnt	didnt	FW	FW
+know	know	VBP	CW	VERB
+what	what	WP	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+just	just	RB	ADV	CW
+laying	lay	VBG	CW	VERB
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+bed	bed	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+just	just	RB	ADV	CW
+started	start	VBN	CW	VERB
+feeling	feel	VBG	CW	VERB
+a	a	DT	FW
+sharp	sharp	JJ	CW	ADJ
+pain	pain	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+chest	chest	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+away	away	RB	ADV	CW
+in	in	IN	FW
+about	about	IN	FW
+30	30	CD	FW
+minutes	minute	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+serious	serious	JJ	CW	ADJ
+was	be	VBD	FW	aux_or_cop
+later	later	RB	ADV	CW
+on	on	IN	FW
+about	about	IN	FW
+another	another	DT	FW
+six	six	CD	FW
+months	month	NNS	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+almost	almost	RB	ADV	FW
+finishing	finish	VBG	CW	VERB
+freshmen	freshman	NNS	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW	SUBORDINATOR
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+chest	chest	NN	CW	NOUN	ARGUMENT
+started	start	VBD	CW	VERB
+to	to	TO	FW
+hurt	hurt	VB	CW	VERB
+badin	badin	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+what	what	WP	FW
+i	i	FW	FW
+did	do	VBD	FW	aux_or_cop
+was	be	VBD	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	TO	FW
+sleep	sleep	VB	CW	VERB
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+away	away	RB	ADV	CW
+then	then	RB	ADV	CW
+when	when	WRB	FW
+i	i	FW	FW
+woke	wake	VBD	CW	VERB
+up	up	RP	FW
+the	the	DT	FW
+pian	pian	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+there	there	RB	ADV	CW
+anymore	anymore	RB	ADV	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+wen	wen	VBP	CW	VERB
+to	to	TO	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+about	about	IN	FW
+4	4	CD	FW
+hours	hour	NNS	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+the	the	DT	FW
+pain	pain	NN	CW	NOUN	ARGUMENT
+started	start	VBD	CW	VERB
+again	again	RB	ADV	CW
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+emergency	emergency	NN	CW	NOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+had	have	VBD	CW	VERB
+a	a	DT	FW
+infection	infection	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+trought	trought	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+the	the	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+doe	doe	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+infection	infection	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+a	a	DT	FW
+heart	heart	NN	CW	NOUN	ARGUMENT
+specialist	specialist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+apointment	apointment	NN	CW	NOUN	ARGUMENT
+was	be	VBD	CW	VERB
+on	on	IN	FW
+a	a	DT	FW
+monday	monday	NNP	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+decided	decide	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+wer	wer	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+so	so	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+call	call	VB	CW	VERB
+the	the	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+cancel	cancel	VB	CW	VERB
+the	the	DT	FW
+appointment	appointment	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+serious	serious	JJ	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+what	what	WP	FW
+i	i	FW	FW
+had	have	VBD	FW	aux_or_cop
+was	be	VBD	FW	aux_or_cop
+mini	mini	JJ	CW	ADJ
+heart	heart	NN	CW	NOUN	ARGUMENT
+attacks	attack	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+heart	heart	NN	CW	NOUN	ARGUMENT
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+there	there	EX	FW
+was	be	VBD	CW	VERB
+more	more	RBR	ADV	CW
+posibilities	posibility	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+die	die	VB	CW	VERB
+of	of	IN	FW
+a	a	DT	FW
+heart	heart	NN	CW	NOUN	ARGUMENT
+attck	attck	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+to	to	TO	FW
+die	die	VB	CW	VERB
+during	during	IN	FW
+the	the	DT	FW
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+i	i	FW	FW
+didnt	didnt	FW	FW
+have	have	VBP	FW	aux_or_cop
+any	any	DT	FW
+other	other	JJ	CW	ADJ
+choise	choise	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+then	then	RB	ADV	CW
+take	take	VB	CW	VERB
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+the	the	DT	FW
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+pissitive	pissitive	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+n't	not	RB	ADV	CW
+scare	scare	VB	CW	VERB
+at	at	IN	FW
+all	all	DT	FW
+i	i	FW	FW
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	IN	FW
+the	the	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+came	come	VBD	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+doctors	doctor	NNS	CW	NOUN	ARGUMENT
+read	read	VBP	CW	VERB
+to	to	TO	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+chances	chance	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	FW	FW
+had	have	VBD	CW	VERB
+to	to	TO	FW
+die	die	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+something	something	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+wrong	wrong	JJ	CW	ADJ
+bacuse	bacuse	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+stop	stop	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+heart	heart	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+conect	conect	VB	CW	VERB
+the	the	DT	FW
+veins	vein	NNS	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+machine	machine	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+heart	heart	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+just	just	RB	ADV	CW
+calm	calm	JJ	CW	ADJ
+and	and	CC	FW
+thinking	think	VBG	CW	VERB
+possitive	possitive	JJ	CW	ADJ
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+smile	smile	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+having	have	VBG	CW	VERB
+a	a	DT	FW
+possitive	possitive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+perfect	perfect	JJ	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+week	week	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+was	be	VBD	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+about	about	IN	FW
+three	three	CD	FW
+months	month	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+coul	coul	FW	FW
+n't	not	RB	ADV	CW
+wait	wait	VB	CW	VERB
+any	any	DT	FW
+longer	longer	RBR	ADV	CW
+so	so	RB	ADV	CW
+i	i	FW	FW
+got	get	VBD	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+working	work	VBG	CW	VERB
+making	make	VBG	CW	VERB
+moneyand	moneyand	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+possitive	possitive	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+now	now	RB	ADV	CW
+i	i	FW	FW
+am	be	VBP	CW	VERB
+makin	makin	FW	FW
+almost	almost	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+
+hope	hope	NNP	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+guys	guy	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+remeber	remeber	VB	CW	VERB
+always	always	RB	ADV	CW
+possitive	possitive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+$	$	$	FW
+1,100	1,100	CD	FW
+per	per	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+'m	be	VBP	CW	VERB
+just	just	RB	ADV	CW
+18	18	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+still	still	RB	ADV	CW
+bought	buy	VBN	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+car	car	NN	CW	NOUN	ARGUMENT
+crash	crash	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+fix	fix	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+sold	sell	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+bought	buy	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+2017	2017	CD	FW
+subaru	subaru	NNP	CW	NOUN	ARGUMENT
+wrx	wrx	NNP	CW	NOUN	ARGUMENT
+sti	sti	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+going	go	VBG	CW	VERB
+better	better	RBR	ADV	CW
+and	and	CC	FW
+better	better	RBR	ADV	CW
+some	some	DT	FW
+down	down	RB	ADV	CW
+and	and	CC	FW
+ups	up	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+getting	get	VBG	CW	VERB
+up	up	RP	FW
+no	no	DT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+wha	wha	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+trying	try	VBG	CW	VERB
+and	and	CC	FW
+giving	give	VBG	CW	VERB
+bad	bad	JJ	CW	ADJ
+moments	moment	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+smile	smile	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+always	always	RB	ADV	CW
+possitive	possitive	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+things	thing	NNS	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+hapend	hapend	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	CW	VERB
+how	how	WRB	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	CW	VERB
+know	know	VB	CW	VERB
+where	where	WRB	FW
+i	i	FW	FW
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+i	i	FW	FW
+had	have	VBD	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+negative	negative	JJ	CW	ADJ
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+thanks	thanks	NNS	CW	NOUN	ARGUMENT
+god	god	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+still	still	RB	ADV	CW
+here	here	RB	ADV	CW
+alive	alive	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+when	when	WRB	FW
+life	life	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+decided	decide	VBD	CW	VERB
+to	to	TO	FW
+punch	punch	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+face	face	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+change	change	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+about	about	IN	FW
+two	two	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+when	when	WRB	FW
+i	i	FW	FW
+was	be	VBD	CW	VERB
+in	in	IN	FW
+freshmen	freshman	NNS	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+arteria	arterium	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+vein	vein	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+gives	give	VBZ	CW	VERB
+oxygen	oxygen	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+the	the	DT	FW
+heart	heart	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+i	i	FW	FW
+had	have	VBD	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+heart	heart	NN	CW	NOUN	ARGUMENT
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+always	always	RB	ADV	CW
+have	have	VBP	CW	VERB
+possitive	possitive	JJ	CW	ADJ
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+a	a	DT	FW
+possitive	possitive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+trying	try	VBG	CW	VERB
+get	get	VB	CW	VERB
+up	up	RP	FW
+over	over	IN	FW
+and	and	CC	FW
+over	over	IN	FW
+intuil	intuil	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+accomplish	accomplish	VBP	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+something	something	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+have	have	VBP	FW	aux_or_cop
+learn	learn	VBP	CW	VERB
+is	be	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+think	think	VB	CW	VERB
+negative	negative	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+succesful	succesful	JJ	CW	ADJ
+and	and	CC	FW
+know	know	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+capleble	capleble	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thats	that	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+stock	stock	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+scare	scare	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+happen	happen	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	RBR	ADV	CW
+negative	negative	JJ	CW	ADJ
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+positive	positive	JJ	CW	ADJ
+ones	one	NNS	CW	NOUN	ARGUMENT
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+making	make	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+succesful	succesful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+thinking	think	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+better	better	RBR	ADV	CW
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	CW	VERB
+and	and	CC	FW
+not	not	RB	ADV	CW
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+having	have	VBG	CW	VERB
+a	a	DT	FW
+possitive	possitive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+succes	succe	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+possitive	possitive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+succesful	succesful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+honesty	honesty	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+to	to	TO	FW
+deal	deal	VB	CW	VERB
+with	with	IN	FW
+ups	up	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+downs	downs	NNS	CW	NOUN	ARGUMENT
+some	some	DT	FW
+more	more	JJR	CW	ADJ
+than	than	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+through	through	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+for	for	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+happend	happend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+fight	fight	VB	CW	VERB
+for	for	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+and	and	CC	FW
+on	on	IN	FW
+that	that	DT	FW
+fight	fight	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+parts	part	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+good	good	JJ	CW	ADJ
+parts	part	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+stay	stay	VBP	CW	VERB
+possitive	possitive	JJ	CW	ADJ
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+win	win	VB	CW	VERB
+the	the	DT	FW
+fight	fight	NN	CW	NOUN	ARGUMENT
+accomplish	accomplish	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+loooking	loook	VBG	CW	VERB
+for	for	IN	FW
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+succesful	succesful	JJ	CW	ADJ
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+just	just	RB	ADV	CW
+keep	keep	VB	CW	VERB
+trying	try	VBG	CW	VERB
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+possitive	possitive	JJ	CW	ADJ
+everytime	everytime	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

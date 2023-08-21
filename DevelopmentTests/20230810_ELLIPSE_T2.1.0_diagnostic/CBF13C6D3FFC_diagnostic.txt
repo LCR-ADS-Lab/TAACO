@@ -1,0 +1,398 @@
+word	lemma	POS	CW\FW	other categories
+why	why	WRB	FW
+seeking	seek	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+seeing	see	VBG	CW	VERB
+the	the	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+understand	understand	VB	CW	VERB
+the	the	DT	FW
+persons	person	NNS	CW	NOUN	ARGUMENT
+view	view	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+in	in	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+differently	differently	RB	ADV	CW
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+get	get	VB	CW	VERB
+more	more	RBR	ADV	CW
+different	different	JJ	CW	ADJ
+advise	advise	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+for	for	IN	FW
+in	in	IN	FW
+advise	advise	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+more	more	JJR	CW	ADJ
+advise	advise	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+even	even	RB	ADV	CW
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+in	in	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+has	have	VBZ	FW	aux_or_cop
+had	have	VBN	FW	aux_or_cop
+in	in	IN	FW
+experienced	experience	VBN	CW	VERB
+of	of	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+might	might	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+experienced	experience	VBN	CW	VERB
+with	with	IN	FW
+like	like	UH	FW
+going	go	VBG	CW	VERB
+through	through	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+rough	rough	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+have	have	VBP	FW	aux_or_cop
+also	also	RB	ADV	CW
+been	be	VBN	FW	aux_or_cop
+like	like	IN	FW
+that	that	DT	FW	PRONOUN
+or	or	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+feel	feel	VBP	CW	VERB
+worry	worry	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+curious	curious	JJ	CW	ADJ
+or	or	CC	FW
+interested	interested	JJ	CW	ADJ
+about	about	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+or	or	CC	FW
+want	want	VB	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometime	sometime	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+make	make	VB	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+probably	probably	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+through	through	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+rough	rough	JJ	CW	ADJ
+in	in	IN	FW
+there	there	EX	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+in	in	IN	FW
+advise	advise	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+to	to	TO	FW
+let	let	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+know	know	VB	CW	VERB
+in	in	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+on	on	IN	FW
+or	or	CC	FW
+improve	improve	VB	CW	VERB
+on	on	IN	FW
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+making	make	VBG	CW	VERB
+a	a	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+think	think	VB	CW	VERB
+about	about	IN	FW
+will	will	MD	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+decision	decision	NN	CW	NOUN	ARGUMENT
+effect	effect	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+or	or	CC	FW
+does	do	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+benefits	benefit	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+advise	advise	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+making	make	VBG	CW	VERB
+a	a	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+sometime	sometime	RB	ADV	CW
+when	when	WRB	FW
+making	make	VBG	CW	VERB
+decision	decision	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+challenging	challenge	VBG	CW	VERB
+
+sentence break
+
+what	what	WP	FW
+does	do	VBZ	FW	aux_or_cop
+advice	advice	NN	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+helps	helps	VB	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW	SUBORDINATOR
+to	to	TO	FW
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+try	try	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+sometime	sometime	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+need	need	VBP	CW	VERB
+a	a	DT	FW
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+inspirational	inspirational	JJ	CW	ADJ
+to	to	IN	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+advice	advice	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+inspirational	inspirational	JJ	CW	ADJ
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+motivated	motivated	JJ	CW	ADJ
+advise	advise	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+used	use	VBN	CW	VERB
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+sometimes	sometimes	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+the	the	DT	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+from	from	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+seeking	seek	VBG	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+answer	answer	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+question	question	NN	CW	NOUN	ARGUMENT
+multiple	multiple	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+understand	understand	VB	CW	VERB
+easily	easily	RB	ADV	FW
+and	and	CC	FW
+know	know	VB	CW	VERB
+in	in	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+improve	improve	VB	CW	VERB
+on	on	IN	FW
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

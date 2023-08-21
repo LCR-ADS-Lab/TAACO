@@ -1,0 +1,283 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+have	have	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+difficulty	difficulty	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+subjects	subject	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+an	an	DT	FW	SUBORDINATOR
+after	after	IN	FW	SUBORDINATOR
+school	school	NN	CW	NOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+club	club	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+workout	workout	VB	CW	VERB
+for	for	IN	FW
+many	many	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+too	too	RB	ADV	CW
+sacred	sacred	JJ	CW	ADJ
+or	or	CC	FW
+shy	shy	JJ	CW	ADJ
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+after	after	RB	ADV	FW
+
+sentence break
+
+but	but	CC	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+think	think	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+scared	scared	JJ	CW	ADJ
+or	or	CC	FW
+shy	shy	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+subject	subject	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+general	general	JJ	CW	ADJ
+some	some	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+ask	ask	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+failing	fail	VBG	CW	VERB
+tests	test	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+quizzes	quiz	NNS	CW	NOUN	ARGUMENT
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+ask	ask	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+after	after	RB	ADV	FW
+
+sentence break
+
+some	some	DT	FW
+units	unit	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+difficult	difficult	JJ	CW	ADJ
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+that	that	DT	FW	PRONOUN
+unit	unit	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+after	after	IN	FW
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+just	just	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+unit	unit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+that	that	DT	FW	PRONOUN
+unit	unit	NN	CW	NOUN	ARGUMENT
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+let	let	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+retake	retake	VB	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+optional	optional	JJ	CW	ADJ
+to	to	IN	FW
+the	the	DT	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+retake	retake	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+not	not	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+stay	stay	VBP	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+study	study	VB	CW	VERB
+for	for	IN	FW
+upcoming	upcoming	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+also	also	RB	ADV	CW
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+activate	activate	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+home	home	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+activates	activate	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+subject	subject	RB	ADV	CW
+related	relate	VBN	CW	VERB
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+finish	finish	VB	CW	VERB
+homework	homework	NN	CW	NOUN	ARGUMENT
+early	early	RB	ADV	CW
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+get	get	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+one	one	CD	FW
+subject	subject	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+student	student	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+on	on	RP	FW
+or	or	CC	FW
+need	need	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+then	then	RB	ADV	CW
+for	for	IN	FW
+uncoming	uncome	VBG	CW	VERB
+test	test	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+quiz	quiz	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

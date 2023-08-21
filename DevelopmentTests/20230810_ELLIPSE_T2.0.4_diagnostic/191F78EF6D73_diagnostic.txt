@@ -1,0 +1,456 @@
+word	lemma	POS	CW\FW	other categories
+failing	fail	VBG	CW	VERB
+helps	help	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+a	a	DT	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+harder	harder	JJR	CW	ADJ
+and	and	CC	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+high	high	NNP	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+an	a	DT	FW
+sol	sol	NNP	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+redo	redo	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+till	till	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+score	score	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+an	a	DT	FW
+sol	sol	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+being	be	VBG	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+and	and	CC	FW
+trying	try	VBG	CW	VERB
+
+sentence break
+
+in	in	IN	FW
+high	high	NNP	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+theres	there	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+one	one	CD	FW
+more	more	JJR	CW	ADJ
+chance	chance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+retaking	retake	VBG	CW	VERB
+and	and	CC	FW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+once	once	RB	ADV	CW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+trying	try	VBG	CW	VERB
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+give	give	VBP	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+dont	dont	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+thats	thats	RB	ADV	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+start	start	VBP	CW	VERB
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+
+sentence break
+
+failing	fail	VBG	CW	VERB
+brings	bring	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+youd	youd	NN	CW	NOUN	ARGUMENT
+regret	regret	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	CW	VERB
+successful	successful	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+than	than	IN	FW
+having	have	VBG	CW	VERB
+to	to	TO	FW
+retry	retry	VB	CW	VERB
+and	and	CC	FW
+retry	retry	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+youve	youve	NN	CW	NOUN	ARGUMENT
+tried	try	VBD	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+eventually	eventually	RB	ADV	CW
+give	give	VBP	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+the	the	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+youve	youve	VBP	CW	VERB
+tried	try	VBN	CW	VERB
+being	be	VBG	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+on	on	IN	FW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+trying	try	VBG	CW	VERB
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+stuck	stick	VBN	CW	VERB
+on	on	IN	FW
+dont	dont	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+give	give	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+tiring	tire	VBG	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+isnt	isnt	RB	ADV	FW
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+give	give	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+
+sentence break
+
+theres	there	VBZ	CW	VERB
+always	always	RB	ADV	CW
+a	a	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+at	at	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+matters	matter	VBZ	CW	VERB
+to	to	TO	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+hard	hard	JJ	CW	ADJ
+and	and	CC	FW
+wont	wont	JJ	CW	ADJ
+give	give	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+failing	fail	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+trick	trick	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+failing	fail	VBG	CW	VERB
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+harder	harder	JJR	CW	ADJ
+and	and	CC	FW
+harder	harder	JJR	CW	ADJ
+and	and	CC	FW
+makes	make	VBZ	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+harder	harder	JJR	CW	ADJ
+to	to	TO	FW
+think	think	VB	CW	VERB
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+brain	brain	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+helper	helper	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+think	think	VB	CW	VERB
+more	more	JJR	CW	ADJ
+and	and	CC	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+successes	success	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+what	what	WP	FW
+position	position	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+failed	fail	VBN	CW	VERB
+on	on	IN	FW
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+mainly	mainly	RB	ADV	CW
+think	think	VB	CW	VERB
+about	about	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+failing	fail	VBG	CW	VERB
+
+sentence break
+
+as	as	IN	FW
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+think	think	VBP	CW	VERB
+failing	fail	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+horrible	horrible	JJ	CW	ADJ
+and	and	CC	FW
+i	i	FW	FW
+think	think	VB	CW	VERB
+trying	try	VBG	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+to	to	TO	FW
+succeed	succeed	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+
+sentence break
+
+so	so	IN	FW
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+succeed	succeed	VBP	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	CW	VERB
+why	why	WRB	FW
+i	i	FW	FW
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+then	then	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+dont	dont	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+keep	keep	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+trying	try	VBG	CW	VERB
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+success	success	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+hard	hard	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+somethings	something	NNS	CW	NOUN	ARGUMENT
+challenging	challenge	VBG	CW	VERB
+but	but	CC	FW
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+dont	dont	JJ	CW	ADJ
+give	give	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+
+paragraph break
+

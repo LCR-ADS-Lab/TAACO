@@ -1,0 +1,370 @@
+word	lemma	POS	CW\FW	other categories
+when	when	WRB	FW
+there	there	EX	FW
+s	s	VBZ	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+up	up	RP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+to	to	TO	FW
+find	find	VB	CW	VERB
+out	out	RP	FW
+why	why	WRB	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+or	or	CC	FW
+why	why	WRB	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+play	play	VBP	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+was	be	VBD	CW	VERB
+one	one	CD	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+passed	pass	VBD	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+teammates	teammate	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+got	get	VBD	CW	VERB
+mad	mad	JJ	CW	ADJ
+at	at	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+not	not	RB	ADV	CW
+passing	pass	VBG	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+gave	give	VBD	CW	VERB
+up	up	RP	FW
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+forget	forget	VBP	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+was	be	VBD	CW	VERB
+no	no	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+remember	remember	VB	CW	VERB
+to	to	TO	FW
+bass	bass	VB	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+tells	tell	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+every	every	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+to	to	TO	FW
+remember	remember	VB	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+attack	attack	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+feet	foot	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+pass	pass	VB	CW	VERB
+because	because	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+hard	hard	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+go	go	VB	CW	VERB
+in	in	IN	FW
+google	google	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+youtube	youtube	NNP	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+watching	watch	VBG	CW	VERB
+youtube	youtube	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+going	go	VBG	CW	VERB
+to	to	IN	FW
+google	google	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+only	only	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+batter	batter	JJ	CW	ADJ
+or	or	CC	FW
+not	not	RB	ADV	CW
+forget	forget	VB	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+and	and	CC	FW
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+search	search	VBP	CW	VERB
+up	up	RP	FW
+"	"	``	FW
+why	why	WRB	FW
+do	do	VBP	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+can	can	MD	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+or	or	CC	FW
+not	not	RB	ADV	CW
+forget	forget	VB	CW	VERB
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helped	help	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+now	now	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+trying	try	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+better	well	JJR	CW	ADJ
+at	at	IN	FW
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+so	so	RB	ADV	CW
+far	far	RB	ADV	CW
+
+sentence break
+
+every	every	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+passed	pass	VBN	CW	VERB
+the	the	DT	FW
+ball	ball	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+try	try	VB	CW	VERB
+succeed	succeed	VB	CW	VERB
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+problem	problem	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+best	good	JJS	CW	ADJ
+try	try	VB	CW	VERB
+not	not	RB	ADV	CW
+to	to	TO	FW
+give	give	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+try	try	VB	CW	VERB
+not	not	RB	ADV	CW
+to	to	TO	FW
+get	get	VB	CW	VERB
+confuse	confuse	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+even	even	RB	ADV	CW
+harder	hard	JJR	CW	ADJ
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

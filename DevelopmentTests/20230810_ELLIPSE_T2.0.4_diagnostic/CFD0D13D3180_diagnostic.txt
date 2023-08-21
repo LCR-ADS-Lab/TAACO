@@ -1,0 +1,822 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+start	start	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+smart	smart	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBP	CW	VERB
+effort	effort	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+trying	try	VBG	CW	VERB
+because	because	RB	ADV	CW
+is	be	VBZ	CW	VERB
+the	the	DT	FW
+ability	ability	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+professionals	professional	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enjoy	enjoy	VB	CW	VERB
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+of	of	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+speciality	speciality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+even	even	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+of	of	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+ashamed	ashamed	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+competition	competition	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+closed	close	VBN	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+making	make	VBG	CW	VERB
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+faliure	faliure	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+succes	succe	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+besides	besides	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+opens	open	VBZ	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+discover	discover	VB	CW	VERB
+news	news	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+cook	cook	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+new	new	JJ	CW	ADJ
+dishes	dish	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+differents	different	NNS	CW	NOUN	ARGUMENT
+cultures	culture	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+the	the	DT	FW
+cook	cook	NN	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+try	try	VB	CW	VERB
+peruvian	peruvian	JJ	CW	ADJ
+dishes	dish	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+gastronomy	gastronomy	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+peru	peru	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+populars	popular	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+this	this	DT	FW	PRONOUN
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+will	will	MD	FW	aux_or_cop
+gain	gain	VB	CW	VERB
+more	more	JJR	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW
+trying	try	VBG	CW	VERB
+these	these	DT	FW
+new	new	JJ	CW	ADJ
+dishes	dish	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+cook	cook	NN	CW	NOUN	ARGUMENT
+fails	fail	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+the	the	DT	FW
+food	food	NN	CW	NOUN	ARGUMENT
+plus	plus	CC	FW
+received	receive	VBD	CW	VERB
+many	many	JJ	CW	ADJ
+critical	critical	JJ	CW	ADJ
+comments	comment	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+many	many	JJ	CW	ADJ
+cooks	cook	NNS	CW	NOUN	ARGUMENT
+receives	receive	VBZ	CW	VERB
+many	many	JJ	CW	ADJ
+critical	critical	JJ	CW	ADJ
+comments	comment	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+to	to	TO	FW
+abandon	abandon	VB	CW	VERB
+the	the	DT	FW
+kitchen	kitchen	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+
+sentence break
+
+this	this	DT	FW
+cook	cook	NN	CW	NOUN	ARGUMENT
+enjoyed	enjoy	VBN	CW	VERB
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+commited	commit	VBD	CW	VERB
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+or	or	CC	FW
+big	big	JJ	CW	ADJ
+error	error	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+better	better	JJR	CW	ADJ
+next	next	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+learned	learn	VBN	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+better	better	JJR	CW	ADJ
+the	the	DT	FW
+new	new	JJ	CW	ADJ
+peruvian	peruvian	JJ	CW	ADJ
+dishes	dish	NNS	CW	NOUN	ARGUMENT
+listened	listen	VBD	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+rest	rest	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+finally	finally	RB	ADV	CW
+succeded	succede	VBD	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+kitchen	kitchen	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+feel	feel	VBP	CW	VERB
+ashamed	ashamed	JJ	CW	ADJ
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+compare	compare	VBP	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+competition	competition	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+this	this	DT	FW	PRONOUN
+may	may	MD	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+issues	issue	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+insecurity	insecurity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+biggest	biggest	JJS	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+in	in	IN	FW
+these	these	DT	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+there	there	EX	FW
+are	be	VBP	CW	VERB
+2	2	CD	FW
+lawyers	lawyer	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+face	face	VB	CW	VERB
+a	a	DT	FW
+case	case	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+an	a	DT	FW
+innocent	innocent	JJ	CW	ADJ
+and	and	CC	FW
+important	important	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+is	be	VBZ	CW	VERB
+involved	involve	VBN	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+serious	serious	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+defend	defend	VB	CW	VERB
+the	the	DT	FW
+case	case	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+recognized	recognize	VBN	CW	VERB
+as	as	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+would	would	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+inmmediatly	inmmediatly	RB	ADV	FW
+many	many	JJ	CW	ADJ
+jobs	job	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+being	be	VBG	CW	VERB
+recommended	recommend	VBN	CW	VERB
+
+sentence break
+
+on	on	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+fails	fail	VBZ	CW	VERB
+a	a	DT	FW
+case	case	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+inmmediatly	inmmediatly	RB	ADV	FW
+many	many	JJ	CW	ADJ
+cases	case	NNS	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+the	the	DT	FW
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+that	that	IN	FW	PRONOUN
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+have	have	VB	CW	VERB
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+learning	learning	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+skills	skill	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+to	to	TO	FW
+face	face	VB	CW	VERB
+any	any	DT	FW
+case	case	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+during	during	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+professionals	professional	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+kept	keep	VBD	CW	VERB
+trying	try	VBG	CW	VERB
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+bring	bring	VB	CW	VERB
+some	some	DT	FW
+issues	issue	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+closed	closed	JJ	CW	ADJ
+minds	mind	NNS	CW	NOUN	ARGUMENT
+fears	fear	NNS	CW	NOUN	ARGUMENT
+etc.	etc.	FW	FW
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+knows	know	VBZ	CW	VERB
+the	the	DT	FW
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+finally	finally	RB	ADV	CW
+done	do	VBN	CW	VERB
+with	with	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+plus	plus	CC	FW
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'d	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+
+sentence break
+
+this	this	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+studied	study	VBN	CW	VERB
+for	for	IN	FW
+7	7	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+huge	huge	JJ	CW	ADJ
+and	and	CC	FW
+long	long	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+doctors	doctor	NNS	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+stop	stop	VBP	CW	VERB
+studying	study	VBG	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+technology	technology	NN	CW	NOUN	ARGUMENT
+changes	change	VBZ	CW	VERB
+every	every	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+the	the	DT	FW
+start	start	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+others	other	NNS	CW	NOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+because	because	IN	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+hardest	hardest	JJS	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW
+the	the	DT	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+semester	semester	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+to	to	TO	FW
+abandon	abandon	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+studies	study	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+do	do	VB	CW	VERB
+better	better	JJR	CW	ADJ
+in	in	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+failed	fail	VBN	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+prefered	prefer	VBD	CW	VERB
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+instance	instance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+giving	give	VBG	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+the	the	DT	FW
+importance	importance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+failing	fail	VBG	CW	VERB
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+the	the	DT	FW
+importance	importance	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+learning	learning	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+above	above	IN	FW
+this	this	DT	FW	PRONOUN
+a	a	DT	FW
+15	15	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+guy	guy	NN	CW	NOUN	ARGUMENT
+used	use	VBN	CW	VERB
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+in	in	IN	FW
+high	high	NNP	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+this	this	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+was	be	VBD	CW	VERB
+down-hearted	down-heart	VBN	CW	VERB
+but	but	CC	FW
+the	the	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+supported	support	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+without	without	IN	FW
+criticize	criticize	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+smart	smart	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+but	but	CC	FW
+this	this	DT	FW
+15	15	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+guy	guy	NN	CW	NOUN	ARGUMENT
+put	put	VBD	CW	VERB
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+bit	bit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+effort	effort	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+now	now	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+spain	spain	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+prime	prime	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+the	the	DT	FW
+concept	concept	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+``	``	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consist	consist	VBP	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+
+sentence break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+failed	fail	VBD	CW	VERB
+and	and	CC	FW
+successed	success	VBD	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+by	by	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+growth	growth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+others	other	NNS	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+loser	loser	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+admit	admit	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+a	a	DT	FW
+battle	battle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+words	word	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+no	no	DT	FW
+modesty	modesty	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+success	success	NN	CW	NOUN	ARGUMENT
+consist	consist	VBP	CW	VERB
+to	to	TO	FW
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+leave	leave	VB	CW	VERB
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+a	a	DT	FW
+simple	simple	JJ	CW	ADJ
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+not	not	RB	ADV	CW
+describe	describe	VB	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+a	a	DT	FW
+coward	coward	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

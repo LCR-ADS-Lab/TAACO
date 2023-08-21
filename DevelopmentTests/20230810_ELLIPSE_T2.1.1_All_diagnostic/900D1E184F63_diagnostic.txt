@@ -1,0 +1,381 @@
+word	lemma	POS	CW\FW	other categories
+enjoyable	enjoyable	JJ	CW	ADJ
+educational	educational	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+source	source	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+learning	learn	VBG	CW	VERB
+and	and	CC	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+saying	say	VBG	CW	VERB
+so	so	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+the	the	DT	FW
+chances	chance	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+the	the	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+anywhere	anywhere	RB	ADV	FW
+anytime	anytime	RB	ADV	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+activities	activity	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+or	or	CC	FW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+educational	educational	JJ	CW	ADJ
+many	many	JJ	CW	ADJ
+activities	activity	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+missed	miss	VBD	CW	VERB
+or	or	CC	FW
+failed	fail	VBD	CW	VERB
+a	a	DT	FW
+subject	subject	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+the	the	DT	FW
+brain	brain	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+little	little	RB	ADV	CW
+harder	hard	RBR	ADV	CW
+then	then	RB	ADV	CW
+other	other	JJ	CW	ADJ
+basic	basic	JJ	CW	ADJ
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+educational	educational	JJ	CW	ADJ
+
+sentence break
+
+school	school	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+really	really	RB	ADV	CW
+educational	educational	JJ	CW	ADJ
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+anything	anything	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+helps	help	VBZ	CW	VERB
+or	or	CC	FW
+can	can	MD	FW	aux_or_cop
+helps	helps	VB	CW	VERB
+study	study	VB	CW	VERB
+on	on	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+studying	study	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+subject	subject	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+relearn	relearn	VB	CW	VERB
+practices	practice	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+for	for	IN	FW
+the	the	DT	FW
+feels	feel	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+participating	participate	VBG	CW	VERB
+on	on	IN	FW
+an	an	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+sports	sport	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+why	why	WRB	FW
+to	to	TO	FW
+participate	participate	VB	CW	VERB
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+heath	heath	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+to	to	TO	FW
+socializes	socialize	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+activities	activity	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+an	an	DT	FW
+easy	easy	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+socializes	socialize	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+participating	participate	VBG	CW	VERB
+in	in	IN	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+allow	allow	VB	CW	VERB
+to	to	TO	FW
+share	share	VB	CW	VERB
+opinions	opinion	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+give	give	VB	CW	VERB
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+participating	participate	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+why	why	WRB	FW
+to	to	TO	FW
+show	show	VB	CW	VERB
+efforts	effort	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+working	work	VBG	CW	VERB
+on	on	RP	FW
+in	in	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+working	work	VBG	CW	VERB
+in	in	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+the	the	DT	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+fun	fun	JJ	CW	ADJ
+and	and	CC	FW
+more	more	RBR	ADV	CW
+enjoyable	enjoyable	JJ	CW	ADJ
+
+sentence break
+
+enjoyable	enjoyable	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+someone	someone	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+partner	partner	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+teammate	teammate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+in	in	IN	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+teams	team	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+activites	activite	NNS	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+the	the	DT	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+work	work	VB	CW	VERB
+together	together	RB	ADV	CW
+
+sentence break
+
+
+sentence break
+
+
+paragraph break
+
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+and	and	CC	FW
+educate	educate	VB	CW	VERB
+but	but	CC	FW
+activities	activity	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fun	fun	JJ	CW	ADJ
+and	and	CC	FW
+enjoyable	enjoyable	JJ	CW	ADJ
+
+sentence break
+
+activities	activity	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+extremely	extremely	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+give	give	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+efforts	effort	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+playing	playing	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+know	know	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+play	play	VB	CW	VERB
+
+sentence break
+
+fun	fun	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+turn	turn	VB	CW	VERB
+into	into	IN	FW
+fights	fight	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+arguments	argument	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+ways	way	NNS	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+handle	handle	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+to	to	TO	FW
+never	never	RB	ADV	CW
+happen	happen	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+respectful	respectful	JJ	CW	ADJ
+and	and	CC	FW
+show	show	VB	CW	VERB
+kindness	kindness	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+partner	partner	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+problems	problem	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+activities	activity	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

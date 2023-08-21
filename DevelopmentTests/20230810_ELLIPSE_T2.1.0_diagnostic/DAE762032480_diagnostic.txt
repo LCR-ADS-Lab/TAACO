@@ -1,0 +1,455 @@
+word	lemma	POS	CW\FW	other categories
+dear	dear	JJ	CW	ADJ
+mr.	mr.	NNP	CW	NOUN	ARGUMENT
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+writing	write	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+letter	letter	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+regarding	regard	VBG	CW	VERB
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+question	question	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+about	about	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+what	what	WP	FW
+keeps	keep	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+motivated	motivated	JJ	CW	ADJ
+to	to	TO	FW
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+who	who	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+and	and	CC	FW
+how	how	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+live	live	VB	CW	VERB
+and	and	CC	FW
+do	do	VB	CW	VERB
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+and	and	CC	FW
+so	so	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+set	set	VBD	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+every	every	DT	FW
+single	single	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+role	role	NN	CW	NOUN	ARGUMENT
+models	model	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+do	do	VBP	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+motivate	motivate	VB	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+like	like	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+too	too	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+but	but	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+bring	bring	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+and	and	CC	FW
+show	show	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+negative	negative	JJ	CW	ADJ
+sides	side	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+role	role	NN	CW	NOUN	ARGUMENT
+models	model	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+following	follow	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+but	but	CC	FW
+not	not	RB	ADV	CW
+all	all	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+like	like	IN	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+achievements	achievement	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VB	CW	VERB
+to	to	TO	FW
+follow	follow	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+like	like	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+musician	musician	NN	CW	NOUN	ARGUMENT
+artists	artist	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+make	make	VBP	CW	VERB
+inspiring	inspiring	JJ	CW	ADJ
+songs	song	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+decide	decide	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+ways	way	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+inspire	inspire	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+melodies	melody	NNS	CW	NOUN	ARGUMENT
+beats	beat	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+write	write	VB	CW	VERB
+the	the	DT	FW
+songs	song	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+so	so	RB	ADV	CW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+generation	generation	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+and	and	CC	FW
+becoming	become	VBG	CW	VERB
+famous	famous	JJ	CW	ADJ
+from	from	IN	FW
+showing	show	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+talents	talent	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+nt	not	RB	ADV	CW
+need	need	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+famous	famous	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+an	an	DT	FW
+ordinary	ordinary	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+cooks	cook	VBZ	CW	VERB
+or	or	CC	FW
+shows	show	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+make	make	VB	CW	VERB
+tools	tool	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+objects	object	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+these	these	DT	FW	PRONOUN
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+follow	follow	VBP	CW	VERB
+themselves	themselves	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+and	and	CC	FW
+show	show	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+with	with	IN	FW
+ease	ease	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	WDT	FW	PRONOUN
+can	can	MD	FW	aux_or_cop
+open	open	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+eyes	eye	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+whole	whole	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+role	role	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+everything	everything	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+does	do	VBZ	FW	aux_or_cop
+he	he	PRP	FW	PRONOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+and	and	CC	FW
+has	have	VBZ	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+from	from	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+so	so	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+but	but	CC	FW
+sometimes	sometimes	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+characters	character	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+do	do	VB	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+or	or	CC	FW
+knew	know	VBD	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+this	this	DT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+letter	letter	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+mr.	mr.	NNP	CW	NOUN	ARGUMENT
+john	john	NNP	CW	NOUN	ARGUMENT
+lubbock	lubbock	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+sincerely	sincerely	RB	ADV	CW
+generic_name	generic_name	VBZ	CW	VERB
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,502 @@
+word	lemma	POS	CW\FW	other categories
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+say	say	VB	CW	VERB
+``	``	``	FW
+susses	suss	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+out	out	JJ	CW	ADJ
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+yes	yes	UH	FW
+i	i	FW	FW
+do	do	VBP	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+being	be	VBG	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+for	for	IN	FW
+an	a	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+math	math	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+an	a	DT	FW
+53	53	CD	FW
+but	but	CC	FW
+now	now	RB	ADV	CW
+this	this	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+retake	retake	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+80	80	CD	FW
+now	now	RB	ADV	CW
+that	that	DT	FW	PRONOUN
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+
+sentence break
+
+by	by	IN	FW
+practicing	practice	VBG	CW	VERB
+over	over	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+there	there	RB	ADV	CW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW	SUBORDINATOR
+there	there	EX	FW
+past	past	IN	FW
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+the	the	DT	FW
+develop	develop	VBP	CW	VERB
+over	over	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+become	become	VBP	CW	VERB
+famous	famous	JJ	CW	ADJ
+millionaires	millionaire	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+company	company	NN	CW	NOUN	ARGUMENT
+owners	owner	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+bad	bad	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+became	become	VBD	CW	VERB
+rich	rich	JJ	CW	ADJ
+or	or	CC	FW
+powerful	powerful	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+by	by	IN	FW
+learning	learn	VBG	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+tilling	till	VBG	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+by	by	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+believing	believe	VBG	CW	VERB
+in	in	IN	FW
+our	we	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+being	be	VBG	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+goes	go	VBZ	CW	VERB
+though	though	IN	FW	SUBORDINATOR
+failure	failure	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+believing	believe	VBG	CW	VERB
+in	in	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+key	key	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+there	there	EX	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+without	without	IN	FW
+learning	learn	VBG	CW	VERB
+or	or	CC	FW
+believing	believe	VBG	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+and	and	CC	FW
+stop	stop	VBP	CW	VERB
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+stop	stop	VBP	CW	VERB
+and	and	CC	FW
+fail	fail	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+there	there	EX	FW
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+fail	fail	VBP	CW	VERB
+and	and	CC	FW
+self	self	NN	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+form	form	NN	CW	NOUN	ARGUMENT
+past	past	JJ	CW	ADJ
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+try	try	VB	CW	VERB
+again	again	RB	ADV	CW
+
+sentence break
+
+by	by	IN	FW
+practicing	practice	VBG	CW	VERB
+over	over	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+the	the	DT	FW
+subject	subject	JJ	CW	ADJ
+or	or	CC	FW
+the	the	DT	FW
+materials	material	NNS	CW	NOUN	ARGUMENT
+they'er	they'er	RB	ADV	FW
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+thats	that	NNS	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+practice	practice	VB	CW	VERB
+the	the	DT	FW
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+any	any	DT	FW
+where	where	WRB	FW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+get	get	VB	CW	VERB
+to	to	TO	FW
+there	there	EX	FW
+goals	goal	NNS	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+there	there	EX	FW
+are	be	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+where	where	WRB	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+be	be	VB	CW	VERB
+to	to	TO	FW
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+were	be	VBD	CW	VERB
+and	and	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+start	start	VB	CW	VERB
+company	company	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+store	store	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+second	second	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+recourse	recourse	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+company	company	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+
+sentence break
+
+will	will	MD	FW	aux_or_cop
+the	the	DT	FW
+two	two	CD	FW
+steps	step	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+easy	easy	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+always	always	RB	ADV	CW
+start	start	VB	CW	VERB
+off	off	RP	FW
+small	small	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+room	room	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+make	make	VB	CW	VERB
+a	a	DT	FW
+stand	stand	NN	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+wood	wood	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+come	come	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+buy	buy	VB	CW	VERB
+the	the	DT	FW
+material	material	NN	CW	NOUN	ARGUMENT
+off	off	IN	FW
+the	the	DT	FW
+item	item	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+cost	cost	NN	CW	NOUN	ARGUMENT
+mummers	mummer	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+buying	buy	VBG	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+back	back	RB	ADV	CW
+fires	fire	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+use	use	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+own	own	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+the	the	DT	FW
+rests	rest	VBZ	CW	VERB
+like	like	IN	FW
+company	company	NN	CW	NOUN	ARGUMENT
+poster	poster	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thats	thats	NNP	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+or	or	CC	FW
+good	good	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+or	or	CC	FW
+not	not	RB	ADV	CW
+by	by	IN	FW
+learning	learn	VBG	CW	VERB
+the	the	DT	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+past	past	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finding	find	VBG	CW	VERB
+a	a	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+how	how	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+practice	practice	VB	CW	VERB
+there	there	RB	ADV	CW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+an	a	DT	FW
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+productive	productive	JJ	CW	ADJ
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sitting	sit	VBG	CW	VERB
+a	a	DT	FW
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+having	have	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+of	of	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+expected	expect	VBD	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+higher	higher	JJR	CW	ADJ
+score	score	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+a	a	DT	FW
+math	math	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+having	have	VBG	CW	VERB
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+recourse	recourse	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+start	start	VB	CW	VERB
+small	small	JJ	CW	ADJ
+business	business	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+believing	believe	VBG	CW	VERB
+in	in	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+work	work	VB	CW	VERB
+on	on	IN	FW
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,612 @@
+word	lemma	POS	CW\FW	other categories
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+growing	grow	VBG	CW	VERB
+in	in	IN	FW
+this	this	DT	FW
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+having	have	VBG	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+mindset	mindset	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+for	for	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+only	only	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+in	in	IN	FW
+today	today	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+day	day	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+not	not	RB	ADV	CW
+really	really	RB	ADV	CW
+achievable	achievable	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+up	up	RP	FW
+to	to	IN	FW
+easy	easy	JJ	CW	ADJ
+and	and	CC	FW
+think	think	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+cars	car	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+build	build	VB	CW	VERB
+and	and	CC	FW
+take	take	VB	CW	VERB
+apart	apart	JJ	CW	ADJ
+engines	engine	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+add	add	VB	CW	VERB
+parts	part	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+more	more	RBR	ADV	CW
+potential	potential	JJ	CW	ADJ
+out	out	IN	FW
+of	of	IN	FW
+any	any	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+purchase	purchase	VBP	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+to	to	IN	FW
+race	race	NN	CW	NOUN	ARGUMENT
+cars	car	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+flip	flip	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+that	that	DT	FW	SUBORDINATOR	PRONOUN
+all	all	DT	FW
+takes	take	VBZ	CW	VERB
+skill	skill	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+learn	learn	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+taught	teach	VBN	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+likewise	likewise	RB	ADV	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+11	11	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+father	father	NN	CW	NOUN	ARGUMENT
+taught	teach	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+to	to	TO	FW
+use	use	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+tools	tool	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+fix	fix	VB	CW	VERB
+little	little	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+any	any	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+at	at	IN	FW
+the	the	DT	FW
+moment	moment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+sell	sell	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+flip	flip	VB	CW	VERB
+the	the	DT	FW
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+beacuse	beacuse	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'d	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+fixing	fix	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+up	up	RP	FW
+a	a	DT	FW
+bit	bit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+very	very	RB	ADV	CW
+first	first	JJ	CW	ADJ
+car	car	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+no	no	DT	FW
+motor	motor	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+bought	buy	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+six	six	CD	FW
+hundred	hundred	CD	FW
+dollars	dollar	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+bought	buy	VBD	CW	VERB
+the	the	DT	FW
+motor	motor	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+thousand	thousand	CD	FW
+and	and	CC	FW
+installed	instal	VBD	CW	VERB
+the	the	DT	FW
+whole	whole	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+but	but	CC	FW
+yet	yet	RB	ADV	CW
+with	with	IN	FW
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+tools	tool	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+then	then	RB	ADV	CW
+worth	worth	JJ	CW	ADJ
+five	five	CD	FW
+thousand	thousand	CD	FW
+because	because	IN	FW
+of	of	IN	FW
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+miles	mile	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+engine	engine	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+and	and	CC	FW
+how	how	WRB	FW
+clean	clean	JJ	CW	ADJ
+the	the	DT	FW
+interior	interior	JJ	CW	ADJ
+and	and	CC	FW
+exterior	exterior	JJ	CW	ADJ
+was	be	VBD	FW	aux_or_cop
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+becareful	becareful	JJ	CW	ADJ
+though	though	RB	ADV	CW
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+came	come	VBD	CW	VERB
+to	to	TO	FW
+turbo	turbo	VB	CW	VERB
+the	the	DT	FW
+engines	engine	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'d	would	MD	FW	aux_or_cop
+need	need	VB	CW	VERB
+to	to	TO	FW
+hook	hook	VB	CW	VERB
+a	a	DT	FW
+special	special	JJ	CW	ADJ
+computer	computer	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+tune	tune	VB	CW	VERB
+the	the	DT	FW
+compter	compter	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+engine	engine	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+blow	blow	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'d	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	IN	FW
+race	race	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+compete	compete	VB	CW	VERB
+against	against	IN	FW
+other	other	JJ	CW	ADJ
+peoples	people	NNS	CW	NOUN	ARGUMENT
+builds	build	VBZ	CW	VERB
+for	for	IN	FW
+money	money	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+track	track	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+mastering	master	VBG	CW	VERB
+this	this	DT	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+need	need	VB	CW	VERB
+a	a	DT	FW
+mechanic	mechanic	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+fix	fix	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+car	car	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+become	become	VBN	CW	VERB
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+is	be	VBZ	FW	aux_or_cop
+gaming	game	VBG	CW	VERB
+and	and	CC	FW
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+fracnchise	fracnchise	NN	CW	NOUN	ARGUMENT
+called	call	VBN	CW	VERB
+call	call	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+duty	duty	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+these	these	DT	FW
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+games	game	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+shooter	shooter	JJ	CW	ADJ
+games	game	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+how	how	WRB	FW
+fast	fast	RB	ADV	CW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+sensitivity	sensitivity	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+and	and	CC	FW
+how	how	WRB	FW
+fast	fast	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+react	react	VB	CW	VERB
+to	to	IN	FW
+whatever	whatever	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+happening	happen	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+to	to	IN	FW
+gaming	gaming	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+post	post	VB	CW	VERB
+videos	video	NNS	CW	NOUN	ARGUMENT
+online	online	RB	ADV	FW
+of	of	IN	FW
+how	how	WRB	FW
+good	good	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+get	get	VB	FW	aux_or_cop
+paid	pay	VBN	CW	VERB
+through	through	IN	FW
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+watch	watch	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+videos	video	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+the	the	DT	FW
+entertainment	entertainment	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+more	more	RBR	ADV	CW
+like	like	JJ	CW	ADJ
+to	to	TO	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+fast	fast	RB	ADV	CW
+the	the	DT	FW
+reactions	reaction	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+
+sentence break
+
+that	that	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+helped	help	VBN	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+helped	help	VBN	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+make	make	VB	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+decsions	decsion	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+driving	drive	VBG	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+road	road	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+helped	help	VBN	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VB	CW	VERB
+and	and	CC	FW
+react	react	VB	CW	VERB
+a	a	DT	FW
+little	little	JJ	CW	ADJ
+faster	fast	RBR	ADV	CW
+then	then	RB	ADV	CW
+others	other	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+skill	skill	NN	CW	NOUN	ARGUMENT
+improves	improve	VBZ	CW	VERB
+everyday	everyday	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+affected	affect	VBN	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+everyday	everyday	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+through	through	IN	FW
+this	this	DT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+mastered	master	VBN	CW	VERB
+to	to	TO	FW
+actually	actually	RB	ADV	CW
+get	get	VB	CW	VERB
+through	through	IN	FW
+everday	everday	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+having	have	VBG	CW	VERB
+such	such	JJ	CW	ADJ
+stress	stress	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+prepared	prepared	JJ	CW	ADJ
+to	to	TO	FW
+react	react	VB	CW	VERB
+and	and	CC	FW
+decide	decide	VB	CW	VERB
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+all	all	DT	FW
+in	in	RB	ADV	CW
+all	all	DT	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+without	without	IN	FW
+trying	try	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+grow	grow	VB	CW	VERB
+at	at	RB	ADV	FW
+all	all	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+human	human	JJ	CW	ADJ
+brain	brain	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+mean't	mean't	RB	ADV	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+expanded	expand	VBN	CW	VERB
+and	and	CC	FW
+stretched	stretch	VBN	CW	VERB
+like	like	IN	FW
+a	a	DT	FW
+muscle	muscle	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+playing	play	VBG	CW	VERB
+a	a	DT	FW
+sport	sport	NN	CW	NOUN	ARGUMENT
+remembering	remember	VBG	CW	VERB
+equations	equation	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+physics	physics	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+solving	solve	VBG	CW	VERB
+over	over	RP	FW
+and	and	CC	FW
+over	over	RB	ADV	CW
+again	again	RB	ADV	CW
+and	and	CC	FW
+still	still	RB	ADV	CW
+getting	get	VBG	CW	VERB
+logical	logical	JJ	CW	ADJ
+answers	answer	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+at	at	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+practice	practice	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+to	to	TO	FW
+master	master	VB	CW	VERB
+whatever	whatever	WDT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+master	master	VB	CW	VERB
+takes	take	VBZ	CW	VERB
+brilliance	brilliance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

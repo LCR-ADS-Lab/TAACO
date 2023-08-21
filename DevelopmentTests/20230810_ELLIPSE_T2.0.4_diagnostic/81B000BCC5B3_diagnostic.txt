@@ -1,0 +1,460 @@
+word	lemma	POS	CW\FW	other categories
+cristiano	cristiano	NNP	CW	NOUN	ARGUMENT
+ronaldo	ronaldo	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+playes	playe	VBZ	CW	VERB
+in	in	IN	FW
+all	all	DT	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+begins	begin	VBZ	CW	VERB
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+correar	correar	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	CW	VERB
+seen	see	VBN	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+normal	normal	JJ	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+player	player	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+some	some	DT	FW
+many	many	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+were	be	VBD	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+score	score	VB	CW	VERB
+any	any	DT	FW
+goals	goal	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+made	make	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+work	work	VB	CW	VERB
+harder	harder	RBR	ADV	CW
+and	and	CC	FW
+harder	harder	RBR	ADV	CW
+
+sentence break
+
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+made	make	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+who	who	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+now	now	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+considered	consider	VBN	CW	VERB
+by	by	IN	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+best	best	JJS	CW	ADJ
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+player	player	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+history	history	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+is	be	VBZ	FW	aux_or_cop
+wase	wase	NN	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+fails	fail	VBZ	CW	VERB
+made	make	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+work	work	VB	CW	VERB
+harder	harder	RBR	ADV	CW
+in	in	IN	FW
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+success	success	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+his	he	PRP$	FW	PRONOUN	ARGUMENT
+correar	correar	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW
+15	15	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+succefully	succefully	RB	ADV	FW
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+enthusiam	enthusiam	NN	CW	NOUN	ARGUMENT
+made	make	VBD	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+work	work	VB	CW	VERB
+harder	harder	JJR	CW	ADJ
+until	until	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+reach	reach	VBP	CW	VERB
+succes	succe	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+enthusiam	enthusiam	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+makes	make	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+foward	foward	JJ	CW	ADJ
+even	even	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+the	the	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+is	be	VBZ	CW	VERB
+just	just	RB	ADV	CW
+a	a	DT	FW
+symple	symple	NN	CW	NOUN	ARGUMENT
+word	word	NN	CW	NOUN	ARGUMENT
+becuase	becuase	NN	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+trying	try	VBG	CW	VERB
+until	until	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+succes	succe	VBZ	CW	VERB
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+succes	succes	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+somethig	somethig	JJ	CW	ADJ
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+reach	reach	VB	CW	VERB
+specally	specally	RB	ADV	FW
+without	without	IN	FW
+fails	fail	VBZ	CW	VERB
+and	and	CC	FW
+enthusiams	enthusiam	VBZ	CW	VERB
+
+sentence break
+
+fail	fail	NN	CW	NOUN	ARGUMENT
+mades	made	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+stay	stay	VB	CW	VERB
+down	down	RB	ADV	CW
+but	but	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+yhey	yhey	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+down	down	RB	ADV	CW
+or	or	CC	FW
+work	work	VB	CW	VERB
+harder	harder	JJR	CW	ADJ
+until	until	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+succes	succe	NNS	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+success	success	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+come	come	VBN	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+easy	easy	JJ	CW	ADJ
+as	as	IN	FW	SUBORDINATOR
+a	a	DT	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+sounds	sound	VBZ	CW	VERB
+succes	succe	VBZ	CW	VERB
+comes	come	VBZ	CW	VERB
+from	from	IN	FW
+har	har	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+failures	failure	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+few	few	JJ	CW	ADJ
+months	month	NNS	CW	NOUN	ARGUMENT
+ago	ago	IN	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+driver	driver	NN	CW	NOUN	ARGUMENT
+licence	licence	NN	CW	NOUN	ARGUMENT
+permit	permit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW	SUBORDINATOR
+order	order	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+to	to	TO	FW
+took	take	VBD	CW	VERB
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+consist	consist	VBP	CW	VERB
+about	about	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+rules	rule	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+road	road	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+sad	sad	JJ	CW	ADJ
+beucause	beucause	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+permit	permit	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+big	big	JJ	CW	ADJ
+motivation	motivation	NN	CW	NOUN	ARGUMENT
+inside	inside	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+impulsed	impulse	VBD	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+and	and	CC	FW
+retake	retake	VB	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+twice	twice	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+give	give	VBP	CW	VERB
+up	up	RP	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+worked	work	VBD	CW	VERB
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+tooked	took	VBN	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+or	or	CC	FW
+4	4	CD	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+toked	toke	VBD	CW	VERB
+5	5	CD	FW
+times	time	NNS	CW	NOUN	ARGUMENT
+until	until	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+passed	pass	VBD	CW	VERB
+the	the	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+permit	permit	NN	CW	NOUN	ARGUMENT
+months	month	NNS	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+go	go	VB	CW	VERB
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+driver	driver	NN	CW	NOUN	ARGUMENT
+license	license	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+give	give	VBP	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+succes	succe	NNS	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+how	how	WRB	FW
+many	many	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+most	most	RBS	ADV	CW
+get	get	VB	CW	VERB
+up	up	RP	FW
+work	work	NN	CW	NOUN	ARGUMENT
+hard	hard	RB	ADV	CW
+until	until	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+succes	succe	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+succes	succe	NNS	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

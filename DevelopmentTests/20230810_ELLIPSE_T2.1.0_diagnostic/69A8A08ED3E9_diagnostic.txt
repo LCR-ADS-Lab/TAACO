@@ -1,0 +1,444 @@
+word	lemma	POS	CW\FW	other categories
+"	"	``	FW
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+who	who	WP	FW
+do	do	VBP	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+either	either	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+along	along	RP	FW
+with	with	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+teach	teach	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+"	"	''	FW
+although	although	IN	FW	SUBORDINATOR
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+formed	form	VBN	CW	VERB
+by	by	IN	FW
+influences	influence	NNS	CW	NOUN	ARGUMENT
+beyond	beyond	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+nevertheless	nevertheless	RB	ADV	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+environment	environment	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+to	to	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+influence	influence	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+characters	character	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+first	first	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+environment	environment	NN	CW	NOUN	ARGUMENT
+influence	influence	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+front	front	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+who	who	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+environment	environment	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+on	on	RB	ADV	CW
+on	on	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+living	live	VBG	CW	VERB
+for	for	IN	FW
+example	example	NNP	CW	NOUN	ARGUMENT
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	VBZ	CW	VERB
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+around	around	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+talked	talk	VBD	CW	VERB
+like	like	IN	FW
+brother	brother	NN	CW	NOUN	ARGUMENT
+help	help	VB	CW	VERB
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+as	as	IN	FW
+brothers	brother	NNS	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+around	around	IN	FW
+dad	dad	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+mom	mom	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+another	another	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+person	person	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+more	more	RBR	ADV	CW
+kinder	kind	JJR	CW	ADJ
+
+sentence break
+
+but	but	CC	FW
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+on	on	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+another	another	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+person	person	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+mean	mean	VB	CW	VERB
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+care	care	VB	CW	VERB
+about	about	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+treat	treat	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+changed	change	VBD	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+whole	whole	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+proves	prove	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+changes	change	VBZ	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+the	the	DT	FW
+environment	environment	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+growing	grow	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+second	second	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+talked	talk	VBD	CW	VERB
+too	too	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+eventually	eventually	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+change	change	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+to	to	IN	FW
+different	different	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+to	to	IN	FW
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+u	u	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+relatives	relative	NNS	CW	NOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+coasins	coasin	VBZ	CW	VERB
+brotheres	brothere	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+eventually	eventually	RB	ADV	CW
+changed	change	VBD	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+guy	guy	NN	CW	NOUN	ARGUMENT
+named	name	VBN	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+recived	recive	VBD	CW	VERB
+a	a	DT	FW
+call	call	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+generic_name	generic_name	VBZ	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+come	come	VB	CW	VERB
+home	home	RB	ADV	CW
+and	and	CC	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+respectfully	respectfully	RB	ADV	CW
+said	say	VBD	CW	VERB
+tes	tes	NNP	CW	NOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+go	go	VB	CW	VERB
+home	home	RB	ADV	CW
+right	right	RB	ADV	CW
+away	away	RB	ADV	CW
+after	after	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+finish	finish	VBP	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+talked	talk	VBD	CW	VERB
+to	to	IN	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+saying	say	VBG	CW	VERB
+dude	dude	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+leabe	leabe	VB	CW	VERB
+but	but	CC	FW
+like	like	UH	FW
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+
+sentence break
+
+screming	screming	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+proves	prove	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+change	change	VBP	CW	VERB
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+act	act	VBP	CW	VERB
+with	with	IN	FW
+different	different	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+with	with	IN	FW
+different	different	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+to	to	TO	FW
+conclude	conclude	VB	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choose	choose	VBP	CW	VERB
+our	our	PRP$	FW	PRONOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+traits	trait	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+and	and	CC	FW
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+choos	choo	NNS	CW	NOUN	ARGUMENT
+ehow	ehow	VBP	CW	VERB
+we	we	PRP	FW	PRONOUN	ARGUMENT
+act	act	VBP	CW	VERB
+aroubd	aroubd	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+to	to	TO	FW
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+ones	one	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+affect	affect	VBP	CW	VERB
+us	we	PRP	FW	PRONOUN	ARGUMENT
+more	more	RBR	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+the	the	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+on	on	IN	FW
+daily	daily	JJ	CW	ADJ
+bases	basis	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+one	one	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+enviroment	enviroment	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+u	u	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+looked	look	VBN	CW	VERB
+by	by	IN	FW
+different	different	JJ	CW	ADJ
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

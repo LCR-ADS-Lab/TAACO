@@ -1,0 +1,354 @@
+word	lemma	POS	CW\FW	other categories
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+peru	peru	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+peru	peru	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+live	live	VBP	CW	VERB
+there	there	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+seen	see	VBN	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+7	7	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+least	least	RBS	ADV	CW
+one	one	CD	FW
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+until	until	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+once	once	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+some	some	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+catch	catch	VB	CW	VERB
+up	up	RP	FW
+what	what	WP	FW
+has	have	VBZ	FW	aux_or_cop
+happened	happen	VBN	CW	VERB
+over	over	IN	FW
+the	the	DT	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+beach	beach	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+pool	pool	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+park	park	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VB	CW	VERB
+an	an	DT	FW
+awesome	awesome	JJ	CW	ADJ
+picnic	picnic	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+smores	smore	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+tell	tell	VB	CW	VERB
+creepy	creepy	JJ	CW	ADJ
+stories	story	NNS	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+tan	tan	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+done	do	VBN	CW	VERB
+ever	ever	RB	ADV	CW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+skydiving	skydive	VBG	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+really	really	RB	ADV	CW
+scary	scary	JJ	CW	ADJ
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+really	really	RB	ADV	CW
+fun	fun	JJ	CW	ADJ
+to	to	TO	FW
+see	see	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+the	the	DT	FW
+jump	jump	NN	CW	NOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+a	a	DT	FW
+plane	plane	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+really	really	RB	ADV	CW
+funny	funny	JJ	CW	ADJ
+to	to	TO	FW
+watch	watch	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+over	over	RP	FW
+and	and	CC	FW
+over	over	RB	ADV	CW
+again	again	RB	ADV	CW
+
+sentence break
+
+the	the	DT	FW
+last	last	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+machu	machu	NNP	CW	NOUN	ARGUMENT
+picchu	picchu	NNP	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+such	such	PDT	FW
+a	a	DT	FW
+clam	clam	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+see	see	VBP	CW	VERB
+the	the	DT	FW
+stars	star	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+in	in	IN	FW
+the	the	DT	FW
+morning	morning	NN	CW	NOUN	ARGUMENT
+u	u	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+the	the	DT	FW
+sunset	sunset	NN	CW	NOUN	ARGUMENT
+rising	rise	VBG	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+leave	leave	VB	CW	VERB
+.to	.to	NNP	CW	NOUN	ARGUMENT
+sum	sum	VB	CW	VERB
+up	up	RP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+an	an	DT	FW
+amazing	amazing	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+visit	visit	VB	CW	VERB
+peru	peru	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+cousins	cousin	NNS	CW	NOUN	ARGUMENT
+brothers	brother	NNS	CW	NOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+aunts	aunt	NNS	CW	NOUN	ARGUMENT
+uncle	uncle	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+see	see	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+everyday	everyday	RB	ADV	CW
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+some	some	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+go	go	VBP	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+beach	beach	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+picnic	picnic	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+swim	swim	VB	CW	VERB
+also	also	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+play	play	VB	CW	VERB
+some	some	DT	FW
+games	game	NNS	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+blast	blast	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+machu	machu	NNP	CW	NOUN	ARGUMENT
+picchu	picchu	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+watch	watch	VB	CW	VERB
+the	the	DT	FW
+sunset	sunset	NN	CW	NOUN	ARGUMENT
+ride	ride	NN	CW	NOUN	ARGUMENT
+camels	camel	NNS	CW	NOUN	ARGUMENT
+ride	ride	NN	CW	NOUN	ARGUMENT
+horses	horse	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+take	take	VB	CW	VERB
+awesome	awesome	JJ	CW	ADJ
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,256 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+out	out	IN	FW
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+protects	protect	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+out	out	RB	ADV	CW
+in	in	IN	FW
+the	the	DT	FW
+street	street	NN	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+know	know	VBP	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+after	after	IN	FW
+10	10	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+hangout	hangout	VBP	CW	VERB
+by	by	IN	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+that	that	DT	FW	PRONOUN
+hour	hour	NN	CW	NOUN	ARGUMENT
+unless	unless	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+m	m	VBP	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+at	at	IN	FW
+a	a	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+out	out	RB	ADV	CW
+late	late	RB	ADV	CW
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+care	care	VB	CW	VERB
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+out	out	RB	ADV	CW
+late	late	RB	ADV	CW
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+nt	not	RB	ADV	CW
+obey	obey	VB	CW	VERB
+the	the	DT	FW
+laws	law	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+important	important	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+have	have	VB	FW	aux_or_cop
+curfews	curfew	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+keeps	keep	VBZ	CW	VERB
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+being	be	VBG	FW	aux_or_cop
+out	out	RB	ADV	CW
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+the	the	DT	FW
+weekend	weekend	NN	CW	NOUN	ARGUMENT
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+hangout	hangout	VB	CW	VERB
+late	late	RB	ADV	CW
+with	with	IN	FW
+a	a	DT	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+depends	depend	VBZ	CW	VERB
+on	on	IN	FW
+how	how	WRB	FW
+strict	strict	JJ	CW	ADJ
+the	the	DT	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+really	really	RB	ADV	CW
+strict	strict	JJ	CW	ADJ
+parents	parent	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+let	let	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+unless	unless	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+with	with	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+to	to	TO	FW
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+laws	law	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+protect	protect	VB	CW	VERB
+the	the	DT	FW
+envionment	envionment	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+a	a	DT	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+whatever	whatever	WDT	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+
+sentence break
+
+10	10	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+kind	kind	RB	ADV	CW
+of	of	RB	ADV	CW
+late	late	JJ	CW	ADJ
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+close	close	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+during	during	IN	FW
+the	the	DT	FW
+weekends	weekend	NNS	CW	NOUN	ARGUMENT
+teenagers	teenager	NNS	CW	NOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+hang	hang	VB	CW	VERB
+out	out	RP	FW
+after	after	IN	FW
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+during	during	IN	FW
+the	the	DT	FW
+weekdays	weekday	NNS	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+10	10	CD	FW
+pm	pm	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+against	against	IN	FW
+the	the	DT	FW
+laws	law	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+depends	depend	VBZ	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+like	like	UH	FW
+are	be	VBP	FW	aux_or_cop
+they	they	PRP	FW	PRONOUN	ARGUMENT
+driving	drive	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+car	car	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+walking	walk	VBG	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+scary	scary	JJ	CW	ADJ
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+out	out	RB	ADV	CW
+at	at	IN	FW
+night	night	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

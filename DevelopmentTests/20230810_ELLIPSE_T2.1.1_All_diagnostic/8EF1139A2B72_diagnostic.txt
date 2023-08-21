@@ -1,0 +1,505 @@
+word	lemma	POS	CW\FW	other categories
+why	why	WRB	FW
+should	should	MD	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VB	CW	VERB
+on	on	IN	FW
+telling	tell	VBG	CW	VERB
+the	the	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+honesty	honesty	NNP	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+hurt	hurt	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+fellings	felling	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+sometimes	sometimes	RB	ADV	CW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+a	a	DT	FW
+lie	lie	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+not	not	RB	ADV	CW
+all	all	PDT	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+honesty	honesty	NNP	CW	NOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+not	not	RB	ADV	CW
+lying	lie	VBG	CW	VERB
+telling	tell	VBG	CW	VERB
+the	the	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+having	have	VBG	CW	VERB
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+what	what	WP	FW
+are	be	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+to	to	IN	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+honesty	honesty	NNP	CW	NOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+not	not	RB	ADV	CW
+lying	lie	VBG	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+tell	tell	VB	CW	VERB
+the	the	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+telling	tell	VBG	CW	VERB
+to	to	IN	FW
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+lie	lie	VBP	CW	VERB
+to	to	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+the	the	DT	FW
+cosquences	cosquence	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+to	to	IN	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+mean	mean	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+once	once	RB	ADV	CW
+a	a	DT	FW
+lie	lie	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+repeat	repeat	VBP	CW	VERB
+with	with	IN	FW
+that	that	DT	FW
+process	process	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+lying	lie	VBG	CW	VERB
+to	to	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+take	take	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+path	path	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+talk	talk	VB	CW	VERB
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+do	do	VB	FW	aux_or_cop
+worst	bad	JJS	CW	ADJ
+stuffs	stuff	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+come	come	VB	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+depend	depend	VB	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+lie	lie	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+to	to	IN	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+on	on	IN	FW
+telling	tell	VBG	CW	VERB
+the	the	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+the	the	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+yes	yes	UH	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+fellings	felling	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+lie	lie	VB	CW	VERB
+to	to	IN	FW
+that	that	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+up	up	RP	FW
+a	a	DT	FW
+lie	lie	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+someone	someone	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+belive	belive	VB	CW	VERB
+on	on	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+and	and	CC	FW
+then	then	RB	ADV	CW
+tell	tell	VB	CW	VERB
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+on	on	IN	FW
+what	what	WP	FW
+the	the	DT	FW
+sid	sid	JJ	CW	ADJ
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+true	true	JJ	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+problems	problem	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+come	come	VB	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+being	be	VBG	FW	aux_or_cop
+confident	confident	JJ	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+the	the	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+lie	lie	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+these	these	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+the	the	DT	FW
+secrets	secret	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+to	to	IN	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+start	start	VB	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+dramas	drama	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+and	and	CC	FW
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+face	face	VB	CW	VERB
+so	so	RB	ADV	CW
+may	may	MD	FW	aux_or_cop
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+confident	confident	JJ	CW	ADJ
+on	on	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+to	to	IN	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+then	then	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+to	to	IN	FW
+late	late	RB	ADV	CW
+
+sentence break
+
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+lie	lie	VBP	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+to	to	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+face	face	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+problems	problem	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+so	so	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+alway	alway	RB	ADV	FW
+tell	tell	VB	CW	VERB
+the	the	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+in	in	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+what	what	WP	FW
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+stay	stay	VB	CW	VERB
+true	true	JJ	CW	ADJ
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+
+sentence break
+
+and	and	CC	FW
+as	as	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+a	a	DT	FW
+lie	lie	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+telling	tell	VBG	CW	VERB
+lie	lie	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+sorry	sorry	JJ	CW	ADJ
+for	for	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+now	now	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+face	face	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+conquences	conquence	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+say	say	VBP	CW	VERB
+again	again	RB	ADV	CW
+always	always	RB	ADV	CW
+tell	tell	VB	CW	VERB
+the	the	DT	FW
+truth	truth	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+that	that	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+
+sentence break
+
+
+paragraph break
+

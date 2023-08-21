@@ -1,0 +1,253 @@
+word	lemma	POS	CW\FW	other categories
+some	some	DT	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+us	us	NNP	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+are	be	VBP	FW	aux_or_cop
+the	the	DT	FW
+effects	effect	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+using	use	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+using	use	VBG	CW	VERB
+there	there	EX	FW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+fun	fun	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+it	it	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+fall	fall	VB	CW	VERB
+off	off	RP	FW
+task	task	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+using	use	VBG	CW	VERB
+there	there	EX	FW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+helpful	helpful	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+always	always	RB	ADV	CW
+on	on	IN	FW
+the	the	DT	FW
+phone	phone	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+may	may	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+better	well	RB	ADV	CW
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+find	find	VB	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	RBR	ADV	CW
+intringing	intringing	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+better	well	RBR	ADV	CW
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+pay	pay	VB	CW	VERB
+more	more	RBR	ADV	CW
+intensest	intensest	JJ	CW	ADJ
+to	to	IN	FW
+the	the	DT	FW
+phone	phone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+where	where	WRB	FW
+doing	do	VBG	CW	VERB
+on	on	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+like	like	IN	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+told	tell	VBN	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+on	on	IN	FW
+google	google	NNP	CW	NOUN	ARGUMENT
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+jump	jump	VB	CW	VERB
+to	to	IN	FW
+doing	do	VBG	CW	VERB
+that	that	DT	FW	PRONOUN
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+effect	effect	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+this	this	DT	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purposes	purpose	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+falling	fall	VBG	CW	VERB
+off	off	IN	FW
+task	task	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+every	every	DT	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+be	be	VB	FW	aux_or_cop
+on	on	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+there	there	RB	ADV	CW
+not	not	RB	ADV	CW
+supposed	suppose	VBN	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+on	on	IN	FW
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+on	on	IN	FW
+any	any	DT	FW
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+not	not	RB	ADV	CW
+prohibit	prohibit	VBP	CW	VERB
+in	in	IN	FW
+this	this	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+some	some	DT	FW
+schools	school	VBZ	CW	VERB
+us	us	NNP	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+these	these	DT	FW
+effect	effect	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+bad	bad	JJ	CW	ADJ
+effets	effet	NNS	CW	NOUN	ARGUMENT
+to	to	IN	FW
+using	use	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

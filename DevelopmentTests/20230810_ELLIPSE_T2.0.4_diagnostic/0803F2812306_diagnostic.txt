@@ -1,0 +1,290 @@
+word	lemma	POS	CW\FW	other categories
+im	im	NN	CW	NOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+because	because	RB	ADV	CW
+
+sentence break
+
+what	what	WDT	FW
+can	can	MD	FW	aux_or_cop
+to	to	TO	FW
+do	do	VB	CW	VERB
+with	with	IN	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+talk	talk	VB	CW	VERB
+with	with	IN	FW
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+need	need	NN	CW	NOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+body	body	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+just	just	RB	ADV	CW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+i	i	FW	FW
+need	need	VBP	CW	VERB
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+with	with	IN	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+i	i	FW	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+to	to	TO	FW
+do	do	VB	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+'	'	''	FW
+t	t	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+family	family	NN	CW	NOUN	ARGUMENT
+eny	eny	NN	CW	NOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+sad	sad	JJ	CW	ADJ
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+'m	be	VBP	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+a	a	DT	FW
+persona	persona	NN	CW	NOUN	ARGUMENT
+need	need	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+animals	animal	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+study	study	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+then	then	RB	ADV	CW
+find	find	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+find	find	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+need	need	MD	FW	aux_or_cop
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+work	work	VB	CW	VERB
+with	with	IN	FW
+anothers	another	NNS	CW	NOUN	ARGUMENT
+peoples	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+that	that	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+more	more	JJR	CW	ADJ
+i	i	FW	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+ica	ica	NNP	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+just	just	RB	ADV	CW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+sad	sad	JJ	CW	ADJ
+and	and	CC	FW
+bored	bored	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+im	im	NN	CW	NOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+the	the	DT	FW
+author	author	NN	CW	NOUN	ARGUMENT
+ralph	ralph	NNP	CW	NOUN	ARGUMENT
+waldo	waldo	NNP	CW	NOUN	ARGUMENT
+emerson	emerson	NNP	CW	NOUN	ARGUMENT
+wrote	write	VBD	CW	VERB
+because	because	RB	ADV	CW
+if	if	IN	FW	SUBORDINATOR
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+think	think	VBP	CW	VERB
+was	be	VBD	FW	aux_or_cop
+genial	genial	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+worry	worry	VB	CW	VERB
+for	for	IN	FW
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+i	i	FW	FW
+can	can	MD	FW	aux_or_cop
+to	to	TO	FW
+do	do	VB	CW	VERB
+whatever	whatever	WDT	FW
+i	i	FW	FW
+want	want	VBP	CW	VERB
+live	live	VB	CW	VERB
+for	for	IN	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+body	body	NN	CW	NOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+what	what	WP	FW
+has	have	VBZ	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+or	or	CC	FW
+do	do	VB	CW	VERB
+n't	not	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+create	create	VB	CW	VERB
+new	new	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+bettle	bettle	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+example	example	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+has	have	VBZ	CW	VERB
+bad	bad	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+no	no	DT	FW
+body	body	NN	CW	NOUN	ARGUMENT
+kill	kill	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+hide	hide	VB	CW	VERB
+and	and	CC	FW
+anothers	another	NNS	CW	NOUN	ARGUMENT
+things	thing	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+was	be	VBD	FW	aux_or_cop
+bettle	bettle	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+a	a	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+bettle	bettle	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+live	live	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

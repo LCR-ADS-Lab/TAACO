@@ -1,0 +1,388 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+personally	personally	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+like	like	VB	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+schooling	schooling	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	CW	VERB
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'d	would	MD	FW	aux_or_cop
+be	be	VB	CW	VERB
+distracted	distract	VBN	CW	VERB
+by	by	IN	FW
+looking	look	VBG	CW	VERB
+at	at	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dog	dog	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+looking	look	VBG	CW	VERB
+at	at	IN	FW
+what	what	WP	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+like	like	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+getting	get	VBG	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+education	education	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+most	most	JJS	CW	ADJ
+of	of	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+classmates	classmate	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+go	go	VB	CW	VERB
+on	on	IN	FW
+trips	trip	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+historical	historical	JJ	CW	ADJ
+monuments	monument	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+historical	historical	JJ	CW	ADJ
+musuems	musuem	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+home	home	NN	CW	NOUN	ARGUMENT
+schooled	school	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+mostly	mostly	RB	ADV	CW
+self-taught	self-taught	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+assignments	assignment	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+benefit	benefit	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+help	help	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+grasp	grasp	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+concepts	concept	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+do	do	VBP	FW	aux_or_cop
+go	go	VB	CW	VERB
+to	to	TO	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+other	other	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+reccommend	reccommend	VB	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+schooling	schooling	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+interacting	interact	VBG	CW	VERB
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+can	can	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+depression	depression	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+anxiety	anxiety	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+home	home	NN	CW	NOUN	ARGUMENT
+schooling	schooling	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+such	such	JJ	CW	ADJ
+a	a	DT	FW
+great	great	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+learns	learn	VBZ	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+write	write	VB	CW	VERB
+and	and	CC	FW
+read	read	VB	CW	VERB
+and	and	CC	FW
+play	play	VB	CW	VERB
+a	a	DT	FW
+musical	musical	JJ	CW	ADJ
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+masters	master	NNS	CW	NOUN	ARGUMENT
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+running	run	VBG	CW	VERB
+or	or	CC	FW
+other	other	JJ	CW	ADJ
+sports	sport	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+general	general	JJ	CW	ADJ
+how	how	WRB	FW
+will	will	MD	FW	aux_or_cop
+this	this	DT	FW
+particular	particular	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+how	how	WRB	FW
+to	to	TO	FW
+communicate	communicate	VB	CW	VERB
+to	to	TO	FW
+the	the	DT	FW
+real	real	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+isolated	isolate	VBN	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+meeting	meet	VBG	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+other	other	JJ	CW	ADJ
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+home	home	NN	CW	NOUN	ARGUMENT
+schooling	schooling	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+bad	bad	JJ	CW	ADJ
+is	be	VBZ	CW	VERB
+because	because	IN	FW
+the	the	DT	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+parents	parent	NNS	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+lose	lose	VB	CW	VERB
+patience	patience	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+trying	try	VBG	CW	VERB
+to	to	TO	FW
+educate	educate	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+children	child	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+too	too	RB	ADV	CW
+overbearing	overbearing	JJ	CW	ADJ
+or	or	CC	FW
+impatient	impatient	JJ	CW	ADJ
+which	which	WDT	FW
+may	may	MD	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+the	the	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+react	react	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+negative	negative	JJ	CW	ADJ
+manner	manner	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+schooling	schooling	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+bad	bad	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+the	the	DT	FW
+proper	proper	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+most	most	JJS	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+could	could	MD	FW	aux_or_cop
+possibly	possibly	RB	ADV	FW
+effect	effect	VB	CW	VERB
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+also	also	RB	ADV	CW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+student	student	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+interacting	interact	VBG	CW	VERB
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+could	could	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	TO	FW
+depression	depression	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+axiety	axiety	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+loses	lose	VBZ	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+patience	patience	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+child	child	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+start	start	VB	CW	VERB
+to	to	TO	FW
+act	act	VB	CW	VERB
+up	up	RP	FW
+on	on	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+all	all	DT	FW
+of	of	IN	FW
+these	these	DT	FW
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+schooling	schooling	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

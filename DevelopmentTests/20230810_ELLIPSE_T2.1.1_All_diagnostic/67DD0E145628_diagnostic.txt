@@ -1,0 +1,399 @@
+word	lemma	POS	CW\FW	other categories
+to	to	IN	FW
+the	the	DT	FW
+supreme	supreme	NNP	CW	NOUN	ARGUMENT
+court	court	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+write	write	VBP	CW	VERB
+this	this	DT	FW
+letter	letter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+pursue	pursue	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+become	become	VBN	CW	VERB
+a	a	DT	FW
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+really	really	RB	ADV	CW
+like	like	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+how	how	WRB	FW
+lawyers	lawyer	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+say	say	VB	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+court	court	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+how	how	WRB	FW
+to	to	TO	FW
+run	run	VB	CW	VERB
+trial	trial	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'d	would	MD	FW	aux_or_cop
+also	also	RB	ADV	CW
+would	would	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+see	see	VB	CW	VERB
+a	a	DT	FW
+trial	trial	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+good	good	JJ	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+help	help	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+guilty	guilty	JJ	CW	ADJ
+or	or	CC	FW
+not	not	RB	ADV	CW
+guilty	guilty	JJ	CW	ADJ
+in	in	IN	FW
+a	a	DT	FW
+trial	trial	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+becoming	become	VBG	CW	VERB
+a	a	DT	FW
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+since	since	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+five	five	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+stop	stop	VB	CW	VERB
+until	until	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+become	become	VBP	CW	VERB
+one	one	CD	FW
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+enjoy	enjoy	VBP	CW	VERB
+learning	learn	VBG	CW	VERB
+about	about	IN	FW
+law	law	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+theses	thesis	NNS	CW	NOUN	ARGUMENT
+reasons	reason	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+the	the	DT	FW
+supreme	supreme	NNP	CW	NOUN	ARGUMENT
+court	court	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+purse	purse	VB	CW	VERB
+more	more	JJR	CW	ADJ
+about	about	IN	FW
+the	the	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+how	how	WRB	FW
+to	to	TO	FW
+act	act	VB	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+heard	hear	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ll	ll	MD	FW	aux_or_cop
+never	never	RB	ADV	CW
+achieve	achieve	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+hope	hope	NN	CW	NOUN	ARGUMENT
+yes	yes	UH	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+help	help	VB	CW	VERB
+out	out	RP	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+out	out	RP	FW
+
+sentence break
+
+but	but	CC	FW
+the	the	DT	FW
+two	two	CD	FW
+human	human	JJ	CW	ADJ
+beings	being	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+wanna	wanna	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+out	out	RP	FW
+is	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandparents	grandparent	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+helped	help	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+everything	everything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+let	let	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+down	down	RP	FW
+on	on	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grandma	grandma	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+best	good	JJS	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+s	s	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+here	here	RB	ADV	CW
+for	for	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+since	since	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+real	real	JJ	CW	ADJ
+mother	mother	NN	CW	NOUN	ARGUMENT
+left	leave	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+really	really	RB	ADV	CW
+but	but	CC	FW
+that	that	DT	FW	PRONOUN
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+loving	love	VBG	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+wanna	wanna	MD	FW	aux_or_cop
+become	become	VB	CW	VERB
+a	a	DT	FW
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+prove	prove	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+in	in	RP	FW
+anyway	anyway	RB	ADV	CW
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+good	good	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+hispanic	hispanic	JJ	CW	ADJ
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+dumb	dumb	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+black	black	NN	CW	NOUN	ARGUMENT
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+lazy	lazy	JJ	CW	ADJ
+or	or	CC	FW
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+white	white	JJ	CW	ADJ
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+rich	rich	JJ	CW	ADJ
+but	but	CC	FW
+those	those	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+lies	lie	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+human	human	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+whatever	whatever	WDT	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+stop	stop	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+sincerely	sincerely	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

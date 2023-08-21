@@ -1,0 +1,386 @@
+word	lemma	POS	CW\FW	other categories
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+seek	seek	VB	CW	VERB
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+today	today	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+generation	generation	NN	CW	NOUN	ARGUMENT
+know	know	VB	CW	VERB
+what	what	WP	FW
+wrong	wrong	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+right	right	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+to	to	TO	FW
+guide	guide	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+guide	guide	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+prospective	prospective	JJ	CW	ADJ
+not	not	RB	ADV	CW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+tough	tough	JJ	CW	ADJ
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+impact	impact	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+mature	mature	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+to	to	TO	FW
+know	know	VB	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+choice	choice	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+with	with	IN	FW
+what	what	WDT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+into	into	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+hands	hand	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+go	go	VBP	CW	VERB
+with	with	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+instinct	instinct	JJ	CW	ADJ
+others	other	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+mindless	mindless	JJ	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+of	of	IN	FW
+these	these	DT	FW	PRONOUN
+choices	choice	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+personal	personal	JJ	CW	ADJ
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+maybe	maybe	RB	ADV	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+comfortable	comfortable	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+come	come	VBP	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+choice	choice	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+solution	solution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+no	no	DT	FW
+point	point	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+paying	pay	VBG	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+an	an	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+the	the	DT	FW
+choices	choice	NNS	CW	NOUN	ARGUMENT
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+successful	successful	JJ	CW	ADJ
+and	and	CC	FW
+impact	impact	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+choices	choice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+the	the	DT	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+influence	influence	VB	CW	VERB
+the	the	DT	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+path	path	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+come	come	VB	CW	VERB
+up	up	RP	FW
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+possibly	possibly	RB	ADV	FW
+the	the	DT	FW
+ideas	idea	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+persuade	persuade	VB	CW	VERB
+the	the	DT	FW
+choice	choice	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+regret	regret	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+afterwards	afterwards	RB	ADV	FW
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+making	make	VBG	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+decisions	decision	NNS	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+choices	choice	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+make	make	VBP	CW	VERB
+will	will	MD	FW	aux_or_cop
+lead	lead	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+trying	try	VBG	CW	VERB
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+need	need	VB	CW	VERB
+any	any	DT	FW
+expert	expert	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+about	about	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+to	to	TO	FW
+make	make	VB	CW	VERB
+the	the	DT	FW
+better	well	JJR	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+decide	decide	VB	CW	VERB
+what	what	WP	FW
+good	good	JJ	CW	ADJ
+and	and	CC	FW
+wrong	wrong	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+on	on	IN	FW
+the	the	DT	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+matters	matter	VBZ	CW	VERB
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+influence	influence	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+choices	choice	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+impact	impact	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+benefit	benefit	VB	CW	VERB
+to	to	IN	FW
+society	society	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

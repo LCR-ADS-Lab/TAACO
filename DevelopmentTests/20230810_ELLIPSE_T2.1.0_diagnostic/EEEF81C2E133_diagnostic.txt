@@ -1,0 +1,605 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+writing	write	VBG	CW	VERB
+this	this	DT	FW	PRONOUN
+prompt	prompt	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+inform	inform	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+position	position	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+hiring	hire	VBG	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+delighted	delighted	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+hired	hire	VBN	CW	VERB
+by	by	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+at	at	RB	ADV	FW
+all	all	RB	ADV	CW
+
+sentence break
+
+but	but	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+this	this	DT	FW	PRONOUN
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+handle	handle	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+here	here	RB	ADV	CW
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+few	few	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+one	one	CD	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+why	why	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	PRONOUN
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+tend	tend	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+really	really	RB	ADV	CW
+fast	fast	RB	ADV	CW
+and	and	CC	FW
+do	do	VB	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+usually	usually	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+memorize	memorize	VBP	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+very	very	RB	ADV	CW
+easily	easily	RB	ADV	FW
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+greater	great	JJR	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+fast	fast	RB	ADV	CW
+and	and	CC	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+happy	happy	JJ	CW	ADJ
+with	with	IN	FW
+the	the	DT	FW
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+could	could	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+many	many	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+which	which	WDT	FW
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+good	good	JJ	CW	ADJ
+for	for	IN	FW
+the	the	DT	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+some	some	DT	FW
+restaurants	restaurant	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+long	long	RB	ADV	CW
+for	for	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+get	get	VB	CW	VERB
+to	to	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+table	table	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+fast	fast	JJ	CW	ADJ
+and	and	CC	FW
+shows	show	VBZ	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+there	there	EX	FW
+number	number	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+priority	priority	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+welcomed	welcome	VBN	CW	VERB
+and	and	CC	FW
+feel	feel	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+when	when	WRB	FW
+the	the	DT	FW
+workers	worker	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+giving	give	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+attention	attention	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+an	an	DT	FW
+amazing	amazing	JJ	CW	ADJ
+outstanding	outstanding	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+joyful	joyful	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW
+is	be	VBZ	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+giving	give	VBG	CW	VERB
+joyfulness	joyfulness	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+need	need	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+friends	friend	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+sometimes	sometimes	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+had	have	VBN	CW	VERB
+a	a	DT	FW
+rough	rough	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+tend	tend	VBP	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+make	make	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+happier	happy	JJR	CW	ADJ
+and	and	CC	FW
+change	change	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+a	a	DT	FW
+better	well	JJR	CW	ADJ
+one	one	CD	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+restaurant	restaurant	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+someone	someone	NN	CW	NOUN	ARGUMENT
+happy	happy	JJ	CW	ADJ
+and	and	CC	FW
+joyful	joyful	JJ	CW	ADJ
+the	the	DT	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+want	want	VB	CW	VERB
+to	to	TO	FW
+come	come	VB	CW	VERB
+in	in	RP	FW
+because	because	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+very	very	RB	ADV	CW
+joyful	joyful	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+always	always	RB	ADV	CW
+to	to	TO	FW
+see	see	VB	CW	VERB
+poeple	poeple	NN	CW	NOUN	ARGUMENT
+smiling	smile	VBG	CW	VERB
+and	and	CC	FW
+keept	keept	NNS	CW	NOUN	ARGUMENT
+encouraging	encourage	VBG	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+always	always	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+restaurant	restaurant	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+make	make	VB	CW	VERB
+more	more	JJR	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+customers	customer	NNS	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+there	there	EX	FW
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+lastly	lastly	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	FW	aux_or_cop
+meeting	meet	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+at	at	IN	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+working	work	VBG	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+bringing	bring	VBG	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+and	and	CC	FW
+making	make	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+friendships	friendship	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	've	VBP	FW	aux_or_cop
+seen	see	VBN	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+when	when	WRB	FW
+working	work	VBG	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+groups	group	NNS	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+faster	fast	RBR	ADV	CW
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+make	make	VBP	CW	VERB
+greter	greter	NN	CW	NOUN	ARGUMENT
+connections	connection	NNS	CW	NOUN	ARGUMENT
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+coworkers	coworker	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+someone	someone	NN	CW	NOUN	ARGUMENT
+needs	need	VBZ	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+a	a	DT	FW
+customer	customer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+busy	busy	JJ	CW	ADJ
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+a	a	DT	FW
+coworker	coworker	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+bringing	bring	VBG	CW	VERB
+bonds	bond	NNS	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+and	and	CC	FW
+working	work	VBG	CW	VERB
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+these	these	DT	FW	PRONOUN
+are	be	VBP	FW	aux_or_cop
+some	some	DT	FW
+of	of	IN	FW
+the	the	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+the	the	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+that	that	WDT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+not	not	RB	ADV	CW
+from	from	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+trying	try	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+things	thing	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+getting	get	VBG	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+the	the	DT	FW
+different	different	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+jobs	job	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+learn	learn	VBP	CW	VERB
+very	very	RB	ADV	CW
+fast	fast	RB	ADV	CW
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+being	be	VBG	FW	aux_or_cop
+commited	commit	VBN	CW	VERB
+to	to	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+working	work	VBG	CW	VERB
+as	as	IN	FW
+a	a	DT	FW
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hoppe	hoppe	NNP	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+consider	consider	VBP	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+work	work	VB	CW	VERB
+there	there	RB	ADV	CW
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+happy	happy	JJ	CW	ADJ
+
+sentence break
+
+thank	thank	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+for	for	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

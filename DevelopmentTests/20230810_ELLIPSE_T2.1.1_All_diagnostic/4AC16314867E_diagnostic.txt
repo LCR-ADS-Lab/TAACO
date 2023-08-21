@@ -1,0 +1,236 @@
+word	lemma	POS	CW\FW	other categories
+the	the	DT	FW
+one	one	CD	FW
+place	place	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+cailfornia	cailfornia	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+see	see	VB	CW	VERB
+in	in	IN	FW
+cailfornia	cailfornia	NNP	CW	NOUN	ARGUMENT
+the	the	DT	FW
+all	all	DT	FW
+of	of	IN	FW
+fame	fame	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+all	all	PDT	FW
+the	the	DT	FW
+famous	famous	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+put	put	VBD	CW	VERB
+thier	thi	JJR	CW	ADJ
+moral	moral	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+ground	ground	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+.generic_city	.generic_city	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+take	take	VB	CW	VERB
+a	a	DT	FW
+vaction	vaction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+third	third	JJ	CW	ADJ
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+magic	magic	NNP	CW	NOUN	ARGUMENT
+mountain	mountain	NNP	CW	NOUN	ARGUMENT
+six	six	CD	FW
+flags	flags	NNPS	CW	NOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+love	love	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	IN	FW
+six	six	CD	FW
+flag	flag	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+each	each	DT	FW
+other	other	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+the	the	DT	FW
+finally	finally	RB	ADV	CW
+place	place	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+disneyland	disneyland	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+disneyland	disneyland	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+playground	playground	VB	CW	VERB
+with	with	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+on	on	IN	FW
+rides	ride	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+advenures	advenure	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+an	an	DT	FW
+adventures	adventure	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+go	go	VB	CW	VERB
+places	place	NNS	CW	NOUN	ARGUMENT
+.i	.i	NNP	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+fuller	full	JJR	CW	ADJ
+house	house	NNP	CW	NOUN	ARGUMENT
+.and	.and	NFP	FW
+
+sentence break
+
+do	do	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+have	have	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+eat	eat	VB	CW	VERB
+and	and	CC	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+like	like	IN	FW
+for	for	IN	FW
+exmaple	exmaple	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+eat	eat	VB	CW	VERB
+crabs	crab	NNS	CW	NOUN	ARGUMENT
+leg	leg	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+whole	whole	JJ	CW	ADJ
+crabs	crab	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

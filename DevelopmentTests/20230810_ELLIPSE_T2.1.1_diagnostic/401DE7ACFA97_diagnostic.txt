@@ -1,0 +1,506 @@
+word	lemma	POS	CW\FW	other categories
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+"	"	``	FW
+determine	determine	VB	CW	VERB
+never	never	RB	ADV	CW
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+idle	idle	JJ	CW	ADJ
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wonderful	wonderful	JJ	CW	ADJ
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+"	"	''	FW
+
+sentence break
+
+in	in	IN	FW
+this	this	DT	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+saying	say	VBG	CW	VERB
+do	do	VBP	FW	aux_or_cop
+we	we	PRP	FW	PRONOUN	ARGUMENT
+accomplish	accomplish	VB	CW	VERB
+more	more	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+serve	serve	VB	CW	VERB
+a	a	DT	FW
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+with	with	IN	FW
+this	this	DT	FW
+quote	quote	UH	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+more	more	JJR	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+for	for	IN	FW
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+being	be	VBG	FW	aux_or_cop
+forces	force	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+inactivity	inactivity	NN	CW	NOUN	ARGUMENT
+does	do	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+serve	serve	VB	CW	VERB
+a	a	DT	FW
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+forces	force	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+for	for	IN	FW
+an	an	DT	FW
+example	example	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'m	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+take	take	VB	CW	VERB
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+productive	productive	JJ	CW	ADJ
+and	and	CC	FW
+waste	waste	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+was	be	VBD	FW	aux_or_cop
+working	work	VBG	CW	VERB
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+actually	actually	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+productive	productive	JJ	CW	ADJ
+and	and	CC	FW
+maybe	maybe	RB	ADV	FW
+even	even	RB	ADV	CW
+finish	finish	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+homework	homework	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+at	at	IN	FW
+home	home	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+difference	difference	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+from	from	IN	FW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+bring	bring	VB	CW	VERB
+inactivity	inactivity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+wonderful	wonderful	JJ	CW	ADJ
+on	on	IN	FW
+how	how	WRB	FW
+much	much	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+a	a	DT	FW
+other	other	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+construction	construction	NN	CW	NOUN	ARGUMENT
+workers	worker	NNS	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+construction	construction	NN	CW	NOUN	ARGUMENT
+workers	worker	NNS	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+productive	productive	JJ	CW	ADJ
+then	then	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW	SUBORDINATOR
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+doing	do	VBG	CW	VERB
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+the	the	DT	FW
+construction	construction	NN	CW	NOUN	ARGUMENT
+workers	worker	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+more	more	RBR	ADV	CW
+productive	productive	JJ	CW	ADJ
+than	than	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+finish	finish	VB	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+construing	construe	VBG	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+short	short	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+time	time	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+working	work	VBG	CW	VERB
+all	all	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+getting	get	VBG	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+sure	sure	UH	FW
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+building	build	VBG	CW	VERB
+'	'	``	FW
+building	build	VBG	CW	VERB
+'	'	''	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+take	take	VBP	CW	VERB
+about	about	RB	ADV	CW
+a	a	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+2	2	CD	FW
+for	for	IN	FW	SUBORDINATOR
+them	they	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+finish	finish	VB	CW	VERB
+
+sentence break
+
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+really	really	RB	ADV	CW
+think	think	VBP	CW	VERB
+about	about	IN	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+finish	finish	VBP	CW	VERB
+in	in	IN	FW
+1	1	CD	FW
+or	or	CC	FW
+2	2	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+really	really	RB	ADV	CW
+productive	productive	JJ	CW	ADJ
+and	and	CC	FW
+got	get	VBD	CW	VERB
+things	thing	NNS	CW	NOUN	ARGUMENT
+done	do	VBN	CW	VERB
+
+sentence break
+
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+takes	take	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+longer	long	RBR	ADV	CW
+like	like	IN	FW
+3	3	CD	FW
+or	or	CC	FW
+4	4	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'re	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+that	that	RB	ADV	CW	PRONOUN
+productive	productive	JJ	CW	ADJ
+and	and	CC	FW
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+do	do	VB	CW	VERB
+much	much	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+days	day	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+working	work	VBG	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+right	right	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+truly	truly	RB	ADV	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+wonderful	wonderful	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+how	how	WRB	FW
+much	much	RB	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+when	when	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+always	always	RB	ADV	CW
+doing	do	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+relate	relate	VB	CW	VERB
+to	to	IN	FW
+this	this	DT	FW	PRONOUN
+
+sentence break
+
+quote	quote	UH	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+very	very	RB	ADV	CW
+true	true	JJ	CW	ADJ
+the	the	DT	FW
+more	more	JJR	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+put	put	VBD	CW	VERB
+into	into	IN	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+the	the	DT	FW
+more	more	RBR	ADV	CW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	FW	aux_or_cop
+done	do	VBN	CW	VERB
+this	this	DT	FW
+quote	quote	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+gold	gold	JJ	CW	ADJ
+mine	mine	NN	CW	NOUN	ARGUMENT
+super	super	RB	ADV	CW
+relateable	relateable	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+thomas	thomas	NNP	CW	NOUN	ARGUMENT
+jefferson	jefferson	NNP	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+quote	quote	UH	FW
+to	to	TO	FW
+use	use	VB	CW	VERB
+or	or	CC	FW
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+quote	quote	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+reminded	remind	VBN	CW	VERB
+whenever	whenever	WRB	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+being	be	VBG	FW	aux_or_cop
+productive	productive	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+about	about	IN	FW
+how	how	WRB	FW
+much	much	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+i	i	PRP	FW	PRONOUN	ARGUMENT
+need	need	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	FW	aux_or_cop
+done	do	VBN	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+whenever	whenever	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+like	like	IN	FW	SUBORDINATOR
+your	your	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+doing	do	VBG	CW	VERB
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

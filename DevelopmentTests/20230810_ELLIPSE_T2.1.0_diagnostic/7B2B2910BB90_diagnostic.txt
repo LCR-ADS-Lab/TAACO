@@ -1,0 +1,505 @@
+word	lemma	POS	CW\FW	other categories
+imagine	imagine	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+buy	buy	VB	CW	VERB
+some	some	DT	FW
+new	new	JJ	CW	ADJ
+shoes	shoe	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+for	for	IN	FW
+some	some	DT	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+family	family	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+for	for	IN	FW
+more	more	JJR	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+at	at	IN	FW
+last	last	JJ	CW	ADJ
+you	you	PRP	FW	PRONOUN	ARGUMENT
+all	all	DT	FW
+ready	ready	JJ	CW	ADJ
+know	know	VBP	CW	VERB
+what	what	WP	FW
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+more	more	JJR	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+u	u	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+for	for	IN	FW
+more	more	JJR	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+advice	advice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+pick	pick	VB	CW	VERB
+the	the	DT	FW
+better	well	JJR	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+more	more	JJR	CW	ADJ
+info	info	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+
+sentence break
+
+like	like	IN	FW
+for	for	IN	FW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+one	one	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+something	something	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+s	s	VBZ	CW	VERB
+how	how	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+some	some	DT	FW
+more	more	JJR	CW	ADJ
+info	info	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+helps	help	VBZ	CW	VERB
+more	more	RBR	ADV	CW
+by	by	IN	FW
+asking	ask	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+while	while	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+info	info	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+there	there	EX	FW
+info	info	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+will	will	MD	FW	aux_or_cop
+
+sentence break
+
+so	so	RB	ADV	CW
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	JJR	CW	ADJ
+knoallige	knoallige	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+whatever	whatever	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+
+sentence break
+
+last	last	JJ	CW	ADJ
+of	of	IN	FW
+all	all	DT	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+better	well	JJR	CW	ADJ
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+more	more	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+like	like	UH	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+more	more	JJR	CW	ADJ
+knoallige	knoallige	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+one	one	CD	FW
+making	make	VBG	CW	VERB
+the	the	DT	FW
+better	well	JJR	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+as	as	IN	FW
+will	will	MD	FW	aux_or_cop
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+all	all	DT	FW
+ways	way	NNS	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+to	to	TO	FW
+get	get	VB	CW	VERB
+more	more	JJR	CW	ADJ
+info	info	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+topic	topic	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+ever	ever	RB	ADV	CW
+want	want	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+out	out	RP	FW
+any	any	DT	FW
+knoallige	knoallige	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+answer	answer	VB	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+faster	fast	RBR	ADV	CW
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+the	the	DT	FW
+answer	answer	NN	CW	NOUN	ARGUMENT
+faster	fast	RBR	ADV	CW
+by	by	IN	FW
+telling	tell	VBG	CW	VERB
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+like	like	UH	FW
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+doing	do	VBG	CW	VERB
+some	some	DT	FW
+hard	hard	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+answer	answer	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+ask	ask	VB	CW	VERB
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+all	all	RB	ADV	CW
+really	really	RB	ADV	CW
+because	because	IN	FW	SUBORDINATOR
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+thinks	think	VBZ	CW	VERB
+different	different	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+last	last	JJ	CW	ADJ
+of	of	IN	FW
+all	all	DT	FW
+ask	ask	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+then	then	RB	ADV	CW
+one	one	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+get	get	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+answer	answer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+pick	pick	VB	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+choices	choice	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+some	some	DT	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+some	some	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+go	go	VB	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+confused	confused	JJ	CW	ADJ
+
+sentence break
+
+and	and	CC	FW
+maybe	maybe	RB	ADV	FW
+get	get	VB	CW	VERB
+mad	mad	JJ	CW	ADJ
+and	and	CC	FW
+not	not	RB	ADV	CW
+finish	finish	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+no	no	DT	FW
+clue	clue	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+to	to	IN	FW
+being	be	VBG	FW	aux_or_cop
+aging	age	VBG	CW	VERB
+
+sentence break
+
+but	but	CC	FW
+all	all	RB	ADV	CW
+so	so	RB	ADV	CW
+all	all	PDT	FW
+the	the	DT	FW
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+long	long	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+gotten	get	VBN	CW	VERB
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+fact	fact	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+options	option	NNS	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+finish	finish	VB	CW	VERB
+faster	fast	RBR	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+all	all	DT	FW
+am	be	VBP	FW	aux_or_cop
+saying	say	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+for	for	IN	FW
+some	some	DT	FW
+help	help	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+get	get	VB	CW	VERB
+the	the	DT	FW
+right	right	JJ	CW	ADJ
+answers	answer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+make	make	VB	CW	VERB
+some	some	DT	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

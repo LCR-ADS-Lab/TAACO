@@ -1,0 +1,488 @@
+word	lemma	POS	CW\FW	other categories
+scientist	scientist	NNP	CW	NOUN	ARGUMENT
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VB	CW	VERB
+or	or	CC	FW
+disagree	disagree	VBP	CW	VERB
+with	with	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+include	include	VB	CW	VERB
+specific	specific	JJ	CW	ADJ
+details	detail	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+convince	convince	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+support	support	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+learning	learn	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+and	and	CC	FW
+stays	stay	VBZ	CW	VERB
+stick	stick	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	UH	FW
+think	think	VB	CW	VERB
+ahead	ahead	RB	ADV	FW
+of	of	IN	FW
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+like	like	IN	FW
+thinking	think	VBG	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+try	try	VB	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+new	new	JJ	CW	ADJ
+hobbies	hobby	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+about	about	IN	FW
+how	how	WRB	FW
+your're	your're	NN	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+also	also	RB	ADV	CW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+or	or	CC	FW
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+predict	predict	VB	CW	VERB
+about	about	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+just	just	RB	ADV	CW
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+an	an	DT	FW
+adult	adult	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+a	a	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+true	true	JJ	CW	ADJ
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+ask	ask	VBP	CW	VERB
+yourself	yourself	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+this	this	DT	FW	PRONOUN
+and	and	CC	FW
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ll	will	MD	FW	aux_or_cop
+do	do	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+think	think	VB	CW	VERB
+ahead	ahead	RB	ADV	FW
+of	of	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+etc	etc	FW	FW
+.	.	FW	FW
+
+sentence break
+
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+sleep	sleep	VBP	CW	VERB
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+dream	dream	VBP	CW	VERB
+imagate	imagate	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+n't	not	RB	ADV	CW
+but	but	CC	FW
+probably	probably	RB	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+a	a	DT	FW
+wish	wish	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+by	by	IN	FW
+a	a	DT	FW
+sorted	sorted	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+knowledge	knowledge	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+like	like	IN	FW
+learning	learn	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+everyday	everyday	RB	ADV	CW
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+much	much	JJ	CW	ADJ
+it	it	PRP	FW	PRONOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+stuck	stuck	JJ	CW	ADJ
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+say	say	VB	CW	VERB
+"	"	``	FW
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+easy	easy	JJ	CW	ADJ
+"	"	''	FW
+
+sentence break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+there	there	EX	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+friends	friend	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+bad	bad	JJ	CW	ADJ
+info	info	NN	CW	NOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+little	little	JJ	CW	ADJ
+kids	kid	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+there	there	EX	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+students	student	NNS	CW	NOUN	ARGUMENT
+study	study	VBP	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+get	get	VB	CW	VERB
+more	more	JJR	CW	ADJ
+lots	lot	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+into	into	IN	FW
+there	there	EX	FW
+brain	brain	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+pass	pass	VB	CW	VERB
+a	a	DT	FW
+test	test	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+try	try	VB	CW	VERB
+to	to	TO	FW
+find	find	VB	CW	VERB
+new	new	JJ	CW	ADJ
+hobbies	hobby	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+free	free	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+either	either	CC	FW
+play	play	VBP	CW	VERB
+on	on	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+ps4	ps4	NN	CW	NOUN	ARGUMENT
+draw	draw	VB	CW	VERB
+cartoons	cartoon	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+play	play	VB	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+try	try	VB	CW	VERB
+to	to	TO	FW
+stay	stay	VB	CW	VERB
+after	after	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+help	help	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+like	like	IN	FW
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+work	work	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+help	help	VB	CW	VERB
+the	the	DT	FW
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+when	when	WRB	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+home	home	RB	ADV	CW
+and	and	CC	FW
+see	see	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+dad	dad	NN	CW	NOUN	ARGUMENT
+clean	clean	VBP	CW	VERB
+the	the	DT	FW
+house	house	NN	CW	NOUN	ARGUMENT
+tell	tell	VB	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+her	she	PRP	FW	PRONOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+clean	clean	VB	CW	VERB
+or	or	CC	FW
+ask	ask	VB	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+need	need	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+try	try	VB	CW	VERB
+to	to	TO	FW
+get	get	VB	CW	VERB
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+the	the	DT	FW
+rent	rent	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+with	with	IN	FW
+other	other	JJ	CW	ADJ
+accessories	accessory	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+conclusion	conclusion	NNP	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+albert	albert	NNP	CW	NOUN	ARGUMENT
+einstein	einstein	NNP	CW	NOUN	ARGUMENT
+quote	quote	UH	FW
+about	about	IN	FW
+"	"	``	FW
+imagination	imagination	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+than	than	IN	FW
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+in	in	IN	FW
+this	this	DT	FW	PRONOUN
+statement	statement	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+specifically	specifically	RB	ADV	FW
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+how	how	WRB	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+work	work	VBP	CW	VERB
+around	around	IN	FW
+this	this	DT	FW	PRONOUN
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+maybe	maybe	RB	ADV	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+think	think	VB	CW	VERB
+about	about	IN	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+also	also	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+others	other	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+needs	need	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

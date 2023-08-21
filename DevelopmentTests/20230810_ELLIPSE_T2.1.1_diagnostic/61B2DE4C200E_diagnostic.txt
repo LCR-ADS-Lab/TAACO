@@ -1,0 +1,507 @@
+word	lemma	POS	CW\FW	other categories
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+primer	primer	NNP	CW	NOUN	ARGUMENT
+minister	minister	NNP	CW	NOUN	ARGUMENT
+wiston	wiston	NNP	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+''	''	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+failture	failture	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+failture	failture	VB	CW	VERB
+without	without	IN	FW
+lose	lose	JJ	CW	ADJ
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+''	''	''	FW
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+important	important	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+failture	failture	NN	CW	NOUN	ARGUMENT
+plays	play	VBZ	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+persuit	persuit	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+people	people	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+church	church	NNP	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+or	or	CC	FW
+a	a	DT	FW
+pastor	pastor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+always	always	RB	ADV	CW
+fail	fail	VBP	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+or	or	CC	FW
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+from	from	IN	FW
+church	church	NN	CW	NOUN	ARGUMENT
+fail	fail	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+many	many	JJ	CW	ADJ
+ways	way	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+in	in	IN	FW
+a	a	DT	FW
+musical	musical	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+church	church	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+allowed	allow	VBN	CW	VERB
+to	to	TO	FW
+drink	drink	VB	CW	VERB
+or	or	CC	FW
+go	go	VB	CW	VERB
+to	to	IN	FW
+any	any	DT	FW
+party	party	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+belong	belong	VB	CW	VERB
+at	at	IN	FW
+church	church	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+a	a	DT	FW
+fail	fail	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+knew	know	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+they	they	PRP	FW	PRONOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+allowed	allow	VBN	CW	VERB
+but	but	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+that	that	IN	FW	PRONOUN
+a	a	DT	FW
+failture	failture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+pastor	pastor	NNP	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+inappropriate	inappropriate	JJ	CW	ADJ
+and	and	CC	FW
+hi	hi	UH	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+pastor	pastor	NNP	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+failture	failture	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+from	from	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+a	a	DT	FW
+positive	positive	JJ	CW	ADJ
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+person	person	NN	CW	NOUN	ARGUMENT
+always	always	RB	ADV	CW
+fail	fail	VBP	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+date	date	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+her	she	PRP	FW	PRONOUN	ARGUMENT
+out	out	RP	FW
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+yes	yes	UH	FW
+
+sentence break
+
+two	two	CD	FW
+weeks	week	NNS	CW	NOUN	ARGUMENT
+later	later	RBR	ADV	CW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+broke	break	VBD	CW	VERB
+up	up	RP	FW
+
+sentence break
+
+but	but	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+fault	fault	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+not	not	RB	ADV	CW
+controling	control	VBG	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+realized	realize	VBN	CW	VERB
+what	what	WP	FW
+was	be	VBD	FW	aux_or_cop
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learned	learn	VBN	CW	VERB
+from	from	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nex	nex	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+if	if	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+in	in	IN	FW
+another	another	DT	FW
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+what	what	WP	FW
+do	do	VBP	FW	aux_or_cop
+to	to	TO	FW
+do	do	VB	CW	VERB
+because	because	IN	FW	SUBORDINATOR
+failture	failture	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+if	if	IN	FW	SUBORDINATOR
+a	a	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+fail	fail	VB	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+example	example	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+fail	fail	VB	CW	VERB
+every	every	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+she	she	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+not	not	RB	ADV	CW
+pass	pass	VB	CW	VERB
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+
+sentence break
+
+because	because	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+find	find	VBP	CW	VERB
+a	a	DT	FW
+boyfriend	boyfriend	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+baby	baby	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+a	a	DT	FW
+failture	failture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+she	she	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+give	give	VB	CW	VERB
+up	up	RP	FW
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+from	from	IN	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+she	she	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+reach	reach	VB	CW	VERB
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+that	that	DT	FW
+way	way	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+failture	failture	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+isto	isto	JJ	CW	ADJ
+havein	havein	NN	CW	NOUN	ARGUMENT
+successful	successful	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+some	some	DT	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+because	because	IN	FW	SUBORDINATOR
+people	people	NNS	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+weak	weak	JJ	CW	ADJ
+or	or	CC	FW
+scare	scare	VBP	CW	VERB
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+a	a	DT	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+from	from	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+mistakes	mistake	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+failture	failture	VBP	CW	VERB
+in	in	IN	FW
+a	a	DT	FW
+job	job	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+at	at	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+even	even	RB	ADV	CW
+at	at	IN	FW
+church	church	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+or	or	CC	FW
+feel	feel	VB	CW	VERB
+weak	weak	JJ	CW	ADJ
+or	or	CC	FW
+scary	scary	JJ	CW	ADJ
+
+sentence break
+
+hopefully	hopefully	RB	ADV	CW
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+have	have	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+about	about	IN	FW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+situation	situation	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+positive	positive	JJ	CW	ADJ
+and	and	CC	FW
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+just	just	RB	ADV	CW
+keep	keep	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+nad	nad	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+hard	hard	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

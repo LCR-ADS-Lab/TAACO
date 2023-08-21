@@ -1,0 +1,510 @@
+word	lemma	POS	CW\FW	other categories
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classrooms	classroom	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	FW	aux_or_cop
+distracted	distract	VBN	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+away	away	RB	ADV	CW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+safety	safety	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+stay	stay	VB	CW	VERB
+without	without	IN	FW
+cellphones	cellphone	NNS	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+know	know	VB	CW	VERB
+the	the	DT	FW
+without	without	IN	FW
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+more	more	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+first	first	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+get	get	VB	FW	aux_or_cop
+distracted	distract	VBN	CW	VERB
+if	if	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+texting	texte	VBG	CW	VERB
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+on	on	IN	FW
+social	social	JJ	CW	ADJ
+media	medium	NNS	CW	NOUN	ARGUMENT
+while	while	IN	FW	SUBORDINATOR
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+explaining	explain	VBG	CW	VERB
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+playing	play	VBG	CW	VERB
+video	video	NN	CW	NOUN	ARGUMENT
+games	game	NNS	CW	NOUN	ARGUMENT
+watching	watch	VBG	CW	VERB
+movies	movie	NNS	CW	NOUN	ARGUMENT
+or	or	CC	FW
+videos	video	NNS	CW	NOUN	ARGUMENT
+on	on	IN	FW
+youtube	youtube	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+it	it	PRP	FW	PRONOUN	ARGUMENT
+also	also	RB	ADV	CW
+distract	distract	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+students	student	NNS	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+really	really	RB	ADV	CW
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+learn	learn	VB	CW	VERB
+
+sentence break
+
+sometimes	sometimes	RB	ADV	CW
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+allows	allow	VBZ	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+educational	educational	JJ	CW	ADJ
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+the	the	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+that	that	DT	FW	PRONOUN
+time	time	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+playing	play	VBG	CW	VERB
+some	some	DT	FW
+music	music	NN	CW	NOUN	ARGUMENT
+on	on	IN	FW
+youtube	youtube	NNP	CW	NOUN	ARGUMENT
+or	or	CC	FW
+taking	take	VBG	CW	VERB
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+around	around	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+so	so	CC	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+recommend	recommend	VB	CW	VERB
+teachers	teacher	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+let	let	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+in	in	IN	FW
+9	9	CD	FW
+grade	grade	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+often	often	RB	ADV	FW
+used	use	VBD	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+thought	think	VBD	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+affect	affect	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+at	at	IN	FW
+the	the	DT	FW
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+the	the	DT	FW
+semester	semester	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+saw	see	VBD	CW	VERB
+only	only	RB	ADV	CW
+d	d	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+all	all	DT	FW
+of	of	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+classes	class	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+stopped	stop	VBD	CW	VERB
+using	use	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+getting	get	VBG	CW	VERB
+better	well	JJR	CW	ADJ
+
+sentence break
+
+
+paragraph break
+
+second	second	RB	ADV	CW
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+away	away	RB	ADV	CW
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+safety	safety	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+no	no	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+perfect	perfect	JJ	CW	ADJ
+and	and	CC	FW
+there	there	EX	FW
+are	be	VBP	CW	VERB
+some	some	DT	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+does	do	VBZ	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+use	use	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+taking	take	VBG	CW	VERB
+inappropriate	inappropriate	JJ	CW	ADJ
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+addition	addition	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+seem	seem	VBN	CW	VERB
+some	some	DT	FW
+examples	example	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+other	other	JJ	CW	ADJ
+schools	school	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+terrorism	terrorism	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+we	we	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+what	what	WP	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+outside	outside	RB	ADV	CW
+or	or	CC	FW
+what	what	WP	FW
+kind	kind	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+friends	friend	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+out	out	IN	FW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+so	so	IN	FW	SUBORDINATOR
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+inside	inside	RB	ADV	CW
+of	of	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+in	in	IN	FW
+contact	contact	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+terrorist	terrorist	NN	CW	NOUN	ARGUMENT
+outside	outside	RB	ADV	CW
+of	of	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+case	case	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+any	any	DT	FW
+terrorist	terrorist	JJ	CW	ADJ
+attack	attack	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+thinking	think	VBG	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+her	her	PRP$	FW	PRONOUN	ARGUMENT
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+reading	read	VBG	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+topic	topic	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+the	the	DT	FW
+true	true	JJ	CW	ADJ
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+using	use	VBG	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+department	department	NNP	CW	NOUN	ARGUMENT
+of	of	IN	FW
+education	education	NNP	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+establish	establish	VB	CW	VERB
+a	a	DT	FW
+law	law	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+not	not	RB	ADV	CW
+allow	allow	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+use	use	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+classroom	classroom	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+not	not	RB	ADV	CW
+use	use	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+at	at	RB	ADV	FW
+all	all	RB	ADV	CW
+in	in	IN	FW
+schools	school	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+pay	pay	VB	CW	VERB
+attention	attention	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+because	because	IN	FW	SUBORDINATOR
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+keep	keep	VB	CW	VERB
+safety	safety	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+some	some	DT	FW
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+students	student	NNS	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phones	phone	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+class	class	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+search	search	NN	CW	NOUN	ARGUMENT
+information	information	NN	CW	NOUN	ARGUMENT
+or	or	CC	FW
+call	call	VB	CW	VERB
+for	for	IN	FW
+any	any	DT	FW
+emergency	emergency	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+students	student	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+when	when	WRB	FW
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+provides	provide	VBZ	CW	VERB
+computers	computer	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+searching	search	VBG	CW	VERB
+any	any	DT	FW
+information	information	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+need	need	VB	CW	VERB
+their	their	PRP$	FW	PRONOUN	ARGUMENT
+phone	phone	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+emergency	emergency	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+the	the	DT	FW
+school	school	NN	CW	NOUN	ARGUMENT
+provides	provide	VBZ	CW	VERB
+police	police	NN	CW	NOUN	ARGUMENT
+officers	officer	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+good	good	JJ	CW	ADJ
+strategies	strategy	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+protect	protect	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+case	case	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+any	any	DT	FW
+emergency	emergency	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

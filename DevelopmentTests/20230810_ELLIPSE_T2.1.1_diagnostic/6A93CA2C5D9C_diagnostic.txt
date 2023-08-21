@@ -1,0 +1,869 @@
+word	lemma	POS	CW\FW	other categories
+prompt-	prompt-	NNP	CW	NOUN	ARGUMENT
+former	former	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+prime	prime	JJ	CW	ADJ
+minster	minster	NN	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+said	say	VBD	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+"	"	``	FW
+success	success	NN	CW	NOUN	ARGUMENT
+consists	consist	VBZ	CW	VERB
+of	of	IN	FW
+going	go	VBG	CW	VERB
+from	from	IN	FW
+failure	failure	NN	CW	NOUN	ARGUMENT
+to	to	IN	FW
+faliure	faliure	NN	CW	NOUN	ARGUMENT
+without	without	IN	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+enthusisam	enthusisam	NN	CW	NOUN	ARGUMENT
+"	"	''	FW
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VB	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+statement	statement	NN	CW	NOUN	ARGUMENT
+hemad	hemad	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+yes	yes	UH	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+the	the	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+fact	fact	NN	CW	NOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+very	very	JJ	CW	ADJ
+succes	succe	NNS	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+men	man	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+or	or	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+been	be	VBD	CW	VERB
+everywhere	everywhere	RB	ADV	CW
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+feels	feel	VBZ	CW	VERB
+like	like	IN	FW
+cause	cause	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+up	up	RP	FW
+and	and	CC	FW
+downs	down	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+is	be	VBZ	CW	VERB
+3	3	CD	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+first	first	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+failure	failure	NN	CW	NOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+in	in	IN	FW
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+not	not	RB	ADV	CW
+going	go	VBG	CW	VERB
+to	to	TO	FW
+succesfu	succesfu	VB	CW	VERB
+
+sentence break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+ls	ls	JJ	CW	ADJ
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+failures	failure	NNS	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+movation	movation	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+push	push	VB	CW	VERB
+your	your	PRP$	FW	PRONOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+other	other	JJ	CW	ADJ
+times	time	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+third	third	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+failure	failure	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+show	show	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+how	how	WRB	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+mean	mean	VBP	CW	VERB
+by	by	IN	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+hate	hate	VB	CW	VERB
+on	on	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+until	until	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+die	die	VBP	CW	VERB
+
+sentence break
+
+all	all	PDT	FW
+this	this	DT	FW
+three	three	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+this	this	DT	FW	PRONOUN
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agreed	agree	VBD	CW	VERB
+with	with	IN	FW
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+beleive	beleive	VBP	CW	VERB
+been	be	VBN	FW	aux_or_cop
+faliure	faliure	NN	CW	NOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+succesful	succesful	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+puting	put	VBG	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+rember	rember	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+watching	watch	VBG	CW	VERB
+youtube	youtube	NNP	CW	NOUN	ARGUMENT
+video	video	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+three	three	CD	FW
+moth	moth	NNP	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+story	story	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+there	there	EX	FW
+was	be	VBD	CW	VERB
+this	this	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+named	name	VBN	CW	VERB
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+born	bear	VBN	CW	VERB
+in	in	IN	FW
+early	early	JJ	CW	ADJ
+90	90	CD	FW
+'s	's	POS	FW
+
+sentence break
+
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+kid	kid	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	FW	aux_or_cop
+gotten	get	VBN	CW	VERB
+effiction	effiction	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+something	something	NN	CW	NOUN	ARGUMENT
+after	after	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+got	get	VBD	CW	VERB
+the	the	DT	FW
+effiction	effiction	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+hurt	hurt	VBN	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+feeling	feel	VBG	CW	VERB
+good	good	JJ	CW	ADJ
+
+sentence break
+
+after	after	IN	FW
+week	week	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+cut	cut	VBN	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+handoff	handoff	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+caught	catch	VBD	CW	VERB
+she	she	PRP	FW	PRONOUN	ARGUMENT
+asked	ask	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+"	"	``	FW
+what	what	WP	FW
+are	be	VBP	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+doing	do	VBG	CW	VERB
+"	"	''	FW
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+"	"	``	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+hurts	hurt	VBZ	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+c'ant	c'ant	RB	ADV	FW
+take	take	VBP	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+no	no	RB	ADV	CW
+more	more	RBR	ADV	CW
+"	"	''	FW
+
+sentence break
+
+the	the	DT	FW
+next	next	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+doctors	doctor	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+got	get	VBD	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+cut	cut	VBN	CW	VERB
+off	off	RP	FW
+
+sentence break
+
+after	after	IN	FW	SUBORDINATOR
+while	while	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+start	start	VBP	CW	VERB
+playing	play	VBG	CW	VERB
+the	the	DT	FW
+sports	sport	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+loves	love	VBZ	CW	VERB
+football	football	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+ca	can	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+play	play	VB	CW	VERB
+cause	cause	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+dosen't	dosen't	NNP	CW	NOUN	ARGUMENT
+have	have	VB	CW	VERB
+a	a	DT	FW
+hand	hand	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+playing	play	VBG	CW	VERB
+with	with	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+on	on	IN	FW
+same	same	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+on	on	IN	FW
+that	that	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+both	both	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+quit	quit	VBP	CW	VERB
+and	and	CC	FW
+went	go	VBD	CW	VERB
+to	to	IN	FW
+diffrent	diffrent	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+played	play	VBD	CW	VERB
+there	there	RB	ADV	CW
+for	for	IN	FW
+2	2	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+after	after	IN	FW
+two	two	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+there	there	EX	FW
+were	be	VBD	CW	VERB
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+monster	monster	JJ	CW	ADJ
+
+sentence break
+
+they	they	PRP	FW	PRONOUN	ARGUMENT
+were	be	VBD	FW	aux_or_cop
+the	the	DT	FW
+best	good	JJS	CW	ADJ
+players	player	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+senior	senior	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+both	both	DT	FW
+of	of	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+gotten	get	VBN	CW	VERB
+offer	offer	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+ucf	ucf	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+fresh	fresh	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+playing	play	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+sphomore	sphomore	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+still	still	RB	ADV	CW
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+playing	play	VBG	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ucf	ucf	NNP	CW	NOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+coach	coach	NN	CW	NOUN	ARGUMENT
+got	got	VBD	FW	aux_or_cop
+fired	fire	VBN	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+sphomore	sphomore	NNP	CW	NOUN	ARGUMENT
+beacuse	beacuse	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+bad	bad	JJ	CW	ADJ
+record	record	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+past	past	JJ	CW	ADJ
+2	2	CD	FW
+yeras	yera	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+junior	junior	NNP	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+on	on	IN	FW
+defense	defense	NNP	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+monster	monst	JJR	CW	ADJ
+fast	fast	JJ	CW	ADJ
+eaxpolisve	eaxpolisve	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+insane	insane	JJ	CW	ADJ
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+junior	junior	JJ	CW	ADJ
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+got	got	VBD	FW	aux_or_cop
+drafted	draft	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+nfl	nfl	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+senior	senior	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+came	come	VBD	CW	VERB
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+that	that	DT	FW
+same	same	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+inane	inane	JJ	CW	ADJ
+
+sentence break
+
+the	the	DT	FW
+past	past	JJ	CW	ADJ
+2	2	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+started	start	VBD	CW	VERB
+the	the	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+won	win	VBD	CW	VERB
+28	28	CD	FW
+game	game	NN	CW	NOUN	ARGUMENT
+lost	lose	VBD	CW	VERB
+0	0	CD	FW
+games	game	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+in	in	IN	FW
+2018	2018	CD	FW
+nfl	nfl	NNP	CW	NOUN	ARGUMENT
+draft	draft	NNP	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+got	got	VBD	FW	aux_or_cop
+drafted	draft	VBN	CW	VERB
+to	to	IN	FW
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+where	where	WRB	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+got	got	VBD	FW	aux_or_cop
+drafted	draft	VBN	CW	VERB
+in	in	RP	FW
+
+sentence break
+
+when	when	WRB	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+young	young	JJ	CW	ADJ
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+didn	didn	NNP	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+belive	belive	JJ	CW	ADJ
+on	on	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+told	tell	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+cant	cant	VBP	CW	VERB
+lt	lt	NNP	CW	NOUN	ARGUMENT
+play	play	VBP	CW	VERB
+the	the	DT	FW
+game	game	NN	CW	NOUN	ARGUMENT
+cause	cause	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+dosent	dosent	NN	CW	NOUN	ARGUMENT
+have	have	VB	CW	VERB
+a	a	DT	FW
+hand	hand	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+coach	coach	NN	CW	NOUN	ARGUMENT
+told	tell	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+fail	fail	VB	CW	VERB
+playing	play	VBG	CW	VERB
+football	football	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did'nt	did'nt	NNS	CW	NOUN	ARGUMENT
+cause	cause	IN	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+kepet	kepet	VBP	CW	VERB
+working	work	VBG	CW	VERB
+hard	hard	RB	ADV	CW
+every	every	DT	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+second	second	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+failure	failure	NN	CW	NOUN	ARGUMENT
+gives	give	VBZ	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+movation	movation	NN	CW	NOUN	ARGUMENT
+generic_name	generic_name	NNPS	CW	NOUN	ARGUMENT
+got	get	VBD	CW	VERB
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+movation	movation	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+failng	failng	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+coache	coache	NN	CW	NOUN	ARGUMENT
+'s	's	POS	FW
+did	do	VBD	FW	aux_or_cop
+nt	not	RB	ADV	CW
+beleive	beleive	VB	CW	VERB
+on	on	IN	FW
+him	he	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+but	but	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+fought	fight	VBD	CW	VERB
+all	all	PDT	FW
+that	that	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+come	come	VBN	CW	VERB
+who	who	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+third	third	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+in	in	IN	FW
+this	this	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+every	every	DT	FW
+one	one	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+going	go	VBG	CW	VERB
+to	to	TO	FW
+hate	hate	VB	CW	VERB
+on	on	IN	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+you	you	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	CW	VERB
+like	like	UH	FW
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+some	some	DT	FW
+coaches	coach	NNS	CW	NOUN	ARGUMENT
+freinds	freind	NNS	CW	NOUN	ARGUMENT
+hated	hate	VBD	CW	VERB
+him	he	PRP	FW	PRONOUN	ARGUMENT
+cause	cause	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+a	a	DT	FW
+hand	hand	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+care	care	VB	CW	VERB
+what	what	WP	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+say	say	VB	CW	VERB
+abouth	abouth	NN	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+just	just	RB	ADV	CW
+work	work	VBP	CW	VERB
+hard	hard	RB	ADV	CW
+and	and	CC	FW
+put	put	VBD	CW	VERB
+the	the	DT	FW
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+
+sentence break
+
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+proud	proud	JJ	CW	ADJ
+beause	beause	NNP	CW	NOUN	ARGUMENT
+who	who	WP	FW
+bcome	bcome	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+
+sentence break
+
+
+paragraph break
+
+yes	yes	UH	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+with	with	IN	FW
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+said	say	VBD	CW	VERB
+the	the	DT	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+fact	fact	NN	CW	NOUN	ARGUMENT
+thing	thing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+very	very	JJ	CW	ADJ
+succes	succe	NNS	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+men	man	NNS	CW	NOUN	ARGUMENT
+he	he	PRP	FW	PRONOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+what	what	WP	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+talking	talk	VBG	CW	VERB
+about	about	IN	FW
+or	or	CC	FW
+he	he	PRP	FW	PRONOUN	ARGUMENT
+been	be	VBD	CW	VERB
+everywhere	everywhere	RB	ADV	CW
+around	around	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+he	he	PRP	FW	PRONOUN	ARGUMENT
+knows	know	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+feels	feel	VBZ	CW	VERB
+like	like	IN	FW
+cause	cause	IN	FW	SUBORDINATOR
+he	he	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+up	up	RP	FW
+and	and	CC	FW
+downs	down	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+his	his	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW
+three	three	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+sucess	sucess	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+sucessful	sucessful	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+for	for	IN	FW
+others	other	NNS	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+
+sentence break
+
+this	this	DT	FW
+3	3	CD	FW
+things	thing	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+beleive	beleive	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+movate	movate	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+no	no	RB	ADV	CW
+matter	matter	RB	ADV	CW
+what	what	WP	FW
+and	and	CC	FW
+also	also	RB	ADV	CW
+to	to	TO	FW
+change	change	VB	CW	VERB
+there	there	RB	ADV	CW
+life	life	NN	CW	NOUN	ARGUMENT
+style	style	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+this	this	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+why	why	WRB	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agrred	agrre	VBD	CW	VERB
+with	with	IN	FW
+the	the	DT	FW
+british	british	JJ	CW	ADJ
+prime	prime	JJ	CW	ADJ
+minster	minster	NN	CW	NOUN	ARGUMENT
+winston	winston	NNP	CW	NOUN	ARGUMENT
+churchill	churchill	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

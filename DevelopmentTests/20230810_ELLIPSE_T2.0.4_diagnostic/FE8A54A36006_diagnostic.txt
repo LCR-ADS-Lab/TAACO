@@ -1,0 +1,410 @@
+word	lemma	POS	CW\FW	other categories
+econ	econ	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+finals	finals	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+requirement	requirement	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+graduate	graduate	VB	CW	VERB
+but	but	CC	FW
+i	i	FW	FW
+like	like	IN	FW
+that	that	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+i	i	FW	FW
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+going	go	VBG	CW	VERB
+to	to	TO	FW
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+fucher	fucher	NN	CW	NOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+another	another	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+am	be	VBP	FW	aux_or_cop
+taking	take	VBG	CW	VERB
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+with	with	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+fucher	fucher	NN	CW	NOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+econ	econ	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+finals	finals	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+when	when	WRB	FW
+i	i	FW	FW
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+i	i	FW	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+united	united	NNP	CW	NOUN	ARGUMENT
+stated	stated	NNP	CW	NOUN	ARGUMENT
+marin	marin	NNP	CW	NOUN	ARGUMENT
+solger	solger	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+konw	konw	FW	FW
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+the	the	DT	FW
+classes	class	NNS	CW	NOUN	ARGUMENT
+im	im	VBP	CW	VERB
+taking	take	VBG	CW	VERB
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+become	become	VB	CW	VERB
+that	that	DT	FW
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+you	you	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+jrotc	jrotc	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+jrotc	jrotc	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+teaches	teach	VBZ	CW	VERB
+student	student	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+the	the	DT	FW
+united	united	NNP	CW	NOUN	ARGUMENT
+state	state	NNP	CW	NOUN	ARGUMENT
+armed	armed	NNP	CW	NOUN	ARGUMENT
+forces	forces	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+so	so	RB	ADV	CW
+agree	agree	VBP	CW	VERB
+that	that	IN	FW	PRONOUN
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+start	start	VB	CW	VERB
+finding	find	VBG	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+like	like	VB	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+when	when	WRB	FW
+your	you	PRP$	FW	PRONOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+working	work	VBG	CW	VERB
+is	be	VBZ	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+do	do	VB	FW	aux_or_cop
+you	you	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+to	to	TO	FW
+take	take	VB	CW	VERB
+classes	class	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+benefits	benefit	VBZ	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+fucher	fucher	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+in	in	IN	FW
+this	this	DT	FW
+paper	paper	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+will	will	MD	FW	aux_or_cop
+argue	argue	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+if	if	IN	FW	SUBORDINATOR
+students	student	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+take	take	VB	CW	VERB
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+that	that	DT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+guide	guide	VB	CW	VERB
+them	they	PRP	FW	PRONOUN	ARGUMENT
+towards	towards	IN	FW
+a	a	DT	FW
+specific	specific	JJ	CW	ADJ
+career	career	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+should	should	MD	FW	aux_or_cop
+student	student	NN	CW	NOUN	ARGUMENT
+consider	consider	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+career	career	NN	CW	NOUN	ARGUMENT
+pass	pass	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+a	a	DT	FW
+young	young	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+yes	yes	RB	ADV	CW
+because	because	IN	FW
+when	when	WRB	FW
+the	the	DT	FW
+student	student	NN	CW	NOUN	ARGUMENT
+gets	get	VBZ	CW	VERB
+older	older	JJR	CW	ADJ
+and	and	CC	FW
+becomes	become	VBZ	CW	VERB
+a	a	DT	FW
+adult	adult	JJ	CW	ADJ
+he	he	PRP	FW	PRONOUN	ARGUMENT
+or	or	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+wont	wont	VBD	CW	VERB
+have	have	VBP	CW	VERB
+to	to	TO	FW
+have	have	VB	CW	VERB
+a	a	DT	FW
+boring	boring	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+low	low	JJ	CW	ADJ
+paying	pay	VBG	CW	VERB
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+what	what	WP	FW
+if	if	IN	FW	SUBORDINATOR
+we	we	PRP	FW	PRONOUN	ARGUMENT
+dont	dont	VBP	FW	aux_or_cop
+start	start	VB	CW	VERB
+preparing	prepare	VBG	CW	VERB
+are	be	VBP	FW	aux_or_cop
+self	self	NN	CW	NOUN	ARGUMENT
+for	for	IN	FW
+are	be	VBP	FW	aux_or_cop
+fucher	fucher	JJ	CW	ADJ
+careers	career	NNS	CW	NOUN	ARGUMENT
+after	after	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+'ll	'll	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+loss	loss	NN	CW	NOUN	ARGUMENT
+confused	confuse	VBN	CW	VERB
+and	and	CC	FW
+broke	break	VBD	CW	VERB
+too	too	RB	ADV	CW
+
+sentence break
+
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+dont	dont	FW	FW
+think	think	VBP	CW	VERB
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+what	what	WP	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+do	do	VB	CW	VERB
+i	i	FW	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+remember	remember	VBP	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+mom	mom	NN	CW	NOUN	ARGUMENT
+telling	tell	VBG	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+she	she	PRP	FW	PRONOUN	ARGUMENT
+wanted	want	VBD	CW	VERB
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+aries	aries	NNS	CW	NOUN	ARGUMENT
+but	but	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+became	become	VBD	CW	VERB
+a	a	DT	FW
+aries	aries	FW	FW
+because	because	IN	FW	SUBORDINATOR
+in	in	IN	FW
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+did	do	VBD	CW	VERB
+'	'	POS	FW
+t	t	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+she	she	PRP	FW	PRONOUN	ARGUMENT
+dropped	drop	VBD	CW	VERB
+out	out	RP	FW
+to	to	TO	FW
+have	have	VB	CW	VERB
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+the	the	DT	FW
+class	class	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+am	be	VBP	FW	aux_or_cop
+taking	take	VBG	CW	VERB
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+in	in	IN	FW
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+that	that	WDT	FW	PRONOUN
+will	will	MD	FW	aux_or_cop
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+become	become	VB	CW	VERB
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+when	when	WRB	FW
+am	be	VBP	CW	VERB
+older	older	JJR	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+jrotc	jrotc	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+im	im	NN	CW	NOUN	ARGUMENT
+am	be	VBP	CW	VERB
+in	in	IN	FW
+the	the	DT	FW
+eleventh	eleventh	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	CW	VERB
+when	when	WRB	FW
+in	in	IN	FW
+older	older	JJR	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+a	a	DT	FW
+u.s.m	u.s.m	NNP	CW	NOUN	ARGUMENT
+solder	solder	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

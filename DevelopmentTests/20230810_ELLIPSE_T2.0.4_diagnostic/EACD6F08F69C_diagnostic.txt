@@ -1,0 +1,461 @@
+word	lemma	POS	CW\FW	other categories
+i	i	PRP	FW	PRONOUN	ARGUMENT
+know	know	VBP	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+different	different	JJ	CW	ADJ
+point	point	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+view	view	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+to	to	TO	FW
+me	i	PRP	FW	PRONOUN	ARGUMENT
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+wonderful	wonderful	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+that	that	IN	FW	PRONOUN
+beautiful	beautiful	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+once	once	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+some	some	DT	FW
+family	family	NN	CW	NOUN	ARGUMENT
+members	member	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+in	in	IN	FW
+that	that	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+have	have	VBP	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+known	know	VBN	CW	VERB
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+who	who	WP	FW
+have	have	VBP	FW	aux_or_cop
+visited	visit	VBN	CW	VERB
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+told	tell	VBD	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+about	about	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+always	always	RB	ADV	CW
+so	so	RB	ADV	CW
+interested	interested	JJ	CW	ADJ
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+experiences	experience	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+even	even	RB	ADV	CW
+though	though	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+sad	sad	JJ	CW	ADJ
+i	i	PRP	FW	PRONOUN	ARGUMENT
+get	get	VBP	CW	VERB
+to	to	TO	FW
+know	know	VB	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+different	different	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+visited	visit	VBN	CW	VERB
+and	and	CC	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+visiting	visit	VBG	CW	VERB
+generic_city	generic_city	NNP	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+a	a	DT	FW
+once	once	RB	ADV	CW
+in	in	IN	FW
+a	a	DT	FW
+lifetime	lifetime	NN	CW	NOUN	ARGUMENT
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+should	should	MD	FW	aux_or_cop
+definitely	definitely	RB	ADV	CW
+go	go	VB	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+
+growing	grow	VBG	CW	VERB
+up	up	RP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+never	never	RB	ADV	CW
+into	into	IN	FW
+traveling	travel	VBG	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+had	have	VBD	CW	VERB
+a	a	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+visit	visit	VB	CW	VERB
+some	some	DT	FW
+popular	popular	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+to	to	TO	FW
+
+sentence break
+
+but	but	CC	FW
+as	as	IN	FW	SUBORDINATOR
+time	time	NN	CW	NOUN	ARGUMENT
+went	go	VBD	CW	VERB
+by	by	IN	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+had	have	VBD	CW	VERB
+this	this	DT	FW
+sudden	sudden	JJ	CW	ADJ
+urge	urge	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+the	the	DT	FW
+beauty	beauty	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+this	this	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+love	love	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+
+sentence break
+
+visiting	visit	VBG	CW	VERB
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+at	at	IN	FW
+least	least	JJS	CW	ADJ
+once	once	RB	ADV	CW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+biggest	biggest	JJS	CW	ADJ
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	have	VBP	FW	aux_or_cop
+ever	ever	RB	ADV	CW
+had	have	VBN	CW	VERB
+and	and	CC	FW
+hopefully	hopefully	RB	ADV	CW
+it	it	PRP	FW	PRONOUN	ARGUMENT
+comes	come	VBZ	CW	VERB
+true	true	JJ	CW	ADJ
+
+sentence break
+
+this	this	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	CW	VERB
+loved	love	VBN	CW	VERB
+by	by	IN	FW
+almost	almost	RB	ADV	FW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+talk	talk	VBP	CW	VERB
+about	about	IN	FW
+the	the	DT	FW
+beauty	beauty	NN	CW	NOUN	ARGUMENT
+it	it	PRP	FW	PRONOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+
+sentence break
+
+
+paragraph break
+
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+intriguing	intriguing	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+the	the	DT	FW
+world	world	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+that	that	DT	FW	PRONOUN
+is	be	VBZ	FW	aux_or_cop
+another	another	DT	FW
+reason	reason	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+go	go	VB	CW	VERB
+there	there	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+visit	visit	VB	CW	VERB
+this	this	DT	FW
+place	place	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+friendly	friendly	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+cheerful	cheerful	JJ	CW	ADJ
+environment	environment	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+delicious	delicious	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+one	one	CD	FW
+of	of	IN	FW
+the	the	DT	FW
+most	most	RBS	ADV	CW
+popular	popular	JJ	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+people	people	NNS	CW	NOUN	ARGUMENT
+visit	visit	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+enjoy	enjoy	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	PRP	FW	PRONOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+have	have	VBP	CW	VERB
+the	the	DT	FW
+chance	chance	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+go	go	VB	CW	VERB
+to	to	TO	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+see	see	VB	CW	VERB
+the	the	DT	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+real	real	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+because	because	IN	FW	SUBORDINATOR
+it	it	PRP	FW	PRONOUN	ARGUMENT
+'s	be	VBZ	FW	aux_or_cop
+the	the	DT	FW
+site	site	NN	CW	NOUN	ARGUMENT
+nobody	nobody	NN	CW	NOUN	ARGUMENT
+wants	want	VBZ	CW	VERB
+to	to	TO	FW
+miss	miss	VB	CW	VERB
+when	when	WRB	FW
+they	they	PRP	FW	PRONOUN	ARGUMENT
+visit	visit	VBP	CW	VERB
+this	this	DT	FW
+city	city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+looking	look	VBG	CW	VERB
+at	at	IN	FW
+its	its	PRP$	FW	PRONOUN	ARGUMENT
+pictures	picture	NNS	CW	NOUN	ARGUMENT
+makes	make	VBZ	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+lost	lose	VBN	CW	VERB
+in	in	IN	FW
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+thoughts	thought	NNS	CW	NOUN	ARGUMENT
+because	because	IN	FW
+of	of	IN	FW
+the	the	DT	FW
+marvelous	marvelous	JJ	CW	ADJ
+view	view	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+the	the	DT	FW
+opposite	opposite	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+what	what	WP	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+think	think	VBP	CW	VERB
+they	they	PRP	FW	PRONOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+say	say	VB	CW	VERB
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+there	there	EX	FW
+are	be	VBP	CW	VERB
+better	better	JJR	CW	ADJ
+places	place	NNS	CW	NOUN	ARGUMENT
+than	than	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	CW	VERB
+a	a	DT	FW
+right	right	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+share	share	VB	CW	VERB
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+visiting	visit	VBG	CW	VERB
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+just	just	RB	ADV	CW
+a	a	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+i	i	PRP	FW	PRONOUN	ARGUMENT
+want	want	VBP	CW	VERB
+to	to	TO	FW
+fulfill	fulfill	VB	CW	VERB
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+encourage	encourage	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+do	do	VB	CW	VERB
+so	so	RB	ADV	CW
+too	too	RB	ADV	CW
+
+sentence break
+
+no	no	DT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+what	what	WDT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	CW	VERB
+you	you	PRP	FW	PRONOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+come	come	VB	CW	VERB
+true	true	JJ	CW	ADJ
+if	if	IN	FW	SUBORDINATOR
+you	you	PRP	FW	PRONOUN	ARGUMENT
+try	try	VBP	CW	VERB
+
+sentence break
+
+after	after	IN	FW
+all	all	DT	FW
+a	a	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+dream	dream	NN	CW	NOUN	ARGUMENT
+no	no	DT	FW
+matter	matter	NN	CW	NOUN	ARGUMENT
+how	how	WRB	FW
+big	big	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

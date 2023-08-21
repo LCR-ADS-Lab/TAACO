@@ -1,0 +1,531 @@
+word	lemma	POS	CW\FW	other categories
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+generic_name	generic_name	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+i	i	FW	FW
+am	be	VBP	FW	aux_or_cop
+18	18	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	CW	VERB
+currently	currently	RB	ADV	CW
+in	in	IN	FW
+11th	11th	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+attending	attend	VBG	CW	VERB
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+dream	dream	VBP	CW	VERB
+big	big	JJ	CW	ADJ
+in	in	IN	FW
+graduating	graduate	VBG	CW	VERB
+starting	start	VBG	CW	VERB
+a	a	DT	FW
+carrer	carrer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+making	make	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+proud	proud	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+are	be	VBP	CW	VERB
+from	from	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+from	from	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+currently	currently	RB	ADV	CW
+i	i	FW	FW
+am	be	VBP	CW	VERB
+from	from	IN	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WDT	FW
+i	i	FW	FW
+am	be	VBP	FW	aux_or_cop
+very	very	RB	ADV	CW
+intrested	intrested	JJ	CW	ADJ
+in	in	IN	FW
+is	be	VBZ	CW	VERB
+playing	play	VBG	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+learning	learn	VBG	CW	VERB
+lots	lot	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+criminal	criminal	JJ	CW	ADJ
+justice	justice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+when	when	WRB	FW
+i	i	FW	FW
+graduate	graduate	NN	CW	NOUN	ARGUMENT
+from	from	IN	FW
+generic_school	generic_school	NNP	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+love	love	VB	CW	VERB
+to	to	TO	FW
+maintain	maintain	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+studying	study	VBG	CW	VERB
+criminal	criminal	NNP	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+explore	explore	VB	CW	VERB
+new	new	JJ	CW	ADJ
+types	type	NNS	CW	NOUN	ARGUMENT
+of	of	IN	FW
+events	event	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+figure	figure	VB	CW	VERB
+out	out	RP	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WDT	FW
+i	i	FW	FW
+am	be	VBP	CW	VERB
+mainly	mainly	RB	ADV	CW
+intrested	intrest	VBN	CW	VERB
+in	in	IN	FW
+is	be	VBZ	FW	aux_or_cop
+a	a	DT	FW
+dea	dea	NNP	CW	NOUN	ARGUMENT
+agent	agent	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	FW	aux_or_cop
+a	a	DT	FW
+dea	dea	NNP	CW	NOUN	ARGUMENT
+agent	agent	NN	CW	NOUN	ARGUMENT
+drug	drug	NN	CW	NOUN	ARGUMENT
+enforcement	enforcement	NN	CW	NOUN	ARGUMENT
+agent	agent	NNP	CW	NOUN	ARGUMENT
+was	be	VBD	FW	aux_or_cop
+always	always	RB	ADV	CW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+police	police	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+since	since	IN	FW	SUBORDINATOR
+i	i	FW	FW
+was	be	VBD	FW	aux_or_cop
+a	a	DT	FW
+kid	kid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+always	always	RB	ADV	CW
+see	see	VB	CW	VERB
+movies	movie	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+them	they	PRP	FW	PRONOUN	ARGUMENT
+one	one	CD	FW
+famous	famous	JJ	CW	ADJ
+show	show	NN	CW	NOUN	ARGUMENT
+would	would	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+''	''	''	FW
+narcos	narcos	NNPS	CW	NOUN	ARGUMENT
+''	''	''	FW
+with	with	IN	FW
+pablo	pablo	NNP	CW	NOUN	ARGUMENT
+escobar	escobar	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+parents	parent	NNS	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+love	love	VBP	CW	VERB
+the	the	DT	FW
+fact	fact	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+i	i	FW	FW
+am	be	VBP	CW	VERB
+intrested	intrest	VBN	CW	VERB
+in	in	IN	FW
+studying	study	VBG	CW	VERB
+a	a	DT	FW
+carrer	carrer	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+an	a	DT	FW
+agent	agent	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+one	one	CD	FW
+hundred	hundred	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+me	i	PRP	FW	PRONOUN	ARGUMENT
+and	and	CC	FW
+see	see	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+as	as	IN	FW
+one	one	CD	FW
+in	in	IN	FW
+the	the	DT	FW
+future	future	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+also	also	RB	ADV	CW
+currently	currently	RB	ADV	CW
+taking	take	VBG	CW	VERB
+criminal	criminal	JJ	CW	ADJ
+justice	justice	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+school	school	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	CW	VERB
+for	for	IN	FW
+2	2	CD	FW
+years	year	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+look	look	VB	CW	VERB
+forward	forward	RB	ADV	CW
+to	to	TO	FW
+continue	continue	VB	CW	VERB
+taking	take	VBG	CW	VERB
+the	the	DT	FW
+same	same	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+a	a	DT	FW
+very	very	RB	ADV	CW
+brave	brave	NNP	CW	NOUN	ARGUMENT
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+person	person	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+like	like	VBP	CW	VERB
+to	to	TO	FW
+step	step	VB	CW	VERB
+up	up	RP	FW
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+in	in	IN	FW
+achieving	achieve	VBG	CW	VERB
+goals	goal	NNS	CW	NOUN	ARGUMENT
+i	i	FW	FW
+set	set	VBN	CW	VERB
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+to	to	TO	FW
+one	one	CD	FW
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+'ve	have	VBP	FW	aux_or_cop
+once	once	RB	ADV	CW
+set	set	VBN	CW	VERB
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+into	into	IN	FW
+making	make	VBG	CW	VERB
+the	the	DT	FW
+generic_city	generic_city	NN	CW	NOUN	ARGUMENT
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+with	with	IN	FW
+a	a	DT	FW
+lot	lot	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+practice	practice	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+hard	hard	JJ	CW	ADJ
+working	working	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+'ve	have	VBP	FW	aux_or_cop
+managed	manage	VBN	CW	VERB
+to	to	TO	FW
+achieve	achieve	VB	CW	VERB
+making	make	VBG	CW	VERB
+the	the	DT	FW
+team	team	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+achieving	achieve	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+10th	10th	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	CW	VERB
+also	also	RB	ADV	CW
+intrested	intrest	VBN	CW	VERB
+in	in	IN	FW
+continuing	continue	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+carrer	carrer	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+playing	play	VBG	CW	VERB
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+college	college	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+what	what	WP	FW
+comes	come	VBZ	CW	VERB
+in	in	IN	FW
+mind	mind	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+ciminal	ciminal	NNP	CW	NOUN	ARGUMENT
+justice	justice	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+been	be	VBN	FW	aux_or_cop
+researching	research	VBG	CW	VERB
+many	many	JJ	CW	ADJ
+informations	information	NNS	CW	NOUN	ARGUMENT
+about	about	IN	FW
+dea	dea	NNP	CW	NOUN	ARGUMENT
+and	and	CC	FW
+searched	search	VBD	CW	VERB
+up	up	RP	FW
+many	many	JJ	CW	ADJ
+documentaries	documentary	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+being	be	VBG	CW	VERB
+an	a	DT	FW
+agent	agent	NN	CW	NOUN	ARGUMENT
+seems	seem	VBZ	CW	VERB
+to	to	TO	FW
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+and	and	CC	FW
+need	need	VBP	CW	VERB
+very	very	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+working	work	VBG	CW	VERB
+brave	brave	VBP	CW	VERB
+men	man	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+step	step	VB	CW	VERB
+up	up	RP	FW
+for	for	IN	FW
+any	any	DT	FW
+emergency	emergency	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+if	if	IN	FW	SUBORDINATOR
+i	i	FW	FW
+ever	ever	RB	ADV	CW
+achieve	achieve	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+into	into	IN	FW
+becoming	become	VBG	CW	VERB
+an	a	DT	FW
+agent	agent	NN	CW	NOUN	ARGUMENT
+i	i	PRP	FW	PRONOUN	ARGUMENT
+am	be	VBP	FW	aux_or_cop
+certain	certain	JJ	CW	ADJ
+in	in	IN	FW
+helping	help	VBG	CW	VERB
+the	the	DT	FW
+community	community	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+other	other	JJ	CW	ADJ
+countries	country	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+maintain	maintain	VB	CW	VERB
+it	it	PRP	FW	PRONOUN	ARGUMENT
+safe	safe	JJ	CW	ADJ
+and	and	CC	FW
+out	out	IN	FW
+of	of	IN	FW
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+risk	risk	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+losing	lose	VBG	CW	VERB
+or	or	CC	FW
+out	out	IN	FW
+growing	grow	VBG	CW	VERB
+any	any	DT	FW
+type	type	NN	CW	NOUN	ARGUMENT
+of	of	IN	FW
+bad	bad	JJ	CW	ADJ
+habits	habit	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+what	what	WDT	FW
+i	i	FW	FW
+will	will	MD	FW	aux_or_cop
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+of	of	IN	FW
+is	be	VBZ	CW	VERB
+finishing	finishing	NNP	CW	NOUN	ARGUMENT
+high	high	NNP	CW	NOUN	ARGUMENT
+school	school	NNP	CW	NOUN	ARGUMENT
+keeping	keep	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+grades	grade	NNS	CW	NOUN	ARGUMENT
+up	up	RB	ADV	CW
+and	and	CC	FW
+finding	find	VBG	CW	VERB
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+a	a	DT	FW
+good	good	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+start	start	VB	CW	VERB
+off	off	RP	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+carrer	carrer	NN	CW	NOUN	ARGUMENT
+into	into	IN	FW
+achieving	achieve	VBG	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+to	to	TO	FW
+become	become	VB	CW	VERB
+a	a	DT	FW
+dea	dea	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+one	one	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+will	will	MD	FW	aux_or_cop
+try	try	VB	CW	VERB
+and	and	CC	FW
+find	find	VB	CW	VERB
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+working	work	VBG	CW	VERB
+very	very	RB	ADV	CW
+hard	hard	RB	ADV	CW
+trying	try	VBG	CW	VERB
+very	very	RB	ADV	CW
+hard	hard	JJ	CW	ADJ
+to	to	TO	FW
+build	build	VB	CW	VERB
+myself	myself	PRP	FW	PRONOUN	ARGUMENT
+up	up	RP	FW
+to	to	TO	FW
+a	a	DT	FW
+police	police	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+graduating	graduate	VBG	CW	VERB
+with	with	IN	FW
+an	a	DT	FW
+advance	advance	NNP	CW	NOUN	ARGUMENT
+master	master	NNP	CW	NOUN	ARGUMENT
+degree	degree	NNP	CW	NOUN	ARGUMENT
+in	in	IN	FW
+becoming	become	VBG	CW	VERB
+what	what	WP	FW
+i	i	FW	FW
+wish	wish	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+be	be	VB	CW	VERB
+
+sentence break
+
+i	i	PRP	FW	PRONOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+god	god	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+help	help	VB	CW	VERB
+me	i	PRP	FW	PRONOUN	ARGUMENT
+achieve	achieve	VB	CW	VERB
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+goals	goal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+to	to	TO	FW
+never	never	RB	ADV	CW
+give	give	VB	CW	VERB
+up	up	RP	FW
+in	in	IN	FW
+my	my	PRP$	FW	PRONOUN	ARGUMENT
+dreams	dream	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+until	until	IN	FW
+then	then	RB	ADV	CW
+i	i	PRP	FW	PRONOUN	ARGUMENT
+will	will	MD	FW	aux_or_cop
+continue	continue	VB	CW	VERB
+in	in	IN	FW
+studying	study	VBG	CW	VERB
+and	and	CC	FW
+learning	learn	VBG	CW	VERB
+many	many	JJ	CW	ADJ
+more	more	JJR	CW	ADJ
+facts	fact	NNS	CW	NOUN	ARGUMENT
+information	information	NN	CW	NOUN	ARGUMENT
+about	about	IN	FW
+dea	dea	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
