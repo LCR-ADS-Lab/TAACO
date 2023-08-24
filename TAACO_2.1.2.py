@@ -76,7 +76,7 @@ def resource_path(relative):
 		return(os.path.join(sys._MEIPASS, relative))
 	return(os.path.join(relative))
 
-prog_name = "TAACO 2.1.1" #updated 2023-08-010
+prog_name = "TAACO 2.1.2" #updated 2023-08-21
 
 if platform.system() == "Darwin":
 	system = "M"
