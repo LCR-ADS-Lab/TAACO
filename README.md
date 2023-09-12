@@ -70,3 +70,8 @@ Source overlap indices are used for integrated production tasks (e.g., read-writ
 ## Future work
 - Release a full TAACO Python package
 - Release compiled versions of the GUI for Mac OSX, Windows, and Linux
+
+## License
+TAACO is available for use under a Creative Commons Attribution-NonCommercial-Sharealike license (4.0)
+
+For a summary of this license (and a link to the full license) <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">click here</a>.
