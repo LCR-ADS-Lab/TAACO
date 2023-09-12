@@ -1,5 +1,5 @@
 def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
-	#version 2.1.1
+	#version 2.1.2
 	import sys
 	import os
 	print("Loading Spacy")
@@ -198,7 +198,32 @@ def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
 				dict[head] = vars[1:]
 			
 			return(dict)
-					
+
+		def dicter_2_multi(spread_names,delimiter1, delimiter, lower = False): #spread names is list of filenames
+			spreadsheet = []
+			for spread_name in spread_names:
+				if lower == False:
+					spreadsheet = spreadsheet + open(resource_path(spread_name),errors = "ignore").read().split("\n")
+				if lower == True:
+					spreadsheet = spreadsheet + open(resource_path(spread_name),errors = "ignore").read().lower().split("\n")
+				
+			tdict = {}
+			for line in spreadsheet:
+				if line == "":
+					continue
+				if line[0] == "#":
+					continue
+				head = line.split(delimiter1)[0]
+				
+				if len(line.split(delimiter1))<2:
+					continue
+				vars = line.split(delimiter1)[1].split(delimiter)
+				if len(vars)<2:
+					continue
+				tdict[head] = vars[1:]
+			
+			return(tdict)
+
 		def dict_builder(database_file, number, log = "n", delimiter = "\t"): #builds dictionaries from database files
 			dict ={}
 			data_file = database_file.lower().split("\n")
@@ -1229,7 +1254,8 @@ def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
 				
 		if varDict["overlapLSA"] == True or varDict["sourceLSA"] == True:
 			dqMessage(gui,"Loading LSA vector space...")
-			lsa_dict = dicter_2(resource_path("COCA_newspaper_magazine_export_LSA.csv"),"\t"," ",lower = True)
+			lsaFileList = [resource_path("COCA_newspaper_magazine_export_LSA_Small_A.csv"),resource_path("COCA_newspaper_magazine_export_LSA_Small_B.csv"),resource_path("COCA_newspaper_magazine_export_LSA_Small_C.csv"),resource_path("COCA_newspaper_magazine_export_LSA_Small_D.csv"),resource_path("COCA_newspaper_magazine_export_LSA_Small_E.csv")]
+			lsa_dict = dicter_2_multi(lsaFileList,"\t"," ",lower = True)
 
 		if varDict["overlapLDA"] == True or varDict["sourceLDA"] == True:
 			dqMessage(gui,"Loading LDA vector space...")
@@ -1237,7 +1263,8 @@ def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
 
 		if varDict["overlapWord2vec"] == True or varDict["sourceWord2vec"] == True:
 			dqMessage(gui,"Loading word2vec vector space...")
-			word2vec_dict = dicter_2(resource_path("COCA_newspaper_magazine_export_word2vec.csv"),"\t"," ",lower = True)
+			word2vecFileList = [resource_path("COCA_newspaper_magazine_export_word2vec_Small_A.csv"),resource_path("COCA_newspaper_magazine_export_word2vec_Small_B.csv"),resource_path("COCA_newspaper_magazine_export_word2vec_Small_C.csv"),resource_path("COCA_newspaper_magazine_export_word2vec_Small_D.csv"),resource_path("COCA_newspaper_magazine_export_word2vec_Small_E.csv")]
+			word2vec_dict = dicter_2_multi(word2vecFileList,"\t"," ",lower = True)
 		
 		wn_noun_dict = dicter(resource_path("wn_noun_2.txt"),"\t")
 		wn_verb_dict = dicter(resource_path("wn_verb_2.txt"),"\t")
