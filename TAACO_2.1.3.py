@@ -1,32 +1,455 @@
-def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
-	#version 2.1.3
-	import sys
-	import os
-	print("Loading Spacy")
-	import spacy #add version number here
-	print("Loading Spacy Model")
-	nlp = spacy.load("en_core_web_sm") #fast, but less accurate
-	#import re
-	import platform
-	import numpy as np
-	# from collections import Counter
-	from operator import itemgetter
-	import glob
-	import math
-	from collections import Counter
+#-*- coding: utf-8 -*- 
+#(for potential non-ASCII encoding)#Tool for the Automatic Analysis of COhesion
 
-	if platform.system() == "Darwin":
-		system = "M"
-	elif platform.system() == "Windows":
-		system = "W"
-	elif platform.system() == "Linux":
-		system = "L"
+#from __future__ import division
+import sys
 
-	def resource_path(relative):
-		if hasattr(sys, "_MEIPASS"):
-			return(os.path.join(sys._MEIPASS, relative))
-		return(os.path.join(relative))
+#import spacy #this is for if spaCy is used
+# import Tkinter as tk
+# import tkFont
+# import tkFileDialog
+# import Tkconstants
 
+#From SEANCE:
+import tkinter as tk
+import tkinter.font
+import tkinter.filedialog
+import tkinter.constants
+import queue
+import tkinter.messagebox
+
+import os
+import sys
+import re
+import platform
+import glob
+import math
+from collections import Counter
+
+from threading import Thread
+
+# import os
+# import re
+# import sys 
+# import glob
+# import math
+# import re
+# import platform
+# import shutil
+#import subprocess
+import numpy as np
+# from collections import Counter
+from operator import itemgetter
+# try:
+# 	import xml.etree.cElementTree as ET
+# except ImportError:
+# 	import xml.etree.ElementTree as ET
+
+print("Loading Spacy")
+import spacy #add version number here
+print("Loading Spacy Model")
+nlp = spacy.load("en_core_web_sm") #fast, but less accurate
+#nlp = spacy.load("en_core_web_trf") #slower, but more accurate
+
+
+#This creates a que in which the core TAACO program can communicate with the GUI
+dataQueue = queue.Queue() #update to Python 3
+#dataQueue = Queue.Queue()
+
+#This creates the message for the progress box (and puts it in the dataQueue)
+progress = "...Waiting for Data to Process"
+dataQueue.put(progress)
+
+#Def1 is the core TAACO program; args is information passed to TAACO
+def start_thread(def1, arg1, arg2, arg3, arg4, arg5): 
+	t = Thread(target=def1, args=(arg1, arg2, arg3, arg4,arg5))
+	t.start()
+
+#This allows for a packaged gui to find the resource files.
+def resource_path(relative):
+	if hasattr(sys, "_MEIPASS"):
+		return(os.path.join(sys._MEIPASS, relative))
+	return(os.path.join(relative))
+
+prog_name = "TAACO 2.1.3" #updated 2023-10-06
+
+#version updates: 
+#2.1.3 - add better handling of uncommon characters
+
+if platform.system() == "Darwin":
+	system = "M"
+	title_size = 16
+	font_size = 14
+	geom_size = "425x685"
+	color = "#FFFF99"
+elif platform.system() == "Windows":
+	system = "W"
+	title_size = 12
+	font_size = 12
+	geom_size = "475x675"
+	color = "#FFFF99"
+elif platform.system() == "Linux":
+	system = "L"
+	title_size = 12
+	font_size = 12
+	geom_size = "525x700"
+	color = "#FFFF99"
+
+print(system) #updated for Py3
+
+
+
+class MyApp:
+	def __init__(self, parent):
+		
+		#Creates font styles
+		helv14= tkinter.font.Font(family= "Helvetica Neue", size=font_size)
+		times14= tkinter.font.Font(family= "Lucida Grande", size=font_size)
+		helv16= tkinter.font.Font(family= "Helvetica Neue", size = title_size, weight = "bold", slant = "italic")
+		#This defines the GUI parent
+		
+		self.myParent = parent
+		
+		
+		#This creates the header text
+		self.spacer1= tk.Label(parent, text= "Tool for the Automatic Analysis of Cohesion", font = helv16, background = color)
+		self.spacer1.pack()
+		
+		#This creates a frame for the meat of the GUI
+		self.thestuff= tk.Frame(parent, background =color)
+		self.thestuff.pack()
+		
+		self.myContainer1= tk.Frame(self.thestuff, background = color)
+		self.myContainer1.pack(side = tk.RIGHT, expand= tk.TRUE)
+
+		self.labelframe2 = tk.LabelFrame(self.myContainer1, text= "Instructions", background = color)
+		self.labelframe2.pack(expand=tk.TRUE)
+		
+		#This creates the list of instructions.
+		self.instruct = tk.Button(self.myContainer1, text = "Instructions", justify = tk.LEFT)
+		self.instruct.pack()
+		self.instruct.bind("<Button-1>", self.instruct_mess)
+
+		self.checkboxframe = tk.LabelFrame(self.myContainer1, text= "Options", background = color, width = "45")
+		self.checkboxframe.pack(expand=tk.TRUE)
+
+		self.sourcetextframe = tk.LabelFrame(self.checkboxframe, text= "Source text analysis (optional)", background = color, width = "45")
+		self.sourcetextframe.pack(fill = tk.X, expand=tk.TRUE)
+		
+		self.summarylabel =tk.LabelFrame(self.sourcetextframe, height = "1", width= "45", padx = "4", text = "Your selected source text:", background = color)
+		self.summarylabel.pack(fill = tk.X)
+
+		summary_file_name = "(No Source Text Chosen)"
+		
+		self.summarylabelchosen = tk.Label(self.summarylabel, height= "1", width= "37", justify=tk.LEFT, padx = "4", anchor = tk.W, font= helv14, text = summary_file_name)
+		self.summarylabelchosen.pack(side = tk.LEFT)
+
+		self.summary_name = ""
+		
+		self.summary_button = tk.Button(self.summarylabel)
+		self.summary_button.configure(text= "Select")
+		self.summary_button.pack(side = tk.LEFT)
+		self.summary_button.bind("<Button-1>", self.get_summary_text)
+		
+		self.source_text_options = tk.LabelFrame(self.sourcetextframe, height = "1", width= "45", padx = "4", text = "Source text options", background = color)
+		self.source_text_options.pack(fill = tk.X)
+		
+		self.st1_var = tk.IntVar()			
+		self.st1 = tk.Checkbutton(self.source_text_options, text="Key item overlap", variable=self.st1_var,background = color)
+		self.st1.grid(row=1,column=1, sticky = "W")		
+		self.st1.deselect()
+
+		self.st2_var = tk.IntVar()			
+		self.st2 = tk.Checkbutton(self.source_text_options, text="LSA", variable=self.st2_var,background = color)
+		self.st2.grid(row=1,column=2, sticky = "W")		
+		self.st2.deselect()
+
+		self.st3_var = tk.IntVar()			
+		self.st3 = tk.Checkbutton(self.source_text_options, text="LDA", variable=self.st3_var,background = color)
+		self.st3.grid(row=1,column=3, sticky = "W")		
+		self.st3.deselect()
+
+		self.st4_var = tk.IntVar()			
+		self.st4 = tk.Checkbutton(self.source_text_options, text="Word2vec", variable=self.st4_var,background = color)
+		self.st4.grid(row=1,column=4, sticky = "W")		
+		self.st4.deselect()
+
+			
+		self.type_frame = tk.LabelFrame(self.checkboxframe, text= "Lemma tokens to analyze for lexical overlap and TTR", background = color, width = "45")
+		self.type_frame.pack(expand=tk.TRUE)
+
+		self.overlap_frame = tk.LabelFrame(self.checkboxframe, text= "Lexical overlap options", background = color, width = "45")
+		self.overlap_frame.pack(fill = tk.X, expand=tk.TRUE)
+
+		self.semantic_frame = tk.LabelFrame(self.checkboxframe, text= "Semantic overlap options", background = color, width = "45")
+		self.semantic_frame.pack(fill = tk.X, expand=tk.TRUE)
+		
+		self.other_frame = tk.LabelFrame(self.checkboxframe, text= "Other indices", background = color, width = "45")
+		self.other_frame.pack(fill = tk.X, expand=tk.TRUE)
+
+		self.diag_frame = tk.LabelFrame(self.myContainer1, text= "Diagnostic output options", background = color, width = "45")
+		self.diag_frame.pack(expand=tk.TRUE)
+				
+		self.all_frame = tk.LabelFrame(self.checkboxframe, background = color, width = "45")
+		self.all_frame.pack(expand=tk.TRUE)
+		
+		self.cb1_var = tk.IntVar()			
+		self.cb1 = tk.Checkbutton(self.type_frame, text="All", variable=self.cb1_var,background = color)
+		self.cb1.grid(row=1,column=1, sticky = "W")		
+		self.cb1.select()
+
+		self.cb2_var = tk.IntVar()			
+		self.cb2 = tk.Checkbutton(self.type_frame, text="Content", variable=self.cb2_var,background = color)
+		self.cb2.grid(row=1,column=2, sticky = "W")		
+		self.cb2.select()
+
+		self.cb3_var = tk.IntVar()			
+		self.cb3 = tk.Checkbutton(self.type_frame, text="Function", variable=self.cb3_var,background = color)
+		self.cb3.grid(row=1,column=3, sticky = "W")		
+		self.cb3.deselect()		
+
+		self.cb4_var = tk.IntVar()			
+		self.cb4 = tk.Checkbutton(self.type_frame, text="Noun", variable=self.cb4_var,background = color)
+		self.cb4.grid(row=1,column=4, sticky = "W")		
+		self.cb4.deselect()
+
+		self.cb5_var = tk.IntVar()			
+		self.cb5 = tk.Checkbutton(self.type_frame, text="Pronoun", variable=self.cb5_var,background = color)
+		self.cb5.grid(row=1,column=5, sticky = "W")		
+		self.cb5.deselect()
+
+		self.cb6_var = tk.IntVar()			
+		self.cb6 = tk.Checkbutton(self.type_frame, text="Argument", variable=self.cb6_var,background = color)
+		self.cb6.grid(row=2,column=1, sticky = "W")		
+		self.cb6.select()
+		
+		self.cb7_var = tk.IntVar()			
+		self.cb7 = tk.Checkbutton(self.type_frame, text="Verb", variable=self.cb7_var,background = color)
+		self.cb7.grid(row=2,column=2, sticky = "W")		
+		self.cb7.select()
+
+		self.cb8_var = tk.IntVar()			
+		self.cb8 = tk.Checkbutton(self.type_frame, text="ADJ", variable=self.cb8_var,background = color)
+		self.cb8.grid(row=2,column=3, sticky = "W")		
+		self.cb8.deselect()
+
+		self.cb9_var = tk.IntVar()			
+		self.cb9 = tk.Checkbutton(self.type_frame, text="ADV", variable=self.cb9_var,background = color)
+		self.cb9.grid(row=2,column=4, sticky = "W")		
+		self.cb9.deselect()
+
+		self.cb10_var = tk.IntVar()			
+		self.cb10 = tk.Checkbutton(self.overlap_frame, text="Sentence", variable=self.cb10_var,background = color)
+		self.cb10.grid(row=1,column=1, sticky = "W")		
+		self.cb10.select()
+
+		self.cb11_var = tk.IntVar()			
+		self.cb11 = tk.Checkbutton(self.overlap_frame, text="Paragraph", variable=self.cb11_var,background = color)
+		self.cb11.grid(row=1,column=2, sticky = "W")		
+		self.cb11.deselect()
+
+		self.cb12_var = tk.IntVar()			
+		self.cb12 = tk.Checkbutton(self.overlap_frame, text="Adjacent", variable=self.cb12_var,background = color)
+		self.cb12.grid(row=1,column=3, sticky = "W")		
+		self.cb12.select()
+
+		self.cb13_var = tk.IntVar()			
+		self.cb13 = tk.Checkbutton(self.overlap_frame, text="Adjacent 2", variable=self.cb13_var,background = color)
+		self.cb13.grid(row=1,column=4, sticky = "W")		
+		self.cb13.deselect()
+
+		self.cb14_var = tk.IntVar()			
+		self.cb14 = tk.Checkbutton(self.other_frame, text="TTR", variable=self.cb14_var,background = color)
+		self.cb14.grid(row=1,column=1, sticky = "W")		
+		self.cb14.deselect()
+
+		self.cb15_var = tk.IntVar()			
+		self.cb15 = tk.Checkbutton(self.other_frame, text="Connectives", variable=self.cb15_var,background = color)
+		self.cb15.grid(row=1,column=2, sticky = "W")		
+		self.cb15.select()
+
+		self.cb16_var = tk.IntVar()			
+		self.cb16 = tk.Checkbutton(self.other_frame, text="Givenness", variable=self.cb16_var,background = color)
+		self.cb16.grid(row=1,column=3, sticky = "W")		
+		self.cb16.deselect()
+
+		#the next three will be in V2.0
+		self.cb17_var = tk.IntVar()			
+		self.cb17 = tk.Checkbutton(self.semantic_frame, text="LSA", variable=self.cb17_var,background = color)
+		self.cb17.grid(row=1,column=1, sticky = "W")		
+		self.cb17.deselect()
+
+		self.cb18_var = tk.IntVar()			
+		self.cb18 = tk.Checkbutton(self.semantic_frame, text="LDA", variable=self.cb18_var,background = color)
+		self.cb18.grid(row=1,column=2, sticky = "W")		
+		self.cb18.deselect()
+
+		self.cb19_var = tk.IntVar()			
+		self.cb19 = tk.Checkbutton(self.semantic_frame, text="Word2vec", variable=self.cb19_var,background = color)
+		self.cb19.grid(row=1,column=3, sticky = "W")		
+		self.cb19.deselect()
+
+		self.cb20_var = tk.IntVar()			
+		self.cb20 = tk.Checkbutton(self.semantic_frame, text="Synonym overlap", variable=self.cb20_var,background = color)
+		self.cb20.grid(row=1,column=4, sticky = "W")		
+		self.cb20.deselect()
+
+		self.cb21_var = tk.IntVar()			
+		self.cb21 = tk.Checkbutton(self.type_frame, text="N-grams", variable=self.cb21_var,background = color)
+		self.cb21.grid(row=2,column=5, sticky = "W")		
+		self.cb21.deselect()
+
+		self.cb22_var = tk.IntVar()
+		self.cb22 = tk.Checkbutton(self.diag_frame, text="Output tagged files", variable=self.cb22_var,background = color)
+		self.cb22.grid(row=1,column=2, sticky = "W")	
+		self.cb22.select()
+
+		self.cb23_var = tk.IntVar()
+		self.cb23 = tk.Checkbutton(self.diag_frame, text="Output diagnostic file", variable=self.cb23_var,background = color)
+		self.cb23.grid(row=1,column=1, sticky = "W")	
+		self.cb23.select()
+
+		self.source_text_list = ["null", self.st1_var, self.st2_var,self.st3_var,self.st4_var] #the "null" here was just a filler so the ordered calls would line up
+
+		self.var_list = ["null", self.cb1_var, self.cb2_var,self.cb3_var,self.cb4_var,self.cb5_var,self.cb6_var,self.cb7_var,self.cb8_var,self.cb9_var,self.cb10_var,self.cb11_var,self.cb12_var,self.cb13_var,self.cb14_var,self.cb15_var,self.cb16_var,self.cb17_var,self.cb18_var,self.cb19_var,self.cb20_var,self.cb21_var,self.cb22_var,self.cb23_var]
+		
+		#the following will replace the lists:
+		self.var_dict = {"sourceKeyOverlap" : self.st1_var, "sourceLSA" : self.st2_var, "sourceLDA": self.st3_var, "sourceWord2vec": self.st4_var, "wordsAll" : self.cb1_var, "wordsContent" : self.cb2_var, "wordsFunction" : self.cb3_var, "wordsNoun" : self.cb4_var, "wordsPronoun" : self.cb5_var, "wordsArgument" : self.cb6_var, "wordsVerb" : self.cb7_var, "wordsAdjective" : self.cb8_var, "wordsAdverb" : self.cb9_var, "overlapSentence" : self.cb10_var, "overlapParagraph" : self.cb11_var, "overlapAdjacent" : self.cb12_var, "overlapAdjacent2" : self.cb13_var, "otherTTR" : self.cb14_var, "otherConnectives" : self.cb15_var, "otherGivenness" : self.cb16_var, "overlapLSA" : self.cb17_var, "overlapLDA" : self.cb18_var, "overlapWord2vec" : self.cb19_var, "overlapSynonym" : self.cb20_var, "overlapNgrams" : self.cb21_var, "outputTagged" : self.cb22_var, "outputDiagnostic" : self.cb23_var}
+
+		self.box_list = [self.cb1, self.cb2,self.cb3,self.cb4,self.cb5,self.cb6,self.cb7,self.cb8,self.cb9,self.cb10,self.cb11,self.cb12,self.cb13,self.cb14,self.cb15,self.cb16,self.cb17,self.cb18,self.cb19,self.cb20,self.cb21]
+
+
+
+		self.cb_all = tk.Button(self.all_frame, text = "Select All",justify = tk.LEFT)
+		self.cb_all.grid(row=1, column = 1, sticky = "W")
+		self.cb_all.bind("<Button-1>", self.cb_all_Click)
+
+		self.cb_none = tk.Button(self.all_frame, text = "Select None")
+		self.cb_none.grid(row=1, column = 3)
+		self.cb_none.bind("<Button-1>", self.cb_none_Click)
+
+		self.button_spacer = tk.Label(self.all_frame, text= "            ", background = color)
+		self.button_spacer.grid(row=1, column = 2)
+
+		
+		#Creates Label Frame for Data Input area
+		self.secondframe= tk.LabelFrame(self.myContainer1, text= "Data Input", background = color)
+		self.secondframe.pack(expand=tk.TRUE) 
+		
+		#Creates default dirname so if statement in Process Texts can check to see
+		#if a directory name has been chosen
+		self.dirname = ""
+		
+		#This creates a label for the first program input (Input Directory)
+		self.inputdirlabel =tk.LabelFrame(self.secondframe, height = "1", width= "45", padx = "4", text = "Your selected input folder:", background = color)
+		self.inputdirlabel.pack()
+				
+		#Creates label that informs user which directory has been chosen
+		directoryprompt = "(No Folder Chosen)"
+		self.inputdirchosen = tk.Label(self.inputdirlabel, height= "1", width= "37", justify=tk.LEFT, padx = "4", anchor = tk.W, font= helv14, text = directoryprompt)
+		self.inputdirchosen.pack(side = tk.LEFT)
+
+		self.button1 = tk.Button(self.inputdirlabel)
+		self.button1.configure(text= "Select")
+		self.button1.pack(side = tk.LEFT)
+		self.button1.bind("<Button-1>", self.button1Click)
+		
+		self.outdirname = ""
+				
+		#Creates a label for the second program input (Output Directory)
+		self.outputdirlabel = tk.LabelFrame(self.secondframe, height = "1", width= "45", padx = "4", text = "Your selected output filename:", background = color)
+		self.outputdirlabel.pack()
+				
+		#Creates a label that informs sure which directory has been chosen
+		outdirectoryprompt = "(No Output Filename Chosen)"
+		self.outputdirchosen = tk.Label(self.outputdirlabel, height= "1", width= "37", justify=tk.LEFT, padx = "4", anchor = tk.W, font= helv14, text = outdirectoryprompt)
+		self.outputdirchosen.pack(side = tk.LEFT)
+
+		#This creates the Output Directory button.
+		self.button2 = tk.Button(self.outputdirlabel)
+		self.button2["text"]= "Select"
+		#This tells the button what to do if clicked.
+		self.button2.bind("<Button-1>", self.button2Click)
+		self.button2.pack(side = tk.LEFT)
+			
+		self.BottomSpace= tk.LabelFrame(self.myContainer1, text = "Run Program", background = color)
+		self.BottomSpace.pack()
+
+		self.button3= tk.Button(self.BottomSpace)
+		self.button3["text"] = "Process Texts"
+		self.button3.bind("<Button-1>", self.runprogram)
+		self.button3.pack()
+
+		self.progresslabelframe = tk.LabelFrame(self.BottomSpace, text= "Program Status", background = color)
+		self.progresslabelframe.pack(expand= tk.TRUE)
+		
+		self.progress= tk.Label(self.progresslabelframe, height= "1", width= "45", justify=tk.LEFT, padx = "4", anchor = tk.W, font= helv14, text=progress)
+		self.progress.pack()
+		
+		self.poll(self.progress)
+	
+	def cb_all_Click(self, event):
+		for items in self.box_list:
+			items.select()
+	
+	def cb_none_Click(self, event):
+		for items in self.box_list:
+			items.deselect()
+			
+	def instruct_mess(self, event):
+		#import tkMessageBox
+		tkinter.messagebox.showinfo("Instructions", "1. Select desired indices\n2. Choose the input folder (where your files are).\n3. Name your output file \n4. Press the 'Process Texts' button.")
+
+	def entry1Return(self,event):
+		input= self.entry1.get()
+		self.input2 = input + ".csv"
+		self.filechosenchosen.config(text = self.input2)
+		self.filechosenchosen.update_idletasks()
+	
+	def get_summary_text(self, event):
+		#import tkFileDialog
+		self.summary_name = tkinter.filedialog.askopenfilename(parent=root,title='Please select a summary text')
+		self.displaysummary_file = '.../'+self.summary_name.split('/')[-1]
+		self.summarylabelchosen.config(text = self.displaysummary_file)
+		
+	#Following is an example of how we can update the information from users...
+	def button1Click(self, event):
+		#import Tkinter, 
+		#import tkFileDialog
+		self.dirname = tkinter.filedialog.askdirectory(parent=root,initialdir="/",title='Please select a directory')
+		self.displayinputtext = '.../'+self.dirname.split('/')[-1]
+		self.inputdirchosen.config(text = self.displayinputtext)
+		
+	def button2Click(self, event):
+		#self.outdirname = tkFileDialog.askdirectory(parent=root,initialdir="/",title='Please select a directory')
+		self.outdirname = tkinter.filedialog.asksaveasfilename(parent=root, defaultextension = ".csv", initialfile = "results",title='Choose Output Filename')
+		print(self.outdirname)
+		if self.outdirname == "":
+			self.displayoutputtext = "(No Output Filename Chosen)"
+		else: self.displayoutputtext = '.../' + self.outdirname.split('/')[-1]
+		self.outputdirchosen.config(text = self.displayoutputtext)
+		
+	# def runprogram(self, event):
+	# 	self.poll(self.progress)
+	# 	start_thread(main, self.dirname, self.outdirname, self.summary_name, self.var_list, self.source_text_list)
+	
+	def runprogram(self, event):
+		self.poll(self.progress)
+		start_thread(main, self.dirname, self.outdirname, self.var_dict, True, self.summary_name) #the True here is for the GUI
+
+	def poll(self, function):
+		
+		self.myParent.after(10, self.poll, function)
+		try:
+			function.config(text = dataQueue.get(block=False))
+			
+			#root.update_idletasks()
+		except queue.Empty:
+			pass
+
+#def main(indir, outdir, source_text, var_list, source_list):			
+
+def main(indir, outdir, varDict, gui = False, source_text = False):
 	def dqMessage(gui,text):
 		if gui == True:
 			dataQueue.put(text)
@@ -182,7 +605,7 @@ def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
 			if lower == True:
 				spreadsheet = open(resource_path(spread_name),errors = "ignore").read().lower().split("\n")
 				
-			dict = {}
+			tdict = {}
 			for line in spreadsheet:
 				if line == "":
 					continue
@@ -195,9 +618,9 @@ def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
 				vars = line.split(delimiter1)[1].split(delimiter)
 				if len(vars)<2:
 					continue
-				dict[head] = vars[1:]
+				tdict[head] = vars[1:]
 			
-			return(dict)
+			return(tdict)
 
 		def dicter_2_multi(spread_names,delimiter1, delimiter, lower = False): #spread names is list of filenames
 			spreadsheet = []
@@ -223,6 +646,7 @@ def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
 				tdict[head] = vars[1:]
 			
 			return(tdict)
+
 
 		def dict_builder(database_file, number, log = "n", delimiter = "\t"): #builds dictionaries from database files
 			dict ={}
@@ -1150,9 +1574,9 @@ def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
 				header_list.append(name_suffix)
 
 		def para_split(textString):
-
+			
 			para_t = textString
-
+			
 			while "\ufeff" in para_t:
 				para_t = para_t.replace("\ufeff", "") #this deletes the BOM character that may occur at the beginning of some files
 
@@ -1179,7 +1603,7 @@ def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
 				para_t = para_t[:-1]
 			para_t = para_t.split("\n") # this is a list of strings
 			return(para_t)
-
+		
 
 		#################################################################################	
 		############################ END DEFINED FUNCTIONS###############################
@@ -2205,3 +2629,41 @@ def runTAACO(indir, outdir, varDict, gui = False, source_text = False):
 		if system == "M" and gui == True:
 			tkinter.messagebox.showinfo("Finished!", "TAACO has converted your files to numbers.\n\n Now the real work begins!")
 			
+class Catcher:
+	def __init__(self, func, subst, widget):
+		self.func = func
+		self.subst = subst
+		self.widget = widget
+
+	def __call__(self, *args):
+		try:
+			if self.subst:
+				args = apply(self.subst, args)
+			return(apply(self.func, args))
+		except(SystemExit, msg):
+			raise(SystemExit, msg)
+		except:
+			import traceback
+			import tkinter.messagebox
+			ermessage = traceback.format_exc(1)
+			ermessage = re.sub(r'.*(?=Error)', "", ermessage, flags=re.DOTALL)
+			ermessage = "There was a problem processing your files:\n\n"+ermessage
+			tkinter.messagebox.showerror("Error Message", ermessage)
+
+if __name__ == '__main__':		
+	root = tk.Tk()
+	root.wm_title("TAACO 2.1.3")
+	root.configure(background = color)
+	root.geometry(geom_size)
+	myapp = MyApp(root)
+	root.mainloop()
+
+# root = tk.Tk()
+# root.wm_title(prog_name)
+# root.configure(background = '#FFFF99')
+# #sets starting size: NOTE: it doesn't appear as though Tkinter will let you make the 
+# #starting size smaller than the space needed for widgets.
+# root.geometry(geom_size)
+# tk.CallWrapper = Catcher
+# myapp = MyApp(root)
+# root.mainloop()

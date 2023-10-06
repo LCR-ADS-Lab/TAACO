@@ -14,7 +14,7 @@ In order for TAACO to run properly, users will need to install the Spacy package
 ## Running the TAACO GUI
 To run TAACO with a graphical user interface, make sure that your working directory is the TAACO directory and run the following command in the terminal/command prompt:
 ```terminal
-python TAACO_2.1.2.py
+python TAACO_2.1.3.py
 ```
 This will open a graphical user interface that can be used to run TAACO with the desired parameters.
 
